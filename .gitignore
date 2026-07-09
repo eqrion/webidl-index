@@ -1,4 +1,4 @@
 /.cache/
-/indexer/target/
+/target/
 /web/node_modules/
 /web/dist/

@@ -1,7 +1,9 @@
 mod config;
 mod fetch;
 mod merge;
-mod model;
+mod model {
+    pub use common::model::*;
+}
 mod parse;
 mod render;
 mod search_index;
