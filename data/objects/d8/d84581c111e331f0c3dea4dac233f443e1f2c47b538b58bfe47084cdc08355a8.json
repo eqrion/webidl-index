@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ProfilerMarker","extended_attributes":[],"values":["gc","layout","paint","script","style"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"FontTableMap","extended_attributes":["RuntimeEnabled=FontAccess","SecureContext"],"members":[{"kind":"maplike","name":"","type_":"maplike<ByteString, Blob>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

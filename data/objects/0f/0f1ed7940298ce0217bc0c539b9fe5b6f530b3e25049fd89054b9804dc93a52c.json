@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozSettingsTransactionEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"error","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

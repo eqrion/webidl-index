@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRCoordinateSystem","extended_attributes":["OriginTrialEnabled=WebXR","SecureContext"],"members":[{"kind":"operation","name":"getTransformTo","type_":"Float32Array?","arguments":[{"name":"other","type_":"XRCoordinateSystem","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PrivateAttributionEncryptedMatchKey","extended_attributes":[],"fields":[{"name":"shares","type_":"record<DOMString, PrivateAttributionHelperShare>","required":false,"extended_attributes":[]}]}

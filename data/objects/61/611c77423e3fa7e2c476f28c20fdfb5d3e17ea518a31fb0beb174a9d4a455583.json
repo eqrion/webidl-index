@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AdAuctionDataConfig","extended_attributes":[],"fields":[{"name":"coordinator","type_":"AdAuctionCoordinator","required":false,"extended_attributes":[]},{"name":"seller","type_":"USVString","required":true,"extended_attributes":[]}]}

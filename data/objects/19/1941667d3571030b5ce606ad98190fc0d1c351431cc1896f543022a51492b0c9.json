@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PushSubscriptionOptions","extended_attributes":["Exposed=(Window, Worker)","Func=\"ServiceWorkersEnabled\""],"members":[{"kind":"attribute","name":"applicationServerKey","type_":"ArrayBuffer?","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject","Throws"]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayErrorContactField","extended_attributes":["Conditional=APPLE_PAY","ExportMacro=WEBCORE_EXPORT"],"values":["addressLines","administrativeArea","country","countryCode","emailAddress","locality","name","phoneNumber","phoneticName","postalAddress","postalCode","subAdministrativeArea","subLocality"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaKeyMessageEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"message","type_":"ArrayBuffer","required":false,"extended_attributes":[]},{"name":"messageType","type_":"MediaKeyMessageType","required":false,"default":"\"license-request\"","extended_attributes":[]}]}

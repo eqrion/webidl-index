@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUBlendDescriptor","extended_attributes":[],"fields":[{"name":"dstFactor","type_":"WebGPUBlendFactorEnum","required":false,"extended_attributes":[]},{"name":"operation","type_":"WebGPUBlendOperationEnum","required":false,"extended_attributes":[]},{"name":"srcFactor","type_":"WebGPUBlendFactorEnum","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLSBytes","extended_attributes":[],"fields":[{"name":"content","type_":"Uint8Array","required":true,"extended_attributes":[]},{"name":"type","type_":"MLSObjectType","required":true,"extended_attributes":[]}]}

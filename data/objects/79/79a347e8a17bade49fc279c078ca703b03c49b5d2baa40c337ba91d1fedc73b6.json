@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NavigationCommitBehavior","extended_attributes":[],"values":["after-transition","immediate"]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"HeadersGuardEnum","extended_attributes":[],"values":["immutable","none","request","request-no-cors","response"]}

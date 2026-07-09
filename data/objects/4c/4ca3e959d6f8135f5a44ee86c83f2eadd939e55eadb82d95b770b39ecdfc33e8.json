@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"InferenceSessionFetchesType","extended_attributes":[],"aliased_type":"(sequence<UTF8String> or InferenceSessionNullableTensorMapType)"}

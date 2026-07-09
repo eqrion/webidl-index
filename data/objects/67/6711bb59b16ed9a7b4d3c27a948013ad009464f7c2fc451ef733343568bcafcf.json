@@ -1,0 +1,1 @@
+{"kind":"enum","name":"EditContextEnterKeyHint","extended_attributes":[],"values":["done","enter","go","next","previous","search","send"]}

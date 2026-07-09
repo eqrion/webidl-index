@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUDeviceLostInfo","extended_attributes":["Exposed=Window","Pref=\"dom.webgpu.enabled\""],"members":[{"kind":"attribute","name":"message","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

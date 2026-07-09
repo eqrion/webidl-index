@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCOfferAnswerOptions","extended_attributes":["Conditional=WEB_RTC","EnabledBySetting=PeerConnection","ImplementedAs=RTCOfferAnswerOptions"],"fields":[{"name":"voiceActivityDetection","type_":"boolean","required":false,"default":"true","extended_attributes":[]}]}

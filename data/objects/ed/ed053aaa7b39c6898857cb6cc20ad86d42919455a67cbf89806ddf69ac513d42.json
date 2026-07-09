@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HDMIInputPort","inherits":"InputPort","extended_attributes":["AvailableIn=CertifiedApps","CheckAnyPermissions=\"inputport\"","Pref=\"dom.inputport.enabled\""],"members":[]}

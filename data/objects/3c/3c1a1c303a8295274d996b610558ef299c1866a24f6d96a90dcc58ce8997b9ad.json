@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Comment","inherits":"CharacterData","extended_attributes":["Constructor(optional DOMString data = \"\")"],"members":[]}

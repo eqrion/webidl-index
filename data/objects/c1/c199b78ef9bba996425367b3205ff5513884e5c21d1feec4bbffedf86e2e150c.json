@@ -1,0 +1,1 @@
+{"kind":"callback","name":"UnderlyingSourcePullCallback","extended_attributes":[],"return_type":"Promise<void>","arguments":[{"name":"controller","type_":"ReadableStreamController","optional":false,"variadic":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Uint32Array","inherits":"ArrayBufferView","extended_attributes":["ImplementedAs=DOMUint32Array","NoInterfaceObject"],"members":[]}

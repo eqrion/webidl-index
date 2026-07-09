@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HashChangeEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"newURL","type_":"USVString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"oldURL","type_":"USVString","required":false,"default":"\"\"","extended_attributes":[]}]}

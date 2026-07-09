@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ImageTrack","extended_attributes":["ImplementedAs=ImageTrackExternal"],"fields":[{"name":"animated","type_":"boolean","required":true,"extended_attributes":[]},{"name":"id","type_":"unsigned long","required":true,"extended_attributes":[]}]}

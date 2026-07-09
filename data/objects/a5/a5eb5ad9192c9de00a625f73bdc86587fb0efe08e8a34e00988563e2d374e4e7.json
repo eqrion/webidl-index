@@ -1,0 +1,1 @@
+{"kind":"namespace","name":"AddonManagerPermissions","extended_attributes":["ChromeOnly","Exposed=Window","HeaderFile=\"mozilla/AddonManagerWebAPI.h\""],"members":[{"kind":"operation","name":"isHostPermitted","type_":"boolean","arguments":[{"name":"host","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

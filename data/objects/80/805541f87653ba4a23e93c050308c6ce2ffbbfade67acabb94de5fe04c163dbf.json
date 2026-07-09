@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPURenderPipelineColorAttachmentDescriptor","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"members":[{"kind":"attribute","name":"pixelFormat","type_":"unsigned long","arguments":[],"modifiers":[],"extended_attributes":[]}]}

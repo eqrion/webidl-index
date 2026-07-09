@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RequestDestination","extended_attributes":[],"values":["","audio","audioworklet","dictionary","document","embed","fencedframe","font","frame","iframe","image","json","manifest","object","paintworklet","report","script","sharedworker","speculationrules","style","track","video","worker","xslt"]}

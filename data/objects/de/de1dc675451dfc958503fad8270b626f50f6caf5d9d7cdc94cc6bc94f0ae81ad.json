@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MMICall","extended_attributes":["ChromeOnly","Pref=\"dom.telephony.enabled\""],"members":[{"kind":"attribute","name":"result","type_":"Promise<MozMMIResult>","arguments":[],"modifiers":["readonly"],"extended_attributes":["Throws"]}]}

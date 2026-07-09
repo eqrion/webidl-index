@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PlaybackControlsPurpose","extended_attributes":["Conditional=VIDEO"],"values":["ControlsManager","NowPlaying"]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AdSignals","extended_attributes":[],"values":["coarse-geolocation","coarse-ua","targeting","user-ad-interests"]}

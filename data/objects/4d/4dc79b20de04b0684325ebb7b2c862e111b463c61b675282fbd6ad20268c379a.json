@@ -1,0 +1,1 @@
+{"kind":"callback","name":"TestSequenceCallback","extended_attributes":[],"return_type":"sequence<DOMString>","arguments":[{"name":"numbers","type_":"sequence<long>","optional":false,"variadic":false,"extended_attributes":[]}]}

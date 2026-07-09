@@ -1,0 +1,1 @@
+{"kind":"callback_interface","name":"EntryCallback","extended_attributes":["Conditional=FILE_SYSTEM"],"members":[{"kind":"operation","name":"handleEvent","type_":"boolean","arguments":[{"name":"entry","type_":"Entry","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

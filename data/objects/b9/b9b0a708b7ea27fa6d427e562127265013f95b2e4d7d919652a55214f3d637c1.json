@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SystemUpdateProviderInfo","extended_attributes":[],"fields":[{"name":"name","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"uuid","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

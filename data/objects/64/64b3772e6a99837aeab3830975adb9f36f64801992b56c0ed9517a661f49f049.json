@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCDegradationPreference","extended_attributes":["Conditional=WEB_RTC"],"values":["balanced","maintain-framerate","maintain-resolution"]}

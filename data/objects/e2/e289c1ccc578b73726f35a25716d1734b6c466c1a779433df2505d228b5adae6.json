@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ElementInternals","extended_attributes":["Exposed=Window","Pref=\"dom.webcomponents.elementInternals.enabled\""],"members":[{"kind":"attribute","name":"shadowRoot","type_":"ShadowRoot?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

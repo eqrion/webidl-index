@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUBlendComponent","extended_attributes":[],"fields":[{"name":"dstFactor","type_":"GPUBlendFactor","required":false,"extended_attributes":[]},{"name":"operation","type_":"GPUBlendOperation","required":false,"extended_attributes":[]},{"name":"srcFactor","type_":"GPUBlendFactor","required":false,"extended_attributes":[]}]}

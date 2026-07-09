@@ -1,0 +1,1 @@
+{"kind":"enum","name":"USBTransferStatus","extended_attributes":[],"values":["babble","ok","stall"]}

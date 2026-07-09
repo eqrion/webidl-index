@@ -1,0 +1,1 @@
+{"kind":"enum","name":"HIDUnitSystem","extended_attributes":[],"values":["english-linear","english-rotation","none","reserved","si-linear","si-rotation","vendor-defined"]}

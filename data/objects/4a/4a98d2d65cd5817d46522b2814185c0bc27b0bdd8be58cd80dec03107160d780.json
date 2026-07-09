@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUError","extended_attributes":["Exposed=(Window, Worker)","Func=\"mozilla::webgpu::Instance::PrefEnabled\"","SecureContext"],"members":[{"kind":"attribute","name":"message","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

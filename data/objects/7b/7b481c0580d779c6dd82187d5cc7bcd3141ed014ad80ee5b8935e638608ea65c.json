@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CryptoAesKeyAlgorithm","inherits":"CryptoKeyAlgorithm","extended_attributes":["JSGenerateToJSObject"],"fields":[{"name":"length","type_":"unsigned short","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BeaconOptions","extended_attributes":["RuntimeEnabled=PendingBeaconAPI"],"fields":[{"name":"method","type_":"BeaconMethod","required":false,"default":"\"POST\"","extended_attributes":[]},{"name":"pageHideTimeout","type_":"long","required":false,"default":"-1","extended_attributes":[]}]}

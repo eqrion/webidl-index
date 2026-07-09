@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PaymentMethodChangeEventInit","inherits":"PaymentRequestUpdateEventInit","extended_attributes":[],"fields":[{"name":"methodDetails","type_":"object?","required":false,"extended_attributes":[]},{"name":"methodName","type_":"DOMString","required":true,"extended_attributes":[]}]}

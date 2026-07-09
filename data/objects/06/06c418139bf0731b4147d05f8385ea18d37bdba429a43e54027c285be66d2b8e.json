@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ProfilerInitOptions","extended_attributes":[],"fields":[{"name":"maxBufferSize","type_":"unsigned long","required":true,"extended_attributes":[]},{"name":"sampleInterval","type_":"DOMHighResTimeStamp","required":true,"extended_attributes":[]}]}

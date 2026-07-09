@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebKitCSSFilterRule","inherits":"CSSRule","extended_attributes":["Conditional=CSS_SHADERS"],"members":[{"kind":"attribute","name":"style","type_":"CSSStyleDeclaration","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

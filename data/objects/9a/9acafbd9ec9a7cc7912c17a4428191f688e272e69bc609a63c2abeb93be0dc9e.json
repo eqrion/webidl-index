@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TaskPriorityChangeEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"previousPriority","type_":"TaskPriority","required":true,"extended_attributes":[]}]}

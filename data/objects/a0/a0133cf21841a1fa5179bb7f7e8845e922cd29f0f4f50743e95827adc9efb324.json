@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CSSMathOperator","extended_attributes":[],"values":["invert","max","min","negate","product","sum"]}

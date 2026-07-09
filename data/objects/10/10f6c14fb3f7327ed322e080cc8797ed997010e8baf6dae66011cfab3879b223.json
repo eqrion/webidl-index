@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ImageSize","extended_attributes":[],"fields":[{"name":"height","type_":"unsigned long","required":true,"extended_attributes":[]},{"name":"width","type_":"unsigned long","required":true,"extended_attributes":[]}]}

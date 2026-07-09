@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AudioWorklet","inherits":"Worklet","extended_attributes":["Exposed=Window","Pref=\"dom.audioworklet.enabled\"","SecureContext"],"members":[]}

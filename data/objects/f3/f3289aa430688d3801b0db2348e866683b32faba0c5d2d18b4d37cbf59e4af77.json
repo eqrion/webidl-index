@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RemoteDesktopClientOverride","extended_attributes":[],"fields":[{"name":"origin","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"sameOriginWithAncestors","type_":"boolean","required":true,"extended_attributes":[]}]}

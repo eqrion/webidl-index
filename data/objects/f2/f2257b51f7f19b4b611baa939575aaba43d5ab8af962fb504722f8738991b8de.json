@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PerformanceMeasure","inherits":"PerformanceEntry","extended_attributes":["Exposed=(Window, Worker)"],"members":[]}

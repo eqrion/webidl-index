@@ -1,0 +1,1 @@
+{"kind":"callback_interface","name":"VoidCallback","extended_attributes":[],"members":[{"kind":"operation","name":"handleEvent","type_":"void","arguments":[],"modifiers":[],"extended_attributes":[]}]}

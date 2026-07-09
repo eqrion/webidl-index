@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NativeIOReadResult","extended_attributes":[],"fields":[{"name":"buffer","type_":"ArrayBufferView","required":false,"extended_attributes":[]},{"name":"readBytes","type_":"unsigned long long","required":false,"extended_attributes":[]}]}

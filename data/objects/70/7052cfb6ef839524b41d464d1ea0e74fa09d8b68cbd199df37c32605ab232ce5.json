@@ -1,0 +1,1 @@
+{"kind":"enum","name":"LockMode","extended_attributes":[],"values":["exclusive","shared"]}

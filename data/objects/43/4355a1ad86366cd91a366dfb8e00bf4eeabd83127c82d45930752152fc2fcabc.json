@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RedEyeReduction","extended_attributes":["Conditional=MEDIA_STREAM"],"values":["always","controllable","never"]}

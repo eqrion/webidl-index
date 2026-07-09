@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SpeechSynthesisErrorEvent","inherits":"SpeechSynthesisEvent","extended_attributes":["Constructor(DOMString type, SpeechSynthesisErrorEventInit eventInitDict)","Pref=\"media.webspeech.synth.enabled\""],"members":[{"kind":"attribute","name":"error","type_":"SpeechSynthesisErrorCode","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

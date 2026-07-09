@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ParentSHistory","extended_attributes":["ChromeOnly"],"members":[{"kind":"attribute","name":"count","type_":"long","arguments":[],"modifiers":["readonly"],"extended_attributes":["Pure"]},{"kind":"attribute","name":"index","type_":"long","arguments":[],"modifiers":["readonly"],"extended_attributes":["Pure"]}]}

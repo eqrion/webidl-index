@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ChannelMergerNode","inherits":"AudioNode","extended_attributes":["Constructor(BaseAudioContext context, optional ChannelMergerOptions options)","Measure","RaisesException=Constructor"],"members":[]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCPriorityType","extended_attributes":["Conditional=WEB_RTC","EnabledBySetting=PeerConnectionEnabled"],"values":["high","low","medium","very-low"]}

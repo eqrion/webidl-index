@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DocumentTransitionConfig","extended_attributes":[],"fields":[{"name":"delay","type_":"DOMTimeStamp","required":false,"extended_attributes":[]},{"name":"duration","type_":"DOMTimeStamp","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRReferenceSpaceEventInit","inherits":"EventInit","extended_attributes":["Conditional=WEBXR","EnabledBySetting=WebXREnabled"],"fields":[{"name":"referenceSpace","type_":"WebXRReferenceSpace","required":true,"extended_attributes":[]},{"name":"transform","type_":"WebXRRigidTransform?","required":false,"extended_attributes":[]}]}

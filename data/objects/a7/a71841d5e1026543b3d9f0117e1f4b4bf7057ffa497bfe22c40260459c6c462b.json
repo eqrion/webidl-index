@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ChromeWorker","inherits":"Worker","extended_attributes":["Constructor(DOMString scriptURL)","Exposed=(Window, DedicatedWorker, SharedWorker, System)","Func=\"mozilla::dom::workers::ChromeWorkerPrivate::WorkerAvailable\""],"members":[]}

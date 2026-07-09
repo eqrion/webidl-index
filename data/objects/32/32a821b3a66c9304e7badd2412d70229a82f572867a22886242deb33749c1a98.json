@@ -1,0 +1,1 @@
+{"kind":"enum","name":"DecoderDoctorNotificationType","extended_attributes":[],"values":["can-play-but-some-missing-decoders","cannot-play","platform-decoder-not-found","unsupported-libavcodec"]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AudioPlaybackDestination","extended_attributes":[],"values":["controller","receiver"]}

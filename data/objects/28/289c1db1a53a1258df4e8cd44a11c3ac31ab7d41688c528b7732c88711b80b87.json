@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebTransportReceiveStream","inherits":"ReadableStream","extended_attributes":["Exposed=(Window, Worker)","RuntimeEnabled=WebTransportReceiveStream","SecureContext"],"members":[{"kind":"operation","name":"getStats","type_":"Promise<WebTransportReceiveStreamStats>","arguments":[],"modifiers":[],"extended_attributes":["CallWith=ScriptState"]}]}

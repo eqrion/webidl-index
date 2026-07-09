@@ -1,0 +1,1 @@
+{"kind":"enum","name":"FetchRequestCredentials","extended_attributes":[],"values":["include","omit","same-origin"]}

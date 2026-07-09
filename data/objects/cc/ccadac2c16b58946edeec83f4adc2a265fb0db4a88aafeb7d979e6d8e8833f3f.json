@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DataView","inherits":"ArrayBufferView","extended_attributes":["ImplementedAs=DOMDataView"],"members":[]}

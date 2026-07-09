@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ResizeQuality","extended_attributes":[],"values":["high","low","medium","pixelated"]}

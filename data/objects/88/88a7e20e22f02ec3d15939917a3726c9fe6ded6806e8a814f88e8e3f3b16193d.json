@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPU","extended_attributes":["Pref=\"dom.webgpu.enable\""],"members":[{"kind":"operation","name":"getAdapter","type_":"WebGPUAdapter","arguments":[{"name":"desc","type_":"WebGPUAdapterDescriptor","optional":true,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

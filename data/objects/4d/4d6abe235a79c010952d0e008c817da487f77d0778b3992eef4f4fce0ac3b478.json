@@ -1,0 +1,1 @@
+{"kind":"enum","name":"LlamaSamplerType","extended_attributes":[],"values":["dist","dry","infill","logit-bias","min-p","mirostat","penalties","temperature","temperature-ext","top-k","top-n-sigma","top-p","typical","xtc"]}

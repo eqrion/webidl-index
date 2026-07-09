@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PopupPositionedEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"alignmentOffset","type_":"long","required":false,"default":"0","extended_attributes":[]},{"name":"alignmentPosition","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

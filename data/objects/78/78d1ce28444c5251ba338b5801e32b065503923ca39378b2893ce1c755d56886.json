@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozStkDuration","extended_attributes":[],"fields":[{"name":"timeInterval","type_":"octet","required":false,"extended_attributes":[]},{"name":"timeUnit","type_":"unsigned short","required":false,"extended_attributes":[]}]}

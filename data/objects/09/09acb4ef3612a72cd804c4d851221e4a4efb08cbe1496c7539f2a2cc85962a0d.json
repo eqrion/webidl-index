@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGViewElement","inherits":"SVGElement","extended_attributes":[],"members":[{"kind":"attribute","name":"viewTarget","type_":"SVGStringList","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]}]}

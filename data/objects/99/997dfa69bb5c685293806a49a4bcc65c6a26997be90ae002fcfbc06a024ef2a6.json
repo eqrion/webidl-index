@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUStorageTextureAccess","extended_attributes":["EnabledBySetting=WebGPU"],"values":["write-only"]}

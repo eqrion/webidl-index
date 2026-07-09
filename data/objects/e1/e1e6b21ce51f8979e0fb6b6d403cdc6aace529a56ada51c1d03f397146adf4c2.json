@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCPeerConnectionIceEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional RTCPeerConnectionIceEventInit eventInitDict = {})","Pref=\"media.peerconnection.enabled\""],"members":[{"kind":"attribute","name":"candidate","type_":"RTCIceCandidate?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

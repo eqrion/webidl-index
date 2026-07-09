@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaKeyStatus","extended_attributes":[],"values":["expired","internal-error","output-downscaled","output-restricted","released","status-pending","usable"]}

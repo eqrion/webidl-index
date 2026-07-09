@@ -1,0 +1,1 @@
+{"kind":"interface","name":"mozRTCPeerConnection","inherits":"RTCPeerConnection","extended_attributes":["Constructor(optional RTCConfiguration configuration = {}, optional object? constraints)","Deprecated=\"WebrtcDeprecatedPrefix\"","JSImplementation=\"@mozilla.org/dom/peerconnection;1\"","Pref=\"media.peerconnection.enabled\""],"members":[]}

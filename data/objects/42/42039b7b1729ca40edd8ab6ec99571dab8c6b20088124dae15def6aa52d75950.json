@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGLLoseContext","extended_attributes":["LegacyNoInterfaceObject"],"members":[{"kind":"operation","name":"loseContext","type_":"void","arguments":[],"modifiers":[],"extended_attributes":[]},{"kind":"operation","name":"restoreContext","type_":"void","arguments":[],"modifiers":[],"extended_attributes":[]}]}

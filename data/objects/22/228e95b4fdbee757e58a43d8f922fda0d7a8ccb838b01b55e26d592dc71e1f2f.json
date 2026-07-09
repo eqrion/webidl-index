@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HmacKeyAlgorithm","inherits":"KeyAlgorithm","extended_attributes":[],"fields":[{"name":"hash","type_":"KeyAlgorithm","required":true,"extended_attributes":[]},{"name":"length","type_":"unsigned long","required":true,"extended_attributes":[]}]}

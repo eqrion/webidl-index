@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NFCTechType","extended_attributes":[],"values":["ISO-DEP","MIFARE-Classic","MIFARE-Ultralight","NFC-A","NFC-B","NFC-Barcode","NFC-F","NFC-V","Unknown"]}

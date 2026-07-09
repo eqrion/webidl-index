@@ -1,0 +1,1 @@
+{"kind":"callback_interface","name":"StorageErrorCallback","extended_attributes":["Callback=FunctionOnly","Conditional=QUOTA"],"members":[{"kind":"operation","name":"handleEvent","type_":"boolean","arguments":[{"name":"error","type_":"DOMCoreException","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

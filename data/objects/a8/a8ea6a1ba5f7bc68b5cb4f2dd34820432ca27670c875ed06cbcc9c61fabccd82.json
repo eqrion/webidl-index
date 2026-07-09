@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PressureFactor","extended_attributes":[],"values":["power-supply","thermal"]}

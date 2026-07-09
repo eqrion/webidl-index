@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUDepthStencilState","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"members":[{"kind":"attribute","name":"label","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SmsSendParameters","extended_attributes":[],"fields":[{"name":"serviceId","type_":"unsigned long","required":false,"extended_attributes":[]}]}

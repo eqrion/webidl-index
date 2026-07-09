@@ -1,0 +1,1 @@
+{"kind":"callback","name":"CreateScriptCallback","extended_attributes":[],"return_type":"DOMString?","arguments":[{"name":"input","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]},{"name":"args","type_":"any","optional":false,"variadic":true,"extended_attributes":[]}]}

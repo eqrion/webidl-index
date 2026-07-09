@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BackgroundFetchSettledEventInit","inherits":"BackgroundFetchEventInit","extended_attributes":[],"fields":[{"name":"fetches","type_":"BackgroundFetchSettledFetches","required":true,"extended_attributes":[]}]}

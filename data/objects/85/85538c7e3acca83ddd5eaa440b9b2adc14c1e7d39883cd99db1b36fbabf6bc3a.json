@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MIDIPortDeviceState","extended_attributes":[],"values":["connected","disconnected"]}

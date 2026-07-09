@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPU","extended_attributes":["EnabledBySetting=WebGPU","Exposed=(Window)","SecureContext"],"members":[{"kind":"operation","name":"requestAdapter","type_":"Promise<GPUAdapter?>","arguments":[{"name":"options","type_":"GPURequestAdapterOptions","optional":true,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TextMetrics","extended_attributes":["ImplementationLacksVTable"],"members":[{"kind":"attribute","name":"width","type_":"float","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WindowSessionStorage","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"sessionStorage","type_":"Storage?","arguments":[],"modifiers":["readonly"],"extended_attributes":["Throws"]}]}

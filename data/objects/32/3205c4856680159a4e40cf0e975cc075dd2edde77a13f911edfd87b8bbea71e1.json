@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AttributionReportingRequestOptions","extended_attributes":[],"fields":[{"name":"eventSourceEligible","type_":"boolean","required":true,"extended_attributes":[]},{"name":"triggerEligible","type_":"boolean","required":true,"extended_attributes":[]}]}

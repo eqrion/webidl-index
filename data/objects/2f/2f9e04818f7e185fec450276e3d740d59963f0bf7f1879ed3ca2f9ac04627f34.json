@@ -1,0 +1,1 @@
+{"kind":"callback","name":"CustomElementFormStateRestoreCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"value","type_":"ControlValue","optional":false,"variadic":false,"extended_attributes":[]},{"name":"mode","type_":"FormStateRestoreMode","optional":false,"variadic":false,"extended_attributes":[]}]}

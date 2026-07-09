@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGLContextEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional WebGLContextEventInit eventInit)"],"members":[{"kind":"attribute","name":"statusMessage","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

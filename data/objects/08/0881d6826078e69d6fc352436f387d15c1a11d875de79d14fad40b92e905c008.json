@@ -1,0 +1,1 @@
+{"kind":"callback","name":"CreateParserOptionsCallback","extended_attributes":[],"return_type":"any","arguments":[{"name":"input","type_":"SetHTMLUnsafeOptions","optional":false,"variadic":false,"extended_attributes":[]}]}

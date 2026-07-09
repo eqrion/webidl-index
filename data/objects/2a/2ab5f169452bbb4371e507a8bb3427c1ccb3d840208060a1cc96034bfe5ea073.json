@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TestInterfaceIterableSingle","extended_attributes":["Constructor()","Pref=\"dom.expose_test_interfaces\""],"members":[{"kind":"iterable","name":"","type_":"iterable<long>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

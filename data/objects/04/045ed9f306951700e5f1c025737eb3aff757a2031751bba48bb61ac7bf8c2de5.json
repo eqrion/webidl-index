@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MozMmsEvent","inherits":"Event","extended_attributes":["AvailableIn=\"CertifiedApps\"","CheckAnyPermissions=\"sms\"","Constructor(DOMString type, optional MozMmsEventInit eventInitDict)","Pref=\"dom.sms.enabled\""],"members":[{"kind":"attribute","name":"message","type_":"MmsMessage?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

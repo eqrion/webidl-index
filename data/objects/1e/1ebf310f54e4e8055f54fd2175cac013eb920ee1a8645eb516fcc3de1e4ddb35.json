@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AppHistoryCurrentChangeEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"from","type_":"AppHistoryEntry","required":true,"extended_attributes":[]},{"name":"navigationType","type_":"AppHistoryNavigationType?","required":false,"default":"null","extended_attributes":[]}]}

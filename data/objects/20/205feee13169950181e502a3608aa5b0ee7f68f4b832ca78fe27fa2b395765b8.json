@@ -1,0 +1,1 @@
+{"kind":"callback","name":"FileSystemEntriesCallback","extended_attributes":["GenerateIsReachable=ImplScriptExecutionContext"],"return_type":"undefined","arguments":[{"name":"entries","type_":"sequence<FileSystemEntry>","optional":false,"variadic":false,"extended_attributes":[]}]}

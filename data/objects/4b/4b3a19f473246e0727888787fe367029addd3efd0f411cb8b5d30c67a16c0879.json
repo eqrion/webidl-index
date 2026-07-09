@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NativeOSFileReadOptions","extended_attributes":[],"fields":[{"name":"bytes","type_":"unsigned long long?","required":false,"extended_attributes":[]},{"name":"encoding","type_":"DOMString?","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLLIElement","inherits":"HTMLElement","extended_attributes":[],"members":[{"kind":"attribute","name":"type","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":["SetterThrows","Pure"]},{"kind":"attribute","name":"value","type_":"long","arguments":[],"modifiers":[],"extended_attributes":["SetterThrows","Pure"]}]}

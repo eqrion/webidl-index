@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCDTMFToneChangeEvent","inherits":"Event","extended_attributes":["Conditional=MEDIA_STREAM","ConstructorTemplate=Event","NoInterfaceObject"],"members":[{"kind":"attribute","name":"tone","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":["InitializedByEventConstructor"]}]}

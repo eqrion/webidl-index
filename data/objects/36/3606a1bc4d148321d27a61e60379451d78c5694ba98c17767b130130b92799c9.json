@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ColorSpaceConversion","extended_attributes":[],"values":["default","linear-rgb","none","p3","rec2020","srgb"]}

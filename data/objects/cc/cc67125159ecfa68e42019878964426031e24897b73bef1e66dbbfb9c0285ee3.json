@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PermissionName","extended_attributes":[],"values":["accelerometer","background-fetch","bluetooth","camera","display-capture","geolocation","gyroscope","magnetometer","microphone","midi","nfc","notifications","push","screen-wake-lock","speaker-selection"]}

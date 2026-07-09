@@ -1,0 +1,1 @@
+{"kind":"interface","name":"UndoManager","extended_attributes":["EnabledBySetting=UndoManagerAPIEnabled","Exposed=Window","GenerateIsReachable=ImplDocument"],"members":[{"kind":"operation","name":"addItem","type_":"undefined","arguments":[{"name":"item","type_":"UndoItem","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

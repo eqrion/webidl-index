@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HandwritingRecognizerQueryResult","extended_attributes":[],"fields":[{"name":"hints","type_":"HandwritingHintsQueryResult","required":false,"extended_attributes":[]},{"name":"textAlternatives","type_":"boolean","required":false,"extended_attributes":[]},{"name":"textSegmentation","type_":"boolean","required":false,"extended_attributes":[]}]}

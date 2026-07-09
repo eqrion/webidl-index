@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebTransportOptions","extended_attributes":[],"fields":[{"name":"serverCertificateHashes","type_":"sequence<WebTransportHash>","required":false,"extended_attributes":["RuntimeEnabled=WebTransportCustomCertificates"]}]}

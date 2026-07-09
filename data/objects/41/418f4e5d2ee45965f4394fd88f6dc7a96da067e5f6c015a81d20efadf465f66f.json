@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GleanMetric","extended_attributes":["Exposed=Window","Func=\"nsGlobalWindowInner::IsGleanNeeded\""],"members":[]}

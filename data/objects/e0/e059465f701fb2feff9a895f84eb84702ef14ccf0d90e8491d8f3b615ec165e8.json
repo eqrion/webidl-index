@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TextDecoderOptions","extended_attributes":[],"fields":[{"name":"fatal","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"ignoreBOM","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

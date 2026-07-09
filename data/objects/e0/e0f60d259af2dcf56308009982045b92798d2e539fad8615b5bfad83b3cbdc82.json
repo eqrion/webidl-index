@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaEncodingType","extended_attributes":[],"values":["record","transmission","webrtc"]}

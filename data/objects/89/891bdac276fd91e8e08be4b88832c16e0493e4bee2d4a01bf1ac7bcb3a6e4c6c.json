@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUPrimitiveTopology","extended_attributes":["ImplementedAs=GPUPrimitiveTopology"],"values":["line-list","line-strip","point-list","triangle-list","triangle-strip"]}

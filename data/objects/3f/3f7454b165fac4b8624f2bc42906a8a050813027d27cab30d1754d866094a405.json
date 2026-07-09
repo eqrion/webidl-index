@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozNFCTagEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"ndefRecords","type_":"sequence<MozNDEFRecord>?","required":false,"default":"[]","extended_attributes":[]},{"name":"tag","type_":"MozNFCTag?","required":false,"default":"null","extended_attributes":[]}]}

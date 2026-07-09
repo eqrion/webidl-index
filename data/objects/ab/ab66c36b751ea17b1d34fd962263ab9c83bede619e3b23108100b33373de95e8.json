@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLDetailsElement","inherits":"HTMLElement","extended_attributes":["Pref=\"dom.details_element.enabled\""],"members":[{"kind":"attribute","name":"open","type_":"boolean","arguments":[],"modifiers":[],"extended_attributes":["SetterThrows"]}]}

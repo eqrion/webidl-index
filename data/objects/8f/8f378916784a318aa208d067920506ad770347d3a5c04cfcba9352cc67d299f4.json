@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CountQueuingStrategy","extended_attributes":["Conditional=STREAMS_API","Constructor","Exposed=(Window, Worker)","JSBuiltin"],"members":[{"kind":"operation","name":"size","type_":"double","arguments":[],"modifiers":[],"extended_attributes":[]}]}

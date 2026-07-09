@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ServiceWorkerUpdateViaCache","extended_attributes":["RuntimeEnabled=ServiceWorkerUpdateViaCache"],"values":["all","imports","none"]}

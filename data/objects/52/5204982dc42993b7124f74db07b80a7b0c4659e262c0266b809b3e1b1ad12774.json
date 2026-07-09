@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"Accelerator","extended_attributes":[],"fields":[{"name":"keyCode","type_":"unsigned short","required":false,"extended_attributes":[]},{"name":"modifiers","type_":"long","required":false,"extended_attributes":[]}]}

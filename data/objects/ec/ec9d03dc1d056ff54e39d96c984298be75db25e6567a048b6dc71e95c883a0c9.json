@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HiddenPluginEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"tag","type_":"PluginTag?","required":false,"default":"null","extended_attributes":[]}]}

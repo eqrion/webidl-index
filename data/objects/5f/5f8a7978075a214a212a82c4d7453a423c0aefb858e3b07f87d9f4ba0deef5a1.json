@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"GPURenderPassTimestampWrites","extended_attributes":[],"aliased_type":"sequence<GPURenderPassTimestampWrite>"}

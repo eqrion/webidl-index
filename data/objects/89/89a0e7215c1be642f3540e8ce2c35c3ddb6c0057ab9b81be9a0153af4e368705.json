@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BackgroundFetchUIOptions","extended_attributes":["Conditional=SERVICE_WORKER"],"fields":[{"name":"icons","type_":"sequence<ImageResource>","required":false,"extended_attributes":[]},{"name":"title","type_":"DOMString","required":false,"extended_attributes":[]}]}

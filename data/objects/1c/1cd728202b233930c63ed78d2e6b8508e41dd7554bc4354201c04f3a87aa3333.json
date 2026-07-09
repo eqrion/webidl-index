@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PeriodicWaveConstraints","extended_attributes":[],"fields":[{"name":"disableNormalization","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

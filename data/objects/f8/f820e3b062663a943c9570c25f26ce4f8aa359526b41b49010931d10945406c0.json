@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FederatedIdentityProvider","extended_attributes":[],"fields":[{"name":"clientId","type_":"USVString","required":true,"extended_attributes":[]},{"name":"hint","type_":"USVString","required":false,"extended_attributes":[]},{"name":"url","type_":"USVString","required":true,"extended_attributes":[]}]}

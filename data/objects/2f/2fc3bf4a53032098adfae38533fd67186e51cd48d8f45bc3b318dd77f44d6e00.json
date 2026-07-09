@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUBufferDescriptor","extended_attributes":[],"fields":[{"name":"size","type_":"GPUSize64","required":true,"extended_attributes":[]},{"name":"usage","type_":"GPUBufferUsageFlags","required":true,"extended_attributes":[]}]}

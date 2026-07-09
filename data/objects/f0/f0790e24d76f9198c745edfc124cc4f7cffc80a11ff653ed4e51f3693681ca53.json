@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AutocompleteErrorEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"reason","type_":"AutoCompleteErrorReason","required":false,"default":"\"\"","extended_attributes":[]}]}

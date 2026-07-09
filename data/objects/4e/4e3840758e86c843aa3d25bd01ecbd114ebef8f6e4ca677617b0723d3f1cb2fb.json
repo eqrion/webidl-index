@@ -1,0 +1,1 @@
+{"kind":"enum","name":"LatencyMode","extended_attributes":[],"values":["quality","realtime"]}

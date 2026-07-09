@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGAnimatedNumber","extended_attributes":[],"members":[{"kind":"attribute","name":"animVal","type_":"float","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"baseVal","type_":"float","arguments":[],"modifiers":[],"extended_attributes":["RaisesException=Setter"]}]}

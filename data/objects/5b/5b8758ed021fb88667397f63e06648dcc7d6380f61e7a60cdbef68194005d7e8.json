@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRSpace","inherits":"EventTarget","extended_attributes":["Conditional=WEBXR","CustomToJSObject","EnabledBySetting=WebXREnabled","Exposed=Window","SecureContext"],"members":[]}

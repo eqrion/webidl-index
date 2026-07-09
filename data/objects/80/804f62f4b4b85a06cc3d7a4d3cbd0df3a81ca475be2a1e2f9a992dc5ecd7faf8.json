@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NavigatorUserMediaError","inherits":"DOMError","extended_attributes":["Conditional=MEDIA_STREAM","JSGenerateToJSObject","NoInterfaceObject"],"members":[{"kind":"attribute","name":"constraintName","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

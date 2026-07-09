@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLShadowElement","inherits":"HTMLElement","extended_attributes":["Func=\"nsDocument::IsWebComponentsEnabled\""],"members":[{"kind":"attribute","name":"olderShadowRoot","type_":"ShadowRoot?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

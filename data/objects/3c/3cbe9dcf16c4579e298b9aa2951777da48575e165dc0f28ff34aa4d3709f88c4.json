@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaSourceEnum","extended_attributes":[],"values":["application","audioCapture","browser","camera","microphone","other","screen","window"]}

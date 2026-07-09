@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HttpConnDict","extended_attributes":[],"fields":[{"name":"connections","type_":"sequence<HttpConnectionElement>","required":false,"extended_attributes":[]}]}

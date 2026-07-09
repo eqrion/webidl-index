@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"APZTestData","extended_attributes":[],"fields":[{"name":"hitResults","type_":"sequence<APZHitResult>","required":false,"extended_attributes":[]},{"name":"paints","type_":"sequence<APZBucket>","required":false,"extended_attributes":[]},{"name":"repaintRequests","type_":"sequence<APZBucket>","required":false,"extended_attributes":[]}]}

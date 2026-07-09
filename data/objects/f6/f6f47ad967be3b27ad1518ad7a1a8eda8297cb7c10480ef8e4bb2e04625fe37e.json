@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"VRDisplayEventInit","inherits":"EventInit","extended_attributes":["EnabledAtRuntime=WebVR"],"fields":[{"name":"display","type_":"VRDisplay","required":true,"extended_attributes":[]},{"name":"reason","type_":"VRDisplayEventReason","required":false,"extended_attributes":[]}]}

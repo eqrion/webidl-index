@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GamepadEvent","inherits":"Event","extended_attributes":["Conditional=GAMEPAD","Constructor(DOMString type, GamepadEventInit eventInitDict)","EnabledAtRuntime=Gamepads"],"members":[{"kind":"attribute","name":"gamepad","type_":"Gamepad?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

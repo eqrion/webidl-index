@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUValidationError","extended_attributes":["Constructor(DOMString message)","Exposed(Window WebGPU, Worker WebGPU)"],"members":[{"kind":"attribute","name":"message","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

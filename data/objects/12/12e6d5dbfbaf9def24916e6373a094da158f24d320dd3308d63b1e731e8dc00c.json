@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ImageCaptureErrorEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional ImageCaptureErrorEventInit imageCaptureErrorInitDict)","Pref=\"dom.imagecapture.enabled\""],"members":[{"kind":"attribute","name":"imageCaptureError","type_":"ImageCaptureError?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

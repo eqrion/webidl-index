@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SpeechSynthesisGetter","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"speechSynthesis","type_":"SpeechSynthesis","arguments":[],"modifiers":["readonly"],"extended_attributes":["Throws","Pref=\"media.webspeech.synth.enabled\""]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GamepadEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional GamepadEventInit eventInitDict)","Pref=\"dom.gamepad.enabled\""],"members":[{"kind":"attribute","name":"gamepad","type_":"Gamepad?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MIDIPortConnectionState","extended_attributes":[],"values":["closed","open","pending"]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CaretChangedReason","extended_attributes":[],"values":["longpressonemptycontent","presscaret","releasecaret","taponcaret","updateposition","visibilitychange"]}

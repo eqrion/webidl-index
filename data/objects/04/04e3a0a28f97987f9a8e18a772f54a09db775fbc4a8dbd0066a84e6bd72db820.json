@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AnimationEffectReadOnly","extended_attributes":["Conditional=WEB_ANIMATIONS","EnabledAtRuntime=WebAnimations","SkipVTableValidation"],"members":[]}

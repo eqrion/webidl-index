@@ -1,0 +1,1 @@
+{"kind":"callback","name":"StorageQuotaCallback","extended_attributes":["Conditional=QUOTA"],"return_type":"void","arguments":[{"name":"grantedQuotaInBytes","type_":"unsigned long long","optional":false,"variadic":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"LockedMode","extended_attributes":["RuntimeEnabled=LockedMode","SecureContext"],"members":[]}

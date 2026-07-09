@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCDTMFToneChangeEventInit","inherits":"EventInit","extended_attributes":["Conditional=WEB_RTC","EnabledAtRuntime=PeerConnection"],"fields":[{"name":"tone","type_":"DOMString","required":false,"extended_attributes":[]}]}

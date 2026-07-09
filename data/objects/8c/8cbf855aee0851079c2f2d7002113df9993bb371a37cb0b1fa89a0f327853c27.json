@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"ClipboardItemData","extended_attributes":[],"aliased_type":"Promise<(DOMString or Blob)>"}

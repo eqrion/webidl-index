@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MessageChannel","extended_attributes":["Constructor","Exposed=(Window, Worker)"],"members":[{"kind":"attribute","name":"port1","type_":"MessagePort","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"port2","type_":"MessagePort","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

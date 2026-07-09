@@ -1,0 +1,1 @@
+{"kind":"enum","name":"OrientationType","extended_attributes":[],"values":["landscape-primary","landscape-secondary","portrait-primary","portrait-secondary"]}

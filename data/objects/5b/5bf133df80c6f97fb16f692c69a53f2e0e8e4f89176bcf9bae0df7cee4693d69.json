@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"LanguageDetectorCreateCoreOptions","extended_attributes":[],"fields":[{"name":"expectedInputLanguages","type_":"sequence<DOMString>","required":false,"extended_attributes":[]}]}

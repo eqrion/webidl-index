@@ -1,0 +1,1 @@
+{"kind":"enum","name":"XRSessionMode","extended_attributes":[],"values":["immersive-ar","immersive-vr","inline","legacy-inline-ar"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DOMStringMap","extended_attributes":["CustomDeleteProperty","CustomEnumerateProperty","CustomNamedSetter","GenerateIsReachable=ImplElementRoot","JSCustomGetOwnPropertySlotAndDescriptor","SkipVTableValidation"],"members":[]}

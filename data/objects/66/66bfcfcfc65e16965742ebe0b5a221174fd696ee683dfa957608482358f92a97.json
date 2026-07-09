@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCEncodedVideoFrameOptions","extended_attributes":[],"fields":[{"name":"metadata","type_":"RTCEncodedVideoFrameMetadata","required":false,"extended_attributes":[]}]}

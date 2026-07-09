@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGURIReference","extended_attributes":["NoInterfaceObject","SuppressToJSObject"],"members":[{"kind":"attribute","name":"href","type_":"SVGAnimatedString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ServerSocketOptions","extended_attributes":[],"fields":[{"name":"binaryType","type_":"TCPSocketBinaryType","required":false,"default":"\"string\"","extended_attributes":[]}]}

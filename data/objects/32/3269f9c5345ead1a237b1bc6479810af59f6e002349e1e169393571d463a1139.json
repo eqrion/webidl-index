@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NotificationPermission","extended_attributes":["Conditional=NOTIFICATIONS","EnabledBySetting=NotificationsEnabled"],"values":["default","denied","granted"]}

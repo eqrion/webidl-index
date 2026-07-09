@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayRecurringPaymentDateUnit","extended_attributes":["Conditional=APPLE_PAY_RECURRING_LINE_ITEM"],"values":["day","hour","minute","month","year"]}

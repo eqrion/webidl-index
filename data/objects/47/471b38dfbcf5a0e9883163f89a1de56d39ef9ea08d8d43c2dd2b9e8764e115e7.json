@@ -1,0 +1,1 @@
+{"kind":"callback","name":"FunctionStringCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"data","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]}]}

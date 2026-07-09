@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLSelectedContentElement","inherits":"HTMLElement","extended_attributes":["Exposed=Window","Pref=\"dom.select.customizable_select.enabled\""],"members":[{"kind":"constructor","name":"","arguments":[],"modifiers":[],"extended_attributes":["HTMLConstructor"]}]}

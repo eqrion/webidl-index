@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MLRecurrentNetworkDirection","extended_attributes":[],"values":["backward","both","forward"]}

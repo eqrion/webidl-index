@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ApplePayPaymentMethodSelectedEvent","inherits":"Event","extended_attributes":["Conditional=APPLE_PAY","NoInterfaceObject"],"members":[{"kind":"attribute","name":"paymentMethod","type_":"ApplePayPaymentMethod","arguments":[],"modifiers":["readonly"],"extended_attributes":["CachedAttribute"]}]}

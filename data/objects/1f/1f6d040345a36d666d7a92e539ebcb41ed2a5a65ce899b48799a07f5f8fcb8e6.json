@@ -1,0 +1,1 @@
+{"kind":"callback","name":"SetDeleteBooleanCallback","extended_attributes":[],"return_type":"undefined","arguments":[{"name":"value","type_":"boolean","optional":false,"variadic":false,"extended_attributes":[]},{"name":"index","type_":"unsigned long","optional":false,"variadic":false,"extended_attributes":[]}]}

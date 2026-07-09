@@ -1,0 +1,1 @@
+{"kind":"enum","name":"StreamFilterStatus","extended_attributes":[],"values":["closed","disconnected","failed","finishedtransferringdata","suspended","transferringdata","uninitialized"]}

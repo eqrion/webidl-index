@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSAnimation","inherits":"WebAnimation","extended_attributes":["EnabledAtRuntime=WebAnimationsCSSIntegration","Exposed=Window"],"members":[{"kind":"attribute","name":"animationName","type_":"CSSOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

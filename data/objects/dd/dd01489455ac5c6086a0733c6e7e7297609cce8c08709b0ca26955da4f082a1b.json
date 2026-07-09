@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GetHTMLOptions","extended_attributes":[],"fields":[{"name":"serializableShadowRoots","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"shadowRoots","type_":"sequence<ShadowRoot>","required":false,"default":"[]","extended_attributes":[]}]}

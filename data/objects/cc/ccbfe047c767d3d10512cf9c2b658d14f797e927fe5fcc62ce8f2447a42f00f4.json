@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"InputPickerColor","extended_attributes":[],"fields":[{"name":"component1","type_":"float","required":true,"extended_attributes":[]},{"name":"component2","type_":"float","required":true,"extended_attributes":[]},{"name":"component3","type_":"float","required":true,"extended_attributes":[]}]}

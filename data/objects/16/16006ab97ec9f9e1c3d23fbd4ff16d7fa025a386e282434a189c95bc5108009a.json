@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"UnknownCredentialOptions","extended_attributes":[],"fields":[{"name":"credentialId","type_":"Base64URLString","required":true,"extended_attributes":[]},{"name":"rpId","type_":"DOMString","required":true,"extended_attributes":[]}]}

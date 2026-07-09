@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"CanvasImageSource","extended_attributes":[],"aliased_type":"(HTMLImageElement or HTMLVideoElement or HTMLCanvasElement or ImageBitmap or OffscreenCanvas or TypedOMCSSImageValue)"}

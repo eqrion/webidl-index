@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TopLevelStorageAccessPermissionDescriptor","inherits":"PermissionDescriptor","extended_attributes":[],"fields":[{"name":"requestedOrigin","type_":"USVString","required":false,"default":"\"\"","extended_attributes":[]}]}

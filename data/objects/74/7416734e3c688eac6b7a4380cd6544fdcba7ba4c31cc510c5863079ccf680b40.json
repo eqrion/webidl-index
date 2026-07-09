@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaElementAudioSourceOptions","extended_attributes":["Conditional=WEB_AUDIO_VIDEO"],"fields":[{"name":"mediaElement","type_":"HTMLMediaElement","required":true,"extended_attributes":[]}]}

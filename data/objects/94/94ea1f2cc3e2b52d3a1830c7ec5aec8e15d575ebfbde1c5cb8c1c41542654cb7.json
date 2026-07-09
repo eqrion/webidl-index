@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MojoCreateDataPipeResult","extended_attributes":[],"fields":[{"name":"consumer","type_":"MojoHandle","required":false,"extended_attributes":[]},{"name":"producer","type_":"MojoHandle","required":false,"extended_attributes":[]},{"name":"result","type_":"MojoResult","required":true,"extended_attributes":[]}]}

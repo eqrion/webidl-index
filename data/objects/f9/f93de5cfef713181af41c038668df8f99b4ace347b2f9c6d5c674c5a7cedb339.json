@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ChannelSplitterOptions","inherits":"AudioNodeOptions","extended_attributes":["Conditional=WEB_AUDIO"],"fields":[{"name":"numberOfOutputs","type_":"unsigned long","required":false,"default":"6","extended_attributes":[]}]}

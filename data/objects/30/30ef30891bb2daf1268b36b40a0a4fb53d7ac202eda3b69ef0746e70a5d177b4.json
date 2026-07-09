@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ConsoleTimerError","extended_attributes":[],"fields":[{"name":"error","type_":"DOMString","required":false,"default":"\"maxTimersExceeded\"","extended_attributes":[]}]}

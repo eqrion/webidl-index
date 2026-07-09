@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SensorErrorEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, SensorErrorEventInit eventInitDict)","Exposed=Window","SecureContext"],"members":[{"kind":"attribute","name":"error","type_":"DOMException","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

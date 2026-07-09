@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IntrinsicSizesResultOptions","extended_attributes":[],"fields":[{"name":"maxContentSize","type_":"double","required":false,"default":"0","extended_attributes":[]},{"name":"minContentSize","type_":"double","required":false,"default":"0","extended_attributes":[]}]}

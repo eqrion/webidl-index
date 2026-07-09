@@ -1,0 +1,1 @@
+{"kind":"enum","name":"BrowserFindCaseSensitivity","extended_attributes":[],"values":["case-insensitive","case-sensitive"]}

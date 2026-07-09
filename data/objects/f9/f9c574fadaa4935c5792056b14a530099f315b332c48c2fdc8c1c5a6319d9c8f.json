@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ResizeObserverEntry","extended_attributes":["RuntimeEnabled=ResizeObserver"],"members":[{"kind":"attribute","name":"contentRect","type_":"DOMRectReadOnly","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"target","type_":"Element","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

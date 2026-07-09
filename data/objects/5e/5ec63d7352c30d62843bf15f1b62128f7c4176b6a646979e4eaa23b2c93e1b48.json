@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DhKeyGenParams","inherits":"Algorithm","extended_attributes":[],"fields":[{"name":"generator","type_":"BigInteger","required":true,"extended_attributes":[]},{"name":"prime","type_":"BigInteger","required":true,"extended_attributes":[]}]}

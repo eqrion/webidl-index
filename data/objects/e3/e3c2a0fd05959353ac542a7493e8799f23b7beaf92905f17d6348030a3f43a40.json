@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AdAuctionData","extended_attributes":[],"fields":[{"name":"request","type_":"Uint8Array","required":true,"extended_attributes":[]},{"name":"requestId","type_":"USVString","required":true,"extended_attributes":[]}]}

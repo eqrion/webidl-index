@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FocusEventInit","inherits":"UIEventInit","extended_attributes":[],"fields":[{"name":"relatedTarget","type_":"EventTarget?","required":false,"default":"null","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozFrameAncestorInfo","extended_attributes":[],"fields":[{"name":"frameId","type_":"unsigned long long","required":true,"extended_attributes":[]},{"name":"url","type_":"ByteString","required":true,"extended_attributes":[]}]}

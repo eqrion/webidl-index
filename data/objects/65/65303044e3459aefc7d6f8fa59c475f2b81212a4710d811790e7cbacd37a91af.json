@@ -1,0 +1,1 @@
+{"kind":"enum","name":"OffscreenRenderingContextType","extended_attributes":[],"values":["2d","bitmaprenderer","webgl","webgl2"]}

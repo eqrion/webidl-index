@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGFETileElement","inherits":"SVGElement","extended_attributes":[],"members":[{"kind":"attribute","name":"in1","type_":"SVGAnimatedString","arguments":[],"modifiers":["readonly"],"extended_attributes":["MeasureAs=SVG1DOMFilter"]}]}

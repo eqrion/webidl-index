@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaKeySessionClosedReason","extended_attributes":[],"values":["closed-by-application","hardware-context-reset","internal-error","release-acknowledged","resource-evicted"]}

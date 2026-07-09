@@ -1,0 +1,1 @@
+{"kind":"interface","name":"USBIsochronousOutTransferResult","extended_attributes":["Constructor(sequence<USBIsochronousOutTransferPacket> packets)","RuntimeEnabled=WebUSB"],"members":[{"kind":"attribute","name":"packets","type_":"FrozenArray<USBIsochronousOutTransferPacket>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NavigatorAutomationInformation","extended_attributes":["Exposed=(Window)","NoInterfaceObject","RuntimeEnabled=AutomationControlled"],"members":[{"kind":"attribute","name":"webdriver","type_":"boolean","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SharedStorageSetMethodOptions","inherits":"SharedStorageModifierMethodOptions","extended_attributes":[],"fields":[{"name":"ignoreIfPresent","type_":"boolean","required":false,"extended_attributes":[]}]}

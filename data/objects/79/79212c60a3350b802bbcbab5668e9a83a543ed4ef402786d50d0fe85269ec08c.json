@@ -1,0 +1,1 @@
+{"kind":"callback_interface","name":"ObserverCallback","extended_attributes":["Exposed=Window"],"members":[{"kind":"operation","name":"handleEvent","type_":"undefined","arguments":[{"name":"observer","type_":"FetchObserver","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

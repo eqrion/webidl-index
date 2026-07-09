@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLArgMinMaxOptions","inherits":"MLOperatorOptions","extended_attributes":[],"fields":[{"name":"keepDimensions","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"outputDataType","type_":"MLOperandDataType","required":false,"default":"\"int32\"","extended_attributes":[]}]}

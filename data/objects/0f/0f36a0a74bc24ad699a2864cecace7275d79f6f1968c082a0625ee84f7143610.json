@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WorkletGlobalScope","inherits":"EventTarget","extended_attributes":["Conditional=CSS_PAINTING_API","CustomProxyToJSObject","EnabledAtRuntime=CSSPaintingAPI","Exposed=Worklet","Global=Worklet","ImplicitThis","IsImmutablePrototypeExoticObject","IsImmutablePrototypeExoticObjectOnPrototype","JSLegacyParent=JSWorkletGlobalScopeBase"],"members":[]}

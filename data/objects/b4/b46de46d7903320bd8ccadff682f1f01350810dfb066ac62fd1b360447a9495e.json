@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSPropertyRule","inherits":"CSSRule","extended_attributes":["RuntimeEnabled=CSSVariables2AtProperty"],"members":[{"kind":"attribute","name":"style","type_":"CSSStyleDeclaration","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

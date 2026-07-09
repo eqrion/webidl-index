@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SetHTMLUnsafeOptions","extended_attributes":[],"fields":[{"name":"runScripts","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"sanitizer","type_":"(Sanitizer or SanitizerConfig or SanitizerPresets)","required":false,"default":"{}","extended_attributes":[]}]}

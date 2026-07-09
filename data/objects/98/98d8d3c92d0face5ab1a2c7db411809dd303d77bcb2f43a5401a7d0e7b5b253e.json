@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PerformancePreference","extended_attributes":[],"values":["auto","capability","speed"]}

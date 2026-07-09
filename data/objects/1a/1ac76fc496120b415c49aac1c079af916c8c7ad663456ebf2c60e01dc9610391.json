@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ForcedAccessibilityValue","extended_attributes":[],"values":["off","on","system"]}

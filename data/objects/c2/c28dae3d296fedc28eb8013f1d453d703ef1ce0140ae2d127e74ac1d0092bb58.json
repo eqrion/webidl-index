@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"InputDeviceCapabilitiesInit","extended_attributes":[],"fields":[{"name":"firesTouchEvents","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

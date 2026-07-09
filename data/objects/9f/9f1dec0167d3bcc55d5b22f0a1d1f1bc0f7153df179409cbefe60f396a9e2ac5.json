@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NDEFCompatibility","extended_attributes":[],"values":["any","nfc-forum","vendor"]}

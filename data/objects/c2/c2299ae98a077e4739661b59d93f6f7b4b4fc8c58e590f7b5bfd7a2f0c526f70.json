@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuthenticationExtensionsPaymentOutputs","extended_attributes":[],"fields":[{"name":"browserBoundSignature","type_":"AuthenticationExtensionsPaymentBrowserBoundSignature","required":false,"extended_attributes":[]}]}

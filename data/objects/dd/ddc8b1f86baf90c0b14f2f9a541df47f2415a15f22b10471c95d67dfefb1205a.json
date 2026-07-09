@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ApplePayRequest","inherits":"ApplePayRequestBase","extended_attributes":["Conditional=APPLE_PAY_PAYMENT_REQUEST"],"fields":[{"name":"merchantIdentifier","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"version","type_":"unsigned long","required":true,"extended_attributes":[]}]}

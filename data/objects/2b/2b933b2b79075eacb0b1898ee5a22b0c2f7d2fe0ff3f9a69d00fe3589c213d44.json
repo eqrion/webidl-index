@@ -1,0 +1,1 @@
+{"kind":"enum","name":"TensorDataLocation","extended_attributes":[],"values":["cpu","cpu-pinned","gpu-buffer","ml-tensor","none","texture"]}

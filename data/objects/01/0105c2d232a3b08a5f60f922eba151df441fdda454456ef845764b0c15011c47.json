@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSStartingStyleRule","inherits":"CSSGroupingRule","extended_attributes":["Exposed=Window","RuntimeEnabled=CSSInitialPseudo"],"members":[]}

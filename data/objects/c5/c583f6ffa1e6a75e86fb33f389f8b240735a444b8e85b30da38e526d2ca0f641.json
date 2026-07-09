@@ -1,0 +1,1 @@
+{"kind":"enum","name":"DecoderDoctorReportType","extended_attributes":[],"values":["mediacannotinitializepulseaudio","mediacannotplaynodecoders","mediadecodeerror","mediadecodewarning","medianodecoders","mediaplatformdecodernotfound","mediaunsupportedlibavcodec","mediawidevinenowmf","mediawmfneeded"]}

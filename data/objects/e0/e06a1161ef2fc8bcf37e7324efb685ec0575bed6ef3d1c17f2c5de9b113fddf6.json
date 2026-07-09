@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TextMetrics","extended_attributes":[],"members":[{"kind":"attribute","name":"width","type_":"double","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ReportingHeaderValue","extended_attributes":["GenerateInit"],"fields":[{"name":"items","type_":"sequence<ReportingItem>","required":false,"extended_attributes":[]}]}

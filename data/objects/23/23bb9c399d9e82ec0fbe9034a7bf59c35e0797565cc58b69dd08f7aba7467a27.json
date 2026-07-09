@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NavigationHistoryBehavior","extended_attributes":[],"values":["auto","push","replace"]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AvcBitstreamFormat","extended_attributes":["Conditional=WEB_CODECS"],"values":["annexb","avc"]}

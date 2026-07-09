@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ApplePayPaymentAuthorizationResult","extended_attributes":["Conditional=APPLE_PAY"],"fields":[{"name":"errors","type_":"sequence<ApplePayError>","required":false,"extended_attributes":[]},{"name":"status","type_":"unsigned short","required":true,"extended_attributes":[]}]}

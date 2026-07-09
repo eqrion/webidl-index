@@ -1,0 +1,1 @@
+{"kind":"callback_interface","name":"RequestAnimationFrameCallback","extended_attributes":["Conditional=REQUEST_ANIMATION_FRAME"],"members":[{"kind":"operation","name":"handleEvent","type_":"boolean","arguments":[{"name":"highResTime","type_":"unrestricted double","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":["Custom"]}]}

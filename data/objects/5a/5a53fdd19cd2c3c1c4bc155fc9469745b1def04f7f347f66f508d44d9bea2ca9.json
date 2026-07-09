@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BoxQuadOptions","extended_attributes":[],"fields":[{"name":"box","type_":"CSSBoxType","required":false,"default":"\"border\"","extended_attributes":[]},{"name":"relativeTo","type_":"GeometryNode","required":false,"extended_attributes":[]}]}

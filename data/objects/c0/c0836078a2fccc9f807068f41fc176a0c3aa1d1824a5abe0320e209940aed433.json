@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"LongRange","extended_attributes":["Conditional=MEDIA_STREAM","JSGenerateToJSObject"],"fields":[{"name":"max","type_":"long","required":false,"extended_attributes":[]},{"name":"min","type_":"long","required":false,"extended_attributes":[]}]}

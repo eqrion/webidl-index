@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ElementDefinitionOptions","extended_attributes":[],"fields":[{"name":"extends","type_":"DOMString?","required":false,"default":"null","extended_attributes":[]},{"name":"style","type_":"CSSStyleSheet","required":false,"extended_attributes":[]}]}

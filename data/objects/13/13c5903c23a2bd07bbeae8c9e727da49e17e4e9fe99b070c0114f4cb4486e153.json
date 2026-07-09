@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AI","extended_attributes":["Exposed(Window AIPromptAPI, Worker AIPromptAPIForWorkers)","SecureContext"],"members":[]}

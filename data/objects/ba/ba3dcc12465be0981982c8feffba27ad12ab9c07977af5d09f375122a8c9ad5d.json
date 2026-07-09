@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HeapSnapshotBoundaries","extended_attributes":[],"fields":[{"name":"debugger","type_":"object","required":false,"extended_attributes":[]},{"name":"globals","type_":"sequence<object>","required":false,"extended_attributes":[]},{"name":"runtime","type_":"boolean","required":false,"extended_attributes":[]}]}

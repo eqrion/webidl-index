@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ApplePayShippingMethodUpdate","inherits":"ApplePayDetailsUpdateBase","extended_attributes":["Conditional=APPLE_PAY"],"fields":[{"name":"newShippingMethods","type_":"sequence<ApplePayShippingMethod>","required":false,"extended_attributes":["Conditional=APPLE_PAY_UPDATE_SHIPPING_METHODS_WHEN_CHANGING_LINE_ITEMS"]}]}

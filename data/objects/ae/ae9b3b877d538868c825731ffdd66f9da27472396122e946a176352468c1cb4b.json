@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuthenticationExtensionsLargeBlobInputsJSON","extended_attributes":[],"fields":[{"name":"read","type_":"boolean","required":false,"extended_attributes":[]},{"name":"support","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"write","type_":"Base64URLString","required":false,"extended_attributes":[]}]}

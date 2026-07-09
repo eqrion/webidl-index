@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ExternalAppEvent","inherits":"Event","extended_attributes":["CheckAnyPermissions=\"external-app\"","Constructor(DOMString type, optional ExternalAppEventInit eventInitDict)"],"members":[{"kind":"attribute","name":"data","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

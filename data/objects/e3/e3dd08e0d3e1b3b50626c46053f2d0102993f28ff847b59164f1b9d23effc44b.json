@@ -1,0 +1,1 @@
+{"kind":"interface","name":"EXTTextureMirrorClampToEdge","extended_attributes":["LegacyNoInterfaceObject"],"members":[{"kind":"const","name":"MIRROR_CLAMP_TO_EDGE_EXT","type_":"unsigned long","arguments":[],"modifiers":[],"value":"0x8743","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"callback","name":"EncodedAudioChunkOutputCallback","extended_attributes":["RuntimeEnabled=WebCodecs"],"return_type":"void","arguments":[{"name":"output","type_":"EncodedAudioChunk","optional":false,"variadic":false,"extended_attributes":[]}]}

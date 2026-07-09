@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NetworkOrIssuerInformation","extended_attributes":[],"fields":[{"name":"icon","type_":"USVString","required":true,"extended_attributes":[]},{"name":"name","type_":"USVString","required":true,"extended_attributes":[]}]}

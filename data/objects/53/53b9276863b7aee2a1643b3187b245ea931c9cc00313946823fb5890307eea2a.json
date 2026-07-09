@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MIDIInputMap","extended_attributes":["SecureContext"],"members":[{"kind":"maplike","name":"","type_":"maplike<DOMString, MIDIInput>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

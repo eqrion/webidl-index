@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SocketDnsQueryType","extended_attributes":[],"values":["ipv4","ipv6"]}

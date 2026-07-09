@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NavigationResult","extended_attributes":["JSGenerateToJSObject"],"fields":[{"name":"committed","type_":"Promise<NavigationHistoryEntry>","required":false,"extended_attributes":["BypassDocumentFullyActiveCheck"]},{"name":"finished","type_":"Promise<NavigationHistoryEntry>","required":false,"extended_attributes":["BypassDocumentFullyActiveCheck"]}]}

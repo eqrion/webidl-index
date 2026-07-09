@@ -1,0 +1,1 @@
+{"kind":"interface","name":"FileSystemDirectoryIterator","extended_attributes":["Exposed=(Window, Worker)","LegacyNoInterfaceObject","SecureContext"],"members":[{"kind":"operation","name":"next","type_":"Promise<any>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RemotenessOptions","extended_attributes":[],"fields":[{"name":"pendingSwitchID","type_":"unsigned long long","required":false,"extended_attributes":[]},{"name":"remoteType","type_":"DOMString?","required":true,"extended_attributes":[]},{"name":"switchingInProgressLoad","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

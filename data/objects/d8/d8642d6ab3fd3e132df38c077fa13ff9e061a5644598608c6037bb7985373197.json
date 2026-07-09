@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"EcdhKeyDeriveParams","inherits":"CryptoAlgorithmParameters","extended_attributes":["Conditional=WEB_CRYPTO","ImplementedAs=CryptoAlgorithmEcdhKeyDeriveParams"],"fields":[{"name":"publicKey","type_":"CryptoKey","required":true,"extended_attributes":[]}]}

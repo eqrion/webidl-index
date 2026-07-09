@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CryptoAlgorithmParameters","extended_attributes":["Conditional=SUBTLE_CRYPTO"],"fields":[{"name":"name","type_":"DOMString","required":true,"extended_attributes":[]}]}

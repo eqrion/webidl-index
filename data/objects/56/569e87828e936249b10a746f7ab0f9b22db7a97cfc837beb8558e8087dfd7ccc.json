@@ -1,0 +1,1 @@
+{"kind":"enum","name":"FullscreenKeyboardLock","extended_attributes":["Conditional=FULLSCREEN_API","EnabledBySetting=FullScreenKeyboardLock"],"values":["browser","none","system"]}

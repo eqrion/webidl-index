@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FakeXRDeviceResolution","extended_attributes":["Conditional=WEBXR","EnabledAtRuntime=WebXR"],"fields":[{"name":"height","type_":"long","required":true,"extended_attributes":[]},{"name":"width","type_":"long","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCDiagnosticLoggingOptions","extended_attributes":[],"fields":[{"name":"allowUpload","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"metadata","type_":"record<DOMString, DOMString>","required":false,"default":"{}","extended_attributes":[]}]}

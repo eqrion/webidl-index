@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TestChromeOnlyInterface","extended_attributes":["ChromeOnly","Exposed=Window","Pref=\"dom.expose_test_interfaces\""],"members":[]}

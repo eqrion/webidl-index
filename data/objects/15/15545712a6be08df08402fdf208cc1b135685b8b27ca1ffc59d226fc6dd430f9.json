@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AnimationPlaybackEventInit","inherits":"EventInit","extended_attributes":["EnabledAtRuntime=WebAnimations"],"fields":[{"name":"currentTime","type_":"double?","required":false,"default":"null","extended_attributes":[]},{"name":"timelineTime","type_":"double?","required":false,"default":"null","extended_attributes":[]}]}

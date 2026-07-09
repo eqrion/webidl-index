@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"Int32List","extended_attributes":[],"aliased_type":"([AllowShared] Int32Array or sequence<GLint>)"}

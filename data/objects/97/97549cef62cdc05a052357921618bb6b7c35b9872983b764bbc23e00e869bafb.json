@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PaintRenderingContext2DSettings","extended_attributes":[],"fields":[{"name":"alpha","type_":"boolean","required":false,"default":"true","extended_attributes":[]}]}

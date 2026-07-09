@@ -1,0 +1,1 @@
+{"kind":"enum","name":"OperationType","extended_attributes":[],"values":["send-srr","srr-token-redemption","token-request"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"StorageEstimate","extended_attributes":[],"fields":[{"name":"quota","type_":"unsigned long long","required":false,"extended_attributes":[]},{"name":"usage","type_":"unsigned long long","required":false,"extended_attributes":[]}]}

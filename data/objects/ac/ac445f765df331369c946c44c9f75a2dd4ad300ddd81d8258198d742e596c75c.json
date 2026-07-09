@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CachePolicy","extended_attributes":[],"values":["ReloadIgnoringCacheData","ReturnCacheDataDontLoad","ReturnCacheDataElseLoad","UseProtocolCachePolicy"]}

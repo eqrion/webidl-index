@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebXRLayer","inherits":"EventTarget","extended_attributes":["Conditional=WEBXR","EnabledBySetting=WebXR","Exposed=Window","InterfaceName=XRLayer","SecureContext"],"members":[]}

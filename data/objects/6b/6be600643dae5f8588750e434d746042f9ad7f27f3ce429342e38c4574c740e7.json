@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUDeviceDescriptor","inherits":"GPUObjectDescriptorBase","extended_attributes":[],"fields":[{"name":"requiredFeatures","type_":"sequence<GPUFeatureName>","required":false,"default":"[]","extended_attributes":[]},{"name":"requiredLimits","type_":"record<DOMString, GPUSize64>","required":false,"extended_attributes":[]}]}

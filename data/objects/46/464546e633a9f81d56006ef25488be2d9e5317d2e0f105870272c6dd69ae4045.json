@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PressureRecord","extended_attributes":["Exposed=Window","SecureContext"],"fields":[{"name":"cpuUtilization","type_":"double","required":false,"extended_attributes":[]}]}

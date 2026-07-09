@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUFragmentState","inherits":"GPUProgrammableStage","extended_attributes":["EnabledBySetting=WebGPU"],"fields":[{"name":"targets","type_":"sequence<GPUColorTargetState?>","required":true,"extended_attributes":[]}]}

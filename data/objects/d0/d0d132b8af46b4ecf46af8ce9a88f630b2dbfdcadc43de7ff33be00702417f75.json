@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRWorldTrackingState","extended_attributes":["Exposed=Window","RuntimeEnabled=WebXRPlaneDetection","SecureContext"],"members":[{"kind":"attribute","name":"planeDetectionState","type_":"XRPlaneDetectionState","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

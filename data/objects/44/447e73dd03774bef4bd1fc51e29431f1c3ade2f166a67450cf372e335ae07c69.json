@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PaymentMethodData","extended_attributes":["Conditional=PAYMENT_REQUEST"],"fields":[{"name":"data","type_":"object","required":false,"extended_attributes":[]},{"name":"supportedMethods","type_":"DOMString","required":true,"extended_attributes":[]}]}

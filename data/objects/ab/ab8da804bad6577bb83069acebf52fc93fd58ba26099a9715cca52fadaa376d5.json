@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCErrorDetailType","extended_attributes":[],"values":["data-channel-failure","dtls-failure","fingerprint-failure","sctp-failure","sdp-syntax-error"]}

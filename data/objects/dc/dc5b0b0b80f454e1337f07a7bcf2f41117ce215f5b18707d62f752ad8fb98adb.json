@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGLRenderingContext","extended_attributes":["Conditional=WEBGL","DoNotCheckConstants","ExportMacro=WEBCORE_EXPORT","JSCustomMarkFunction","JSGenerateToJSObject"],"members":[]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SelectionMode","extended_attributes":[],"values":["end","preserve","select","start"]}

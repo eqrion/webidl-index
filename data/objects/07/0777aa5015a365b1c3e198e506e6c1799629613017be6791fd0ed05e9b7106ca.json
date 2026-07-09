@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PropertyNodeList","inherits":"NodeList","extended_attributes":[],"members":[{"kind":"operation","name":"getValues","type_":"PropertyValueArray","arguments":[],"modifiers":[],"extended_attributes":["Throws"]}]}

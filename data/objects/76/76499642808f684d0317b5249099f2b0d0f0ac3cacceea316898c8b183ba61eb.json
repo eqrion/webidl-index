@@ -1,0 +1,1 @@
+{"kind":"interface","name":"BackgroundFetchEvent","inherits":"ExtendableEvent","extended_attributes":["Constructor(DOMString type, BackgroundFetchEventInit init)","Exposed=ServiceWorker","RuntimeEnabled=BackgroundFetch"],"members":[{"kind":"attribute","name":"id","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

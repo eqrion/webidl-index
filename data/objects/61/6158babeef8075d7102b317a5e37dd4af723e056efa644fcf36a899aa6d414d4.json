@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGAnimatedLength","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"animVal","type_":"SVGLength","arguments":[],"modifiers":["readonly"],"extended_attributes":["Constant"]},{"kind":"attribute","name":"baseVal","type_":"SVGLength","arguments":[],"modifiers":["readonly"],"extended_attributes":["Constant"]}]}

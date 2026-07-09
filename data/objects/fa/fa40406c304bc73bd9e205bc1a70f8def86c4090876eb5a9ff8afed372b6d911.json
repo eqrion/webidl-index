@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WaveShaperOptions","inherits":"AudioNodeOptions","extended_attributes":["Conditional=WEB_AUDIO"],"fields":[{"name":"curve","type_":"sequence<float>","required":false,"extended_attributes":[]},{"name":"oversample","type_":"OverSampleType","required":false,"default":"\"none\"","extended_attributes":[]}]}

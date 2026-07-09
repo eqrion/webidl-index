@@ -1,0 +1,1 @@
+{"kind":"enum","name":"TVScanningState","extended_attributes":[],"values":["cleared","completed","scanned","stopped"]}

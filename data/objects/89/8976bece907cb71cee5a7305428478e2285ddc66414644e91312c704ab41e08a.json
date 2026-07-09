@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdleOptions","extended_attributes":[],"fields":[{"name":"threshold","type_":"unsigned long","required":false,"default":"60","extended_attributes":[]}]}

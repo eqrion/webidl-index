@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUSwapChain","extended_attributes":["Exposed=Window","Pref=\"dom.webgpu.enabled\""],"members":[{"kind":"attribute","name":"label","type_":"USVString?","arguments":[],"modifiers":[],"extended_attributes":[]},{"kind":"operation","name":"getCurrentTexture","type_":"GPUTexture","arguments":[],"modifiers":[],"extended_attributes":[]}]}

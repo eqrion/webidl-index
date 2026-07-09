@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLLeakyReluOptions","inherits":"MLOperatorOptions","extended_attributes":[],"fields":[{"name":"alpha","type_":"float","required":false,"default":"0.01","extended_attributes":[]}]}

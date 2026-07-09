@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebTransportSendGroup","extended_attributes":["Exposed=(Window, Worker)","RuntimeEnabled=WebTransportSendGroup","SecureContext"],"members":[{"kind":"operation","name":"getStats","type_":"Promise<WebTransportSendStreamStats>","arguments":[],"modifiers":[],"extended_attributes":["CallWith=ScriptState"]}]}

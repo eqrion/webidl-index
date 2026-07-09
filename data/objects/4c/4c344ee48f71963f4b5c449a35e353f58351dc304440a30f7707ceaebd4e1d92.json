@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUTextureView","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU","ImplementationLacksVTable","InterfaceName=GPUTextureView"],"members":[]}

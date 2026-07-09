@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SharedWorkerOptions","inherits":"WorkerOptions","extended_attributes":[],"fields":[{"name":"sameSiteCookies","type_":"SharedWorkerSameSiteCookies","required":false,"extended_attributes":[]}]}

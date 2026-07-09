@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"L10nArgsHelperDict","extended_attributes":["GenerateConversionToJS","GenerateInitFromJSON"],"fields":[{"name":"args","type_":"L10nArgs","required":true,"extended_attributes":[]}]}

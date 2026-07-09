@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MobileNetworkSelectionMode","extended_attributes":[],"values":["automatic","manual"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaStreamAudioSourceOptions","extended_attributes":["Conditional=WEB_AUDIO_MEDIA_STREAM"],"fields":[{"name":"mediaStream","type_":"MediaStream","required":true,"extended_attributes":[]}]}

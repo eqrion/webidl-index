@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SubApps","extended_attributes":["SecureContext"],"members":[{"kind":"operation","name":"add","type_":"Promise<void>","arguments":[{"name":"install_url","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":["CallWith=ScriptState","RaisesException"]}]}

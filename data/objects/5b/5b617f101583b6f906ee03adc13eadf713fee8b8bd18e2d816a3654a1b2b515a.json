@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuctionRealTimeReportingConfig","extended_attributes":[],"fields":[{"name":"type","type_":"DOMString","required":true,"extended_attributes":[]}]}

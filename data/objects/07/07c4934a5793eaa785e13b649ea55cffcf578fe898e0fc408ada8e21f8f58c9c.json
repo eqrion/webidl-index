@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUObjectDescriptorBase","extended_attributes":["EnabledBySetting=WebGPU"],"fields":[{"name":"label","type_":"USVString","required":false,"extended_attributes":[]}]}

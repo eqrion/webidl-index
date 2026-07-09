@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUAttachmentStateDescriptor","extended_attributes":[],"fields":[{"name":"formats","type_":"sequence<WebGPUTextureFormatEnum>","required":false,"extended_attributes":[]}]}

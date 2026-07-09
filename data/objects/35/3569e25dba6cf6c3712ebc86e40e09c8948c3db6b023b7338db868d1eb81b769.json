@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityAccountList","extended_attributes":["GenerateInit"],"fields":[{"name":"accounts","type_":"sequence<IdentityAccount>","required":false,"extended_attributes":[]}]}

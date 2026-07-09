@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayInstallmentItemType","extended_attributes":["Conditional=APPLE_PAY_INSTALLMENTS"],"values":["generic","mac","pad","phone","watch"]}

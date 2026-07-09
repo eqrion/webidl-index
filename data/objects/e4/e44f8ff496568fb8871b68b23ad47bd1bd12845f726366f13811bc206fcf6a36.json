@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NavigatorConcurrentHardware","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"hardwareConcurrency","type_":"unsigned long long","arguments":[],"modifiers":["readonly"],"extended_attributes":["Conditional=NAVIGATOR_HWCONCURRENCY"]}]}

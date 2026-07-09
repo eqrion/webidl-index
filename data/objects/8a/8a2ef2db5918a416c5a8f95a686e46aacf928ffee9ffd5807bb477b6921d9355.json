@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGFEImageElement","inherits":"SVGElement","extended_attributes":[],"members":[{"kind":"attribute","name":"preserveAspectRatio","type_":"SVGAnimatedPreserveAspectRatio","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

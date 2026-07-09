@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUComputePipeline","extended_attributes":["Exposed(Window WebGPU, Worker WebGPU)"],"members":[{"kind":"operation","name":"getBindGroupLayout","type_":"GPUBindGroupLayout","arguments":[{"name":"index","type_":"GPUIndex32","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

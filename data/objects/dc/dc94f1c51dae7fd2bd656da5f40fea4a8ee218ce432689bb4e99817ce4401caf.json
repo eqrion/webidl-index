@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUIndexFormat","extended_attributes":["ImplementedAs=GPUIndexFormat"],"values":["uint16","uint32"]}

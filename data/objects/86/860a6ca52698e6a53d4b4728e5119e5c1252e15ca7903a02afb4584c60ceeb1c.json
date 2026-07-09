@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"CredentialBodyType","extended_attributes":[],"aliased_type":"(DOMFormData or URLSearchParams)"}

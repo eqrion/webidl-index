@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuthenticationExtensionsDevicePublicKeyOutputs","extended_attributes":[],"fields":[{"name":"authenticatorOutput","type_":"ArrayBuffer","required":false,"extended_attributes":[]},{"name":"signature","type_":"ArrayBuffer","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NavigatorStorage","extended_attributes":["Exposed=(Window, Worker)","NoInterfaceObject","SecureContext"],"members":[{"kind":"attribute","name":"storage","type_":"StorageManager","arguments":[],"modifiers":["readonly"],"extended_attributes":["Func=\"mozilla::dom::DOMPrefs::StorageManagerEnabled\""]}]}

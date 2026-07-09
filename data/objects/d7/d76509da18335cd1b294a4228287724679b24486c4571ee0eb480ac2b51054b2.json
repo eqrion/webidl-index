@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayShippingType","extended_attributes":["Conditional=APPLE_PAY"],"values":["delivery","servicePickup","shipping","storePickup"]}

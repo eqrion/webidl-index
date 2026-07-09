@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityClientMetadata","extended_attributes":[],"fields":[{"name":"privacy_policy_url","type_":"USVString","required":false,"extended_attributes":[]},{"name":"terms_of_service_url","type_":"USVString","required":false,"extended_attributes":[]}]}

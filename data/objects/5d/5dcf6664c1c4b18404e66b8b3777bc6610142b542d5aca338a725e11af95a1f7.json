@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ScrollViewChangeEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"state","type_":"ScrollState","required":false,"default":"\"started\"","extended_attributes":[]}]}

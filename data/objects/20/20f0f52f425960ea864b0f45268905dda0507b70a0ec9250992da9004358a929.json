@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PurchaseType","extended_attributes":[],"values":["onetime","repeatable"]}

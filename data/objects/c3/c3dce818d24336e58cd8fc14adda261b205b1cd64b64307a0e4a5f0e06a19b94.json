@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"Baselines","extended_attributes":[],"fields":[{"name":"alphabetic","type_":"double","required":false,"extended_attributes":[]},{"name":"hanging","type_":"double","required":false,"extended_attributes":[]},{"name":"ideographic","type_":"double","required":false,"extended_attributes":[]}]}

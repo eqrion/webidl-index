@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozHTTPHeader","extended_attributes":[],"fields":[{"name":"name","type_":"ByteString","required":true,"extended_attributes":[]},{"name":"value","type_":"ByteString","required":true,"extended_attributes":[]}]}

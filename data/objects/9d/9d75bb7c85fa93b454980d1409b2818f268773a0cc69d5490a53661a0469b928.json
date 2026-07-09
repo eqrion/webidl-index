@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HandwritingModelConstraint","extended_attributes":[],"fields":[{"name":"languages","type_":"sequence<DOMString>","required":true,"extended_attributes":[]}]}

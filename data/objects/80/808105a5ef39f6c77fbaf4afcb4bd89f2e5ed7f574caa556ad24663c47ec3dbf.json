@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"MozTagTech","extended_attributes":[],"aliased_type":"(MozIsoDepTech or MozNfcATech)"}

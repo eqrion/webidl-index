@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WorkerNavigator","extended_attributes":["Exposed=(Worker)","Exposed=Worker"],"members":[{"kind":"attribute","name":"connection","type_":"NetworkInformation","arguments":[],"modifiers":["readonly"],"extended_attributes":["Func=\"mozilla::dom::DOMPrefs::NetworkInformationEnabled\"","Throws"]}]}

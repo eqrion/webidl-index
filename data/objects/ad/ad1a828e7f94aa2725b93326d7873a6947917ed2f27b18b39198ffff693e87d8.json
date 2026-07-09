@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CameraFacesDetectedEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"faces","type_":"sequence<CameraDetectedFace>?","required":false,"default":"null","extended_attributes":[]}]}

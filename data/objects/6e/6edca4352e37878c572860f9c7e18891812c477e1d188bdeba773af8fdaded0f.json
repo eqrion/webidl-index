@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUBindGroupLayoutDescriptor","inherits":"GPUObjectDescriptorBase","extended_attributes":[],"fields":[{"name":"bindings","type_":"sequence<GPUBindGroupLayoutBinding>","required":true,"extended_attributes":[]}]}

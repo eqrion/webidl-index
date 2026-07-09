@@ -1,0 +1,1 @@
+{"kind":"enum","name":"OffscreenRenderingContextType","extended_attributes":[],"values":["2d","2d","webgl","webgl","webgl2","webgl2","webgl2-compute","webgl2-compute"]}

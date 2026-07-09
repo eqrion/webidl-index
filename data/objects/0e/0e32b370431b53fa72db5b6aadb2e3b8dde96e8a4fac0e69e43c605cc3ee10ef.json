@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AILanguageModelInitialPrompt","extended_attributes":[],"fields":[{"name":"content","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"role","type_":"AILanguageModelInitialPromptRole","required":true,"extended_attributes":[]}]}

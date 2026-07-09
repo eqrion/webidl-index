@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"QueryOptions","extended_attributes":[],"fields":[{"name":"postscriptNames","type_":"sequence<DOMString>","required":false,"extended_attributes":[]}]}

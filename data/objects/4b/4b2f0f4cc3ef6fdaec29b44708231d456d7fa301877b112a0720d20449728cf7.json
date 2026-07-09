@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"AILanguageModelPromptInput","extended_attributes":[],"aliased_type":"(AILanguageModelPrompt or sequence<AILanguageModelPrompt>)"}

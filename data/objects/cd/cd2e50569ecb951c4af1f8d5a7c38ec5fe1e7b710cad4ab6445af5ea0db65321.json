@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PayerErrors","extended_attributes":["GenerateInitFromJSON","GenerateToJSON"],"fields":[{"name":"email","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"name","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"phone","type_":"DOMString","required":false,"extended_attributes":[]}]}

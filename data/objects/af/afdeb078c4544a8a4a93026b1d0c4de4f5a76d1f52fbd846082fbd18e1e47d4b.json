@@ -1,0 +1,1 @@
+{"kind":"enum","name":"TimelineRange","extended_attributes":[],"values":["contain","cover","entry","entry-crossing","exit","exit-crossing","none","scroll"]}

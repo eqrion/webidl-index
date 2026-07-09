@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SubAppsServiceAddResultCode","extended_attributes":[],"values":["expected-app-id-check-failed","failure","parent-app-uninstalled","success-already-installed","success-new-install","user-install-declined"]}

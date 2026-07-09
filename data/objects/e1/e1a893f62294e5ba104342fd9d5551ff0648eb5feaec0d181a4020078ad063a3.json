@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLBinarySupportLimits","extended_attributes":[],"fields":[{"name":"a","type_":"MLTensorLimits","required":false,"extended_attributes":[]},{"name":"b","type_":"MLTensorLimits","required":false,"extended_attributes":[]},{"name":"output","type_":"MLTensorLimits","required":false,"extended_attributes":[]}]}

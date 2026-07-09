@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MozWifiP2pStatusChangeEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional MozWifiP2pStatusChangeEventInit eventInitDict)","Func=\"Navigator::HasWifiManagerSupport\""],"members":[{"kind":"attribute","name":"peerAddress","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

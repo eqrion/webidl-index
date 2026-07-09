@@ -1,0 +1,1 @@
+{"kind":"enum","name":"FillMode","extended_attributes":[],"values":["auto","backwards","both","forwards","none"]}

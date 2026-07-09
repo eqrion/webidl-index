@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozApplicationEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"application","type_":"DOMApplication?","required":false,"default":"null","extended_attributes":[]}]}

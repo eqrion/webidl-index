@@ -1,0 +1,1 @@
+{"kind":"callback","name":"BlobCallback","extended_attributes":["GenerateIsReachable=ImplScriptExecutionContext"],"return_type":"undefined","arguments":[{"name":"blob","type_":"Blob?","optional":false,"variadic":false,"extended_attributes":[]}]}

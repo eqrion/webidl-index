@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCRtpSynchronizationSource","inherits":"RTCRtpContributingSource","extended_attributes":["Conditional=WEB_RTC","EnabledBySetting=PeerConnectionEnabled","JSGenerateToJSObject"],"fields":[{"name":"voiceActivityFlag","type_":"boolean","required":false,"extended_attributes":[]}]}

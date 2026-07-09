@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCStatsIceCandidateType","extended_attributes":[],"values":["host","peerreflexive","relayed","serverreflexive"]}

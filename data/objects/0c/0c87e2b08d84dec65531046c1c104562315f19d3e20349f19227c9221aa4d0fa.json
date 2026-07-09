@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"UserMediaStreamConstraints","extended_attributes":[],"fields":[{"name":"audio","type_":"(boolean or MediaTrackConstraints)","required":false,"default":"false","extended_attributes":[]},{"name":"video","type_":"(boolean or MediaTrackConstraints)","required":false,"default":"false","extended_attributes":[]}]}

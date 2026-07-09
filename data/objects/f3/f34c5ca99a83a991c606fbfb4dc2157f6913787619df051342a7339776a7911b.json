@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DocumentTimeline","inherits":"AnimationTimeline","extended_attributes":["Constructor(optional DocumentTimelineOptions options)","Func=\"Document::AreWebAnimationsTimelinesEnabled\""],"members":[]}

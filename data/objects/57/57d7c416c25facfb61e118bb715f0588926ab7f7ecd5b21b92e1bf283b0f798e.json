@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUSampler","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU","ImplementationLacksVTable","InterfaceName=GPUSampler"],"members":[]}

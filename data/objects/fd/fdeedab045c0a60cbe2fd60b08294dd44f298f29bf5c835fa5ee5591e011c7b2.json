@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NavigatorOnLine","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"onLine","type_":"boolean","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

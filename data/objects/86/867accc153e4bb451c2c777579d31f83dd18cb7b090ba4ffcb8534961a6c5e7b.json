@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLShadowElement","inherits":"HTMLElement","extended_attributes":[],"members":[{"kind":"attribute","name":"olderShadowRoot","type_":"ShadowRoot?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

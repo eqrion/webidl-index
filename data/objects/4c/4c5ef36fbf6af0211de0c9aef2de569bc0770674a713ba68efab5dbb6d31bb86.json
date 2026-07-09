@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RequestTaskFull","inherits":"RequestTaskParams","extended_attributes":[],"fields":[{"name":"lastSync","type_":"DOMTimeStamp","required":false,"extended_attributes":[]},{"name":"task","type_":"USVString","required":false,"default":"\"\"","extended_attributes":[]}]}

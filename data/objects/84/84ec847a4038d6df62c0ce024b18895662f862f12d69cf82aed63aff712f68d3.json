@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCPeerConnectionState","extended_attributes":["Conditional=WEB_RTC","EnabledBySetting=PeerConnection"],"values":["closed","connected","connecting","disconnected","failed","new"]}

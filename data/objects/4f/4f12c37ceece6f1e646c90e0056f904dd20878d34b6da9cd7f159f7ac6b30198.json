@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"EncodedVideoChunkMetadata","extended_attributes":[],"fields":[{"name":"decoderConfig","type_":"VideoDecoderConfig","required":false,"extended_attributes":[]},{"name":"svc","type_":"SvcOutputMetadata","required":false,"extended_attributes":[]},{"name":"temporalLayerId","type_":"unsigned long","required":false,"extended_attributes":["EnforceRange"]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"InstallParameters","extended_attributes":[],"fields":[{"name":"categories","type_":"sequence<DOMString>","required":false,"default":"[]","extended_attributes":[]},{"name":"receipts","type_":"sequence<DOMString>","required":false,"default":"[]","extended_attributes":[]}]}

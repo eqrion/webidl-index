@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSMathNegate","inherits":"CSSMathValue","extended_attributes":["Constructor(CSSNumberish arg)","Exposed=(Window, LayoutWorklet, PaintWorklet)"],"members":[{"kind":"attribute","name":"value","type_":"CSSNumberish","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

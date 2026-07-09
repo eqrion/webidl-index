@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGAnimatedRect","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"animVal","type_":"SVGRect","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"baseVal","type_":"SVGRect","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

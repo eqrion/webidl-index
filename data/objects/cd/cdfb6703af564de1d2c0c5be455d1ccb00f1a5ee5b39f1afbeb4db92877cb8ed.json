@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ResizeObserverOptions","extended_attributes":[],"fields":[{"name":"box","type_":"ResizeObserverBoxOptions","required":false,"default":"\"content-box\"","extended_attributes":[]}]}

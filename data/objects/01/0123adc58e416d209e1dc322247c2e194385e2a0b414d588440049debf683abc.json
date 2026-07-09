@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NavigationCurrentEntryChangeEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"from","type_":"NavigationHistoryEntry","required":true,"extended_attributes":[]},{"name":"navigationType","type_":"NavigationNavigationType?","required":false,"default":"null","extended_attributes":[]}]}

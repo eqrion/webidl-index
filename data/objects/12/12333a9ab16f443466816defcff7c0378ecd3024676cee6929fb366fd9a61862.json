@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RequestDestination","extended_attributes":[],"values":["","document","sharedworker","subresource","unknown","worker"]}

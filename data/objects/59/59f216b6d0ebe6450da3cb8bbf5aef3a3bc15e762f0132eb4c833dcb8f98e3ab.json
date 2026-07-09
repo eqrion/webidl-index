@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUPredefinedColorSpace","extended_attributes":["EnabledBySetting=WebGPU"],"values":["srgb"]}

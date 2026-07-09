@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SmartCardConnectionState","extended_attributes":[],"values":["absent","negotiable","powered","present","specific","swallowed"]}

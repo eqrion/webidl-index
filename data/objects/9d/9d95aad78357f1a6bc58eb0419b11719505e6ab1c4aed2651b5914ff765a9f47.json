@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PageRevealEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"viewTransition","type_":"ViewTransition?","required":false,"default":"null","extended_attributes":[]}]}

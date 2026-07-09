@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGTransformable","inherits":"SVGLocatable","extended_attributes":["Conditional=SVG","NoInterfaceObject","ObjCProtocol"],"members":[{"kind":"attribute","name":"transform","type_":"SVGAnimatedTransformList","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

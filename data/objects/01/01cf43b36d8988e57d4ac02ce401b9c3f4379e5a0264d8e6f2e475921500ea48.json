@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebTransportReliabilityMode","extended_attributes":["EnabledBySetting=WebTransportEnabled"],"values":["pending","reliable-only","supports-unreliable"]}

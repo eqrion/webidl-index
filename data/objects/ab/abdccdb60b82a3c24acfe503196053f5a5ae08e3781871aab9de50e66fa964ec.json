@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PromiseDebuggingStateHolder","extended_attributes":[],"fields":[{"name":"reason","type_":"any","required":false,"extended_attributes":[]},{"name":"state","type_":"PromiseDebuggingState","required":false,"default":"\"pending\"","extended_attributes":[]},{"name":"value","type_":"any","required":false,"extended_attributes":[]}]}

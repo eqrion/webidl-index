@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGExternalResourcesRequired","extended_attributes":["NoInterfaceObject","ObjCProtocol"],"members":[{"kind":"attribute","name":"externalResourcesRequired","type_":"SVGAnimatedBoolean","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

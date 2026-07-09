@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaControlEvent","extended_attributes":["Conditional=MEDIA_SESSION"],"values":["next-track","play-pause","previous-track"]}

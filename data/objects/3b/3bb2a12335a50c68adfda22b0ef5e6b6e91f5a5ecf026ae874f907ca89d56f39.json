@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NFCMessage","extended_attributes":[],"fields":[{"name":"records","type_":"sequence<NFCRecord>","required":false,"extended_attributes":[]},{"name":"url","type_":"USVString","required":false,"extended_attributes":[]}]}

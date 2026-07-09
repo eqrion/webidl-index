@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PaymentDelegation","extended_attributes":[],"values":["payerEmail","payerName","payerPhone","shippingAddress"]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaDeviceKind","extended_attributes":[],"values":["audioinput","audiooutput","videoinput"]}

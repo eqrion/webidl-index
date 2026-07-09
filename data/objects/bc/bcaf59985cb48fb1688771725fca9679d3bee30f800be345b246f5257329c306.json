@@ -1,0 +1,1 @@
+{"kind":"callback","name":"StorageUsageCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"currentUsageInBytes","type_":"unsigned long long","optional":false,"variadic":false,"extended_attributes":[]},{"name":"currentQuotaInBytes","type_":"unsigned long long","optional":false,"variadic":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SanitizerElementNamespace","extended_attributes":[],"fields":[{"name":"name","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"namespace","type_":"DOMString?","required":false,"default":"\"http://www.w3.org/1999/xhtml\"","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUPipelineStageDescriptor","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"fields":[{"name":"entryPoint","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"module","type_":"WebGPUShaderModule","required":true,"extended_attributes":[]}]}

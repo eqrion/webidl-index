@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"UserProximityEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"near","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

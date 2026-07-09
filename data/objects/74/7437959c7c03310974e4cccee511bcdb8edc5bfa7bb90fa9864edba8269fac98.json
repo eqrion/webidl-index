@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCErrorEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"error","type_":"RTCError","required":true,"extended_attributes":[]}]}

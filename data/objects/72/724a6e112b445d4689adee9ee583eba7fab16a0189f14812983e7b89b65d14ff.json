@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RouteMap","extended_attributes":["Exposed=Window","RuntimeEnabled=RouteMatching"],"members":[{"kind":"operation","name":"get","type_":"Route","arguments":[{"name":"entry","type_":"CSSOMString","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

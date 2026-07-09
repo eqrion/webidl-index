@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CryptoRsaHashedKeyAlgorithm","inherits":"CryptoRsaKeyAlgorithm","extended_attributes":["Conditional=WEB_CRYPTO","JSGenerateToJSObject"],"fields":[{"name":"hash","type_":"CryptoKeyAlgorithm","required":true,"extended_attributes":[]}]}

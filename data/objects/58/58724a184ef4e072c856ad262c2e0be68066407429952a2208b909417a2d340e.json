@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityProviderConfig","extended_attributes":[],"fields":[{"name":"clientId","type_":"USVString","required":true,"extended_attributes":[]},{"name":"configURL","type_":"USVString","required":true,"extended_attributes":[]},{"name":"nonce","type_":"USVString","required":false,"extended_attributes":[]}]}

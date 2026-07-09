@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WireframeRectType","extended_attributes":[],"values":["background","image","text","unknown"]}

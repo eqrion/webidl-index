@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PaymentShippingType","extended_attributes":["Conditional=PAYMENT_REQUEST"],"values":["delivery","pickup","shipping"]}

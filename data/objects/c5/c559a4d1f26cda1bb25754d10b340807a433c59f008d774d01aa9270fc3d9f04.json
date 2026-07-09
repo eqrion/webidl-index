@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ConnectionStatus","extended_attributes":[],"values":["associated","authenticating","connected","connecting","connectingfailed","disconnected","wps-failed","wps-overlapped","wps-timedout"]}

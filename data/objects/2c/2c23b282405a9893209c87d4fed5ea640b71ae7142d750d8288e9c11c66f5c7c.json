@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AttachInternalsOptions","extended_attributes":[],"fields":[{"name":"behaviors","type_":"sequence<ElementBehavior>","required":false,"extended_attributes":["RuntimeEnabled=ElementInternalsBehaviors"]}]}

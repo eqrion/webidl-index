@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CryptoRsaKeyAlgorithm","inherits":"CryptoKeyAlgorithm","extended_attributes":["Conditional=SUBTLE_CRYPTO","JSGenerateToJSObject"],"fields":[{"name":"modulusLength","type_":"unsigned long","required":true,"extended_attributes":[]},{"name":"publicExponent","type_":"BigInteger","required":true,"extended_attributes":[]}]}

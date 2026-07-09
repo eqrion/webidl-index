@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MediaStreamTrackAudioSourceNode","inherits":"AudioNode","extended_attributes":["Constructor(AudioContext context, MediaStreamTrackAudioSourceOptions options)","Pref=\"dom.webaudio.enabled\""],"members":[]}

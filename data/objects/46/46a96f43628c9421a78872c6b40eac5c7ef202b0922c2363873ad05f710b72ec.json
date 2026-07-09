@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SerialOutputSignals","extended_attributes":[],"fields":[{"name":"brk","type_":"boolean","required":false,"extended_attributes":[]},{"name":"dtr","type_":"boolean","required":false,"extended_attributes":[]},{"name":"rts","type_":"boolean","required":false,"extended_attributes":[]}]}

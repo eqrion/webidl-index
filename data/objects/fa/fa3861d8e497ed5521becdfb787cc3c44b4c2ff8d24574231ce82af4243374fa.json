@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ConstrainBooleanParameters","extended_attributes":["Conditional=MEDIA_STREAM","ImplementedAs=ConstrainBooleanParameters","JSGenerateToJSObject"],"fields":[{"name":"exact","type_":"boolean","required":false,"extended_attributes":[]},{"name":"ideal","type_":"boolean","required":false,"extended_attributes":[]}]}

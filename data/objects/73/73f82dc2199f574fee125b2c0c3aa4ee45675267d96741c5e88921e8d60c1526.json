@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ExtendableCookieChangeEventInit","inherits":"ExtendableEventInit","extended_attributes":[],"fields":[{"name":"changed","type_":"CookieList","required":false,"extended_attributes":[]},{"name":"deleted","type_":"CookieList","required":false,"extended_attributes":[]}]}

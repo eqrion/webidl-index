@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ScreenManager","extended_attributes":["Exposed=(Window, Worker)","RuntimeEnabled=ScreenEnumeration","SecureContext"],"members":[{"kind":"operation","name":"getScreens","type_":"Promise<sequence<Screen>>","arguments":[],"modifiers":[],"extended_attributes":["CallWith=ScriptState","RaisesException"]}]}

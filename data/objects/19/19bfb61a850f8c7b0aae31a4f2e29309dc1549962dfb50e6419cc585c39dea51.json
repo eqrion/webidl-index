@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DOMFileSystem","extended_attributes":["ActiveScriptWrappable","LegacyNoInterfaceObject"],"members":[{"kind":"attribute","name":"name","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"root","type_":"DirectoryEntry","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

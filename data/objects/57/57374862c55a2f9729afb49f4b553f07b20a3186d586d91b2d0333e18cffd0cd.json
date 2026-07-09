@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SocketOptions","extended_attributes":[],"fields":[{"name":"receiveBufferSize","type_":"unsigned long","required":false,"extended_attributes":["EnforceRange"]},{"name":"sendBufferSize","type_":"unsigned long","required":false,"extended_attributes":["EnforceRange"]}]}

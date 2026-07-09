@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AutocompleteErrorEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional AutocompleteErrorEventInit eventInitDict)","Pref=\"dom.forms.requestAutocomplete\""],"members":[{"kind":"attribute","name":"reason","type_":"AutoCompleteErrorReason","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

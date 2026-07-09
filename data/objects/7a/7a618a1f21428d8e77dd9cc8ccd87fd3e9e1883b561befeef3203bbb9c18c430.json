@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GroupedHistoryEvent","inherits":"Event","extended_attributes":["ChromeOnly","Constructor(DOMString type, optional GroupedHistoryEventInit eventInitDict)"],"members":[{"kind":"attribute","name":"otherBrowser","type_":"Element?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"IDBCursorWithValue","inherits":"IDBCursor","extended_attributes":["Exposed=(Window, Worker)"],"members":[{"kind":"attribute","name":"value","type_":"any","arguments":[],"modifiers":["readonly"],"extended_attributes":["CallWith=ScriptState","CachedAttribute=isValueDirty"]}]}

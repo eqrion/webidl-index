@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DocumentPictureInPictureSession","extended_attributes":["Exposed=Window","RuntimeEnabled=DocumentPictureInPictureAPI","SecureContext"],"members":[{"kind":"attribute","name":"window","type_":"Window?","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]}]}

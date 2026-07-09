@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSTryRule","inherits":"CSSRule","extended_attributes":["Exposed=Window","RuntimeEnabled=CSSAnchorPositioning"],"members":[]}

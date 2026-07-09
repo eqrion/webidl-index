@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CryptoKeyAlgorithm","extended_attributes":["Conditional=SUBTLE_CRYPTO","JSGenerateToJSObject"],"fields":[{"name":"name","type_":"DOMString","required":true,"extended_attributes":[]}]}

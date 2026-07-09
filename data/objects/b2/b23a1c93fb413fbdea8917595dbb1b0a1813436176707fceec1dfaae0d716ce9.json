@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuctionAdInterestGroupSize","extended_attributes":[],"fields":[{"name":"height","type_":"USVString","required":true,"extended_attributes":[]},{"name":"width","type_":"USVString","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"LlamaFormatChatOptions","extended_attributes":[],"fields":[{"name":"addAssistant","type_":"boolean","required":false,"default":"true","extended_attributes":[]},{"name":"messages","type_":"sequence<LlamaChatMessage>","required":true,"extended_attributes":[]}]}

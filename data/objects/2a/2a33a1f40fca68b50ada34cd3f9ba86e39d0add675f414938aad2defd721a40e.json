@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCAnswerOptions","inherits":"RTCOfferAnswerOptions","extended_attributes":["Conditional=WEB_RTC","EnabledAtRuntime=PeerConnection"],"fields":[]}

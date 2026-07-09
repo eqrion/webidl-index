@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AudioDecoderSupport","extended_attributes":[],"fields":[{"name":"config","type_":"AudioDecoderConfig","required":true,"extended_attributes":[]},{"name":"supported","type_":"boolean","required":true,"extended_attributes":[]}]}

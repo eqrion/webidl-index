@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuthenticationExtensionsClientOutputs","extended_attributes":["Conditional=WEB_AUTHN","JSGenerateToJSObject"],"fields":[{"name":"appid","type_":"boolean","required":false,"extended_attributes":[]},{"name":"credProps","type_":"CredentialPropertiesOutput","required":false,"extended_attributes":[]}]}

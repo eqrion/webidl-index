@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUShaderModuleCompilationHint","extended_attributes":[],"fields":[{"name":"layout","type_":"(GPUPipelineLayout or GPUAutoLayoutMode)","required":false,"extended_attributes":[]}]}

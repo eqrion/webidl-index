@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUBufferDescriptor","extended_attributes":[],"fields":[{"name":"size","type_":"u32","required":false,"extended_attributes":[]},{"name":"usage","type_":"WebGPUBufferUsageFlags","required":false,"extended_attributes":[]}]}

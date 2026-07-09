@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCDataChannelEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"channel","type_":"RTCDataChannel?","required":false,"default":"null","extended_attributes":[]}]}

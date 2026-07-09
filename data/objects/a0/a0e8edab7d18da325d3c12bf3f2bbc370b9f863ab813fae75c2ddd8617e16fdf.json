@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HighlightHitResult","extended_attributes":[],"fields":[{"name":"highlight","type_":"Highlight","required":false,"extended_attributes":[]},{"name":"ranges","type_":"sequence<AbstractRange>","required":false,"extended_attributes":[]}]}

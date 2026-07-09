@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUBindGroupEntry","extended_attributes":["EnabledBySetting=WebGPUEnabled"],"fields":[{"name":"binding","type_":"GPUIndex32","required":true,"extended_attributes":[]},{"name":"resource","type_":"GPUBindingResource","required":true,"extended_attributes":[]}]}

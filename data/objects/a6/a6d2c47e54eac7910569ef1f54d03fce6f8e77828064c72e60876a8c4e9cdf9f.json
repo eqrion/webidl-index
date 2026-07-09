@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SubAppsResultCode","extended_attributes":[],"values":["failure","success"]}

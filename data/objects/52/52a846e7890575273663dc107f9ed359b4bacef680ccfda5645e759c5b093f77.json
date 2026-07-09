@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PCError","extended_attributes":[],"values":["InvalidAccessError","InvalidCharacterError","InvalidModificationError","InvalidStateError","NotReadableError","NotSupportedError","OperationError","RangeError","SyntaxError","TypeError","UnknownError"]}

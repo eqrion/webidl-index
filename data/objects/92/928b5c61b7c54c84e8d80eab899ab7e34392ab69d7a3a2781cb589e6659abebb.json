@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RewriterLength","extended_attributes":[],"values":["as-is","longer","shorter"]}

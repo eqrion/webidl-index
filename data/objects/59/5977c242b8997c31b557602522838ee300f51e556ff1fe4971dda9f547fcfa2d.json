@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ElementRegistrationOptions","extended_attributes":[],"fields":[{"name":"extends","type_":"DOMString?","required":false,"default":"null","extended_attributes":[]},{"name":"prototype","type_":"object?","required":false,"default":"null","extended_attributes":[]}]}

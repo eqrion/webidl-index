@@ -1,0 +1,1 @@
+{"kind":"callback","name":"AudioWorkletProcessorConstructor","extended_attributes":["Conditional=WEB_AUDIO"],"return_type":"AudioWorkletProcessor","arguments":[{"name":"options","type_":"object","optional":false,"variadic":false,"extended_attributes":[]}]}

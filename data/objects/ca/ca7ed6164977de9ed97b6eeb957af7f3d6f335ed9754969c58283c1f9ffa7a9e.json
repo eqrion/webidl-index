@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ProfilerSample","extended_attributes":[],"fields":[{"name":"marker","type_":"ProfilerMarker","required":false,"extended_attributes":[]},{"name":"stackId","type_":"unsigned long long","required":false,"extended_attributes":[]},{"name":"timestamp","type_":"DOMHighResTimeStamp","required":true,"extended_attributes":[]}]}

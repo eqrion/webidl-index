@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PublicKeyCredentialParameters","extended_attributes":[],"fields":[{"name":"alg","type_":"COSEAlgorithmIdentifier","required":true,"extended_attributes":[]},{"name":"type","type_":"PublicKeyCredentialType","required":true,"extended_attributes":[]}]}

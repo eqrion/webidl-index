@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaResourceDebugInfo","extended_attributes":[],"fields":[{"name":"cacheStream","type_":"MediaCacheStreamDebugInfo","required":true,"extended_attributes":[]}]}

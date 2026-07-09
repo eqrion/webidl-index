@@ -1,0 +1,1 @@
+{"kind":"enum","name":"TaskPriority","extended_attributes":[],"values":["default","high","idle","immediate","low"]}

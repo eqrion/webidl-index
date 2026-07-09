@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"EcKeyParams","inherits":"CryptoAlgorithmParameters","extended_attributes":["ImplementedAs=CryptoAlgorithmEcKeyParams"],"fields":[{"name":"namedCurve","type_":"DOMString","required":true,"extended_attributes":[]}]}

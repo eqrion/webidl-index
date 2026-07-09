@@ -1,0 +1,1 @@
+{"kind":"callback","name":"ComputePressureUpdateCallback","extended_attributes":["Exposed=Window","RuntimeEnabled=ComputePressure","SecureContext"],"return_type":"void","arguments":[{"name":"update","type_":"ComputePressureObserverUpdate","optional":false,"variadic":false,"extended_attributes":[]}]}

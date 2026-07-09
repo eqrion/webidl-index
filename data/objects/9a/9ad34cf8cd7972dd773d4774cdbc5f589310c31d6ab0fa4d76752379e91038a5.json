@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ApplePayPaymentCompleteDetails","extended_attributes":["Conditional=APPLE_PAY_PAYMENT_REQUEST"],"fields":[{"name":"orderDetails","type_":"ApplePayPaymentOrderDetails","required":false,"extended_attributes":["Conditional=APPLE_PAY_PAYMENT_ORDER_DETAILS"]}]}

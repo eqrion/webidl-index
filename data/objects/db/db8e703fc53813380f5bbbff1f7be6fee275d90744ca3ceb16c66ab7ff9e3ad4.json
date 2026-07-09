@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PrivateAttributionOptions","extended_attributes":[],"fields":[{"name":"eventType","type_":"PrivateAttributionEvent","required":false,"extended_attributes":[]},{"name":"helperNetworkId","type_":"unsigned long","required":false,"extended_attributes":[]}]}

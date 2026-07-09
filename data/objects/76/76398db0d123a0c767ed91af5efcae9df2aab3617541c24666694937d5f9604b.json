@@ -1,0 +1,1 @@
+{"kind":"interface","name":"LaunchQueue","extended_attributes":["Exposed=Window","RuntimeEnabled=FileHandling"],"members":[{"kind":"operation","name":"setConsumer","type_":"void","arguments":[{"name":"consumer","type_":"LaunchConsumer","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"GPUComputePassTimestampWrites","extended_attributes":[],"aliased_type":"sequence<GPUComputePassTimestampWrite>"}

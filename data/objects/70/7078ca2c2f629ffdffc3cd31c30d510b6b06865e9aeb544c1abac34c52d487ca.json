@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCPeerConnectionStats","inherits":"RTCStats","extended_attributes":["JSGenerateToJSObject"],"fields":[{"name":"dataChannelsClosed","type_":"unsigned long","required":false,"extended_attributes":[]},{"name":"dataChannelsOpened","type_":"unsigned long","required":false,"extended_attributes":[]}]}

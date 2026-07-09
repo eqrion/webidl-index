@@ -1,0 +1,1 @@
+{"kind":"enum","name":"VideoFacingModeEnum","extended_attributes":[],"values":["environment","left","right","user"]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUFeatureName","extended_attributes":[],"values":["chromium-experimental-dp4a","depth-clip-control","depth32float-stencil8","indirect-first-instance","pipeline-statistics-query","shader-float16","texture-compression-astc","texture-compression-bc","texture-compression-etc2","timestamp-query"]}

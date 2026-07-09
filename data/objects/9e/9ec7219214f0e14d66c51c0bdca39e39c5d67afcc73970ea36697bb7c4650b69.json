@@ -1,0 +1,1 @@
+{"kind":"enum","name":"BasicCardType","extended_attributes":[],"values":["credit","debit","prepaid"]}

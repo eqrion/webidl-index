@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"ObservableInspectorUnion","extended_attributes":[],"aliased_type":"(ObserverCallback or ObservableInspector)"}

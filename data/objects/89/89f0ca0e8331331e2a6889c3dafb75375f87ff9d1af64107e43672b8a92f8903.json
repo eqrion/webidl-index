@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ServiceWorkerState","extended_attributes":[],"values":["activated","activating","installed","installing","parsed","redundant"]}

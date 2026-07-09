@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CompressionFormat","extended_attributes":[],"values":["deflate","deflate-raw","gzip","zstd"]}

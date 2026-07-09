@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ClientRectsAndTexts","extended_attributes":[],"fields":[{"name":"rectList","type_":"DOMRectList","required":true,"extended_attributes":[]},{"name":"textList","type_":"DOMStringList","required":true,"extended_attributes":[]}]}

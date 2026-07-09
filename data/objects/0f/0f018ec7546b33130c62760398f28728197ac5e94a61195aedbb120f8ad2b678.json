@@ -1,0 +1,1 @@
+{"kind":"callback_interface","name":"FileSystemEntryCallback","extended_attributes":[],"members":[{"kind":"operation","name":"handleEvent","type_":"void","arguments":[{"name":"entry","type_":"FileSystemEntry","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

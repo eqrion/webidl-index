@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"Canvas2DDrawElementOption","extended_attributes":[],"fields":[{"name":"allowReadback","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

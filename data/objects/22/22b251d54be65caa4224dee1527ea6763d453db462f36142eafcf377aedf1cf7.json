@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IDBTransactionOptions","extended_attributes":["inline_doc"],"fields":[{"name":"relaxedDurability","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

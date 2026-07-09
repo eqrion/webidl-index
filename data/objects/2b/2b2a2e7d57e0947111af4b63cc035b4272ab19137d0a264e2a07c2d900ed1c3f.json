@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MathMLElement","inherits":"Element","extended_attributes":["Conditional=MATHML","JSGenerateToNativeObject"],"members":[]}

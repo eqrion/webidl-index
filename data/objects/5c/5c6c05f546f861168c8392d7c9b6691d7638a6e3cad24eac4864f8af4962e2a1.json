@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NFCErrorEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, NFCErrorEventInit eventInitDict)","Exposed=Window","RuntimeEnabled=WebNFC","SecureContext"],"members":[{"kind":"attribute","name":"error","type_":"DOMException","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCResolutionRestriction","extended_attributes":[],"fields":[{"name":"maxHeight","type_":"unsigned long","required":false,"extended_attributes":[]},{"name":"maxWidth","type_":"unsigned long","required":false,"extended_attributes":[]}]}

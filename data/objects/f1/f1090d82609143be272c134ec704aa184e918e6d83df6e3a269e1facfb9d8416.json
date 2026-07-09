@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Iterator","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"operation","name":"next","type_":"any","arguments":[{"name":"value","type_":"any","optional":true,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":["CallWith=ScriptState","RaisesException"]}]}

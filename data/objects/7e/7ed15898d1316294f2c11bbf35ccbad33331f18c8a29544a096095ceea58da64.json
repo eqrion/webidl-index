@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AttributeNameValue","extended_attributes":[],"fields":[{"name":"name","type_":"UTF8String","required":true,"extended_attributes":[]},{"name":"value","type_":"UTF8String","required":true,"extended_attributes":[]}]}

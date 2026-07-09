@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebPrintingSides","extended_attributes":[],"values":["one-sided","two-sided-long-edge","two-sided-short-edge"]}

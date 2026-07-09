@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPUStoreAction","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"values":["dontcare","multisampleresolve","store"]}

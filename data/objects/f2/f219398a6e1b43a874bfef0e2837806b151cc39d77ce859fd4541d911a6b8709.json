@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PublicKeyCredentialDescriptorJSON","extended_attributes":[],"fields":[{"name":"id","type_":"Base64URLString","required":true,"extended_attributes":[]},{"name":"transports","type_":"sequence<DOMString>","required":false,"extended_attributes":[]},{"name":"type","type_":"DOMString","required":true,"extended_attributes":[]}]}

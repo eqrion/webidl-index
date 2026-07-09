@@ -1,0 +1,1 @@
+{"kind":"callback","name":"TransformerTransformCallback","extended_attributes":[],"return_type":"Promise<void>","arguments":[{"name":"chunk","type_":"any","optional":false,"variadic":false,"extended_attributes":[]},{"name":"controller","type_":"TransformStreamDefaultController","optional":false,"variadic":false,"extended_attributes":[]}]}

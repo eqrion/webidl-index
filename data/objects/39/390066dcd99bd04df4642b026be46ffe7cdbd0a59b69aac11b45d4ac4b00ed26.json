@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUIndexFormat","extended_attributes":["Pref=\"dom.webgpu.enable\""],"members":[{"kind":"const","name":"UINT16","type_":"u32","arguments":[],"modifiers":[],"value":"0","extended_attributes":[]},{"kind":"const","name":"UINT32","type_":"u32","arguments":[],"modifiers":[],"value":"1","extended_attributes":[]}]}

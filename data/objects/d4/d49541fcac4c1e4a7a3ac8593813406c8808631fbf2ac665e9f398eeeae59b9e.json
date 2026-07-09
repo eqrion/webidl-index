@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MozHardwareInput","inherits":"EventTarget","extended_attributes":["ChromeOnly","JSImplementation=\"@mozilla.org/b2g-hardwareinput;1\"","Pref=\"dom.mozInputMethod.enabled\""],"members":[]}

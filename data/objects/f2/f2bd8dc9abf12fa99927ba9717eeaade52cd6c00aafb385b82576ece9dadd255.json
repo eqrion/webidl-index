@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MozGsmIccInfo","inherits":"MozIccInfo","extended_attributes":["ChromeOnly","Pref=\"dom.icc.enabled\""],"members":[{"kind":"attribute","name":"msisdn","type_":"DOMString?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

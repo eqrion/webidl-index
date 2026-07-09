@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPULogEntryType","extended_attributes":[],"values":["device-lost","recoverable-out-of-memory","validation-error"]}

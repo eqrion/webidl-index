@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUCompilationInfo","extended_attributes":["Exposed=(Window)","Pref=\"dom.webgpu.enabled\"","SecureContext"],"members":[{"kind":"attribute","name":"messages","type_":"sequence<GPUCompilationMessage>","arguments":[],"modifiers":["readonly"],"extended_attributes":["Cached","Frozen","Pure"]}]}

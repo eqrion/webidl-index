@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ScrollIntoViewOptions","extended_attributes":[],"fields":[{"name":"block","type_":"ScrollLogicalPosition","required":false,"default":"\"start\"","extended_attributes":["ImplementedAs=blockPosition"]},{"name":"inline","type_":"ScrollLogicalPosition","required":false,"default":"\"nearest\"","extended_attributes":["ImplementedAs=inlinePosition"]}]}

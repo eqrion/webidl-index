@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUSwapChain","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU","InterfaceName=GPUSwapChain","SkipVTableValidation"],"members":[{"kind":"operation","name":"getCurrentTexture","type_":"WebGPUTexture","arguments":[],"modifiers":[],"extended_attributes":[]}]}

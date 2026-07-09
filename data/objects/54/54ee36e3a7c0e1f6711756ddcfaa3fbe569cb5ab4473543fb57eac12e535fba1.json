@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IDBDatabaseInfo","extended_attributes":["JSGenerateToJSObject"],"fields":[{"name":"name","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"version","type_":"unsigned long long","required":false,"extended_attributes":[]}]}

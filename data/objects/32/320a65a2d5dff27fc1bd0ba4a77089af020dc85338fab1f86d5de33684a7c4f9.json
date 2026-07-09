@@ -1,0 +1,1 @@
+{"kind":"interface","name":"OESStandardDerivatives","extended_attributes":["Conditional=WEBGL","DoNotCheckConstants","GenerateIsReachable=ImplWebGLRenderingContext","NoInterfaceObject"],"members":[{"kind":"const","name":"FRAGMENT_SHADER_DERIVATIVE_HINT_OES","type_":"unsigned long","arguments":[],"modifiers":[],"value":"0x8B8B","extended_attributes":[]}]}

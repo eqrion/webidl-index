@@ -1,0 +1,1 @@
+{"kind":"interface","name":"FetchLaterResult","extended_attributes":["Exposed=Window","ImplementedAs=FetchLaterResult","RuntimeEnabled=FetchLaterAPI","SecureContext"],"members":[{"kind":"attribute","name":"activated","type_":"boolean","arguments":[],"modifiers":["readonly"],"extended_attributes":["Measure"]}]}

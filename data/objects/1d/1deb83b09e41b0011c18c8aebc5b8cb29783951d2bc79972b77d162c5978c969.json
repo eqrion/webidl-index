@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuctionAdditionalBidSignature","extended_attributes":[],"fields":[{"name":"key","type_":"Uint8Array","required":false,"extended_attributes":[]},{"name":"signature","type_":"Uint8Array","required":false,"extended_attributes":[]}]}

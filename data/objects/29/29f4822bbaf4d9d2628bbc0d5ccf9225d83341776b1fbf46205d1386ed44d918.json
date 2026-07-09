@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGLBuffer","extended_attributes":["Exposed=(Window, Worker)"],"members":[]}

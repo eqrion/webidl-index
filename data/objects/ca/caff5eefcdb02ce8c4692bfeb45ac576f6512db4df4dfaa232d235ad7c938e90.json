@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SmartCardResourceManager","extended_attributes":["Exposed=Window","IsolatedContext","RuntimeEnabled=SmartCard","SecureContext"],"members":[{"kind":"operation","name":"establishContext","type_":"Promise<SmartCardContext>","arguments":[],"modifiers":[],"extended_attributes":["CallWith=ScriptState","RaisesException"]}]}

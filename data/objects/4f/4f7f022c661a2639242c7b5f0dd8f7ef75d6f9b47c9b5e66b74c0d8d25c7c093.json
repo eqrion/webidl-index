@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PromiseDebuggingState","extended_attributes":[],"values":["fulfilled","pending","rejected"]}

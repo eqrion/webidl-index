@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUDrawable","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"members":[{"kind":"attribute","name":"texture","type_":"WebGPUTexture","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

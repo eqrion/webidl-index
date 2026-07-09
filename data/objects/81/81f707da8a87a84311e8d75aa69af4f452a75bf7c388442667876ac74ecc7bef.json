@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SharedStorageDataOrigin","extended_attributes":[],"values":["context-origin","script-origin"]}

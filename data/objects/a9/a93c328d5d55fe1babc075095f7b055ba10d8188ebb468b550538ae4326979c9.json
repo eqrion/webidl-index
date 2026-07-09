@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SpeechSynthesisErrorEventInit","inherits":"SpeechSynthesisEventInit","extended_attributes":["Conditional=SPEECH_SYNTHESIS","EnabledBySetting=SpeechSynthesisAPIEnabled"],"fields":[{"name":"error","type_":"SpeechSynthesisErrorCode","required":true,"extended_attributes":[]}]}

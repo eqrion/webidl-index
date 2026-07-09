@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUBuffer","extended_attributes":["Pref=\"dom.webgpu.enable\""],"members":[{"kind":"attribute","name":"mapping","type_":"ArrayBuffer?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"operation","name":"unmap","type_":"void","arguments":[],"modifiers":[],"extended_attributes":[]}]}

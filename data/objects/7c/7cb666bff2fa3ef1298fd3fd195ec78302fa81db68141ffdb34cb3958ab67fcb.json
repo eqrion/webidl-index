@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AuthenticatorResponse","extended_attributes":["Pref=\"security.webauth.webauthn\"","SecureContext"],"members":[{"kind":"attribute","name":"clientDataJSON","type_":"ArrayBuffer","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

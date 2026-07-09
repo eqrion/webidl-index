@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUPipelineDescriptorBase","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"fields":[{"name":"layout","type_":"WebGPUPipelineLayout?","required":false,"default":"null","extended_attributes":[]}]}

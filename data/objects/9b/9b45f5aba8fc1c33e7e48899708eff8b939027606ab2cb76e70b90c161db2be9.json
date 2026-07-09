@@ -1,0 +1,1 @@
+{"kind":"callback_interface","name":"PositionCallback","extended_attributes":["Callback=FunctionOnly","Conditional=GEOLOCATION"],"members":[{"kind":"operation","name":"handleEvent","type_":"boolean","arguments":[{"name":"position","type_":"Geoposition","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

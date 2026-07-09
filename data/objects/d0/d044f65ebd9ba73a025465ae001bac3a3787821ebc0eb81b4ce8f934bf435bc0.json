@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PushSubscriptionOptionsInit","extended_attributes":[],"fields":[{"name":"applicationServerKey","type_":"BufferSource?","required":false,"default":"null","extended_attributes":[]},{"name":"userVisibleOnly","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

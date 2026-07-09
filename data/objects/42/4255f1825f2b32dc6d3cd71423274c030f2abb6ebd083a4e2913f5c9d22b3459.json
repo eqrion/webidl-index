@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WPSInfo","extended_attributes":[],"fields":[{"name":"method","type_":"WPSMethod","required":false,"extended_attributes":[]},{"name":"pin","type_":"DOMString","required":false,"extended_attributes":[]}]}

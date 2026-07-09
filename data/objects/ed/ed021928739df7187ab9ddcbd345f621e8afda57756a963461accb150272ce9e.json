@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUFilterMode","extended_attributes":[],"values":["linear","nearest"]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"TelephonyCallState","extended_attributes":[],"values":["alerting","connected","dialing","disconnected","held","incoming"]}

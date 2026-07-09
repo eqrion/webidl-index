@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MLConv2dFilterOperandLayout","extended_attributes":[],"values":["hwio","ihwo","ohwi","oihw"]}

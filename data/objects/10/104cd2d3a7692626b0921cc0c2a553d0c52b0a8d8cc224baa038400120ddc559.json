@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DigitalCredentialCreationOptions","extended_attributes":[],"fields":[{"name":"requests","type_":"sequence<DigitalCredentialCreateRequest>","required":true,"extended_attributes":[]}]}

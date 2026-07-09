@@ -1,0 +1,1 @@
+{"kind":"callback","name":"RTCLogsCallback","extended_attributes":["Conditional=WEB_RTC","GenerateIsReachable=ImplScriptExecutionContext"],"return_type":"undefined","arguments":[{"name":"logs","type_":"RTCLogs","optional":false,"variadic":false,"extended_attributes":[]}]}

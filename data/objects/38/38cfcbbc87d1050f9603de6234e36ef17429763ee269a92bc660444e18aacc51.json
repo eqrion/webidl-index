@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCQuicStreamEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional RTCQuicStreamEventInit eventInitDict)","Exposed=Window","OriginTrialEnabled=RTCQuicTransport"],"members":[{"kind":"attribute","name":"stream","type_":"RTCQuicStream","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

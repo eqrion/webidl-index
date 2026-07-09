@@ -1,0 +1,1 @@
+{"kind":"callback","name":"ViewTransitionUpdateCallback","extended_attributes":["EnabledBySetting=ViewTransitionsEnabled","GenerateIsReachable=ImplScriptExecutionContext"],"return_type":"Promise<any>","arguments":[]}

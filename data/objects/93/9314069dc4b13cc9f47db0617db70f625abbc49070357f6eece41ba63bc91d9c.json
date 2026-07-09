@@ -1,0 +1,1 @@
+{"kind":"callback","name":"RTCStatsCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"response","type_":"RTCStatsResponse","optional":false,"variadic":false,"extended_attributes":[]}]}

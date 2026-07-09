@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GetSystemDirectoryOptions","extended_attributes":[],"fields":[{"name":"type","type_":"SystemDirectoryType","required":true,"extended_attributes":[]}]}

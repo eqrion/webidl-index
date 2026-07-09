@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaEncodingConfiguration","inherits":"MediaConfiguration","extended_attributes":["EnabledBySetting=MediaCapabilitiesEnabled","JSGenerateToJSObject","JSGenerateToNativeObject"],"fields":[{"name":"type","type_":"MediaEncodingType","required":true,"extended_attributes":[]}]}

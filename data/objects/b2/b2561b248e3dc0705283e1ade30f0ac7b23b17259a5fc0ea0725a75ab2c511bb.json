@@ -1,0 +1,1 @@
+{"kind":"interface","name":"BeforeLoadEvent","inherits":"Event","extended_attributes":["ConstructorTemplate=Event"],"members":[{"kind":"attribute","name":"url","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":["InitializedByEventConstructor"]}]}

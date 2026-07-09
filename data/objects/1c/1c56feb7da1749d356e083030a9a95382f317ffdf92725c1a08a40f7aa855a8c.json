@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ScopedCredentialParameters","extended_attributes":[],"fields":[{"name":"algorithm","type_":"WebAuthnAlgorithmID","required":true,"extended_attributes":[]},{"name":"type","type_":"ScopedCredentialType","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaStreamTrackSignal","extended_attributes":[],"fields":[{"name":"frameRate","type_":"double","required":false,"extended_attributes":[]},{"name":"signalType","type_":"MediaStreamTrackSignalType","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CanvasFilters","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"filter","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":["Pref=\"canvas.filters.enabled\"","SetterThrows"]}]}

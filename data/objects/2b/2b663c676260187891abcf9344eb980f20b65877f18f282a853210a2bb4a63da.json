@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCTransformEvent","inherits":"Event","extended_attributes":["Exposed=DedicatedWorker","RuntimeEnabled=RTCRtpScriptTransform"],"members":[{"kind":"attribute","name":"transformer","type_":"RTCRtpScriptTransformer","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

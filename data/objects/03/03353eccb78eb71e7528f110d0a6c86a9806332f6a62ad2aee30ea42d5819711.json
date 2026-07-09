@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CanvasWebGPUAccessOption","extended_attributes":[],"fields":[{"name":"device","type_":"GPUDevice","required":false,"extended_attributes":[]},{"name":"label","type_":"DOMString?","required":false,"extended_attributes":[]},{"name":"usage","type_":"GPUTextureUsageFlags","required":false,"default":"0x14","extended_attributes":[]}]}

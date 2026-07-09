@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SecurityType","extended_attributes":[],"values":["open","wpa-psk","wpa2-psk"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Float64Array","inherits":"ArrayBufferView","extended_attributes":["ImplementedAs=DOMFloat64Array","NoInterfaceObject"],"members":[]}

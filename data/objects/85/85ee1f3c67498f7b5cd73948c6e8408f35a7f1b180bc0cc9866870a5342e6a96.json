@@ -1,0 +1,1 @@
+{"kind":"enum","name":"LlamaChatPhase","extended_attributes":[],"values":["generation","prompt"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCVideoFrameHistoryInternal","extended_attributes":[],"fields":[{"name":"entries","type_":"sequence<RTCVideoFrameHistoryEntryInternal>","required":false,"default":"[]","extended_attributes":[]},{"name":"trackIdentifier","type_":"DOMString","required":true,"extended_attributes":[]}]}

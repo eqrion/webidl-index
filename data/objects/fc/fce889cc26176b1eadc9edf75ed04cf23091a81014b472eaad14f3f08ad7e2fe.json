@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPURenderPassAttachmentDescriptor","extended_attributes":[],"fields":[{"name":"attachment","type_":"WebGPUTextureView","required":false,"extended_attributes":[]},{"name":"loadOp","type_":"WebGPULoadOpEnum","required":false,"extended_attributes":[]},{"name":"storeOp","type_":"WebGPUStoreOpEnum","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CSSToggleEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"toggle","type_":"CSSToggle?","required":false,"default":"null","extended_attributes":[]},{"name":"toggleName","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

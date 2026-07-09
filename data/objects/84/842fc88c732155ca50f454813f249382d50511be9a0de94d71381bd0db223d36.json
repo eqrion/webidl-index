@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WifiSecurityMethod","extended_attributes":[],"values":["OPEN","WEP","WPA-EAP","WPA-PSK"]}

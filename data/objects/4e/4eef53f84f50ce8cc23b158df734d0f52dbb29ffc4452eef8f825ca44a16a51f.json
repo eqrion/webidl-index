@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUTexture","extended_attributes":["Pref=\"dom.webgpu.enable\""],"members":[{"kind":"operation","name":"createTextureView","type_":"WebGPUTextureView","arguments":[{"name":"desc","type_":"WebGPUTextureViewDescriptor","optional":true,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

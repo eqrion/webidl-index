@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLQuoteElement","inherits":"HTMLElement","extended_attributes":["HTMLConstructor"],"members":[{"kind":"attribute","name":"cite","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":["CEReactions","Reflect","URL"]}]}

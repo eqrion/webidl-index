@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DeviceLightEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional DeviceLightEventInit eventInitDict)"],"members":[{"kind":"attribute","name":"value","type_":"unrestricted double","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

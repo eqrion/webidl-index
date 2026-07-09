@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AcceleratedAnimation","extended_attributes":["ExportMacro=WEBCORE_TESTSUPPORT_EXPORT","JSGenerateToJSObject"],"fields":[{"name":"property","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"speed","type_":"double","required":false,"extended_attributes":[]}]}

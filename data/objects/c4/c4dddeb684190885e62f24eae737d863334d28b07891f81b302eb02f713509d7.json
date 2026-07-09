@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SubmitEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"agentInvoked","type_":"boolean","required":false,"default":"false","extended_attributes":["RuntimeEnabled=WebMCP"]},{"name":"submitter","type_":"HTMLElement?","required":false,"default":"null","extended_attributes":[]}]}

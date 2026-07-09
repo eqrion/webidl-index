@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPULoadOp","extended_attributes":["Pref=\"dom.webgpu.enable\""],"members":[{"kind":"const","name":"CLEAR","type_":"u32","arguments":[],"modifiers":[],"value":"0","extended_attributes":[]},{"kind":"const","name":"LOAD","type_":"u32","arguments":[],"modifiers":[],"value":"1","extended_attributes":[]}]}

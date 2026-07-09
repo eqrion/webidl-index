@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GetNotificationOptions","extended_attributes":[],"fields":[{"name":"includeTriggered","type_":"boolean","required":false,"default":"false","extended_attributes":["RuntimeEnabled=NotificationTriggers"]},{"name":"tag","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

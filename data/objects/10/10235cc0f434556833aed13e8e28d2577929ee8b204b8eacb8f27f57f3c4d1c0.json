@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PressureObserverOptions","extended_attributes":["Exposed=Window","SecureContext"],"fields":[{"name":"cpuUtilizationThresholds","type_":"sequence<double>","required":false,"default":"[]","extended_attributes":[]}]}

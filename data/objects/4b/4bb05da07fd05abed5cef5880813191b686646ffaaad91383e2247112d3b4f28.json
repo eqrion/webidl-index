@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WorkletGlobalScope","extended_attributes":["Exposed=Worklet"],"members":[{"kind":"operation","name":"dump","type_":"void","arguments":[{"name":"str","type_":"DOMString","optional":true,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

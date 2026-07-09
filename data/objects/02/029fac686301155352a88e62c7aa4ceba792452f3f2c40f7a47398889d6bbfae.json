@@ -1,0 +1,1 @@
+{"kind":"enum","name":"BackgroundFetchFailureReason","extended_attributes":["ExportMacro=WEBCORE_EXPORT"],"values":["","aborted","bad-status","download-total-exceeded","fetch-error","quota-exceeded"]}

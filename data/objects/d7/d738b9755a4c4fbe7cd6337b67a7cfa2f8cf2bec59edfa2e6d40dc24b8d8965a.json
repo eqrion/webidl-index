@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PaintRequest","extended_attributes":[],"members":[{"kind":"attribute","name":"clientRect","type_":"DOMRect","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"reason","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

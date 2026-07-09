@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCRtpSendParameters","inherits":"RTCRtpParameters","extended_attributes":[],"fields":[{"name":"encodings","type_":"sequence<RTCRtpEncodingParameters>","required":true,"extended_attributes":[]},{"name":"transactionId","type_":"DOMString","required":false,"extended_attributes":[]}]}

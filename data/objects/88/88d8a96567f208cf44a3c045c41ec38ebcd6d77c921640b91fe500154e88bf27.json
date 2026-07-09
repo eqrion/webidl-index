@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AudioDestinationNode","inherits":"AudioNode","extended_attributes":["Exposed=Window","Pref=\"dom.webaudio.enabled\""],"members":[{"kind":"attribute","name":"maxChannelCount","type_":"unsigned long","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

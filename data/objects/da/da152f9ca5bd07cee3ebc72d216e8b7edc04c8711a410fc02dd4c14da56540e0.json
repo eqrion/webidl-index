@@ -1,0 +1,1 @@
+{"kind":"enum","name":"VideoPresentationMode","extended_attributes":["Conditional=VIDEO_PRESENTATION_MODE"],"values":["fullscreen","inline","picture-in-picture"]}

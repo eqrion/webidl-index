@@ -1,0 +1,1 @@
+{"kind":"enum","name":"FlexLineGrowthState","extended_attributes":[],"values":["growing","shrinking","unchanged"]}

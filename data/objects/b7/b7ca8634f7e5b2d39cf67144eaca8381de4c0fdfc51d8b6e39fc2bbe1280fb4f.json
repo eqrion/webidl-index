@@ -1,0 +1,1 @@
+{"kind":"interface","name":"BigInt64Array","inherits":"ArrayBufferView","extended_attributes":["ImplementedAs=DOMBigInt64Array","NoInterfaceObject"],"members":[]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NavigatorDeviceMemory","extended_attributes":["Exposed=(Window, Worker)","NoInterfaceObject"],"members":[{"kind":"attribute","name":"deviceMemory","type_":"float","arguments":[],"modifiers":["readonly"],"extended_attributes":["MeasureAs=NavigatorDeviceMemory","RuntimeEnabled=NavigatorDeviceMemory","SecureContext"]}]}

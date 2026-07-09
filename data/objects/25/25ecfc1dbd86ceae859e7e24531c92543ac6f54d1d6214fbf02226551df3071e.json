@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TaskSignalAnyInit","extended_attributes":[],"fields":[{"name":"priority","type_":"(TaskPriority or TaskSignal)","required":false,"default":"\"user-visible\"","extended_attributes":[]}]}

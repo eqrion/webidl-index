@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ProofreadResult","extended_attributes":[],"fields":[{"name":"correctedInput","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"corrections","type_":"sequence<ProofreadCorrection>","required":false,"extended_attributes":[]}]}

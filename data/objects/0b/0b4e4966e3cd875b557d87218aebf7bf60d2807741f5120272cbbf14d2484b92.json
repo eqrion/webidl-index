@@ -1,0 +1,1 @@
+{"kind":"enum","name":"IccContactType","extended_attributes":[],"values":["adn","fdn","sdn"]}

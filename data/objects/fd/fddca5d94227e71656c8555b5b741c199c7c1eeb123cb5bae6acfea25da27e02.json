@@ -1,0 +1,1 @@
+{"kind":"enum","name":"StringType","extended_attributes":[],"values":["inline","literal","other","stringbuffer"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaCapabilitiesInfo","extended_attributes":[],"fields":[{"name":"powerEfficient","type_":"boolean","required":true,"extended_attributes":[]},{"name":"smooth","type_":"boolean","required":true,"extended_attributes":[]},{"name":"supported","type_":"boolean","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HighlightPointerEventInit","inherits":"PointerEventInit","extended_attributes":[],"fields":[{"name":"range","type_":"Range?","required":false,"default":"null","extended_attributes":[]}]}

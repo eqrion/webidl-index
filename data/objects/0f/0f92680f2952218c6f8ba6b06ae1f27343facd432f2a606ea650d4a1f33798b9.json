@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MozClirModeEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional MozClirModeEventInit eventInitDict)","Pref=\"dom.mobileconnection.enabled\""],"members":[{"kind":"attribute","name":"mode","type_":"unsigned long","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

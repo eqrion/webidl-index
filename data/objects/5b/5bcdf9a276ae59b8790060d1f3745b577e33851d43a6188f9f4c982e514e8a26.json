@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCTransformEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"transformer","type_":"RTCRtpScriptTransformer","required":true,"extended_attributes":[]}]}

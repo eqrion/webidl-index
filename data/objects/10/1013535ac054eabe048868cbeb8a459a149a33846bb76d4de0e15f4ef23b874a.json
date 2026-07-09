@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AudioWorklet","inherits":"Worklet","extended_attributes":["Conditional=WEB_AUDIO","EnabledBySetting=WebAudio","Exposed=Window","JSGenerateToJSObject","SecureContext"],"members":[]}

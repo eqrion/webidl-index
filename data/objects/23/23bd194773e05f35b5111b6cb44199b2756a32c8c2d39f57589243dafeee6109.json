@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUComputePipeline","extended_attributes":["RuntimeEnabled=WebGPU"],"members":[]}

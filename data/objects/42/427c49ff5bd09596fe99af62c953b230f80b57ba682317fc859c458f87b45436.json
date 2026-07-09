@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUDeviceDescriptor","extended_attributes":[],"fields":[{"name":"extensions","type_":"WebGPUExtensions","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PerformanceObserverCallbackOptions","extended_attributes":[],"fields":[{"name":"droppedEntriesCount","type_":"unsigned long long","required":false,"extended_attributes":[]}]}

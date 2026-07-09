@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLMediaElement","extended_attributes":["Conditional=VIDEO_MEDIA_STREAM"],"members":[{"kind":"attribute","name":"srcObject","type_":"MediaStream?","arguments":[],"modifiers":[],"extended_attributes":[]}]}

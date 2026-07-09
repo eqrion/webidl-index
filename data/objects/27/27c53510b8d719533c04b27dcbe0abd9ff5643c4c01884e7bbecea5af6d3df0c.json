@@ -1,0 +1,1 @@
+{"kind":"callback","name":"LifecycleAdoptedCallback","extended_attributes":["MOZ_CAN_RUN_SCRIPT_BOUNDARY"],"return_type":"undefined","arguments":[{"name":"oldDocument","type_":"Document?","optional":false,"variadic":false,"extended_attributes":[]},{"name":"newDocment","type_":"Document?","optional":false,"variadic":false,"extended_attributes":[]}]}

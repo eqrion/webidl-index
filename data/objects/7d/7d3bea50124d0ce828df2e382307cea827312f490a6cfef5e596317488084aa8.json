@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"AttributeMatchList","extended_attributes":[],"aliased_type":"record<DOMString, sequence<DOMString>>"}

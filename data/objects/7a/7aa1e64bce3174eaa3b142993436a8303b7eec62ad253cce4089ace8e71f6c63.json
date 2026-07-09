@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PrivateAttributionHelperShare","extended_attributes":[],"fields":[{"name":"encryptedShare","type_":"ArrayBuffer","required":false,"extended_attributes":[]},{"name":"keyId","type_":"octet","required":false,"extended_attributes":[]}]}

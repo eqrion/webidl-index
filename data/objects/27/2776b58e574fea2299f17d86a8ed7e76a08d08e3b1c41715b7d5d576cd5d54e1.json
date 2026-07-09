@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ComputedKeyframe","inherits":"Keyframe","extended_attributes":[],"fields":[{"name":"computedOffset","type_":"double","required":false,"extended_attributes":[]}]}

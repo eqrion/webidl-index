@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUCanvasCompositingAlphaMode","extended_attributes":["EnabledBySetting=WebGPUEnabled"],"values":["opaque","premultiplied"]}

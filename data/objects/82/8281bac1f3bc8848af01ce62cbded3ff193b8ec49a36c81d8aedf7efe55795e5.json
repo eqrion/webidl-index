@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CorrectionType","extended_attributes":[],"values":["capitalization","grammar","missing-words","preposition","punctuation","spelling"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NDEFReadingEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"message","type_":"NDEFMessageInit","required":true,"extended_attributes":[]},{"name":"serialNumber","type_":"DOMString?","required":false,"default":"\"\"","extended_attributes":[]}]}

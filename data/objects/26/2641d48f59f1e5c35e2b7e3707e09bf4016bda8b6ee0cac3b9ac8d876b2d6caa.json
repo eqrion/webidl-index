@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NDEFPushTarget","extended_attributes":[],"values":["any","peer","tag"]}

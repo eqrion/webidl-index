@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ComputePressureRecord","extended_attributes":["Exposed=Window","SecureContext"],"fields":[{"name":"cpuSpeed","type_":"double","required":false,"extended_attributes":[]},{"name":"cpuUtilization","type_":"double","required":false,"extended_attributes":[]}]}

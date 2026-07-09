@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaKeyMessageType","extended_attributes":["Conditional=ENCRYPTED_MEDIA"],"values":["individualization-request","license-release","license-renewal","license-request"]}

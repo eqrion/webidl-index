@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"KeyAlgorithm","extended_attributes":[],"aliased_type":"(CryptoKeyAlgorithm or CryptoAesKeyAlgorithm or CryptoEcKeyAlgorithm or CryptoHmacKeyAlgorithm or CryptoRsaHashedKeyAlgorithm or CryptoRsaKeyAlgorithm)"}

@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"Uint32List","extended_attributes":[],"aliased_type":"(Uint32Array or sequence<GLuint>)"}

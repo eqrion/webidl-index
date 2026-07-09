@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BluetoothLEScanFilterInit","extended_attributes":[],"fields":[{"name":"name","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"namePrefix","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"services","type_":"sequence<BluetoothServiceUUID>","required":false,"extended_attributes":[]}]}

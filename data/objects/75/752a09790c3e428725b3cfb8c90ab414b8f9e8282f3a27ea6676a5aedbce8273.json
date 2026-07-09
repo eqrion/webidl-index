@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MozInputMethodInputContextInputTypes","extended_attributes":[],"values":["color","date","datetime","datetime-local","email","month","number","password","search","select-multiple","select-one","tel","text","textarea","time","url","week"]}

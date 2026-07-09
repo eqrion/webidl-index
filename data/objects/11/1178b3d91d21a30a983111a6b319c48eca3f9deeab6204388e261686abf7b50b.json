@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MobilePreferredNetworkType","extended_attributes":[],"values":["cdma","cdma/evdo","evdo","gsm","lte","lte/cdma/evdo","lte/wcdma","lte/wcdma/gsm","lte/wcdma/gsm/cdma/evdo","wcdma","wcdma/gsm","wcdma/gsm-auto","wcdma/gsm/cdma/evdo"]}

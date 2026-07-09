@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PaymentCredential","inherits":"PublicKeyCredential","extended_attributes":["Exposed=Window","RuntimeEnabled=SecurePaymentConfirmation","SecureContext"],"members":[]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCQuicStreamReadResult","extended_attributes":[],"fields":[{"name":"amount","type_":"unsigned long","required":false,"extended_attributes":[]},{"name":"finished","type_":"boolean","required":false,"extended_attributes":[]}]}

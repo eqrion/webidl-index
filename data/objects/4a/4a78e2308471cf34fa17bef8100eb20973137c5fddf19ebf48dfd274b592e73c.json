@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IDBIndexParameters","extended_attributes":[],"fields":[{"name":"locale","type_":"DOMString?","required":false,"default":"null","extended_attributes":[]},{"name":"multiEntry","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"unique","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUBufferBinding","extended_attributes":["EnabledBySetting=WebGPU"],"fields":[{"name":"buffer","type_":"GPUBuffer","required":true,"extended_attributes":[]},{"name":"offset","type_":"GPUSize64","required":false,"default":"0","extended_attributes":[]},{"name":"size","type_":"GPUSize64","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayContactField","extended_attributes":["Conditional=APPLE_PAY"],"values":["email","name","phone","phoneticName","postalAddress"]}

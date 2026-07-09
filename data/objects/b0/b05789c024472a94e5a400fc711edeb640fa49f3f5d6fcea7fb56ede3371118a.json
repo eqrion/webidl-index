@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BlobEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"data","type_":"Blob","required":true,"extended_attributes":[]}]}

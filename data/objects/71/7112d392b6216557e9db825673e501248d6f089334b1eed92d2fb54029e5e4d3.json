@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BeforeAfterKeyboardEventInit","inherits":"KeyboardEventInit","extended_attributes":[],"fields":[{"name":"embeddedCancelled","type_":"boolean?","required":false,"default":"null","extended_attributes":[]}]}

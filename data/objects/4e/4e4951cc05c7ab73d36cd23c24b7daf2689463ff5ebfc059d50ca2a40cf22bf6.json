@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebKitMediaKeyNeededEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"initData","type_":"Uint8Array?","required":false,"default":"null","extended_attributes":[]}]}

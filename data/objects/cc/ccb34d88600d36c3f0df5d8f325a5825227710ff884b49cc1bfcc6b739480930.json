@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CSSTokenType","extended_attributes":[],"values":["at","bad_string","bad_url","beginsmatch","comment","containsmatch","dashmatch","dimension","endsmatch","function","hash","htmlcomment","id","ident","includes","number","percentage","string","symbol","urange","url","whitespace"]}

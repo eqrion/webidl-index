@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaSettingsRange","extended_attributes":[],"fields":[{"name":"max","type_":"double","required":false,"extended_attributes":[]},{"name":"min","type_":"double","required":false,"extended_attributes":[]},{"name":"step","type_":"double","required":false,"extended_attributes":[]}]}

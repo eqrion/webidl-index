@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityCredentialDisconnectOptions","inherits":"IdentityProviderConfig","extended_attributes":[],"fields":[{"name":"accountHint","type_":"UTF8String","required":true,"extended_attributes":[]}]}

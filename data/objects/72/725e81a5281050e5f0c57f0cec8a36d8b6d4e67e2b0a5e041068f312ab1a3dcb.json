@@ -1,0 +1,1 @@
+{"kind":"enum","name":"VRDisplayEventReason","extended_attributes":["EnabledAtRuntime=WebVR"],"values":["mounted","navigation","requested","unmounted"]}

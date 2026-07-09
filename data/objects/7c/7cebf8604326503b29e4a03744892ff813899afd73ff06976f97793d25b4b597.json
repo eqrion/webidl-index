@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MediaStreamEvent","inherits":"Event","extended_attributes":["Conditional=WEB_RTC","ConstructorTemplate=Event"],"members":[{"kind":"attribute","name":"stream","type_":"MediaStream","arguments":[],"modifiers":["readonly"],"extended_attributes":["InitializedByEventConstructor"]}]}

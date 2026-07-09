@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MozContentPolicyType","extended_attributes":[],"values":["beacon","csp_report","fetch","font","image","imageset","main_frame","media","object","object_subrequest","other","ping","script","stylesheet","sub_frame","web_manifest","websocket","xbl","xml_dtd","xmlhttprequest","xslt"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PageTransitionEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"persisted","type_":"boolean","required":false,"extended_attributes":[]}]}

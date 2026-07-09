@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUUncapturedErrorEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, GPUUncapturedErrorEventInit gpuUncapturedErrorEventInitDict)","RuntimeEnabled=WebGPU"],"members":[{"kind":"attribute","name":"error","type_":"GPUError","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

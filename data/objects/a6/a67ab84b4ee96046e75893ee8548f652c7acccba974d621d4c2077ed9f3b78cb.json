@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DataErrorEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"message","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

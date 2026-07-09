@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUExtensions","extended_attributes":[],"fields":[{"name":"anisotropicFiltering","type_":"boolean","required":false,"extended_attributes":[]},{"name":"logicOp","type_":"boolean","required":false,"extended_attributes":[]}]}

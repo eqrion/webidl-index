@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IDBOpenDBOptions","extended_attributes":[],"fields":[{"name":"storage","type_":"StorageType","required":false,"extended_attributes":[]},{"name":"version","type_":"unsigned long long","required":false,"extended_attributes":["EnforceRange"]}]}

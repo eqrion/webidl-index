@@ -1,0 +1,1 @@
+{"kind":"interface","name":"IccCardLockError","inherits":"DOMError","extended_attributes":["ChromeOnly","Constructor(DOMString errorName, short retryCount)","Pref=\"dom.icc.enabled\""],"members":[{"kind":"attribute","name":"retryCount","type_":"short","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

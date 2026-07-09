@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLTemplateElement","inherits":"HTMLElement","extended_attributes":["Conditional=TEMPLATE_ELEMENT"],"members":[{"kind":"attribute","name":"content","type_":"DocumentFragment","arguments":[],"modifiers":["readonly"],"extended_attributes":["Custom"]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PCObserverStateType","extended_attributes":[],"values":["ConnectionState","IceConnectionState","IceGatheringState","None","SignalingState"]}

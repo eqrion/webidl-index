@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Mesh2DIndexBuffer","extended_attributes":["Exposed=(Window, Worker, PaintWorklet)","RuntimeEnabled=Canvas2dMesh"],"members":[]}

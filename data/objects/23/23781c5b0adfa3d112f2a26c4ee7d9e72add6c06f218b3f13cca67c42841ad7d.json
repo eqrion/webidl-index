@@ -1,0 +1,1 @@
+{"kind":"enum","name":"IDBTransactionDurability","extended_attributes":["EnabledBySetting=IndexedDBAPIEnabled"],"values":["default","relaxed","strict"]}

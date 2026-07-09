@@ -1,0 +1,1 @@
+{"kind":"interface","name":"InputDeviceInfo","inherits":"MediaDeviceInfo","extended_attributes":["Conditional=MEDIA_STREAM","Exposed=Window","JSGenerateToJSObject","SecureContext"],"members":[{"kind":"operation","name":"getCapabilities","type_":"MediaTrackCapabilities","arguments":[],"modifiers":[],"extended_attributes":[]}]}

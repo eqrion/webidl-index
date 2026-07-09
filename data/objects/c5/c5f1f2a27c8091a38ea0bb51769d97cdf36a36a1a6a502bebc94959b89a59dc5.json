@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCRtpContributingSource","extended_attributes":[],"fields":[{"name":"audioLevel","type_":"double","required":false,"extended_attributes":[]},{"name":"source","type_":"unsigned long","required":true,"extended_attributes":[]},{"name":"timestamp","type_":"DOMHighResTimeStamp","required":true,"extended_attributes":[]}]}

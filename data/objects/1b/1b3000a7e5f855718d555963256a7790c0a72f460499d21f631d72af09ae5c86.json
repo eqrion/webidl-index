@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PaymentItem","extended_attributes":[],"fields":[{"name":"amount","type_":"PaymentCurrencyAmount","required":true,"extended_attributes":[]},{"name":"label","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"pending","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

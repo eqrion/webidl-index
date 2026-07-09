@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"RTCRtpTransform","extended_attributes":[],"aliased_type":"(RTCRtpSFrameTransform or RTCRtpScriptTransform)"}

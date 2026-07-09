@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GleanRateData","extended_attributes":[],"fields":[{"name":"denominator","type_":"long","required":true,"extended_attributes":[]},{"name":"numerator","type_":"long","required":true,"extended_attributes":[]}]}

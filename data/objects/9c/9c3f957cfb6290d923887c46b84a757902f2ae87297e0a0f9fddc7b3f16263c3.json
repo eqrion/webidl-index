@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCSdpParsingErrorInternal","extended_attributes":[],"fields":[{"name":"error","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"lineNumber","type_":"unsigned long","required":true,"extended_attributes":[]}]}

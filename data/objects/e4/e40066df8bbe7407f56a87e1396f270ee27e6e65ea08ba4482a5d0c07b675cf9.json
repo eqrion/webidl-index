@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PreventedBackForwardCache","extended_attributes":[],"values":["masked","no","yes"]}

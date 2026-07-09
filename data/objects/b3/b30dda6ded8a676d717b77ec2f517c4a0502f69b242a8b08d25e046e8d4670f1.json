@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NDEFMessage","extended_attributes":[],"fields":[{"name":"records","type_":"sequence<NDEFRecord>","required":false,"extended_attributes":[]},{"name":"url","type_":"USVString","required":false,"extended_attributes":[]}]}

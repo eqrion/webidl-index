@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FullscreenOptions","extended_attributes":[],"fields":[{"name":"navigationUI","type_":"FullscreenNavigationUI","required":false,"default":"\"auto\"","extended_attributes":[]},{"name":"screen","type_":"Screen","required":false,"extended_attributes":[]}]}

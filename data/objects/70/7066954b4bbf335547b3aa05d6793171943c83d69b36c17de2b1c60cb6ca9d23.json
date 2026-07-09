@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCPeerConnectionIceEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"candidate","type_":"RTCIceCandidate?","required":false,"extended_attributes":[]},{"name":"url","type_":"DOMString?","required":false,"extended_attributes":[]}]}

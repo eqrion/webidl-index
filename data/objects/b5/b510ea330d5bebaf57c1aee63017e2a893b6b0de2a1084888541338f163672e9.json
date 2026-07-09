@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRDOMOverlayState","extended_attributes":["Exposed=Window","RuntimeEnabled=WebXRIncubations","SecureContext"],"members":[{"kind":"attribute","name":"type","type_":"XRDOMOverlayType","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

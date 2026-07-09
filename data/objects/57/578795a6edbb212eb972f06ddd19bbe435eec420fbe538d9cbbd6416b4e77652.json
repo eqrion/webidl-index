@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayErrorCode","extended_attributes":["Conditional=APPLE_PAY_SESSION_V3"],"values":["addressUnserviceable","billingContactInvalid","shippingContactInvalid","unknown"]}

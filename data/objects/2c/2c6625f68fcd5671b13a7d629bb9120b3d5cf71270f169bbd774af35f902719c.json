@@ -1,0 +1,1 @@
+{"kind":"interface","name":"FontFaceSetIterator","extended_attributes":["Exposed=Window","LegacyNoInterfaceObject"],"members":[{"kind":"operation","name":"next","type_":"FontFaceSetIteratorResult","arguments":[],"modifiers":[],"extended_attributes":["Throws"]}]}

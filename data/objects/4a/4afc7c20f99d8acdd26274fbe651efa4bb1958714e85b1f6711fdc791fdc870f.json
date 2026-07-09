@@ -1,0 +1,1 @@
+{"kind":"callback_interface","name":"DatabaseCallback","extended_attributes":[],"members":[{"kind":"operation","name":"handleEvent","type_":"boolean","arguments":[{"name":"database","type_":"Database","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"LanguageModelMessageValue","extended_attributes":[],"aliased_type":"(ImageBitmapSource or AudioBuffer or HTMLAudioElement or BufferSource or DOMString)"}

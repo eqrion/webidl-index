@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MutationObservingInfo","inherits":"MutationObserverInit","extended_attributes":[],"fields":[{"name":"observedNode","type_":"Node?","required":false,"default":"null","extended_attributes":[]}]}

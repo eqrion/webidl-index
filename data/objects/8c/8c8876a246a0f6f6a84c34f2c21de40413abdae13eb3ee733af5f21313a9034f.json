@@ -1,0 +1,1 @@
+{"kind":"callback","name":"SilentSmsCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"message","type_":"PaymentSmsMessage","optional":true,"variadic":false,"extended_attributes":[]}]}

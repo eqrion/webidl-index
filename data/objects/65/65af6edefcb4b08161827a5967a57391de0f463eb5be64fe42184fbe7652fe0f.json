@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PresentationConnectionAvailableEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"connection","type_":"PresentationConnection","required":true,"extended_attributes":[]}]}

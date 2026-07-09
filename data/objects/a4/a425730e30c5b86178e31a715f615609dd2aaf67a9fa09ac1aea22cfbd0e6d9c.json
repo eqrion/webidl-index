@@ -1,0 +1,1 @@
+{"kind":"callback","name":"PositionCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"position","type_":"Position","optional":false,"variadic":false,"extended_attributes":[]}]}

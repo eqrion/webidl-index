@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TypeOfAddress","extended_attributes":[],"fields":[{"name":"numberPlanIdentification","type_":"NumberPlanIdentification","required":false,"default":"\"isdn\"","extended_attributes":[]},{"name":"typeOfNumber","type_":"TypeOfNumber","required":false,"default":"\"unknown\"","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUDevice","extended_attributes":["RuntimeEnabled=WebGPU"],"members":[{"kind":"attribute","name":"adapter","type_":"WebGPUAdapter","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

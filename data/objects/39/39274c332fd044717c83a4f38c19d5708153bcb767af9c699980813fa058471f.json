@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CSPReport","extended_attributes":["GenerateToJSON"],"fields":[{"name":"csp-report","type_":"CSPReportProperties","required":false,"default":"{}","extended_attributes":[]}]}

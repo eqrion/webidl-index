@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ContactInfo","extended_attributes":["JSGenerateToJSObject"],"fields":[{"name":"email","type_":"sequence<USVString>","required":false,"extended_attributes":[]},{"name":"name","type_":"sequence<USVString>","required":false,"extended_attributes":[]},{"name":"tel","type_":"sequence<USVString>","required":false,"extended_attributes":[]}]}

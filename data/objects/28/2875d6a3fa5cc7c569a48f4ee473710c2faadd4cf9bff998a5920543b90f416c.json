@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCQuicTransportState","extended_attributes":[],"values":["closed","connected","connecting","failed","new"]}

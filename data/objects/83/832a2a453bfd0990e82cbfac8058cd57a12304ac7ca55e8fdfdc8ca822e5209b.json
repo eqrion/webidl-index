@@ -1,0 +1,1 @@
+{"kind":"enum","name":"IccMvnoType","extended_attributes":[],"values":["gid","imsi","spn"]}

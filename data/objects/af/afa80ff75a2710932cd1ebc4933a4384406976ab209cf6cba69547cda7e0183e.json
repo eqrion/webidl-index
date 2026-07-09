@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"ImageBitmapSource","extended_attributes":[],"aliased_type":"(HTMLImageElement or HTMLVideoElement or HTMLCanvasElement or Blob or ImageData or CanvasRenderingContext2D or ImageBitmap or BufferSource)"}

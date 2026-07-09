@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ParityType","extended_attributes":[],"values":["even","none","odd"]}

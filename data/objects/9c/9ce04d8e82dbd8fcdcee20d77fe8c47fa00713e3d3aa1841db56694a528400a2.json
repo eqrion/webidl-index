@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"LlamaChatMessage","extended_attributes":[],"fields":[{"name":"content","type_":"UTF8String","required":true,"extended_attributes":[]},{"name":"role","type_":"UTF8String","required":true,"extended_attributes":[]}]}

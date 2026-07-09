@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCPeerConnectionIceEvent","inherits":"Event","extended_attributes":["Conditional=WEB_RTC","EnabledAtRuntime=PeerConnection","NoInterfaceObject"],"members":[{"kind":"attribute","name":"candidate","type_":"RTCIceCandidate?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CSPPolicies","extended_attributes":[],"fields":[{"name":"csp-policies","type_":"sequence<CSP>","required":false,"extended_attributes":[]}]}

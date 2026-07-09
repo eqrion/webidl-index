@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCQualityLimitationReason","extended_attributes":[],"values":["bandwidth","cpu","none","other"]}

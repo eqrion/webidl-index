@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GamepadHand","extended_attributes":["RuntimeEnabled=WebVR"],"values":["left","right"]}

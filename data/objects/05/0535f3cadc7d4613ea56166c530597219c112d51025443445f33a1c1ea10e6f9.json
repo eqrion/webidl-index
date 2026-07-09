@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PublicKeyCredentialEntity","extended_attributes":[],"fields":[{"name":"icon","type_":"USVString","required":false,"extended_attributes":[]},{"name":"name","type_":"DOMString","required":true,"extended_attributes":[]}]}

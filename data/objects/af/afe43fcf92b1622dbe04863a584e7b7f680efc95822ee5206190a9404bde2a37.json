@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCDataChannelEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, RTCDataChannelEventInit eventInitDict)","Exposed=Window"],"members":[{"kind":"attribute","name":"channel","type_":"RTCDataChannel","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

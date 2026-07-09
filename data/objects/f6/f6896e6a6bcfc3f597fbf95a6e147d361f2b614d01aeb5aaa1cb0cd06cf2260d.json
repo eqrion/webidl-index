@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"KeySystemTrackConfiguration","extended_attributes":[],"fields":[{"name":"encryptionScheme","type_":"DOMString?","required":false,"default":"null","extended_attributes":[]},{"name":"robustness","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

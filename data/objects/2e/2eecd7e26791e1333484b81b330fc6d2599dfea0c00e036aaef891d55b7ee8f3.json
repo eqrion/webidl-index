@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUBindGroupLayoutDescriptor","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"fields":[{"name":"bindings","type_":"sequence<GPUBindGroupLayoutBinding>","required":true,"extended_attributes":[]}]}

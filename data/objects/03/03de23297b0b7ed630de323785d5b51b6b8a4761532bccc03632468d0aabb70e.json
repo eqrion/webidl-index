@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuthenticationExtensionsPRFValues","extended_attributes":[],"fields":[{"name":"first","type_":"ArrayBuffer","required":true,"extended_attributes":[]},{"name":"second","type_":"ArrayBuffer","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PublicKeyCredentialDescriptor","extended_attributes":[],"fields":[{"name":"id","type_":"BufferSource","required":true,"extended_attributes":[]},{"name":"transports","type_":"sequence<WebAuthnTransport>","required":false,"extended_attributes":[]},{"name":"type","type_":"PublicKeyCredentialType","required":true,"extended_attributes":[]}]}

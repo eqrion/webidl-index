@@ -1,0 +1,1 @@
+{"kind":"callback","name":"VideoFrameOutputCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"output","type_":"VideoFrame","optional":false,"variadic":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayErrorCode","extended_attributes":["Conditional=APPLE_PAY","ExportMacro=WEBCORE_EXPORT"],"values":["addressUnserviceable","billingContactInvalid","couponCodeExpired","couponCodeInvalid","shippingContactInvalid","unknown"]}

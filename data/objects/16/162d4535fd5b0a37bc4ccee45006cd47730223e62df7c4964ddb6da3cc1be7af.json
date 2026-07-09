@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SchedulerYieldPriority","extended_attributes":[],"values":["background","inherit","user-blocking","user-visible"]}

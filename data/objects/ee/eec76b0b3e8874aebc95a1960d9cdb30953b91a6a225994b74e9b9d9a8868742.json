@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TrustedURL","extended_attributes":["Exposed=Window","OriginTrialEnabled=TrustedDOMTypes"],"members":[{"kind":"stringifier","name":"","arguments":[],"modifiers":[],"extended_attributes":[]}]}

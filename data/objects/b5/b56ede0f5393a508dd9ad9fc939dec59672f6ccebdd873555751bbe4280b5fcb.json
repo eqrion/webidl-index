@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ExtensionPortDescriptor","extended_attributes":["GenerateInit"],"fields":[{"name":"name","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"portId","type_":"DOMString","required":true,"extended_attributes":[]}]}

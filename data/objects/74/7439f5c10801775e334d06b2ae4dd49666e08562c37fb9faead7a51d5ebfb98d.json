@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AddressSpace","extended_attributes":[],"values":["local","private","public"]}

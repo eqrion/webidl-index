@@ -1,0 +1,1 @@
+{"kind":"enum","name":"DialogButton","extended_attributes":[],"values":["ConfirmIdpLoginContinue","ErrorGotIt","ErrorMoreDetails"]}

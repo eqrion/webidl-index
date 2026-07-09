@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ViewTimelineOptions","extended_attributes":[],"fields":[{"name":"axis","type_":"ScrollDirection","required":false,"default":"\"block\"","extended_attributes":[]},{"name":"subject","type_":"Element","required":false,"extended_attributes":[]}]}

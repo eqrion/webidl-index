@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PCImplSignalingState","extended_attributes":[],"values":["SignalingClosed","SignalingHaveLocalOffer","SignalingHaveLocalPranswer","SignalingHaveRemoteOffer","SignalingHaveRemotePranswer","SignalingInvalid","SignalingStable"]}

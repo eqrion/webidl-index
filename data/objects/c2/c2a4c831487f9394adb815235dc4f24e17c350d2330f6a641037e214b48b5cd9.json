@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCRtpCapabilities","extended_attributes":[],"fields":[{"name":"codecs","type_":"sequence<RTCRtpCodecCapability>","required":true,"extended_attributes":[]},{"name":"headerExtensions","type_":"sequence<RTCRtpHeaderExtensionCapability>","required":true,"extended_attributes":[]}]}

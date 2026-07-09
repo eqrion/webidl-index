@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Float32Array","inherits":"ArrayBufferView","extended_attributes":["ImplementedAs=DOMFloat32Array","NoInterfaceObject"],"members":[]}

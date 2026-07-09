@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUComputePassDescriptor","inherits":"GPUObjectDescriptorBase","extended_attributes":["EnabledBySetting=WebGPUEnabled"],"fields":[{"name":"timestampWrites","type_":"GPUComputePassTimestampWrites","required":false,"extended_attributes":[]}]}

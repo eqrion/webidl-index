@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MobileConnectionState","extended_attributes":[],"values":["denied","notSearching","registered","searching"]}

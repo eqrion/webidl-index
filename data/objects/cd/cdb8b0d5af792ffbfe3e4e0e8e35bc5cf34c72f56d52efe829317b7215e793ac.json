@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ConstrainLongRange","inherits":"LongRange","extended_attributes":["Conditional=MEDIA_STREAM","ImplementedAs=ConstrainLongRange","JSGenerateToJSObject","JSGenerateToNativeObject"],"fields":[{"name":"exact","type_":"long","required":false,"extended_attributes":[]},{"name":"ideal","type_":"long","required":false,"extended_attributes":[]}]}

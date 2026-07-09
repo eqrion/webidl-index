@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"OTPCredentialRequestOptions","extended_attributes":[],"fields":[{"name":"transport","type_":"sequence<OTPCredentialTransportType>","required":false,"default":"[]","extended_attributes":[]}]}

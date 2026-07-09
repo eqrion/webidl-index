@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCSignalingState","extended_attributes":["Conditional=WEB_RTC","EnabledAtRuntime=PeerConnection"],"values":["closed","have-local-offer","have-local-pranswer","have-remote-offer","have-remote-pranswer","stable"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ApplePayShippingContactSelectedEvent","inherits":"Event","extended_attributes":["Conditional=APPLE_PAY","NoInterfaceObject"],"members":[{"kind":"attribute","name":"shippingContact","type_":"ApplePayPaymentContact","arguments":[],"modifiers":["readonly"],"extended_attributes":["CachedAttribute"]}]}

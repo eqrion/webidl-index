@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Slotable","extended_attributes":["EnabledAtRuntime=ShadowDOM","NoInterfaceObject"],"members":[{"kind":"attribute","name":"assignedSlot","type_":"HTMLSlotElement?","arguments":[],"modifiers":["readonly"],"extended_attributes":["ImplementedAs=assignedSlotForBindings"]}]}

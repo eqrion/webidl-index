@@ -1,0 +1,1 @@
+{"kind":"enum","name":"IccLockType","extended_attributes":[],"values":["cck","cckPuk","fdn","hnck","hnckPuk","nck","nck1","nck1Puk","nck2","nck2Puk","nckPuk","nsck","nsckPuk","pck","pckPuk","pin","pin2","puk","puk2","rcck","rcckPuk","rspck","rspckPuk","spck","spckPuk"]}

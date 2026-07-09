@@ -1,0 +1,1 @@
+{"kind":"enum","name":"TNF","extended_attributes":[],"values":["absolute-uri","empty","external","media-type","unchanged","unknown","well-known"]}

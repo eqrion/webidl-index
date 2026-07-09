@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CryptoEcKeyAlgorithm","inherits":"CryptoKeyAlgorithm","extended_attributes":["Conditional=WEB_CRYPTO","JSGenerateToJSObject"],"fields":[{"name":"namedCurve","type_":"NamedCurve","required":true,"extended_attributes":[]}]}

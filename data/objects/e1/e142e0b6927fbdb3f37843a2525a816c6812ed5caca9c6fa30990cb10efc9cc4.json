@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPULimits","extended_attributes":[],"fields":[{"name":"maxBindGroups","type_":"u32","required":false,"extended_attributes":[]}]}

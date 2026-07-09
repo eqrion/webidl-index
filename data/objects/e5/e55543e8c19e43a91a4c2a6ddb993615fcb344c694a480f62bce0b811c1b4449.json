@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSKeyframeRule","inherits":"CSSRule","extended_attributes":[],"members":[{"kind":"attribute","name":"keyText","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":[]},{"kind":"attribute","name":"style","type_":"CSSStyleDeclaration","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

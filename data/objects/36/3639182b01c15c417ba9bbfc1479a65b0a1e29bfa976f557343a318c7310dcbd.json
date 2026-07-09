@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SmartCardReaderStateIn","extended_attributes":[],"fields":[{"name":"currentCount","type_":"unsigned long","required":false,"extended_attributes":[]},{"name":"currentState","type_":"SmartCardReaderStateFlags","required":true,"extended_attributes":[]},{"name":"readerName","type_":"DOMString","required":true,"extended_attributes":[]}]}

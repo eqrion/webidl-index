@@ -1,0 +1,1 @@
+{"kind":"enum","name":"LlamaKVCacheDtype","extended_attributes":[],"values":["f16","f32","q4_0","q4_1","q5_0","q5_1","q8_0"]}

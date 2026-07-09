@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUAddressMode","extended_attributes":["ImplementedAs=GPUAddressMode"],"values":["clamp-to-edge","mirror-repeat","repeat"]}

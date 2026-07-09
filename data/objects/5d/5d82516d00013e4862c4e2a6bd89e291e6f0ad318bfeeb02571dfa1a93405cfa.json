@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebMCPEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"toolName","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

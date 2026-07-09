@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CancelContentJSOptions","extended_attributes":["GenerateInit"],"fields":[{"name":"epoch","type_":"long","required":false,"default":"0","extended_attributes":[]},{"name":"index","type_":"long","required":false,"default":"0","extended_attributes":[]},{"name":"uri","type_":"URI?","required":false,"default":"null","extended_attributes":[]}]}

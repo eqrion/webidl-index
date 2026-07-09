@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XMLSerializer","extended_attributes":["Constructor","Exposed=Window"],"members":[{"kind":"operation","name":"serializeToString","type_":"DOMString","arguments":[{"name":"root","type_":"Node","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

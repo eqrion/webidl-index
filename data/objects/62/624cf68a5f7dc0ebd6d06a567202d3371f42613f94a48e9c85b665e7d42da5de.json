@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FetchEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"clientId","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"isReload","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"request","type_":"Request","required":true,"extended_attributes":[]}]}

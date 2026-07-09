@@ -1,0 +1,1 @@
+{"kind":"interface","name":"USBConnectionEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, USBConnectionEventInit eventInitDict)","RuntimeEnabled=WebUSB"],"members":[{"kind":"attribute","name":"device","type_":"USBDevice","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]}]}

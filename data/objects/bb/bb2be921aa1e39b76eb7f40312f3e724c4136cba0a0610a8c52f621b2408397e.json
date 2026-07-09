@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BluetoothAdapterEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"adapter","type_":"BluetoothAdapter?","required":false,"default":"null","extended_attributes":[]},{"name":"address","type_":"DOMString?","required":false,"default":"\"\"","extended_attributes":[]}]}

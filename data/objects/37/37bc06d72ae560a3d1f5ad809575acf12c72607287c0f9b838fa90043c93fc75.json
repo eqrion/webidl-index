@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"SanitizerInput","extended_attributes":[],"aliased_type":"(DOMString or DocumentFragment or Document)"}

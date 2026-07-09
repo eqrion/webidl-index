@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AnonymousContent","extended_attributes":["ChromeOnly","Exposed=Window"],"members":[{"kind":"attribute","name":"root","type_":"ShadowRoot","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

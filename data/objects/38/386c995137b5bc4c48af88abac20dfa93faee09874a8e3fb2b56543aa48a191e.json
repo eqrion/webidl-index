@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HandwritingDrawingSegment","extended_attributes":[],"fields":[{"name":"beginPointIndex","type_":"unsigned long","required":true,"extended_attributes":[]},{"name":"endPointIndex","type_":"unsigned long","required":true,"extended_attributes":[]},{"name":"strokeIndex","type_":"unsigned long","required":true,"extended_attributes":[]}]}

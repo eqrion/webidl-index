@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCRtpTransceiverInit","extended_attributes":[],"fields":[{"name":"direction","type_":"RTCRtpTransceiverDirection","required":false,"default":"\"sendrecv\"","extended_attributes":[]}]}

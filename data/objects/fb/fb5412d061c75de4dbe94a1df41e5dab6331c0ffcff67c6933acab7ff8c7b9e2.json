@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FunctionParameter","extended_attributes":[],"fields":[{"name":"defaultValue","type_":"CSSOMString","required":false,"extended_attributes":[]},{"name":"name","type_":"CSSOMString","required":true,"extended_attributes":[]},{"name":"type","type_":"CSSOMString","required":true,"extended_attributes":[]}]}

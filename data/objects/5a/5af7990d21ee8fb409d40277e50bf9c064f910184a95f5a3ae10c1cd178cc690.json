@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MojoInterfaceRequestEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional MojoInterfaceRequestEventInit eventInitDict)","Exposed=(Window, Worker)","RuntimeEnabled=MojoJSTest"],"members":[{"kind":"attribute","name":"handle","type_":"MojoHandle","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

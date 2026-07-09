@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CanvasElementHitTestRegion","extended_attributes":[],"fields":[{"name":"element","type_":"Element","required":false,"extended_attributes":[]},{"name":"rect","type_":"CanvasHitTestRect","required":false,"extended_attributes":[]}]}

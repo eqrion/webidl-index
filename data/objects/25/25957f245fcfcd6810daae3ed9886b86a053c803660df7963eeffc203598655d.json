@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"OfflineAudioContextOptions","extended_attributes":[],"fields":[{"name":"length","type_":"unsigned long","required":true,"extended_attributes":[]},{"name":"numberOfChannels","type_":"unsigned long","required":false,"default":"1","extended_attributes":[]},{"name":"sampleRate","type_":"float","required":true,"extended_attributes":[]}]}

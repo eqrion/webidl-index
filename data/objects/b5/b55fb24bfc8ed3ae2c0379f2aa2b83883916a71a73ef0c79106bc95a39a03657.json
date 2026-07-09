@@ -1,0 +1,1 @@
+{"kind":"enum","name":"FetchRequestDestination","extended_attributes":[],"values":["","audio","audioworklet","document","embed","font","image","manifest","model","object","paintworklet","report","script","serviceworker","sharedworker","style","track","video","worker","xslt"]}

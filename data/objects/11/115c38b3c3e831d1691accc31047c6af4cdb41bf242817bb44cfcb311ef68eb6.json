@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaSessionPictureInPictureActionDetails","inherits":"MediaSessionActionDetails","extended_attributes":[],"fields":[{"name":"automatic","type_":"boolean","required":false,"extended_attributes":[]}]}

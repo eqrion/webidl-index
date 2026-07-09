@@ -1,0 +1,1 @@
+{"kind":"enum","name":"XRHitTestTrackableType","extended_attributes":[],"values":["plane","point"]}

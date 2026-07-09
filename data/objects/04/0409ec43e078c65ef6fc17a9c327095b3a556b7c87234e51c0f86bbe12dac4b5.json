@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"InvokeEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"action","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"invoker","type_":"Element?","required":false,"default":"null","extended_attributes":[]}]}

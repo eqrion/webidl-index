@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ContactAddress","inherits":"PaymentAddress","extended_attributes":["Exposed=Window","RuntimeEnabled=ContactsManagerExtraProperties","SecureContext"],"members":[]}

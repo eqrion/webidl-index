@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MLOperator","extended_attributes":["Exposed=(Window, DedicatedWorker)","RuntimeEnabled=MachineLearningNeuralNetwork"],"members":[]}

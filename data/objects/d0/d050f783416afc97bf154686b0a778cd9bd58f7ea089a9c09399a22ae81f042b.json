@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCNetworkType","extended_attributes":[],"values":["bluetooth","cellular","ethernet","unknown","vpn","wifi","wimax"]}

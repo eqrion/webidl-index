@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebTransportReceiveStreamStats","extended_attributes":[],"fields":[{"name":"bytesRead","type_":"unsigned long long","required":false,"extended_attributes":[]},{"name":"bytesReceived","type_":"unsigned long long","required":false,"extended_attributes":[]},{"name":"timestamp","type_":"DOMHighResTimeStamp","required":false,"extended_attributes":[]}]}

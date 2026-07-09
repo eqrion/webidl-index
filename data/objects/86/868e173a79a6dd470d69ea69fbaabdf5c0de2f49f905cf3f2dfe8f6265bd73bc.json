@@ -1,0 +1,1 @@
+{"kind":"interface","name":"BeforeActivateEvent","inherits":"Event","extended_attributes":["RuntimeEnabled=DisplayLocking"],"members":[{"kind":"attribute","name":"activatedElement","type_":"Element","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

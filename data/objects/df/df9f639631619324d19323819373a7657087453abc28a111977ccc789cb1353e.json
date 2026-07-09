@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozStkLocationEvent","extended_attributes":[],"fields":[{"name":"eventType","type_":"unsigned short","required":false,"extended_attributes":[]},{"name":"locationInfo","type_":"MozStkLocationInfo","required":false,"extended_attributes":[]},{"name":"locationStatus","type_":"unsigned short","required":false,"extended_attributes":[]}]}

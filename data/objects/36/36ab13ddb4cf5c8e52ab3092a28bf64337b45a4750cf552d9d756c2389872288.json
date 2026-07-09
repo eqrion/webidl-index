@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PartRootCloneOptions","extended_attributes":[],"fields":[{"name":"attributeValues","type_":"sequence<DOMString>","required":false,"extended_attributes":[]}]}

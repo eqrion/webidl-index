@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PrivateAttributionHelperInfo","extended_attributes":[],"fields":[{"name":"origin","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"publicKey","type_":"DOMString","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MozCanvasPrintState","extended_attributes":["ChromeOnly"],"members":[{"kind":"attribute","name":"context","type_":"nsISupports","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"operation","name":"done","type_":"void","arguments":[],"modifiers":[],"extended_attributes":[]}]}

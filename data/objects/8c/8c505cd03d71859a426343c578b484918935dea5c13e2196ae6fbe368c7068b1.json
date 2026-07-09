@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ExtensionDns","extended_attributes":["Exposed=(ServiceWorker)","LegacyNoInterfaceObject"],"members":[{"kind":"operation","name":"resolve","type_":"any","arguments":[{"name":"args","type_":"any","optional":false,"variadic":true,"extended_attributes":[]}],"modifiers":[],"extended_attributes":["Throws","WebExtensionStub=\"AsyncAmbiguous\""]}]}

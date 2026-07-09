@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaSessionInterruptingCategory","extended_attributes":["Conditional=MEDIA_SESSION"],"values":["content","transient","transient-solo"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozWifiP2pStatusChangeEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"peerAddress","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

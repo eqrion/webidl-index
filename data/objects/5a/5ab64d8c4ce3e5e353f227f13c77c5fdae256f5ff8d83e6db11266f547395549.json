@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUProvider","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"webgpu","type_":"WebGPU","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject","Replaceable","Pref=\"dom.webgpu.enable\""]}]}

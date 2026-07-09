@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MaxTouchPoints","extended_attributes":["Conditional=POINTER_EVENTS","EnabledAtRuntime=PointerEvents","NoInterfaceObject"],"members":[{"kind":"attribute","name":"maxTouchPoints","type_":"long","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PrivateAggregationHistogramContribution","extended_attributes":["Exposed=(SharedStorageWorklet)"],"fields":[{"name":"bucket","type_":"bigint","required":true,"extended_attributes":[]},{"name":"value","type_":"long","required":true,"extended_attributes":[]}]}

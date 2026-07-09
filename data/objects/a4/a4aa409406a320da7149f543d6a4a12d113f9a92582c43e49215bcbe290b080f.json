@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUCommandBuffer","extended_attributes":["Pref=\"dom.webgpu.enable\""],"members":[]}

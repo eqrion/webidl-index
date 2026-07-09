@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUShaderModule","extended_attributes":["Exposed=Window","Pref=\"dom.webgpu.enabled\""],"members":[{"kind":"attribute","name":"label","type_":"DOMString?","arguments":[],"modifiers":[],"extended_attributes":[]}]}

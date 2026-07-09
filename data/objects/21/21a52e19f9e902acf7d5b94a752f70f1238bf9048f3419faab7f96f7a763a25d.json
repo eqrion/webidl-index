@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"LlamaDeTokenizationOptions","extended_attributes":[],"fields":[{"name":"maxCharsPerToken","type_":"long","required":false,"default":"256","extended_attributes":[]},{"name":"renderSpecialTokens","type_":"boolean","required":false,"default":"true","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"HueInterpolationMethod","extended_attributes":[],"values":["decreasing","increasing","longer","shorter"]}

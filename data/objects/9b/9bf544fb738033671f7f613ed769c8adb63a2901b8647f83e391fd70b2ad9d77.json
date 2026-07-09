@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AudioDecoderInit","extended_attributes":[],"fields":[{"name":"error","type_":"WebCodecsErrorCallback","required":false,"extended_attributes":[]},{"name":"output","type_":"AudioFrameOutputCallback","required":false,"extended_attributes":[]}]}

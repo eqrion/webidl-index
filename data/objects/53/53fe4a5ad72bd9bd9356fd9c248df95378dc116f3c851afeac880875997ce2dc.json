@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AbstractView","extended_attributes":["NoInterfaceObject","ObjCCustomImplementation"],"members":[{"kind":"attribute","name":"document","type_":"Document","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"styleMedia","type_":"StyleMedia","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

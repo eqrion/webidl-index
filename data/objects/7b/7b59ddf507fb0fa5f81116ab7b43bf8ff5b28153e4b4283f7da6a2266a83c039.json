@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Comment","inherits":"CharacterData","extended_attributes":["Exposed=Window","JSGenerateToJSObject"],"members":[{"kind":"constructor","name":"","arguments":[{"name":"data","type_":"DOMString","optional":true,"variadic":false,"default":"\"\"","extended_attributes":[]}],"modifiers":[],"extended_attributes":["CallWith=Document"]}]}

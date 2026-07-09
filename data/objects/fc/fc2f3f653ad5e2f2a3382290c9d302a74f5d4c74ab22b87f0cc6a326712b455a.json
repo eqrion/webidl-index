@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUVertexState","inherits":"GPUProgrammableStage","extended_attributes":[],"fields":[{"name":"buffers","type_":"sequence<GPUVertexBufferLayout?>","required":false,"default":"[]","extended_attributes":[]}]}

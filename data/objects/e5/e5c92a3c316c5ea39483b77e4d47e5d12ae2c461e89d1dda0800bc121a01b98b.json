@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebPrintingRange","extended_attributes":[],"fields":[{"name":"from","type_":"unsigned long","required":false,"extended_attributes":[]},{"name":"to","type_":"unsigned long","required":false,"extended_attributes":[]}]}

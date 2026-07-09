@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SmartCardReader","inherits":"EventTarget","extended_attributes":["ActiveScriptWrappable","Exposed=Window","IsolatedContext","RuntimeEnabled=SmartCard","SecureContext"],"members":[{"kind":"attribute","name":"name","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

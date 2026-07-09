@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Fence","extended_attributes":["Exposed=Window","RuntimeEnabled=FencedFrames"],"members":[]}

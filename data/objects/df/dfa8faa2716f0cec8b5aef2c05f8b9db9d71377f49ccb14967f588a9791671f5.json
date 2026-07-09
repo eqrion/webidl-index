@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ParseHTMLUnsafeOptions","extended_attributes":[],"fields":[{"name":"sanitizer","type_":"(Sanitizer or SanitizerConfig or SanitizerPresets)","required":false,"default":"{}","extended_attributes":[]}]}

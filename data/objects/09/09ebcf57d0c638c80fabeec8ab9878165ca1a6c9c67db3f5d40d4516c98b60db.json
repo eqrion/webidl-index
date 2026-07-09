@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DigitalCredentialCreationOptions","extended_attributes":[],"fields":[{"name":"data","type_":"object","required":true,"extended_attributes":[]},{"name":"protocol","type_":"DOMString","required":true,"extended_attributes":[]}]}

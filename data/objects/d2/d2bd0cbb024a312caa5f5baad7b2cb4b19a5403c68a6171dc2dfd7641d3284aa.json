@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ElementCSSInlineStyle","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"style","type_":"CSSStyleDeclaration","arguments":[],"modifiers":["readonly"],"extended_attributes":["ImplementedAs=cssomStyle","PutForwards=cssText"]}]}

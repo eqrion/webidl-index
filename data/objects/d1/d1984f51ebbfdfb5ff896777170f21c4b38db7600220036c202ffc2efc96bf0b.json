@@ -1,0 +1,1 @@
+{"kind":"callback","name":"OnBeforeUnloadEventHandlerNonNull","extended_attributes":["TreatNonObjectAsNull"],"return_type":"DOMString?","arguments":[{"name":"event","type_":"Event","optional":false,"variadic":false,"extended_attributes":[]}]}

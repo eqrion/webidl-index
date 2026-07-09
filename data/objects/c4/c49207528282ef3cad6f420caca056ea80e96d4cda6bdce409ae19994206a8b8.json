@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IDBTransactionOptions","extended_attributes":[],"fields":[{"name":"durability","type_":"IDBTransactionDurability","required":false,"default":"\"default\"","extended_attributes":[]}]}

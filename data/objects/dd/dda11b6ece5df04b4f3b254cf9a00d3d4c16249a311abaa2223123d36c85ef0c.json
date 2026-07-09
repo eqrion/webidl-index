@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NavigatorAutomationInformation","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"webdriver","type_":"boolean","arguments":[],"modifiers":["readonly"],"extended_attributes":["Pref=\"dom.webdriver.enabled\""]}]}

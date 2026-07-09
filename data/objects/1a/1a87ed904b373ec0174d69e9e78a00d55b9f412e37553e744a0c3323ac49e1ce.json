@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FrameUniformity","extended_attributes":[],"fields":[{"name":"frameUniformity","type_":"float","required":false,"extended_attributes":[]},{"name":"layerAddress","type_":"unsigned long","required":false,"extended_attributes":[]}]}

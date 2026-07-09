@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DOMMobileMessageError","inherits":"DOMError","extended_attributes":["ChromeOnly","Pref=\"dom.sms.enabled\""],"members":[{"kind":"attribute","name":"data","type_":"(SmsMessage or MmsMessage)","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

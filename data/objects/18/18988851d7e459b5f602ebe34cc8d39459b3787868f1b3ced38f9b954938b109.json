@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGPathSegLinetoHorizontalAbs","inherits":"SVGPathSeg","extended_attributes":[],"members":[{"kind":"attribute","name":"x","type_":"unrestricted float","arguments":[],"modifiers":[],"extended_attributes":["StrictTypeChecking"]}]}

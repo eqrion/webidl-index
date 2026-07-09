@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PopStateEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional PopStateEventInit eventInitDict)","ConstructorCallWith=ScriptState","Exposed=Window"],"members":[{"kind":"attribute","name":"state","type_":"any","arguments":[],"modifiers":["readonly"],"extended_attributes":["Custom=Getter"]}]}

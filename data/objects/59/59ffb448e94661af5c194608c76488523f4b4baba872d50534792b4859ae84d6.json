@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"VideoFrameCopyToOptions","extended_attributes":["Conditional=WEB_CODECS"],"fields":[{"name":"layout","type_":"sequence<PlaneLayout>","required":false,"extended_attributes":[]},{"name":"rect","type_":"DOMRectInit","required":false,"extended_attributes":[]}]}

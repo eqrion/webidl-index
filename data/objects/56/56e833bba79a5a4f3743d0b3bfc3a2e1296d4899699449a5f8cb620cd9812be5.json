@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ConsoleLogLevel","extended_attributes":[],"values":["all","clear","debug","dir","dirxml","error","group","groupEnd","info","log","off","profile","profileEnd","time","timeEnd","trace","warn"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AesCtrParams","inherits":"Algorithm","extended_attributes":[],"fields":[{"name":"counter","type_":"CryptoOperationData","required":true,"extended_attributes":[]},{"name":"length","type_":"octet","required":true,"extended_attributes":["EnforceRange"]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PrivateAggregationDebugModeOptions","extended_attributes":["Exposed=(SharedStorageWorklet)"],"fields":[{"name":"debug_key","type_":"bigint","required":true,"extended_attributes":[]}]}

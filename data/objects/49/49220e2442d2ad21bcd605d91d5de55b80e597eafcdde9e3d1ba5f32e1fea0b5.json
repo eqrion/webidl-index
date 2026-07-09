@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CanvasFilterDictionary","extended_attributes":[],"fields":[{"name":"blur","type_":"object","required":false,"extended_attributes":[]},{"name":"colorMatrix","type_":"object","required":false,"extended_attributes":[]},{"name":"convolveMatrix","type_":"object","required":false,"extended_attributes":[]}]}

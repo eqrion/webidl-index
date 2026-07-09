@@ -1,0 +1,1 @@
+{"kind":"enum","name":"XRSessionMode","extended_attributes":["Conditional=WEBXR","EnabledBySetting=WebXR","ExportMacro=WEBCORE_EXPORT"],"values":["immersive-ar","immersive-vr","inline"]}

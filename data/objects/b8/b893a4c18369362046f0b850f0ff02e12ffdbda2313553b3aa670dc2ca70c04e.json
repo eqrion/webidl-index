@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSViewportRule","inherits":"CSSRule","extended_attributes":["Exposed=Window","RuntimeEnabled=CSSViewport"],"members":[{"kind":"attribute","name":"style","type_":"CSSStyleDeclaration","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

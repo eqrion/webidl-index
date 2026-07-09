@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PaymentHandlerResponse","extended_attributes":[],"fields":[{"name":"details","type_":"object","required":false,"extended_attributes":[]},{"name":"methodName","type_":"DOMString","required":false,"extended_attributes":[]}]}

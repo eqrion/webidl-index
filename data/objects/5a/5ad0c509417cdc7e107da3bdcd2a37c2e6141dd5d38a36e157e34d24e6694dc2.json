@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GroupedHistoryEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"otherBrowser","type_":"Element?","required":false,"default":"null","extended_attributes":[]}]}

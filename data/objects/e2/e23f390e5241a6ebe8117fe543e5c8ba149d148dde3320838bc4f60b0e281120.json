@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUSize","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"fields":[{"name":"depth","type_":"unsigned long","required":false,"extended_attributes":[]},{"name":"height","type_":"unsigned long","required":false,"extended_attributes":[]},{"name":"width","type_":"unsigned long","required":false,"extended_attributes":[]}]}

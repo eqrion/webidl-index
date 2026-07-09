@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRInputSourceEventInit","inherits":"EventInit","extended_attributes":["Conditional=WEBXR","EnabledBySetting=WebXREnabled"],"fields":[{"name":"frame","type_":"WebXRFrame","required":true,"extended_attributes":[]},{"name":"inputSource","type_":"WebXRInputSource","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ScriptInvokerType","extended_attributes":[],"values":["classic-script","event-listener","module-script","reject-promise","resolve-promise","user-callback","user-entry-point"]}

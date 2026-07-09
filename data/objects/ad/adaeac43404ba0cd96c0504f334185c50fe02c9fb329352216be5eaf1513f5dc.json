@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AudioNodePassThrough","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"passThrough","type_":"boolean","arguments":[],"modifiers":[],"extended_attributes":["ChromeOnly"]}]}

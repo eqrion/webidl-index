@@ -1,0 +1,1 @@
+{"kind":"enum","name":"LanguageModelMessageRole","extended_attributes":[],"values":["assistant","system","user"]}

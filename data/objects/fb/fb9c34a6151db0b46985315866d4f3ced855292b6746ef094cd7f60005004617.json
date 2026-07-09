@@ -1,0 +1,1 @@
+{"kind":"enum","name":"EffectiveConnectionType","extended_attributes":[],"values":["2g","3g","4g","slow-2g"]}

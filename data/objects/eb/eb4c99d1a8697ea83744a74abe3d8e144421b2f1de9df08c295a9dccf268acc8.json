@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSScopeRule","inherits":"CSSGroupingRule","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"end","type_":"CSSOMString?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"start","type_":"CSSOMString?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"GPUSignedOffset32","extended_attributes":[],"aliased_type":"[EnforceRange] long"}

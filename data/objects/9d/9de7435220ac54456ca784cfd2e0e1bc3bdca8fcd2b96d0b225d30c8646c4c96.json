@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SpeculationNavigationType","extended_attributes":[],"values":["prefetch","prerender","prerender-until-script"]}

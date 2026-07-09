@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUCommandBuffer","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU","ImplementationLacksVTable","InterfaceName=GPUCommandBuffer"],"members":[]}

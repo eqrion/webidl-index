@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CredentialCreationOptions","extended_attributes":[],"fields":[{"name":"publicKey","type_":"MakePublicKeyCredentialOptions","required":false,"extended_attributes":[]},{"name":"signal","type_":"AbortSignal","required":false,"extended_attributes":[]}]}

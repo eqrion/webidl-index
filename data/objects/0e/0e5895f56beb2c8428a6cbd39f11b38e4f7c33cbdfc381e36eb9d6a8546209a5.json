@@ -1,0 +1,1 @@
+{"kind":"enum","name":"DistanceModelType","extended_attributes":[],"values":["exponential","inverse","linear"]}

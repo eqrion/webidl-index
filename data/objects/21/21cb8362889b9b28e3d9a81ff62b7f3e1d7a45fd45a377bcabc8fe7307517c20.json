@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaSourceDecoderDebugInfo","extended_attributes":[],"fields":[{"name":"demuxer","type_":"MediaSourceDemuxerDebugInfo","required":true,"extended_attributes":[]},{"name":"reader","type_":"MediaFormatReaderDebugInfo","required":true,"extended_attributes":[]}]}

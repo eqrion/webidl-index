@@ -1,0 +1,1 @@
+{"kind":"interface","name":"UserActivation","extended_attributes":["RuntimeEnabled=UserActivationAPI"],"members":[{"kind":"attribute","name":"hasBeenActive","type_":"boolean","arguments":[],"modifiers":["readonly"],"extended_attributes":["Measure"]},{"kind":"attribute","name":"isActive","type_":"boolean","arguments":[],"modifiers":["readonly"],"extended_attributes":["Measure"]}]}

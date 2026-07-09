@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuthenticationExtensionsPRFInputs","extended_attributes":[],"fields":[{"name":"eval","type_":"AuthenticationExtensionsPRFValues","required":false,"extended_attributes":[]},{"name":"evalByCredential","type_":"record<DOMString, AuthenticationExtensionsPRFValues>","required":false,"extended_attributes":[]}]}

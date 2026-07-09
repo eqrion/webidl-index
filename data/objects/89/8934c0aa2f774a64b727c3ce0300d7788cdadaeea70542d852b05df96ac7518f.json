@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MIDIConnectionEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"port","type_":"MIDIPort?","required":false,"default":"null","extended_attributes":[]}]}

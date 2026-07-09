@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"OffscreenRenderingContext","extended_attributes":[],"aliased_type":"(OffscreenCanvasRenderingContext2D or WebGLRenderingContext or WebGL2RenderingContext or WebGLRenderingContextWebGPU or WebGL2RenderingContextWebGPU or ImageBitmapRenderingContext or GPUCanvasContext)"}

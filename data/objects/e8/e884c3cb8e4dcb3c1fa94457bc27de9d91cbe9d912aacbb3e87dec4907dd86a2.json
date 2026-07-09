@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DisconnectedAccount","extended_attributes":["GenerateInit"],"fields":[{"name":"account_id","type_":"UTF8String","required":true,"extended_attributes":[]}]}

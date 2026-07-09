@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSTransition","inherits":"Animation","extended_attributes":["Exposed=Window","Func=\"Document::IsWebAnimationsGetAnimationsEnabled\"","HeaderFile=\"nsTransitionManager.h\""],"members":[{"kind":"attribute","name":"transitionProperty","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":["Constant"]}]}

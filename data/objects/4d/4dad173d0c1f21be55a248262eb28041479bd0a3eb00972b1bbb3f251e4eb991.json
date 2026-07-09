@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUImageDataLayout","extended_attributes":["EnabledBySetting=WebGPUEnabled"],"fields":[{"name":"bytesPerRow","type_":"GPUSize32","required":false,"extended_attributes":[]},{"name":"offset","type_":"GPUSize64","required":false,"default":"0","extended_attributes":[]},{"name":"rowsPerImage","type_":"GPUSize32","required":false,"extended_attributes":[]}]}

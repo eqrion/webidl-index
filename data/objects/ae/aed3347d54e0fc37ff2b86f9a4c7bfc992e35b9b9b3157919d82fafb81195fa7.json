@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HIDReportInfo","extended_attributes":["Exposed(Window WebHID)","SecureContext"],"members":[{"kind":"attribute","name":"items","type_":"FrozenArray<HIDReportItem>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"reportId","type_":"octet","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

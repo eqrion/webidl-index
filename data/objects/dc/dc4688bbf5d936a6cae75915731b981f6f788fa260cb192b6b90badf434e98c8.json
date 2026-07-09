@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CameraStateChangeEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"newState","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

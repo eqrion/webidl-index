@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WindowControlsOverlayGeometryChangeEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"boundingRect","type_":"DOMRect","required":true,"extended_attributes":[]},{"name":"visible","type_":"boolean","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DocumentFragment","inherits":"Node","extended_attributes":["CustomToJSObject","DOMJIT","JSGenerateToNativeObject"],"members":[{"kind":"constructor","name":"","arguments":[],"modifiers":[],"extended_attributes":["CallWith=Document"]}]}

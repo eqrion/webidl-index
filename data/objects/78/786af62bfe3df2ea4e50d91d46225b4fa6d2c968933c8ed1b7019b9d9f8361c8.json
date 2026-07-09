@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PaintSize","extended_attributes":["Exposed=PaintWorklet","RuntimeEnabled=CSSPaintAPI"],"members":[{"kind":"attribute","name":"height","type_":"double","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"width","type_":"double","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

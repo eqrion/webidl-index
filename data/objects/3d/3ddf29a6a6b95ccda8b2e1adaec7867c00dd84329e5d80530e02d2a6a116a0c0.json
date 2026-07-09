@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUImageBitmapCopyView","extended_attributes":[],"fields":[{"name":"imageBitmap","type_":"ImageBitmap","required":true,"extended_attributes":[]},{"name":"origin","type_":"GPUOrigin2D","required":false,"default":"{}","extended_attributes":[]}]}

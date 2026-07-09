@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLShadowElement","inherits":"HTMLElement","extended_attributes":[],"members":[{"kind":"operation","name":"getDistributedNodes","type_":"NodeList","arguments":[],"modifiers":[],"extended_attributes":[]}]}

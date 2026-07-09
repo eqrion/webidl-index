@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WakeLockRequest","extended_attributes":["Exposed=Window","RuntimeEnabled=WakeLockNavigator","SecureContext"],"members":[{"kind":"operation","name":"cancel","type_":"void","arguments":[],"modifiers":[],"extended_attributes":[]}]}

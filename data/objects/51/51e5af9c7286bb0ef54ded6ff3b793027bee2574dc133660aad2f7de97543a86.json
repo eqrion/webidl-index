@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MojoDiscardDataOptions","extended_attributes":[],"fields":[{"name":"allOrNone","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

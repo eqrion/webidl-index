@@ -1,0 +1,1 @@
+{"kind":"interface","name":"BluetoothDiscoveryHandle","inherits":"EventTarget","extended_attributes":["ChromeOnly"],"members":[{"kind":"attribute","name":"ondevicefound","type_":"EventHandler","arguments":[],"modifiers":[],"extended_attributes":[]}]}

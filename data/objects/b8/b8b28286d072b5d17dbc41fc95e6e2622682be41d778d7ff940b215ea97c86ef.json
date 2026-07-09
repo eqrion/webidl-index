@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUOutOfMemoryError","inherits":"GPUError","extended_attributes":["Exposed=(Window, DedicatedWorker)","SecureContext"],"members":[{"kind":"constructor","name":"","arguments":[{"name":"message","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

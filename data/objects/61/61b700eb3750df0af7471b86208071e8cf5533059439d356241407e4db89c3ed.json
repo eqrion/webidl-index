@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"GPUImageCopyExternalImageSource","extended_attributes":[],"aliased_type":"(ImageBitmap or HTMLVideoElement or VideoFrame or HTMLCanvasElement or OffscreenCanvas)"}

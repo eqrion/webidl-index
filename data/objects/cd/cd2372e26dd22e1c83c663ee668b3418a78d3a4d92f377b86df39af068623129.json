@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TestTrialInterface","extended_attributes":["Exposed=*","Trial=\"TestTrial\""],"members":[{"kind":"constructor","name":"","arguments":[],"modifiers":[],"extended_attributes":[]}]}

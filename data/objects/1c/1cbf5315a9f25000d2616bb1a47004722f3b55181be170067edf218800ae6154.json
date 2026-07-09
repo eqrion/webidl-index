@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Flex","extended_attributes":["ChromeOnly"],"members":[{"kind":"operation","name":"getLines","type_":"sequence<FlexLine>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

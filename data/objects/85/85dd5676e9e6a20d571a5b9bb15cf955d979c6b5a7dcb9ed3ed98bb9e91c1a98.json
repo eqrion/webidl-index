@@ -1,0 +1,1 @@
+{"kind":"enum","name":"HCIEventOrigin","extended_attributes":[],"values":["ASSD","SIM","eSE"]}

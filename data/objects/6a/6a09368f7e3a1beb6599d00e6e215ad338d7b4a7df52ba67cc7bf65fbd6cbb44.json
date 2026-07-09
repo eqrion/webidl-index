@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSConditionRule","inherits":"CSSGroupingRule","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"conditionText","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":["SetterThrows"]}]}

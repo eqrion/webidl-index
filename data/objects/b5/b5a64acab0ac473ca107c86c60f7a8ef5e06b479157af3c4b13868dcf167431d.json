@@ -1,0 +1,1 @@
+{"kind":"enum","name":"XRLayerLayout","extended_attributes":[],"values":["default","mono","stereo","stereo-left-right","stereo-top-bottom"]}

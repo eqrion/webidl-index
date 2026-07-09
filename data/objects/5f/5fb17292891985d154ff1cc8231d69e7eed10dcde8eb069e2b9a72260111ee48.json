@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ConsoleTimerStart","extended_attributes":["GenerateConversionToJS"],"fields":[{"name":"name","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

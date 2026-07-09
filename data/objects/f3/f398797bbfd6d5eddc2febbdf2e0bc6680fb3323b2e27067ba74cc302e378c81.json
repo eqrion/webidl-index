@@ -1,0 +1,1 @@
+{"kind":"enum","name":"DocumentReadyState","extended_attributes":[],"values":["complete","complete","interactive","interactive","loading","loading"]}

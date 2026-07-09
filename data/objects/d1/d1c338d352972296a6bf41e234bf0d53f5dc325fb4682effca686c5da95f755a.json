@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGLCompressedTextureETC1","extended_attributes":["DoNotCheckConstants","NoInterfaceObject"],"members":[{"kind":"const","name":"COMPRESSED_RGB_ETC1_WEBGL","type_":"unsigned long","arguments":[],"modifiers":[],"value":"0x8D64","extended_attributes":[]}]}

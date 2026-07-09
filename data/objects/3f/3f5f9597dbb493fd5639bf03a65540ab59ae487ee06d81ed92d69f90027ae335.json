@@ -1,0 +1,1 @@
+{"kind":"interface","name":"FontManager","extended_attributes":["Exposed=(Window, Worker)","RuntimeEnabled=FontAccess","SecureContext"],"members":[{"kind":"operation","name":"query","type_":"object","arguments":[],"modifiers":[],"extended_attributes":["CallWith=ScriptState","RaisesException","Measure"]}]}

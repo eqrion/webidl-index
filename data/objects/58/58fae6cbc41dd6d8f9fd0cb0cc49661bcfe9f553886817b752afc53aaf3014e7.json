@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayPaymentTiming","extended_attributes":[],"values":["automaticReload","deferred","immediate","recurring"]}

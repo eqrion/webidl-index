@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ColorSpacePrimaryID","extended_attributes":[],"values":["BT2020","BT470BG","BT470M","BT709","EBU_3213_E","FILM","SMPTE170M","SMPTE240M","SMPTEST428_1","SMPTEST431_2","SMPTEST432_1"]}

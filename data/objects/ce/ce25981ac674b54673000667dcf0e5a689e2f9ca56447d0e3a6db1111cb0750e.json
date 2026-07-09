@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PresentationReceiver","extended_attributes":["Func=\"Navigator::HasPresentationSupport\"","Pref=\"dom.presentation.enabled\""],"members":[{"kind":"attribute","name":"connectionList","type_":"Promise<PresentationConnectionList>","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject","Throws"]}]}

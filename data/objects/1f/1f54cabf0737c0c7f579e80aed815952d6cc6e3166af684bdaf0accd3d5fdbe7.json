@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"StyleSheetApplicableStateChangeEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"applicable","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"stylesheet","type_":"CSSStyleSheet?","required":false,"default":"null","extended_attributes":[]}]}

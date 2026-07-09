@@ -1,0 +1,1 @@
+{"kind":"interface","name":"StyleMedia","extended_attributes":["GenerateIsReachable=ReachableFromDOMWindow","LegacyNoInterfaceObject","MasqueradesAsUndefined"],"members":[{"kind":"attribute","name":"type","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

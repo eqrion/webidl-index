@@ -1,0 +1,1 @@
+{"kind":"interface","name":"InputPortManager","extended_attributes":["ChromeOnly","Pref=\"dom.inputport.enabled\""],"members":[{"kind":"operation","name":"getInputPorts","type_":"Promise<sequence<InputPort>>","arguments":[],"modifiers":[],"extended_attributes":["Throws"]}]}

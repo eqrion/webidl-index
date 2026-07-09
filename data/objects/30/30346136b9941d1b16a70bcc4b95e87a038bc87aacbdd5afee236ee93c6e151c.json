@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TVScanningStateChangedEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"channel","type_":"TVChannel?","required":false,"default":"null","extended_attributes":[]},{"name":"state","type_":"TVScanningState","required":false,"default":"\"cleared\"","extended_attributes":[]}]}

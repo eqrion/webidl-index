@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUShaderModuleDescriptor","inherits":"GPUObjectDescriptorBase","extended_attributes":[],"fields":[{"name":"code","type_":"UTF8String","required":true,"extended_attributes":[]}]}

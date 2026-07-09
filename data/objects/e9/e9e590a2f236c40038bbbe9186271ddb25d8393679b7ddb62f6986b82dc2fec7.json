@@ -1,0 +1,1 @@
+{"kind":"enum","name":"BeaconMethod","extended_attributes":["RuntimeEnabled=PendingBeaconAPI"],"values":["GET","POST"]}

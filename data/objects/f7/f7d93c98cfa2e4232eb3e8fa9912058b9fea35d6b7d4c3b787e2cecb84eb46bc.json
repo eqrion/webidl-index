@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SmartCardDisposition","extended_attributes":[],"values":["eject","leave","reset","unpower"]}

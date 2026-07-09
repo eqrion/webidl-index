@@ -1,0 +1,1 @@
+{"kind":"interface","name":"BackgroundFetchSettledFetch","inherits":"BackgroundFetchFetch","extended_attributes":["Constructor(Request request, Response response)","Exposed=ServiceWorker","OriginTrialEnabled=BackgroundFetch"],"members":[{"kind":"attribute","name":"response","type_":"Response?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

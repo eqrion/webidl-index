@@ -1,0 +1,1 @@
+{"kind":"callback_interface","name":"ErrorCallback","extended_attributes":[],"members":[{"kind":"operation","name":"handleEvent","type_":"void","arguments":[{"name":"err","type_":"DOMException","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

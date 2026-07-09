@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebPrintJob","extended_attributes":["Exposed=Window","IsolatedContext","RuntimeEnabled=WebPrinting","SecureContext"],"members":[{"kind":"operation","name":"attributes","type_":"WebPrintJobAttributes","arguments":[],"modifiers":[],"extended_attributes":[]}]}

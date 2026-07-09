@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DragEvent","inherits":"MouseEvent","extended_attributes":["Constructor(DOMString type, optional DragEventInit eventInitDict)","Exposed=Window"],"members":[{"kind":"attribute","name":"dataTransfer","type_":"DataTransfer?","arguments":[],"modifiers":["readonly"],"extended_attributes":["ImplementedAs=getDataTransfer"]}]}

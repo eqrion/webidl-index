@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPUMultisampleDepthResolveFilter","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"values":["max","min","sample0"]}

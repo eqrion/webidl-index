@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SelfCapturePreferenceEnum","extended_attributes":[],"values":["exclude","include"]}

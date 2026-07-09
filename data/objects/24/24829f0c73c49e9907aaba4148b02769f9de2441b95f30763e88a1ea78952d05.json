@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ArchiveRequest","inherits":"DOMRequest","extended_attributes":["Pref=\"dom.archivereader.enabled\""],"members":[{"kind":"attribute","name":"reader","type_":"ArchiveReader","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

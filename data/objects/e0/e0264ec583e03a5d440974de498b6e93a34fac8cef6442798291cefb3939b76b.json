@@ -1,0 +1,1 @@
+{"kind":"callback","name":"SettingChangeCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"setting","type_":"SettingChange","optional":false,"variadic":false,"extended_attributes":[]}]}

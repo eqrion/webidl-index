@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUCompilationInfo","extended_attributes":["Exposed=(Window, Worker)","SecureContext"],"members":[{"kind":"attribute","name":"messages","type_":"FrozenArray<GPUCompilationMessage>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

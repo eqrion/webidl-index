@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityProviderConfig","extended_attributes":["GenerateConversionToJS"],"fields":[{"name":"clientId","type_":"UTF8String","required":true,"extended_attributes":[]},{"name":"configURL","type_":"UTF8String","required":true,"extended_attributes":[]},{"name":"nonce","type_":"UTF8String","required":false,"extended_attributes":[]}]}

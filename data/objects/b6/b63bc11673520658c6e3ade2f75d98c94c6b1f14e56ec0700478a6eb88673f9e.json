@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSImageValue","inherits":"CSSStyleValue","extended_attributes":["EnabledBySetting=CSSTypedOMEnabled","Exposed=(Window, Worker, PaintWorklet)","JSGenerateToNativeObject"],"members":[]}

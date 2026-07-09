@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebPrintingMultipleDocumentHandling","extended_attributes":[],"values":["separate-documents-collated-copies","separate-documents-uncollated-copies"]}

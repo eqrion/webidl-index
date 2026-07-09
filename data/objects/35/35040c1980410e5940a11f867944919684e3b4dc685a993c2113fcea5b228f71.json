@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HighlightPointerEvent","inherits":"PointerEvent","extended_attributes":["Exposed=Window","RuntimeEnabled=HighlightPointerEvents"],"members":[{"kind":"attribute","name":"range","type_":"Range?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

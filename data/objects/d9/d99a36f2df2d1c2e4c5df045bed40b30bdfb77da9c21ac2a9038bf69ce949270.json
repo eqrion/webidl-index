@@ -1,0 +1,1 @@
+{"kind":"callback","name":"OfflineRenderSuccessCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"renderedData","type_":"AudioBuffer","optional":false,"variadic":false,"extended_attributes":[]}]}

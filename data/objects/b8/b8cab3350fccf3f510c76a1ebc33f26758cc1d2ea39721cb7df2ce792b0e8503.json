@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CanMakePaymentResponse","extended_attributes":[],"fields":[{"name":"accountBalance","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"canMakePayment","type_":"boolean","required":false,"extended_attributes":[]},{"name":"readyForMinimalUI","type_":"boolean","required":false,"extended_attributes":[]}]}

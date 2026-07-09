@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"EmailVerifiedEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"presentationToken","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

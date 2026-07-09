@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MozSmsEvent","inherits":"Event","extended_attributes":["ChromeOnly","Constructor(DOMString type, optional MozSmsEventInit eventInitDict)","Pref=\"dom.sms.enabled\""],"members":[{"kind":"attribute","name":"message","type_":"SmsMessage?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

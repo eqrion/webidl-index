@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NavigationTransitionWhileOptions","extended_attributes":[],"fields":[{"name":"focusReset","type_":"NavigationFocusReset","required":false,"extended_attributes":[]},{"name":"scrollRestoration","type_":"NavigationScrollRestoration","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUVertexInputDescriptor","extended_attributes":[],"fields":[{"name":"inputSlot","type_":"u32","required":false,"extended_attributes":[]},{"name":"stepMode","type_":"WebGPUInputStepModeEnum","required":false,"extended_attributes":[]},{"name":"stride","type_":"u32","required":false,"extended_attributes":[]}]}

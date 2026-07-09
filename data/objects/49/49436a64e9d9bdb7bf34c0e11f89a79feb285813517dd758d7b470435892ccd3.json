@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XMLDocument","inherits":"Document","extended_attributes":["CustomToJSObject","Exposed=Window","LegacyWindowAlias=SVGDocument"],"members":[]}

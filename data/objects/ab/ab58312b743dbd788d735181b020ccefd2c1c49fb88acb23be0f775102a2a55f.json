@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AutofillFieldData","extended_attributes":[],"fields":[{"name":"field","type_":"Element","required":false,"extended_attributes":[]},{"name":"value","type_":"DOMString","required":false,"extended_attributes":[]}]}

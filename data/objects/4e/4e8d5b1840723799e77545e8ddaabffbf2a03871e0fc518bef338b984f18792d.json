@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IDBObjectStoreParameters","extended_attributes":[],"fields":[{"name":"autoIncrement","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"keyPath","type_":"(DOMString or sequence<DOMString>)?","required":false,"default":"null","extended_attributes":[]}]}

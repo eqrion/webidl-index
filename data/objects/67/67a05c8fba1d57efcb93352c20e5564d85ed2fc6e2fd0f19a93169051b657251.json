@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLHardSigmoidOptions","extended_attributes":[],"fields":[{"name":"alpha","type_":"float","required":false,"default":"0.2","extended_attributes":[]},{"name":"beta","type_":"float","required":false,"default":"0.5","extended_attributes":[]}]}

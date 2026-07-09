@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUVertexInputDescriptor","extended_attributes":[],"fields":[{"name":"indexFormat","type_":"GPUIndexFormat","required":false,"default":"\"uint32\"","extended_attributes":[]},{"name":"vertexBuffers","type_":"object","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ClipboardPermissionDescriptor","inherits":"PermissionDescriptor","extended_attributes":[],"fields":[{"name":"allowWithoutGesture","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"allowWithoutSanitization","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

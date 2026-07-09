@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SourceType","extended_attributes":["Conditional=MODERN_MEDIA_CONTROLS"],"values":["file","hls","live-stream","managed-media-source","media-source","media-stream","stored-stream"]}

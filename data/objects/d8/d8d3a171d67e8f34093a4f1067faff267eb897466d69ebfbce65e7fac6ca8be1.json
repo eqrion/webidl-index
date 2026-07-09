@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"EncapsulatedKey","extended_attributes":[],"fields":[{"name":"ciphertext","type_":"ArrayBuffer","required":false,"extended_attributes":[]},{"name":"sharedKey","type_":"CryptoKey","required":false,"extended_attributes":[]}]}

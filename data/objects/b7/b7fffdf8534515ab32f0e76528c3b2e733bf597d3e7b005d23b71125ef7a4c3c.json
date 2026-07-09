@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NavigatorCookies","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"cookieEnabled","type_":"boolean","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

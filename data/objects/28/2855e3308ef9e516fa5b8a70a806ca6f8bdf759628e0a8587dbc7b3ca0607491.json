@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLMenuItemElement","inherits":"HTMLElement","extended_attributes":["EnabledAtRuntime=MenuItemElement","Exposed=Window"],"members":[]}

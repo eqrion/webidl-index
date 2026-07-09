@@ -1,0 +1,1 @@
+{"kind":"callback","name":"UnderlyingSinkWriteCallback","extended_attributes":[],"return_type":"Promise<void>","arguments":[{"name":"chunk","type_":"any","optional":false,"variadic":false,"extended_attributes":[]},{"name":"controller","type_":"WritableStreamDefaultController","optional":false,"variadic":false,"extended_attributes":[]}]}

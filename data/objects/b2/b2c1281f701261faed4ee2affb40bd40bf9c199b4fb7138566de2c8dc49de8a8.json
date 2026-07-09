@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HIDInputReportEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"data","type_":"DataView","required":true,"extended_attributes":[]},{"name":"device","type_":"HIDDevice","required":true,"extended_attributes":[]},{"name":"reportId","type_":"octet","required":true,"extended_attributes":[]}]}

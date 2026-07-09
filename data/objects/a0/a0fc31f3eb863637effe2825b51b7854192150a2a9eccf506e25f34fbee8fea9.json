@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MozOtaStatusEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional MozOtaStatusEventInit eventInitDict)","Pref=\"dom.mobileconnection.enabled\""],"members":[{"kind":"attribute","name":"status","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

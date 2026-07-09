@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUVertexFormat","extended_attributes":[],"values":["char2","char2norm","char4","char4norm","float","float2","float3","float4","half2","half4","int","int2","int3","int4","short2","short2norm","short4","short4norm","uchar2","uchar2norm","uchar4","uchar4norm","uint","uint2","uint3","uint4","ushort2","ushort2norm","ushort4","ushort4norm"]}

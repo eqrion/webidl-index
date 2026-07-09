@@ -1,0 +1,1 @@
+{"kind":"enum","name":"VirtualSensorType","extended_attributes":[],"values":["absolute-orientation","accelerometer","ambient-light","gravity","gyroscope","linear-acceleration","magnetometer","relative-orientation"]}

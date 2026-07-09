@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"RenderingContext","extended_attributes":[],"aliased_type":"(WebGLRenderingContext or WebGL2RenderingContext or WebGPURenderingContext or ImageBitmapRenderingContext or CanvasRenderingContext2D)"}

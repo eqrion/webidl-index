@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MobileNetworkType","extended_attributes":[],"values":["cdma","evdo","gsm","lte","wcdma"]}

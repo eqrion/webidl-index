@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUCullMode","extended_attributes":["EnabledBySetting=WebGPUEnabled"],"values":["back","front","none"]}

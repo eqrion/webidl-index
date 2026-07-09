@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ConstrainDOMStringParameters","extended_attributes":[],"fields":[{"name":"exact","type_":"(DOMString or sequence<DOMString>)","required":false,"extended_attributes":[]},{"name":"ideal","type_":"(DOMString or sequence<DOMString>)","required":false,"extended_attributes":[]}]}

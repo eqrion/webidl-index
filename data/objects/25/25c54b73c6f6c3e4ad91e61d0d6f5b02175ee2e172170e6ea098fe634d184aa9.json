@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebIDRequestOptions","extended_attributes":[],"fields":[{"name":"provider","type_":"USVString","required":false,"extended_attributes":[]},{"name":"request","type_":"USVString","required":false,"extended_attributes":[]}]}

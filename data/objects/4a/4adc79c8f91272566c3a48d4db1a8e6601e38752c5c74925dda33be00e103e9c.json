@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUBinding","extended_attributes":[],"fields":[{"name":"count","type_":"u32","required":false,"extended_attributes":[]},{"name":"resources","type_":"sequence<WebGPUBindingResource>","required":false,"extended_attributes":[]},{"name":"start","type_":"u32","required":false,"extended_attributes":[]}]}

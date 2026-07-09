@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUAdapterDescriptor","extended_attributes":[],"fields":[{"name":"powerPreference","type_":"WebGPUPowerPreference","required":false,"extended_attributes":[]}]}

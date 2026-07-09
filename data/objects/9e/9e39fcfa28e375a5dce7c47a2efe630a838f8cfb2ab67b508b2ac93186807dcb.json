@@ -1,0 +1,1 @@
+{"kind":"callback","name":"CustomElementFormAssociatedCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"form","type_":"HTMLFormElement?","optional":false,"variadic":false,"extended_attributes":[]}]}

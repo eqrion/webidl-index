@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CallEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional CallEventInit eventInitDict)","Pref=\"dom.telephony.enabled\""],"members":[{"kind":"attribute","name":"call","type_":"TelephonyCall?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

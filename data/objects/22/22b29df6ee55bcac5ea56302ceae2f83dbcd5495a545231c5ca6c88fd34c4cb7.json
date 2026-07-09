@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaQueryListEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"matches","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"media","type_":"UTF8String","required":false,"default":"\"\"","extended_attributes":[]}]}

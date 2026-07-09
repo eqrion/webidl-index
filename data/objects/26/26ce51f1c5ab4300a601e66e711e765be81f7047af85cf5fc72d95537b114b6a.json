@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CanvasInterventionsTest","extended_attributes":["Exposed=(Window, Worker)","RuntimeEnabled=CanvasInterventionsTest"],"members":[{"kind":"operation","name":"getCanvasNoiseToken","type_":"DOMString?","arguments":[],"modifiers":["static"],"extended_attributes":["CallWith=ExecutionContext"]}]}

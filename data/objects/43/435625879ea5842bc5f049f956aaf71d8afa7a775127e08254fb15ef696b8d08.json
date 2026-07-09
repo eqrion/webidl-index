@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRInputSourceEventInit","inherits":"EventInit","extended_attributes":["SecureContext"],"fields":[{"name":"frame","type_":"XRPresentationFrame","required":true,"extended_attributes":[]},{"name":"inputSource","type_":"XRInputSource","required":true,"extended_attributes":[]}]}

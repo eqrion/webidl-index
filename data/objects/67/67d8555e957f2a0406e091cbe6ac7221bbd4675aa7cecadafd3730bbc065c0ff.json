@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPUIndexType","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"values":["uint16","uint32"]}

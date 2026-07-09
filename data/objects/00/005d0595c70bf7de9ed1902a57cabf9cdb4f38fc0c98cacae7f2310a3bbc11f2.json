@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DownloadEvent","inherits":"Event","extended_attributes":["ChromeOnly","Constructor(DOMString type, optional DownloadEventInit eventInitDict)","Pref=\"dom.mozDownloads.enabled\""],"members":[{"kind":"attribute","name":"download","type_":"DOMDownload?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MLGraph","extended_attributes":["Exposed=(Window, DedicatedWorker)","RuntimeEnabled=MachineLearningNeuralNetwork"],"members":[{"kind":"operation","name":"destroy","type_":"void","arguments":[],"modifiers":[],"extended_attributes":[]}]}

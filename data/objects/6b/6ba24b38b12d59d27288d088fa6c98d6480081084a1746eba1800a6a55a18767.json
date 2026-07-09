@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MultiCacheQueryOptions","inherits":"CacheQueryOptions","extended_attributes":[],"fields":[{"name":"cacheName","type_":"DOMString","required":false,"extended_attributes":[]}]}

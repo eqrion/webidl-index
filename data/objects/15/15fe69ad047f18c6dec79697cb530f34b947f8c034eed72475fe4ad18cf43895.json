@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AISummarizerType","extended_attributes":[],"values":["headline","key-points","teaser","tl;dr"]}

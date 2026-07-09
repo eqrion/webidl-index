@@ -1,0 +1,1 @@
+{"kind":"callback","name":"CreateMonitorCallback","extended_attributes":[],"return_type":"undefined","arguments":[{"name":"monitor","type_":"CreateMonitor","optional":false,"variadic":false,"extended_attributes":[]}]}

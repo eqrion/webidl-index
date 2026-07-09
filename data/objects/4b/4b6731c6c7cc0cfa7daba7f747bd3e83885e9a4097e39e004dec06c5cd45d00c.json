@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGAnimatedInteger","extended_attributes":["SkipVTableValidation"],"members":[{"kind":"attribute","name":"animVal","type_":"long","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"baseVal","type_":"long","arguments":[],"modifiers":[],"extended_attributes":["SetterMayThrowException"]}]}

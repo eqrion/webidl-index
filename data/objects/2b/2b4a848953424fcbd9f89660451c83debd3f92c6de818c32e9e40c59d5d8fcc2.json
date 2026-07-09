@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SpeechGrammar","extended_attributes":["Constructor","Measure","NoInterfaceObject"],"members":[{"kind":"attribute","name":"src","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":["URL","CallWith=ScriptState"]},{"kind":"attribute","name":"weight","type_":"float","arguments":[],"modifiers":[],"extended_attributes":[]}]}

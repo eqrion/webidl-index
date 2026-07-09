@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGClipPathElement","inherits":"SVGGraphicsElement","extended_attributes":[],"members":[{"kind":"attribute","name":"clipPathUnits","type_":"SVGAnimatedEnumeration","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

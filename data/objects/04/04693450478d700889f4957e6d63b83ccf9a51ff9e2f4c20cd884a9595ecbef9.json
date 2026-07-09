@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RsaKeyGenParams","inherits":"CryptoAlgorithmParameters","extended_attributes":["ImplementedAs=CryptoAlgorithmRsaKeyGenParams"],"fields":[{"name":"modulusLength","type_":"unsigned long","required":true,"extended_attributes":["EnforceRange"]},{"name":"publicExponent","type_":"Uint8Array","required":true,"extended_attributes":[]}]}

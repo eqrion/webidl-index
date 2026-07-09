@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozStkTimer","extended_attributes":[],"fields":[{"name":"timerAction","type_":"unsigned short","required":false,"extended_attributes":[]},{"name":"timerId","type_":"octet","required":false,"extended_attributes":[]},{"name":"timerValue","type_":"unsigned long","required":false,"extended_attributes":[]}]}

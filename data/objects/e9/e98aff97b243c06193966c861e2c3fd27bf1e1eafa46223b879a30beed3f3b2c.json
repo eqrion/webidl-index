@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TrustedScript","extended_attributes":["Exposed=Window","IsCodeLike","RuntimeEnabled=TrustedDOMTypes"],"members":[{"kind":"operation","name":"toJSON","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":[]},{"kind":"stringifier","name":"","arguments":[],"modifiers":[],"extended_attributes":[]}]}

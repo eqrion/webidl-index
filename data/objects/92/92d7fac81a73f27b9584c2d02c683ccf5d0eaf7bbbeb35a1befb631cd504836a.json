@@ -1,0 +1,1 @@
+{"kind":"callback","name":"ResizeObserverCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"entries","type_":"sequence<ResizeObserverEntry>","optional":false,"variadic":false,"extended_attributes":[]},{"name":"observer","type_":"ResizeObserver","optional":false,"variadic":false,"extended_attributes":[]}]}

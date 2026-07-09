@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SubAppsError","extended_attributes":[],"values":["failure","success"]}

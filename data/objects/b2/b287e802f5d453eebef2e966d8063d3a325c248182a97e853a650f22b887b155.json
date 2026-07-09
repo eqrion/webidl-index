@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WorkletGlobalScope","extended_attributes":["ActiveScriptWrappable","Exposed=Worklet","ImmutablePrototype","RuntimeEnabled=Worklet"],"members":[]}

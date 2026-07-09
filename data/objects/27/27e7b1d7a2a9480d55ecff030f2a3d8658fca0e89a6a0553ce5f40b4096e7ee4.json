@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGL2ComputeRenderingContext","extended_attributes":["DoNotCheckConstants","Exposed(Worker WebGL2ComputeContext, Window WebGL2ComputeContext)"],"members":[]}

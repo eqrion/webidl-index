@@ -1,0 +1,1 @@
+{"kind":"callback","name":"RequestAnimationFrameCallback","extended_attributes":[],"return_type":"undefined","arguments":[{"name":"highResTime","type_":"unrestricted double","optional":false,"variadic":false,"extended_attributes":[]}]}

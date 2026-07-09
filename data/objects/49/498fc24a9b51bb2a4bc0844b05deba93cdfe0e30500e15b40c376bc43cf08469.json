@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayLineItemType","extended_attributes":["Conditional=APPLE_PAY"],"values":["final","pending"]}

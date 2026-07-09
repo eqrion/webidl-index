@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MLOperandDataType","extended_attributes":[],"values":["float16","float32","int32","int4","int64","int8","uint32","uint4","uint64","uint8"]}

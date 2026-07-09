@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"HTMLString","extended_attributes":[],"aliased_type":"[StringContext=TrustedHTML] DOMString"}

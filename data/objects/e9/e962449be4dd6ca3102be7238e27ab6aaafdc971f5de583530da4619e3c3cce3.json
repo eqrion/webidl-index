@@ -1,0 +1,1 @@
+{"kind":"callback","name":"TestCallback","extended_attributes":[],"return_type":"DOMString","arguments":[{"name":"message1","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]},{"name":"message2","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]}]}

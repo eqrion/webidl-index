@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BluetoothPairingEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"deviceName","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"handle","type_":"BluetoothPairingHandle?","required":false,"default":"null","extended_attributes":[]}]}

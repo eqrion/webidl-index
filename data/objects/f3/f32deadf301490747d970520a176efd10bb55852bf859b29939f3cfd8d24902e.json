@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ScrollTimelineElementBasedOffset","extended_attributes":[],"fields":[{"name":"edge","type_":"Edge","required":false,"default":"\"start\"","extended_attributes":[]},{"name":"target","type_":"Element","required":false,"extended_attributes":[]},{"name":"threshold","type_":"double","required":false,"default":"0.0","extended_attributes":[]}]}

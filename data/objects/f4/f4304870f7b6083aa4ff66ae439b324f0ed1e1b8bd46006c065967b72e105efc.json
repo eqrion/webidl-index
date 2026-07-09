@@ -1,0 +1,1 @@
+{"kind":"interface","name":"UDPSocket","extended_attributes":["DirectSocketEnabled","Exposed=Window","RuntimeEnabled=DirectSockets"],"members":[{"kind":"operation","name":"close","type_":"Promise<void>","arguments":[],"modifiers":[],"extended_attributes":["RaisesException","CallWith=ScriptState"]}]}

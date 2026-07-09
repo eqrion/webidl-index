@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebTransportSendStream","inherits":"WritableStream","extended_attributes":["Exposed=(Window, Worker)","Pref=\"network.webtransport.enabled\"","SecureContext"],"members":[{"kind":"operation","name":"getStats","type_":"Promise<WebTransportSendStreamStats>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

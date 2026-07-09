@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGLSampler","extended_attributes":["Exposed=(Window, Worker)","Pref=\"webgl.enable-webgl2\""],"members":[]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"StorageManager","extended_attributes":["Exposed=(Window, Worker)","Func=\"mozilla::dom::StorageManager::PrefEnabled\""],"members":[{"kind":"operation","name":"estimate","type_":"Promise<StorageEstimate>","arguments":[],"modifiers":[],"extended_attributes":["Throws"]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"vCardProperties","extended_attributes":[],"values":["adr","agent","bday","categories","class","email","fn","geo","key","label","logo","mailer","n","nickname","note","org","photo","proid","rev","role","sort-string","sound","tel","title","tz","uid","url","version","x-bt-speeddialkey","x-bt-uci","x-bt-uid","x-irmc-call-datetime"]}

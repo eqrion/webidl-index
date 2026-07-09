@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"URLPatternOptions","extended_attributes":[],"fields":[{"name":"ignoreCase","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGLVertexArrayObject","extended_attributes":["Conditional=WEBGL2","EnabledAtRuntime=WebGL2"],"members":[]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUColor","extended_attributes":[],"fields":[{"name":"a","type_":"float","required":true,"extended_attributes":[]},{"name":"b","type_":"float","required":true,"extended_attributes":[]},{"name":"g","type_":"float","required":true,"extended_attributes":[]},{"name":"r","type_":"float","required":true,"extended_attributes":[]}]}

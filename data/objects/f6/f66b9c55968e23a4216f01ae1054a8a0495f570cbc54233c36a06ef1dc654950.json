@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TrackEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"track","type_":"(VideoTrack or AudioTrack or TextTrack)?","required":false,"extended_attributes":[]}]}

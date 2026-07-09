@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Crypto","extended_attributes":["ImplementationLacksVTable","NoInterfaceObject"],"members":[{"kind":"operation","name":"getRandomValues","type_":"ArrayBufferView","arguments":[{"name":"array","type_":"ArrayBufferView","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":["Custom","RaisesException"]}]}

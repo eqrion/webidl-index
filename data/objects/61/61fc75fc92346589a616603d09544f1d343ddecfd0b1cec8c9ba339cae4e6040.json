@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FetchResponseInit","extended_attributes":[],"fields":[{"name":"headers","type_":"HeadersInit","required":false,"extended_attributes":[]},{"name":"status","type_":"unsigned short","required":false,"default":"200","extended_attributes":[]},{"name":"statusText","type_":"ByteString","required":false,"default":"\"OK\"","extended_attributes":[]}]}

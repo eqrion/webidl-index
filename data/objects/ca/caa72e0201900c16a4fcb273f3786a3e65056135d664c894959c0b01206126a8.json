@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TextTrackCueGeneric","inherits":"VTTCue","extended_attributes":["Conditional=VIDEO_TRACK","ExportMacro=WEBCORE_EXPORT","JSGenerateToJSObject","JSGenerateToNativeObject","NoInterfaceObject"],"members":[]}

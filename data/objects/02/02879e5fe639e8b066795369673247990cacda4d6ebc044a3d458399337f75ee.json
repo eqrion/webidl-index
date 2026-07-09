@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FocusOptions","extended_attributes":[],"fields":[{"name":"preventScroll","type_":"boolean","required":false,"default":"false","extended_attributes":["RuntimeEnabled=FocusOptions"]}]}

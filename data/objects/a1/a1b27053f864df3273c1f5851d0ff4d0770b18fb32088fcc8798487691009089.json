@@ -1,0 +1,1 @@
+{"kind":"namespace","name":"TestUtils","extended_attributes":["Exposed=(Window, Worker)","Pref=\"dom.testing.testutils.enabled\""],"members":[{"kind":"operation","name":"gc","type_":"Promise<undefined>","arguments":[],"modifiers":[],"extended_attributes":["NewObject","Throws"]}]}

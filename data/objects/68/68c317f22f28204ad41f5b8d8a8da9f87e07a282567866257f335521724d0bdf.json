@@ -1,0 +1,1 @@
+{"kind":"interface","name":"LegacyQueryInterface","extended_attributes":["Exposed=(Window, Worker)","NoInterfaceObject"],"members":[{"kind":"operation","name":"QueryInterface","type_":"nsISupports","arguments":[{"name":"iid","type_":"IID","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":["Exposed=Window","ChromeOnly"]}]}

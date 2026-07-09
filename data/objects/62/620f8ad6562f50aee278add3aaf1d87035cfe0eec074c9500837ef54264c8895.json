@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AesCtrParams","inherits":"Algorithm","extended_attributes":["GenerateInit"],"fields":[{"name":"counter","type_":"BufferSource","required":true,"extended_attributes":[]},{"name":"length","type_":"octet","required":true,"extended_attributes":["EnforceRange"]}]}

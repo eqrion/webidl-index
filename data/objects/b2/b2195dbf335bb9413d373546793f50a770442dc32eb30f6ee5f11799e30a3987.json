@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ApplePayCouponCodeUpdate","inherits":"ApplePayDetailsUpdateBase","extended_attributes":["Conditional=APPLE_PAY_COUPON_CODE"],"fields":[{"name":"errors","type_":"sequence<ApplePayError>","required":false,"extended_attributes":[]},{"name":"newShippingMethods","type_":"sequence<ApplePayShippingMethod>","required":false,"extended_attributes":[]}]}

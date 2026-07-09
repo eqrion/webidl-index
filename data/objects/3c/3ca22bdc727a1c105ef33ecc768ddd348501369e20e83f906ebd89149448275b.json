@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CloseEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"code","type_":"unsigned short","required":false,"extended_attributes":[]},{"name":"reason","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"wasClean","type_":"boolean","required":false,"extended_attributes":[]}]}

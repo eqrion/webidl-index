@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCPMuxPolicy","extended_attributes":["Conditional=WEB_RTC","EnabledBySetting=PeerConnection","ImplementedAs=RTCPMuxPolicy"],"values":["negotiate","require"]}

@@ -1,0 +1,1 @@
+{"kind":"callback","name":"MozGetUserMediaDevicesSuccessCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"devices","type_":"nsIVariant?","optional":false,"variadic":false,"extended_attributes":[]}]}

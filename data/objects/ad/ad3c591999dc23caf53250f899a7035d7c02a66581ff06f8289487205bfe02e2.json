@@ -1,0 +1,1 @@
+{"kind":"interface","name":"FontFaceSetLoadEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional FontFaceSetLoadEventInit eventInitDict)","Exposed=Window"],"members":[{"kind":"attribute","name":"fontfaces","type_":"FrozenArray<FontFace>","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]}]}

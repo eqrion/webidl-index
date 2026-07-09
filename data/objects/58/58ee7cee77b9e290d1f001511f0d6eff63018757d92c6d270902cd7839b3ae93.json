@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"BodyInit","extended_attributes":[],"aliased_type":"(Blob or BufferSource or DOMFormData or URLSearchParams or ReadableStream or USVString)"}

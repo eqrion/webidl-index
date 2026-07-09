@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AnimationPlaybackEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"currentTime","type_":"CSSNumberish?","required":false,"default":"null","extended_attributes":[]},{"name":"timelineTime","type_":"CSSNumberish?","required":false,"default":"null","extended_attributes":[]}]}

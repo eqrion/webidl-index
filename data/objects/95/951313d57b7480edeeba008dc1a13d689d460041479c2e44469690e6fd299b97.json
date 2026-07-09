@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"UDPSocketOpenInfo","inherits":"SocketOpenInfo","extended_attributes":[],"fields":[{"name":"multicastController","type_":"MulticastController","required":false,"extended_attributes":["RuntimeEnabled=MulticastInDirectSockets"]}]}

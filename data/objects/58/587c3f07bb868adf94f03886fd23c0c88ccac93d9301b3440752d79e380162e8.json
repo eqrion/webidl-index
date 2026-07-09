@@ -1,0 +1,1 @@
+{"kind":"enum","name":"HardwareAcceleration","extended_attributes":[],"values":["no-preference","prefer-hardware","prefer-software"]}

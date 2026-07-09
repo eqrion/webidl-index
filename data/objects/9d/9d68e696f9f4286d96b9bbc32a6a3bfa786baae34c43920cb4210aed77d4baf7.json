@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CookieListItem","extended_attributes":[],"fields":[{"name":"name","type_":"USVString","required":false,"extended_attributes":[]},{"name":"value","type_":"USVString","required":false,"extended_attributes":[]}]}

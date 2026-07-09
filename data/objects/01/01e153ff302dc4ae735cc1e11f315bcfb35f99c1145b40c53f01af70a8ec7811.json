@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XMLHttpRequestUpload","inherits":"XMLHttpRequestEventTarget","extended_attributes":["Exposed=(Window, DedicatedWorker, SharedWorker)"],"members":[]}

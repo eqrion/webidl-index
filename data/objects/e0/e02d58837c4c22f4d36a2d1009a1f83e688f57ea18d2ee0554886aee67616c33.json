@@ -1,0 +1,1 @@
+{"kind":"callback","name":"DocumentTransitionCallback","extended_attributes":["RuntimeEnabled=DocumentTransition"],"return_type":"Promise<void>","arguments":[]}

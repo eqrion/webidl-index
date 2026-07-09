@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WalletProvider","extended_attributes":[],"fields":[{"name":"params","type_":"record<USVString, USVString>","required":false,"extended_attributes":[]},{"name":"selector","type_":"WalletSelector","required":false,"extended_attributes":[]}]}

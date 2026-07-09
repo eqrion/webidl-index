@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUImageCopyBuffer","inherits":"GPUImageDataLayout","extended_attributes":["EnabledBySetting=WebGPUEnabled"],"fields":[{"name":"buffer","type_":"GPUBuffer","required":true,"extended_attributes":[]}]}

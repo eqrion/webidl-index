@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUPipelineDescriptorBase","inherits":"GPUObjectDescriptorBase","extended_attributes":["EnabledBySetting=WebGPUEnabled"],"fields":[{"name":"layout","type_":"(GPUPipelineLayout or GPUAutoLayoutMode)","required":false,"extended_attributes":[]}]}

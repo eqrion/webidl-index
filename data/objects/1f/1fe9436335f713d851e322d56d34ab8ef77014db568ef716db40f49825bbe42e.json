@@ -1,0 +1,1 @@
+{"kind":"interface","name":"BackgroundFetchFetch","extended_attributes":["Exposed=(Window, Worker)","RuntimeEnabled=BackgroundFetch"],"members":[{"kind":"attribute","name":"request","type_":"Request","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

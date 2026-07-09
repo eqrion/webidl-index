@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"UDPSocketOptions","inherits":"SocketOptions","extended_attributes":[],"fields":[{"name":"readableStreamBufferSize","type_":"unsigned short","required":false,"extended_attributes":["EnforceRange"]}]}

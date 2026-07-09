@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AudioWorkletProcessor","extended_attributes":["Constructor(optional AudioWorkletNodeOptions options = {})","Exposed=AudioWorklet"],"members":[{"kind":"attribute","name":"port","type_":"MessagePort","arguments":[],"modifiers":["readonly"],"extended_attributes":["Throws"]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPUStencilOperation","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"values":["decrementclamp","decrementwrap","incrementclamp","incrementwrap","invert","keep","replace","zero"]}

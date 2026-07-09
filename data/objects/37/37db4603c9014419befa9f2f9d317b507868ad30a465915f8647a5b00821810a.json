@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityRequestProvider","extended_attributes":[],"fields":[{"name":"protocol","type_":"IdentityCredentialProtocol","required":true,"extended_attributes":[]},{"name":"request","type_":"object","required":true,"extended_attributes":[]}]}

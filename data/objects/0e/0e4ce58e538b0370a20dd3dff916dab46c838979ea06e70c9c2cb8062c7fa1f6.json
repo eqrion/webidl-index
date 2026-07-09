@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NonElementParentNode","extended_attributes":["LegacyTreatAsPartialInterface","NoInterfaceObject"],"members":[{"kind":"operation","name":"getElementById","type_":"Element?","arguments":[{"name":"elementId","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":["PerWorldBindings"]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUPipelineStatisticName","extended_attributes":[],"values":["clipper-invocations","clipper-primitives-out","compute-shader-invocations","fragment-shader-invocations","vertex-shader-invocations"]}

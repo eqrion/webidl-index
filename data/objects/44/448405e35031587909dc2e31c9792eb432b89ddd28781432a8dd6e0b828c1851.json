@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SpeechSynthesisErrorCode","extended_attributes":[],"values":["audio-busy","audio-hardware","canceled","interrupted","invalid-argument","language-unavailable","network","not-allowed","synthesis-failed","synthesis-unavailable","text-too-long","voice-unavailable"]}

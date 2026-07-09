@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MojoInterfaceRequestEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"handle","type_":"MojoHandle","required":false,"extended_attributes":[]}]}

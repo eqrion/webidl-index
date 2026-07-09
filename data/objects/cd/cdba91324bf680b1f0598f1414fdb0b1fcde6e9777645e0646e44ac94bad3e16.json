@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"LanguageModelToolCallInit","extended_attributes":[],"fields":[{"name":"arguments","type_":"object","required":false,"extended_attributes":[]},{"name":"callID","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"name","type_":"DOMString","required":true,"extended_attributes":[]}]}

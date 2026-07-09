@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ReadableStreamBYOBReadResult","extended_attributes":[],"fields":[{"name":"done","type_":"boolean","required":false,"extended_attributes":[]},{"name":"value","type_":"ArrayBufferView","required":false,"extended_attributes":[]}]}

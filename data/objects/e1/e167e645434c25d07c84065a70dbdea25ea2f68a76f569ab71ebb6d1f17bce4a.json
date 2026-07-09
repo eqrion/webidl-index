@@ -1,0 +1,1 @@
+{"kind":"enum","name":"VideoTransferCharacteristics","extended_attributes":["Conditional=VIDEO"],"values":["bt1361ExtendedColourGamut","bt2020_10bit","bt2020_12bit","bt709","gamma22curve","gamma28curve","hlg","iec61966-2-1","iec6196624","linear","log","logSqrt","pq","smpte170m","smpte240m","smpteSt4281","unspecified"]}

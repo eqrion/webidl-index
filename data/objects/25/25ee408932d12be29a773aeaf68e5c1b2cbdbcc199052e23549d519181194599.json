@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUInputStepMode","extended_attributes":[],"values":["instance","vertex"]}

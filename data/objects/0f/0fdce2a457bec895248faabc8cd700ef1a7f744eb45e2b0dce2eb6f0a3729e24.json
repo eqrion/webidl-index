@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WindowPostMessageOptions","inherits":"StructuredSerializeOptions","extended_attributes":[],"fields":[{"name":"targetOrigin","type_":"USVString","required":false,"default":"\"/\"","extended_attributes":[]}]}

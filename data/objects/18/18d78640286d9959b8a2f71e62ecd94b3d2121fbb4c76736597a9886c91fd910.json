@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CryptoHmacKeyAlgorithm","inherits":"CryptoKeyAlgorithm","extended_attributes":["JSGenerateToJSObject"],"fields":[{"name":"hash","type_":"CryptoKeyAlgorithm","required":true,"extended_attributes":[]},{"name":"length","type_":"unsigned long","required":true,"extended_attributes":[]}]}

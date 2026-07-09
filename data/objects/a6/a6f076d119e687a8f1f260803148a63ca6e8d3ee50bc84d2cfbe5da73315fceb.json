@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUSamplerBindingLayout","extended_attributes":["EnabledBySetting=WebGPU"],"fields":[{"name":"type","type_":"GPUSamplerBindingType","required":false,"default":"\"filtering\"","extended_attributes":[]}]}

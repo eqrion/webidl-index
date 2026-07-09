@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HmacDerivedKeyParams","inherits":"HmacImportParams","extended_attributes":["GenerateInit"],"fields":[{"name":"length","type_":"unsigned long","required":false,"extended_attributes":["EnforceRange"]}]}

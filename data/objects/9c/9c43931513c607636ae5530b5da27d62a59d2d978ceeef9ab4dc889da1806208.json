@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MobileConnectionType","extended_attributes":[],"values":["1xrtt","edge","ehrpd","evdo0","evdoa","evdob","gprs","gsm","hsdpa","hspa","hspa+","hsupa","is95a","is95b","lte","umts"]}

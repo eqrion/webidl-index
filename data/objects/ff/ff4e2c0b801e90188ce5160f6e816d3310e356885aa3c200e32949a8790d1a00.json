@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MojoReadDataResult","extended_attributes":[],"fields":[{"name":"numBytes","type_":"unsigned long","required":true,"extended_attributes":[]},{"name":"result","type_":"MojoResult","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSFunctionDescriptors","inherits":"CSSStyleDeclaration","extended_attributes":["Exposed=Window","RuntimeEnabled=CSSFunctions"],"members":[{"kind":"attribute","name":"result","type_":"CSSOMString","arguments":[],"modifiers":[],"extended_attributes":["SetterCallWith=ExecutionContext","RaisesException=Setter"]}]}

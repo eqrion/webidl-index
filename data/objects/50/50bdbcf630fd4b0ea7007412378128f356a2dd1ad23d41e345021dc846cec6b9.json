@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SharedStorageIterator","extended_attributes":["ActiveScriptWrappable","Exposed=(SharedStorageWorklet)","LegacyNoInterfaceObject","RuntimeEnabled=SharedStorageAPI"],"members":[{"kind":"operation","name":"next","type_":"Promise<any>","arguments":[],"modifiers":[],"extended_attributes":["CallWith=ScriptState","RaisesException"]}]}

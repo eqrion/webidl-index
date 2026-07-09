@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuthenticationExtensionsPaymentInputs","extended_attributes":[],"fields":[{"name":"isPayment","type_":"boolean","required":false,"extended_attributes":[]}]}

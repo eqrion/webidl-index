@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SharedArrayBuffer","extended_attributes":["ImplementedAs=DOMSharedArrayBuffer","LegacyNoInterfaceObject","RuntimeEnabled=SharedArrayBuffer"],"members":[{"kind":"attribute","name":"byteLength","type_":"unsigned long","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

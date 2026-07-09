@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCIdentityProvider","extended_attributes":[],"fields":[{"name":"generateAssertion","type_":"GenerateAssertionCallback","required":true,"extended_attributes":[]},{"name":"validateAssertion","type_":"ValidateAssertionCallback","required":true,"extended_attributes":[]}]}

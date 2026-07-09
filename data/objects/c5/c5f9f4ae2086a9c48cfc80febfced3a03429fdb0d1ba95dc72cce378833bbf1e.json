@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PaymentValidationErrors","extended_attributes":[],"fields":[{"name":"payer","type_":"PayerErrors","required":false,"extended_attributes":[]},{"name":"shippingAddress","type_":"AddressErrors","required":false,"extended_attributes":[]}]}

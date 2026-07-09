@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaSessionAction","extended_attributes":[],"values":["nexttrack","pause","play","previoustrack","seekbackward","seekforward","skipad"]}

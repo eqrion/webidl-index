@@ -1,0 +1,1 @@
+{"kind":"callback","name":"FileCallback","extended_attributes":["GenerateIsReachable=ImplScriptExecutionContext"],"return_type":"undefined","arguments":[{"name":"file","type_":"File","optional":false,"variadic":false,"extended_attributes":[]}]}

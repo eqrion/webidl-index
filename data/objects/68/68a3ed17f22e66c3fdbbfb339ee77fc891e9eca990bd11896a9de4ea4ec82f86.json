@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCRtpRtxParameters","extended_attributes":["Conditional=WEB_RTC","EnabledBySetting=PeerConnectionEnabled","JSGenerateToJSObject","JSGenerateToNativeObject"],"fields":[{"name":"ssrc","type_":"unsigned long","required":false,"extended_attributes":[]}]}

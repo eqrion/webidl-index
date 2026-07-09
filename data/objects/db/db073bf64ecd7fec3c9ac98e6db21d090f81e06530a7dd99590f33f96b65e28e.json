@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DragEventInit","inherits":"MouseEventInit","extended_attributes":[],"fields":[{"name":"dataTransfer","type_":"DataTransfer?","required":false,"extended_attributes":["ImplementedAs=getDataTransfer"]}]}

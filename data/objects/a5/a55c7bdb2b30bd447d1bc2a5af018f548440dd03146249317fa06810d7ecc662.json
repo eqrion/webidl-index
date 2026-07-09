@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUBlendState","extended_attributes":["EnabledBySetting=WebGPUEnabled"],"fields":[{"name":"alpha","type_":"GPUBlendComponent","required":true,"extended_attributes":[]},{"name":"color","type_":"GPUBlendComponent","required":true,"extended_attributes":[]}]}

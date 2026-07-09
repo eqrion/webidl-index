@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SanitizerOptions","extended_attributes":[],"fields":[{"name":"allowed","type_":"sequence<DOMString>","required":false,"extended_attributes":[]},{"name":"removed","type_":"sequence<DOMString>","required":false,"extended_attributes":[]}]}

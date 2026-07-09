@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCRtpCodingParameters","extended_attributes":["Conditional=WEB_RTC","EnabledBySetting=PeerConnection","JSGenerateToJSObject"],"fields":[{"name":"rid","type_":"DOMString","required":false,"extended_attributes":[]}]}

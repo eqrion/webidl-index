@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CSSNumericBaseType","extended_attributes":["Conditional=CSS_TYPED_OM","EnabledBySetting=CSSTypedOMEnabled"],"values":["angle","flex","frequency","length","percent","resolution","time"]}

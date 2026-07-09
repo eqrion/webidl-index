@@ -1,0 +1,1 @@
+{"kind":"callback","name":"AudioDataOutputCallback","extended_attributes":[],"return_type":"undefined","arguments":[{"name":"output","type_":"AudioData","optional":false,"variadic":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DisplayNameOptions","extended_attributes":["GenerateConversionToJS"],"fields":[{"name":"keys","type_":"sequence<DOMString>","required":false,"extended_attributes":[]},{"name":"style","type_":"DOMString","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLOperandDescriptor","extended_attributes":[],"fields":[{"name":"dimensions","type_":"sequence<long>","required":false,"extended_attributes":[]},{"name":"type","type_":"MLOperandType","required":true,"extended_attributes":[]}]}

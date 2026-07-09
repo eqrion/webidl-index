@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TVCurrentSourceChangedEvent","inherits":"Event","extended_attributes":["ChromeOnly","Constructor(DOMString type, optional TVCurrentSourceChangedEventInit eventInitDict)","Pref=\"dom.tv.enabled\""],"members":[{"kind":"attribute","name":"source","type_":"TVSource?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

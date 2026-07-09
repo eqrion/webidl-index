@@ -1,0 +1,1 @@
+{"kind":"interface","name":"OESTextureHalfFloat","extended_attributes":["Conditional=WEBGL","GenerateIsReachable=ImplContext","NoInterfaceObject"],"members":[]}

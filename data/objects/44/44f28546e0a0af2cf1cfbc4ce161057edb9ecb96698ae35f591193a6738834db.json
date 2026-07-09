@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLSGroupMember","extended_attributes":[],"fields":[{"name":"clientId","type_":"Uint8Array","required":true,"extended_attributes":[]},{"name":"credential","type_":"Uint8Array","required":true,"extended_attributes":[]}]}

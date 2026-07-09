@@ -1,0 +1,11 @@
+{
+  "engine": "blink",
+  "version": "34",
+  "source": {
+    "repo": "https://github.com/chromium/chromium.git",
+    "tag": "34.0.1847.116",
+    "commit": "d69f1206a55b3c110ceb5a3ec6eac61766590ff5"
+  },
+  "date": "2014-04-07T08:27:03-07:00",
+  "entries": {}
+}

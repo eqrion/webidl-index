@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ViewTransitionOptions","extended_attributes":[],"fields":[{"name":"type","type_":"sequence<DOMString>?","required":false,"default":"null","extended_attributes":[]},{"name":"update","type_":"ViewTransitionCallback?","required":false,"default":"null","extended_attributes":[]}]}

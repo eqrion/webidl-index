@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuthenticationExtensionsPRFOutputs","extended_attributes":["Conditional=WEB_AUTHN","JSGenerateToJSObject"],"fields":[{"name":"enabled","type_":"boolean","required":false,"extended_attributes":[]},{"name":"results","type_":"AuthenticationExtensionsPRFValues","required":false,"extended_attributes":[]}]}

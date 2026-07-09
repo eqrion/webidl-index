@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayErrorContactField","extended_attributes":["Conditional=APPLE_PAY_SESSION_V3"],"values":["addressLines","administrativeArea","country","countryCode","emailAddress","locality","name","phoneNumber","phoneticName","postalAddress","postalCode","subAdministrativeArea","subLocality"]}

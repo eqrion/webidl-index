@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NavigatorLanguage","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"language","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":["Nondeterministic"]}]}

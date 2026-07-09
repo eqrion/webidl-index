@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ChannelCountMode","extended_attributes":["Conditional=WEB_AUDIO"],"values":["clamped-max","explicit","max"]}

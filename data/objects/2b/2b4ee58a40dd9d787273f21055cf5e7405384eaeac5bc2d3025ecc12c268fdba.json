@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CSSMatrixComponentOptions","extended_attributes":["Conditional=CSS_TYPED_OM"],"fields":[{"name":"is2D","type_":"boolean","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MediaRecorderErrorEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, MediaRecorderErrorEventInit eventInitDict)","Exposed=Window"],"members":[{"kind":"attribute","name":"error","type_":"DOMException","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]}]}

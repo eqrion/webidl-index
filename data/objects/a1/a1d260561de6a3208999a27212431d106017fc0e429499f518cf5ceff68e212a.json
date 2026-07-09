@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AutocompleteErrorEvent","inherits":"Event","extended_attributes":["Conditional=REQUEST_AUTOCOMPLETE","Constructor(DOMString type, optional AutocompleteErrorEventInit eventInitDict)","JSGenerateToJSObject"],"members":[{"kind":"attribute","name":"reason","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

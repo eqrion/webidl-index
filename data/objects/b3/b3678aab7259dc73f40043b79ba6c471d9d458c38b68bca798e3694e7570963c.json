@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ImageDecodeResult","extended_attributes":[],"fields":[{"name":"complete","type_":"boolean","required":true,"extended_attributes":[]},{"name":"image","type_":"VideoFrame","required":true,"extended_attributes":[]}]}

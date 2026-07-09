@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AccessibleNode","extended_attributes":["Pref=\"accessibility.AOM.enabled\""],"members":[{"kind":"attribute","name":"DOMNode","type_":"Node?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"role","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

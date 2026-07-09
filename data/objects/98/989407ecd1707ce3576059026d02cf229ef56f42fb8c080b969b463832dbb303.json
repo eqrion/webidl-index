@@ -1,0 +1,1 @@
+{"kind":"interface","name":"OfflineAudioCompletionEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, OfflineAudioCompletionEventInit eventInitDict)","Pref=\"dom.webaudio.enabled\""],"members":[{"kind":"attribute","name":"renderedBuffer","type_":"AudioBuffer","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

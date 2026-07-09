@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MLDevicePreference","extended_attributes":[],"values":["auto","cpu","gpu"]}

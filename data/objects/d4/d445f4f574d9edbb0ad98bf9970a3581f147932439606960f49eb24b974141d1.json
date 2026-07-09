@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ConsoleLevel","extended_attributes":[],"values":["error","log","warning"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CanvasUserInterface","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"operation","name":"drawFocusIfNeeded","type_":"void","arguments":[{"name":"element","type_":"Element","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":["Pref=\"canvas.focusring.enabled\"","Throws"]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"OscillatorType","extended_attributes":["Conditional=WEB_AUDIO"],"values":["custom","sawtooth","sine","square","triangle"]}

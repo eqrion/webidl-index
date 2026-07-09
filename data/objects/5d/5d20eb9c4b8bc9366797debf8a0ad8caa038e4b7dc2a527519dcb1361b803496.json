@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRWorldTrackingStateInit","extended_attributes":[],"fields":[{"name":"lightEstimationState","type_":"XRLightEstimationStateInit","required":false,"extended_attributes":[]},{"name":"planeDetectionState","type_":"XRPlaneDetectionStateInit","required":false,"extended_attributes":[]}]}

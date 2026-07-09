@@ -1,0 +1,1 @@
+{"kind":"callback","name":"CreateScriptURLCallback","extended_attributes":["RethrowException"],"return_type":"USVString?","arguments":[{"name":"input","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]},{"name":"arguments","type_":"any","optional":false,"variadic":true,"extended_attributes":[]}]}

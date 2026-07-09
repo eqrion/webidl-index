@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSAnimation","inherits":"Animation","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"animationName","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":["Constant"]}]}

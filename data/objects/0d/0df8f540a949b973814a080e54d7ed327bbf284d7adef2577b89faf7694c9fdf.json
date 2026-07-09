@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TVEITBroadcastedEvent","inherits":"Event","extended_attributes":["ChromeOnly","Constructor(DOMString type, optional TVEITBroadcastedEventInit eventInitDict)","Pref=\"dom.tv.enabled\""],"members":[{"kind":"attribute","name":"programs","type_":"sequence<TVProgram>","arguments":[],"modifiers":["readonly"],"extended_attributes":["Pure","Cached"]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MeasureMemory","extended_attributes":[],"fields":[{"name":"breakdown","type_":"sequence<MeasureMemoryBreakdown>","required":true,"extended_attributes":[]},{"name":"bytes","type_":"unsigned long long","required":true,"extended_attributes":[]}]}

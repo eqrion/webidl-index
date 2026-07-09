@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NavigatorGeolocation","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"geolocation","type_":"Geolocation","arguments":[],"modifiers":["readonly"],"extended_attributes":["Throws","Pref=\"geo.enabled\""]}]}

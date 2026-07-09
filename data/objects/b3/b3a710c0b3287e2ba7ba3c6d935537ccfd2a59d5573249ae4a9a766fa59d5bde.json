@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DhKeyAlgorithm","inherits":"KeyAlgorithm","extended_attributes":["GenerateConversionToJS"],"fields":[{"name":"generator","type_":"Uint8Array","required":true,"extended_attributes":[]},{"name":"prime","type_":"Uint8Array","required":true,"extended_attributes":[]}]}

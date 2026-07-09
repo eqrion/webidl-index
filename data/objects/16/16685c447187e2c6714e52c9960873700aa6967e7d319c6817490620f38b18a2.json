@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ImageSmoothingQuality","extended_attributes":[],"values":["high","low","medium"]}

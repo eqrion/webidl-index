@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"Landmark","extended_attributes":[],"fields":[{"name":"locations","type_":"FrozenArray<Point2D>","required":true,"extended_attributes":[]},{"name":"type","type_":"LandmarkType","required":false,"extended_attributes":[]}]}

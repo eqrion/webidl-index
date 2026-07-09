@@ -1,0 +1,1 @@
+{"kind":"interface","name":"EventCounts","extended_attributes":["Exposed=Window","Pref=\"dom.enable_event_timing\""],"members":[{"kind":"maplike","name":"","type_":"maplike<DOMString, unsigned long long>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSImageValue","inherits":"CSSStyleValue","extended_attributes":["Exposed=(Window, LayoutWorklet, PaintWorklet)","ImplementedAs=CSSStyleImageValue","RuntimeEnabled=CSSTypedOM"],"members":[]}

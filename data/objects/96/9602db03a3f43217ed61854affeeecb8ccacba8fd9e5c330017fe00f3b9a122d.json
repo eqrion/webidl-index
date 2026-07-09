@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MockHidSubStage","extended_attributes":["Conditional=WEB_AUTHN"],"values":["init","msg"]}

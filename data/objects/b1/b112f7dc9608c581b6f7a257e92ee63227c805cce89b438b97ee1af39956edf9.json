@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayMerchantCapability","extended_attributes":["Conditional=APPLE_PAY"],"values":["supports3DS","supportsCredit","supportsDebit","supportsEMV","supportsInstantFundsOut"]}

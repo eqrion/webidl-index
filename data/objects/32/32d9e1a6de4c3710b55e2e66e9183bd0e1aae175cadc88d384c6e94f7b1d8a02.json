@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaImage","extended_attributes":["GenerateConversionToJS"],"fields":[{"name":"sizes","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"src","type_":"USVString","required":true,"extended_attributes":[]},{"name":"type","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

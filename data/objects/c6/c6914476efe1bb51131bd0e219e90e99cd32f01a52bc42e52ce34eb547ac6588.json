@@ -1,0 +1,1 @@
+{"kind":"interface","name":"LayoutConstraints","extended_attributes":["Exposed=LayoutWorklet","ImplementedAs=CustomLayoutConstraints","RuntimeEnabled=CSSLayoutAPI"],"members":[{"kind":"attribute","name":"fixedInlineSize","type_":"double","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"VideoFrameMetadata","extended_attributes":[],"fields":[{"name":"backgroundBlur","type_":"BackgroundBlur","required":false,"extended_attributes":["RuntimeEnabled=\"VideoFrameMetadataBackgroundBlur\""]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"FileSystemSyncAccessHandleMode","extended_attributes":[],"values":["read-only","readwrite","readwrite-unsafe"]}

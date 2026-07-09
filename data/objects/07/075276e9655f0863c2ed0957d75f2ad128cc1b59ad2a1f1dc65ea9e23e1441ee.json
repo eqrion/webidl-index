@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NDEFWriteOptions","extended_attributes":[],"fields":[{"name":"ignoreRead","type_":"boolean","required":false,"default":"true","extended_attributes":[]},{"name":"overwrite","type_":"boolean","required":false,"default":"true","extended_attributes":[]},{"name":"signal","type_":"AbortSignal?","required":false,"extended_attributes":[]}]}

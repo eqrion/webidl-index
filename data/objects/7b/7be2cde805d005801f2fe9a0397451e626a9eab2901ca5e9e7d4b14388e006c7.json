@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GetComposedRangesOptions","extended_attributes":[],"fields":[{"name":"shadowRoots","type_":"sequence<ShadowRoot>","required":false,"default":"[]","extended_attributes":[]}]}

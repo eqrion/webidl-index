@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUBuffer","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"members":[{"kind":"attribute","name":"contents","type_":"ArrayBufferView","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"length","type_":"unsigned long","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SynthesizeMouseEventOptions","inherits":"SynthesizeEventOptions","extended_attributes":[],"fields":[{"name":"ignoreRootScrollFrame","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"isWidgetEventSynthesized","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

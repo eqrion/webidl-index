@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGL2RenderingContext","extended_attributes":["DoNotCheckConstants","Exposed(Worker OffscreenCanvas, Window StableBlinkFeatures)"],"members":[]}

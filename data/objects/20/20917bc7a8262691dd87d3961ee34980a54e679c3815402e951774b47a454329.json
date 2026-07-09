@@ -1,0 +1,1 @@
+{"kind":"enum","name":"VideoColorPrimaries","extended_attributes":["Conditional=VIDEO"],"values":["bt2020","bt470bg","bt470m","bt709","film","jedecP22Phosphors","smpte170m","smpte240m","smpte432","smpteRp431","smpteSt4281","unspecified"]}

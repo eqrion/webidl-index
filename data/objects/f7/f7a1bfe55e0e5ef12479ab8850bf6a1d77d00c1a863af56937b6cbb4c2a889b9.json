@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PublicKeyCredentialUserEntity","inherits":"PublicKeyCredentialEntity","extended_attributes":[],"fields":[{"name":"displayName","type_":"DOMString","required":false,"extended_attributes":[]}]}

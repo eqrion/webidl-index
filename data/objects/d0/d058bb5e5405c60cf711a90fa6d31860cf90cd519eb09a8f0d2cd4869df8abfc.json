@@ -1,0 +1,1 @@
+{"kind":"callback","name":"AnyCallback","extended_attributes":["TreatNonCallableAsNull"],"return_type":"any","arguments":[{"name":"value","type_":"any","optional":false,"variadic":false,"extended_attributes":[]}]}

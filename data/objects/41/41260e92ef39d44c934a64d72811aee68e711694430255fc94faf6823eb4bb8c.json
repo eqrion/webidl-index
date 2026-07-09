@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SizeToContentConstraints","extended_attributes":[],"fields":[{"name":"maxHeight","type_":"long","required":false,"default":"0","extended_attributes":[]},{"name":"maxWidth","type_":"long","required":false,"default":"0","extended_attributes":[]},{"name":"prefWidth","type_":"long","required":false,"default":"0","extended_attributes":[]}]}

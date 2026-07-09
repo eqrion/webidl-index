@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGAnimatedLengthList","extended_attributes":[],"members":[{"kind":"attribute","name":"animVal","type_":"SVGLengthList","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"baseVal","type_":"SVGLengthList","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

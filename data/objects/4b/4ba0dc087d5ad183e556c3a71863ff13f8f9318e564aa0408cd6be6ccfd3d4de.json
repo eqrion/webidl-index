@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SetHTMLUnsafeOptions","extended_attributes":[],"fields":[{"name":"sanitizer","type_":"(Sanitizer or SanitizerConfig or SanitizerPresets)","required":false,"extended_attributes":["Pref=\"dom.security.sanitizer.enabled\""]}]}

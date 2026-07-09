@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IconDefinition","extended_attributes":[],"fields":[{"name":"sizes","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"src","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"type","type_":"DOMString","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ImageEncodeOptions","extended_attributes":[],"fields":[{"name":"quality","type_":"unrestricted double","required":false,"extended_attributes":[]},{"name":"type","type_":"DOMString","required":false,"default":"\"image/png\"","extended_attributes":[]}]}

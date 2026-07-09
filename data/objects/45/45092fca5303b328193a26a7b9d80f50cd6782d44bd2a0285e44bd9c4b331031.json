@@ -1,0 +1,1 @@
+{"kind":"callback","name":"CreateURLCallback","extended_attributes":[],"return_type":"USVString?","arguments":[{"name":"input","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]}]}

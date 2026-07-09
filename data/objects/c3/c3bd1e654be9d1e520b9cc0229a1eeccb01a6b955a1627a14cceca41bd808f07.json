@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PartRoot","extended_attributes":["Exposed=Window","RuntimeEnabled=DOMPartsAPI"],"members":[{"kind":"operation","name":"clone","type_":"PartRoot","arguments":[],"modifiers":[],"extended_attributes":[]},{"kind":"operation","name":"getParts","type_":"FrozenArray<Part>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

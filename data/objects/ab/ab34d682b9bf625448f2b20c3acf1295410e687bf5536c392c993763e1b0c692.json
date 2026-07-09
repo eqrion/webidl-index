@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MeasureMemoryBreakdown","extended_attributes":[],"fields":[{"name":"attribution","type_":"sequence<DOMString>","required":false,"extended_attributes":[]},{"name":"bytes","type_":"unsigned long long","required":false,"extended_attributes":[]},{"name":"userAgentSpecificTypes","type_":"sequence<DOMString>","required":false,"extended_attributes":[]}]}

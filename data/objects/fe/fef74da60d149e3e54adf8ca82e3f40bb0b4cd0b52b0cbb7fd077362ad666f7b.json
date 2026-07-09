@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MIDIConnectionEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional MIDIConnectionEventInit eventInitDict)","Pref=\"dom.webmidi.enabled\"","SecureContext"],"members":[{"kind":"attribute","name":"port","type_":"MIDIPort?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

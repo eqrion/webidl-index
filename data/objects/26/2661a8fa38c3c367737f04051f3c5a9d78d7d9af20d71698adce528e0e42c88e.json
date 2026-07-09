@@ -1,0 +1,1 @@
+{"kind":"interface","name":"BudgetState","extended_attributes":["Exposed=(Window, Worker)","OriginTrialEnabled=BudgetQuery"],"members":[{"kind":"attribute","name":"budgetAt","type_":"double","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"time","type_":"DOMTimeStamp","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

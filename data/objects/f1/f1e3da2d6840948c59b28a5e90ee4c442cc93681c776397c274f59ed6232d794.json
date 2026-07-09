@@ -1,0 +1,1 @@
+{"kind":"enum","name":"URLPatternComponent","extended_attributes":[],"values":["hash","hostname","password","pathname","port","protocol","search","username"]}

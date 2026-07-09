@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ElementCreationOptions","extended_attributes":[],"fields":[{"name":"is","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"pseudo","type_":"DOMString","required":false,"extended_attributes":["ChromeOnly"]}]}

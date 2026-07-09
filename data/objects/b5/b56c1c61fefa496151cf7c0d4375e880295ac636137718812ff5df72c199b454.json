@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WEBGL_depth_texture","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"const","name":"UNSIGNED_INT_24_8_WEBGL","type_":"GLenum","arguments":[],"modifiers":[],"value":"0x84FA","extended_attributes":[]}]}

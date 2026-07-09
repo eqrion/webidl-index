@@ -1,0 +1,1 @@
+{"kind":"interface","name":"mozRTCSessionDescription","inherits":"RTCSessionDescription","extended_attributes":["Constructor(optional RTCSessionDescriptionInit descriptionInitDict = {})","Deprecated=\"WebrtcDeprecatedPrefix\"","JSImplementation=\"@mozilla.org/dom/rtcsessiondescription;1\"","Pref=\"media.peerconnection.enabled\""],"members":[]}

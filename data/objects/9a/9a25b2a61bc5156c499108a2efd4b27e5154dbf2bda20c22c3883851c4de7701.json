@@ -1,0 +1,1 @@
+{"kind":"callback","name":"PromiseInit","extended_attributes":[],"return_type":"void","arguments":[{"name":"resolve","type_":"object","optional":false,"variadic":false,"extended_attributes":[]},{"name":"reject","type_":"object","optional":false,"variadic":false,"extended_attributes":[]}]}

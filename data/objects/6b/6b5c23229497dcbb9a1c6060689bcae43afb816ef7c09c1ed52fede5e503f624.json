@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebKitCSSRegionRule","inherits":"CSSRule","extended_attributes":["Conditional=CSS_REGIONS"],"members":[{"kind":"attribute","name":"cssRules","type_":"CSSRuleList","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

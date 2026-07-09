@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NFCTagType","extended_attributes":[],"values":["MIFARE-Classic","Type1","Type2","Type3","Type4"]}

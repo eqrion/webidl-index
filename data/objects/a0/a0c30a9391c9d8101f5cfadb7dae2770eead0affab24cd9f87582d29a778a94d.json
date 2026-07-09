@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ContactTelField","inherits":"ContactField","extended_attributes":[],"fields":[{"name":"carrier","type_":"DOMString?","required":false,"extended_attributes":[]}]}

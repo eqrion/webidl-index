@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSMediaRule","inherits":"CSSConditionRule","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"media","type_":"MediaList","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject","PutForwards=mediaText"]}]}

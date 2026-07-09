@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityRootManifest","extended_attributes":["GenerateInit"],"fields":[{"name":"provider_urls","type_":"sequence<USVString>","required":true,"extended_attributes":[]}]}

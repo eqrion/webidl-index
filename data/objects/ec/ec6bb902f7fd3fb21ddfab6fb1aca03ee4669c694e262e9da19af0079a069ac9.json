@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WindowPostMessageOptions","inherits":"PostMessageOptions","extended_attributes":[],"fields":[{"name":"createToken","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":["RuntimeEnabled=CapabilityDelegation"]},{"name":"targetOrigin","type_":"USVString","required":false,"default":"\"/\"","extended_attributes":[]}]}

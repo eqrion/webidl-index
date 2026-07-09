@@ -1,0 +1,1 @@
+{"kind":"enum","name":"VideoMatrixCoefficients","extended_attributes":["Conditional=VIDEO"],"values":["bt2020-cl","bt2020-ncl","bt470bg","bt709","fcc","rgb","smpte170m","smpte240m","unspecified","yCgCo"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSTransition","inherits":"Animation","extended_attributes":["Exposed=Window","RuntimeEnabled=WebAnimationsAPI"],"members":[{"kind":"attribute","name":"transitionProperty","type_":"CSSOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLSelectedContentElement","inherits":"HTMLElement","extended_attributes":["Exposed=Window","HTMLConstructor","RuntimeEnabled=CustomizableSelect"],"members":[]}

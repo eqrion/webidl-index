@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NavigationDeferPageSwapOptions","extended_attributes":[],"fields":[{"name":"handler","type_":"NavigationDeferPageSwapHandler","required":false,"extended_attributes":[]}]}

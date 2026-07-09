@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CameraSize","extended_attributes":[],"fields":[{"name":"height","type_":"unsigned long","required":false,"default":"0","extended_attributes":[]},{"name":"width","type_":"unsigned long","required":false,"default":"0","extended_attributes":[]}]}

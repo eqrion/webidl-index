@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MojoCreateMessagePipeResult","extended_attributes":[],"fields":[{"name":"handle0","type_":"MojoHandle","required":false,"extended_attributes":[]},{"name":"handle1","type_":"MojoHandle","required":false,"extended_attributes":[]},{"name":"result","type_":"MojoResult","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"IdleDeadline","extended_attributes":[],"members":[{"kind":"attribute","name":"didTimeout","type_":"boolean","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"operation","name":"timeRemaining","type_":"double","arguments":[],"modifiers":[],"extended_attributes":[]}]}

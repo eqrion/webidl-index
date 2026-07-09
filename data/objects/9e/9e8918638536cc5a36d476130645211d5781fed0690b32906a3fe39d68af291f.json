@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NotificationScenario","extended_attributes":[],"values":["default","incoming-call"]}

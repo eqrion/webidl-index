@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebTransportCongestionControl","extended_attributes":[],"values":["default","low-latency","throughput"]}

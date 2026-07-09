@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUShaderModuleCompilationHint","extended_attributes":["EnabledBySetting=WebGPU"],"fields":[{"name":"layout","type_":"GPUPipelineLayout","required":true,"extended_attributes":[]}]}

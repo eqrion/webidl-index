@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TCPSocketOptions","inherits":"SocketOptions","extended_attributes":[],"fields":[{"name":"keepAliveDelay","type_":"unsigned long","required":false,"extended_attributes":["EnforceRange"]},{"name":"noDelay","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

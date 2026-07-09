@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SmartCardReaderPresenceEvent","inherits":"Event","extended_attributes":["Exposed=Window","IsolatedContext","RuntimeEnabled=SmartCard","SecureContext"],"members":[{"kind":"attribute","name":"reader","type_":"SmartCardReader","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]}]}

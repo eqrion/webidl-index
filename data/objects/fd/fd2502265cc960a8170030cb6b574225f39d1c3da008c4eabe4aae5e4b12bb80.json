@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MLInterpolationMode","extended_attributes":[],"values":["linear","nearest-neighbor"]}

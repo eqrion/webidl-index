@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUCompareFunction","extended_attributes":["EnabledBySetting=WebGPU"],"values":["always","equal","greater","greater-equal","less","less-equal","never","not-equal"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ConstrainDoubleRange","inherits":"DoubleRange","extended_attributes":["Conditional=MEDIA_STREAM","ImplementedAs=ConstrainDoubleRange","JSGenerateToJSObject"],"fields":[{"name":"exact","type_":"double","required":false,"extended_attributes":[]},{"name":"ideal","type_":"double","required":false,"extended_attributes":[]}]}

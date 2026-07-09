@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NotificationActionType","extended_attributes":["RuntimeEnabled=NotificationInlineReplies"],"values":["button","text"]}

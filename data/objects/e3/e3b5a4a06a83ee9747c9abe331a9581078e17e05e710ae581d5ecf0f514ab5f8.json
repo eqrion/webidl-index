@@ -1,0 +1,1 @@
+{"kind":"callback","name":"VoidCallback","extended_attributes":["ExportMacro=WEBCORE_EXPORT","GenerateIsReachable=ImplScriptExecutionContext"],"return_type":"undefined","arguments":[]}

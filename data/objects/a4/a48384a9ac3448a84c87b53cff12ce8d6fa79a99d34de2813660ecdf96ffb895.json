@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AudioSessionCategory","extended_attributes":[],"values":["AmbientSound","AudioProcessing","MediaPlayback","None","PlayAndRecord","RecordAudio","SoloAmbientSound"]}

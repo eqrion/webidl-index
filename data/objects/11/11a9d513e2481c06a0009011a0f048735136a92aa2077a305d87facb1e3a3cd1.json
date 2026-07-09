@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUCopyExternalImageDestInfo","inherits":"GPUTexelCopyTextureInfo","extended_attributes":[],"fields":[{"name":"premultipliedAlpha","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRSessionEventInit","inherits":"EventInit","extended_attributes":["Conditional=WEBXR","EnabledBySetting=WebXR"],"fields":[{"name":"session","type_":"WebXRSession","required":true,"extended_attributes":[]}]}

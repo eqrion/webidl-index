@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CaptureStartFocusBehavior","extended_attributes":[],"values":["focus-captured-surface","focus-capturing-application","no-focus-change"]}

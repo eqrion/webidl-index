@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DOMQuadJSON","extended_attributes":[],"fields":[{"name":"p1","type_":"DOMPoint","required":false,"extended_attributes":[]},{"name":"p2","type_":"DOMPoint","required":false,"extended_attributes":[]},{"name":"p3","type_":"DOMPoint","required":false,"extended_attributes":[]},{"name":"p4","type_":"DOMPoint","required":false,"extended_attributes":[]}]}

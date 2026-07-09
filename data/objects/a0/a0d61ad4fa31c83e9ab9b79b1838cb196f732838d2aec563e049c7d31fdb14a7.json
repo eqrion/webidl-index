@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUAutoLayoutMode","extended_attributes":["EnabledBySetting=WebGPUEnabled"],"values":["auto"]}

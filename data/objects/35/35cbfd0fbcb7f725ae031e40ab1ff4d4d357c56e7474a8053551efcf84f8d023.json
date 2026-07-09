@@ -1,0 +1,1 @@
+{"kind":"enum","name":"UserIdleState","extended_attributes":[],"values":["active","idle"]}

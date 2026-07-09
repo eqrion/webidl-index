@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HighlightMap","extended_attributes":["EnabledAtRuntime=HighlightAPI","ImplementationLacksVTable"],"members":[{"kind":"constructor","name":"","arguments":[],"modifiers":[],"extended_attributes":[]},{"kind":"maplike","name":"","type_":"maplike<DOMString, HighlightRangeGroup>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

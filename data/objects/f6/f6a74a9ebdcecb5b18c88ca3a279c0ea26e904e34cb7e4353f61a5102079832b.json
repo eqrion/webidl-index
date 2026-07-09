@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DetectedFace","extended_attributes":[],"fields":[{"name":"boundingBox","type_":"DOMRectReadOnly","required":true,"extended_attributes":[]},{"name":"landmarks","type_":"sequence<Landmark>","required":true,"extended_attributes":[]}]}

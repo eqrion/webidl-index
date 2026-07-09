@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCDegradationPreference","extended_attributes":[],"values":["balanced","maintain-framerate","maintain-resolution"]}

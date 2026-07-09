@@ -1,0 +1,1 @@
+{"kind":"callback","name":"WebLockGrantedCallback","extended_attributes":["GenerateIsReachable=ImplScriptExecutionContext","RethrowException"],"return_type":"Promise<any>","arguments":[{"name":"webLock","type_":"WebLock?","optional":false,"variadic":false,"extended_attributes":[]}]}

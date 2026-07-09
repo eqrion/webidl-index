@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SummarizerSummarizeOptions","extended_attributes":[],"fields":[{"name":"context","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"signal","type_":"AbortSignal","required":false,"extended_attributes":[]}]}

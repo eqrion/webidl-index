@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUProgrammableStage","extended_attributes":[],"fields":[{"name":"entryPoint","type_":"USVString","required":false,"extended_attributes":[]},{"name":"module","type_":"GPUShaderModule","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLOptGroupElement","inherits":"HTMLElement","extended_attributes":["HTMLConstructor"],"members":[{"kind":"attribute","name":"disabled","type_":"boolean","arguments":[],"modifiers":[],"extended_attributes":["SetterThrows"]},{"kind":"attribute","name":"label","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":["SetterThrows"]}]}

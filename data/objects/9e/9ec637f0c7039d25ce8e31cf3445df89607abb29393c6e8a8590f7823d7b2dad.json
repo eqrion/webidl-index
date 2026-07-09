@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUBindingType","extended_attributes":[],"values":["comparison-sampler","multisampled-texture","readonly-storage-buffer","readonly-storage-texture","sampled-texture","sampler","storage-buffer","uniform-buffer","writeonly-storage-texture"]}

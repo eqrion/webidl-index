@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCRtpContributingSource","extended_attributes":[],"members":[{"kind":"attribute","name":"source","type_":"unsigned long","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"timestamp","type_":"DOMHighResTimeStamp","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

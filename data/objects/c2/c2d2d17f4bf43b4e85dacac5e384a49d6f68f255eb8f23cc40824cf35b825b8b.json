@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLConcatSupportLimits","extended_attributes":[],"fields":[{"name":"inputs","type_":"MLDataTypeLimits","required":false,"extended_attributes":[]},{"name":"output","type_":"MLDataTypeLimits","required":false,"extended_attributes":[]}]}

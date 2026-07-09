@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityResolveOptions","extended_attributes":[],"fields":[{"name":"accountId","type_":"USVString","required":false,"extended_attributes":[]}]}

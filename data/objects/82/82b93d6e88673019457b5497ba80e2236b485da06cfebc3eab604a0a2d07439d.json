@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"QueuingStrategyInit","extended_attributes":[],"fields":[{"name":"highWaterMark","type_":"unrestricted double","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ConnStatusDict","extended_attributes":["GenerateConversionToJS"],"fields":[{"name":"status","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

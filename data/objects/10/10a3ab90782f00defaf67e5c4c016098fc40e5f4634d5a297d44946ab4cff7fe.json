@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayLaterAvailability","extended_attributes":["Conditional=APPLE_PAY_LATER_AVAILABILITY","ExportMacro=WEBCORE_EXPORT"],"values":["available","unavailableItemIneligible","unavailableRecurringTransaction"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"EXT_blend_minmax","extended_attributes":["Exposed=Window","LegacyNoInterfaceObject"],"members":[{"kind":"const","name":"MAX_EXT","type_":"GLenum","arguments":[],"modifiers":[],"value":"0x8008","extended_attributes":[]},{"kind":"const","name":"MIN_EXT","type_":"GLenum","arguments":[],"modifiers":[],"value":"0x8007","extended_attributes":[]}]}

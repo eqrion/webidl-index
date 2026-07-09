@@ -1,0 +1,1 @@
+{"kind":"enum","name":"FetchState","extended_attributes":[],"values":["aborted","complete","errored","requesting","responding"]}

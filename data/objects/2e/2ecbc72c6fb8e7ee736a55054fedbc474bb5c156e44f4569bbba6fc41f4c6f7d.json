@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSStyleImageValue","inherits":"CSSStyleValue","extended_attributes":["Conditional=CSS_TYPED_OM","EnabledAtRuntime=CSSTypedOM","Exposed=(Window, Worker, PaintWorklet)","InterfaceName=CSSImageValue","JSGenerateToNativeObject"],"members":[]}

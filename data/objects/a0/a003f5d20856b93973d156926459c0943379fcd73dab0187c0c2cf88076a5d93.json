@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebCodecsEncodedVideoChunkMetadata","extended_attributes":["Conditional=WEB_CODECS","JSGenerateToJSObject"],"fields":[{"name":"decoderConfig","type_":"WebCodecsVideoDecoderConfig","required":false,"extended_attributes":[]},{"name":"svc","type_":"WebCodecsSvcOutputMetadata","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WritableStreamDefaultController","extended_attributes":["Exposed=(Window, Worker, Worklet)","NoInterfaceObject"],"members":[{"kind":"operation","name":"error","type_":"void","arguments":[{"name":"e","type_":"any","optional":true,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":["CallWith=ScriptState","NotEnumerable"]}]}

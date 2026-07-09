@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PermissionDescriptor","extended_attributes":["EnabledBySetting=PermissionsAPIEnabled"],"fields":[{"name":"name","type_":"PermissionName","required":true,"extended_attributes":[]}]}

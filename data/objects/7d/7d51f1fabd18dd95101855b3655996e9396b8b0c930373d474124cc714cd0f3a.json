@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PaymentComplete","extended_attributes":[],"values":["fail","success","unknown"]}

@@ -1,0 +1,1 @@
+{"kind":"callback","name":"NavigatorUserMediaSuccessCallback","extended_attributes":[],"return_type":"undefined","arguments":[{"name":"stream","type_":"MediaStream","optional":false,"variadic":false,"extended_attributes":[]}]}

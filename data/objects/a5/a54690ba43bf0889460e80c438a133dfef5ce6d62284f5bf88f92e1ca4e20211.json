@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AdTargeting","extended_attributes":[],"fields":[{"name":"geolocation","type_":"GeolocationCoordinates","required":false,"extended_attributes":[]},{"name":"interests","type_":"sequence<DOMString>","required":false,"extended_attributes":[]}]}

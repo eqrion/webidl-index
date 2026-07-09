@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLContentElement","inherits":"HTMLElement","extended_attributes":[],"members":[{"kind":"attribute","name":"select","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":["Reflect"]},{"kind":"operation","name":"getDistributedNodes","type_":"NodeList","arguments":[],"modifiers":[],"extended_attributes":[]}]}

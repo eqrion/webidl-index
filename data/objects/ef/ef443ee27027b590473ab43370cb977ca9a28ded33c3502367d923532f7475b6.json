@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ContainerQueryList","inherits":"EventTarget","extended_attributes":["ActiveScriptWrappable","Exposed=Window","RuntimeEnabled=ElementMatchContainer"],"members":[{"kind":"attribute","name":"matches","type_":"boolean","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

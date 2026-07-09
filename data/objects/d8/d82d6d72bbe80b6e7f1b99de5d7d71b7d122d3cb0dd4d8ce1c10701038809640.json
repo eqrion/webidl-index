@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUFenceDescriptor","inherits":"GPUObjectDescriptorBase","extended_attributes":[],"fields":[{"name":"initialValue","type_":"u64","required":false,"default":"0","extended_attributes":[]}]}

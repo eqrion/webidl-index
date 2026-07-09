@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TextIndicatorInfo","extended_attributes":["ExportMacro=WEBCORE_TESTSUPPORT_EXPORT","JSGenerateToJSObject"],"fields":[{"name":"textBoundingRectInRootViewCoordinates","type_":"DOMRectReadOnly","required":false,"extended_attributes":[]},{"name":"textRectsInBoundingRectCoordinates","type_":"DOMRectList","required":false,"extended_attributes":[]}]}

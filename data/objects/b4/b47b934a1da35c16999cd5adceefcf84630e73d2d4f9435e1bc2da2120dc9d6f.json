@@ -1,0 +1,1 @@
+{"kind":"enum","name":"XRHitTestTrackableType","extended_attributes":["RuntimeEnabled=WebXRHitTestEntityTypes"],"values":["plane","point"]}

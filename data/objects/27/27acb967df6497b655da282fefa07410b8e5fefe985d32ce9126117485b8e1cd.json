@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUTextureDimension","extended_attributes":["ImplementedAs=GPUTextureDimension"],"values":["1d","2d","3d"]}

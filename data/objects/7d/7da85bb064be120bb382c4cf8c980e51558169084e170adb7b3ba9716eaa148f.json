@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUQueueDescriptor","inherits":"GPUObjectDescriptorBase","extended_attributes":["EnabledBySetting=WebGPUEnabled"],"fields":[]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MediaTrackSupportedConstraints","extended_attributes":["Conditional=MEDIA_STREAM","CustomEnumerateProperty","ImplementationLacksVTable","JSCustomGetOwnPropertySlotAndDescriptor","NoInterfaceObject"],"members":[]}

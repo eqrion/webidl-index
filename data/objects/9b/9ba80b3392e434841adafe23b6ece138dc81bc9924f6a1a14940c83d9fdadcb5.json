@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MojoWatcher","extended_attributes":["ActiveScriptWrappable","ContextEnabled=MojoJS","Exposed=(Window, Worker)","RuntimeEnabled=MojoJS"],"members":[{"kind":"operation","name":"cancel","type_":"MojoResult","arguments":[],"modifiers":[],"extended_attributes":[]}]}

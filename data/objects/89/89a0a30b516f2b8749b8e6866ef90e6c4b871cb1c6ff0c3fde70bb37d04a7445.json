@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PushEvent","inherits":"ExtendableEvent","extended_attributes":["Constructor(DOMString type, optional PushEventInit eventInitDict)","Exposed=ServiceWorker","RuntimeEnabled=PushMessaging"],"members":[{"kind":"attribute","name":"data","type_":"PushMessageData?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

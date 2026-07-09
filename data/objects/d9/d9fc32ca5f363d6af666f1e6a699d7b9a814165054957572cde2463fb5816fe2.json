@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUDepthStencilStateDescriptor","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"fields":[{"name":"depthCompare","type_":"GPUCompareFunction","required":false,"default":"\"always\"","extended_attributes":[]},{"name":"depthWriteEnabled","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

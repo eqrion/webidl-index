@@ -1,0 +1,1 @@
+{"kind":"interface","name":"IDBAny","extended_attributes":["Conditional=INDEXED_DATABASE","CustomToJSObject","JSNoStaticTables","NoInterfaceObject"],"members":[]}

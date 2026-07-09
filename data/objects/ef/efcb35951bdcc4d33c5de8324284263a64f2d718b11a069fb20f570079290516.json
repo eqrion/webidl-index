@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FontFaceSetLoadEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"fontfaces","type_":"sequence<FontFace>","required":false,"default":"[]","extended_attributes":[]}]}

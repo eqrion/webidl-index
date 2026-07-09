@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ResidentKeyRequirement","extended_attributes":["Conditional=WEB_AUTHN","ImplementedAs=ResidentKeyRequirement"],"values":["discouraged","preferred","required"]}

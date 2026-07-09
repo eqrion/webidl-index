@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SensorErrorEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"error","type_":"DOMException","required":true,"extended_attributes":[]}]}

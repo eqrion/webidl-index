@@ -1,0 +1,1 @@
+{"kind":"callback","name":"PositionErrorCallback","extended_attributes":[],"return_type":"undefined","arguments":[{"name":"positionError","type_":"GeolocationPositionError","optional":false,"variadic":false,"extended_attributes":[]}]}

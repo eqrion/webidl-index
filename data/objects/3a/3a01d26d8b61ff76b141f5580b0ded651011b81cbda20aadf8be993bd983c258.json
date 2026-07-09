@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GeolocationPermissionStatus","inherits":"PermissionStatus","extended_attributes":["Exposed=(Window, Worker)","RuntimeEnabled=ApproximateGeolocationPermissionAccuracyMode"],"members":[{"kind":"attribute","name":"accuracyMode","type_":"AccuracyMode?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

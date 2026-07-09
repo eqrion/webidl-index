@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCQuicStreamEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"stream","type_":"RTCQuicStream","required":false,"extended_attributes":[]}]}

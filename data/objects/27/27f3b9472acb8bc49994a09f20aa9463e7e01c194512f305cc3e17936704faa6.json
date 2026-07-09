@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NotificationEventInit","inherits":"ExtendableEventInit","extended_attributes":["Conditional=NOTIFICATION_EVENT"],"fields":[{"name":"action","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"notification","type_":"Notification","required":true,"extended_attributes":[]}]}

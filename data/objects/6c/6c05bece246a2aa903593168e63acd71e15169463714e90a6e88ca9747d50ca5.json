@@ -1,0 +1,1 @@
+{"kind":"enum","name":"IPAddressSpace","extended_attributes":[],"values":["local","loopback","public","unknown"]}

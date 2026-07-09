@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityCredentialLogoutRPsRequest","extended_attributes":[],"fields":[{"name":"accountId","type_":"UTF8String","required":true,"extended_attributes":[]},{"name":"url","type_":"UTF8String","required":true,"extended_attributes":[]}]}

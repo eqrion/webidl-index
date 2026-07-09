@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRViewerPose","inherits":"WebXRPose","extended_attributes":["Conditional=WEBXR","EnabledAtRuntime=WebXR","Exposed=Window","ImplementationLacksVTable","SecureContext"],"members":[{"kind":"attribute","name":"views","type_":"FrozenArray<WebXRView>","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]}]}

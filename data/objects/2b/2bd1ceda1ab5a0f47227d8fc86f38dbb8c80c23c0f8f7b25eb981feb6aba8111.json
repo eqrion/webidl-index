@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCIceGatherOptions","extended_attributes":[],"fields":[{"name":"gatherPolicy","type_":"RTCIceTransportPolicy","required":false,"default":"\"all\"","extended_attributes":[]},{"name":"iceServers","type_":"sequence<RTCIceServer>","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RootTransitionType","extended_attributes":[],"values":["cover-down","cover-left","cover-right","cover-up","explode","fade","implode","none","reveal-down","reveal-left","reveal-right","reveal-up"]}

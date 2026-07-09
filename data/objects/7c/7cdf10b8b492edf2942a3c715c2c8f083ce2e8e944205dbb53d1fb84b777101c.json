@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CellBroadcastGsmGeographicalScope","extended_attributes":[],"values":["cell","cell-immediate","location-area","plmn"]}

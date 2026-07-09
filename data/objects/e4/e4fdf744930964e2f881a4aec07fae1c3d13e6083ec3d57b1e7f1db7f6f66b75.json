@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NonElementParentNode","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"operation","name":"getElementById","type_":"Element?","arguments":[{"name":"elementId","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":["RequiresExistingAtomicString"]}],"modifiers":[],"extended_attributes":["DOMJIT=ReadDOM"]}]}

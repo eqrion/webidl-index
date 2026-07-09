@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCQuicStreamWriteParameters","extended_attributes":[],"fields":[{"name":"data","type_":"Uint8Array","required":false,"extended_attributes":[]},{"name":"finish","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

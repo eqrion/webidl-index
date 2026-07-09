@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebLockInfo","extended_attributes":["JSGenerateToJSObject"],"fields":[{"name":"clientId","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"mode","type_":"WebLockMode","required":false,"extended_attributes":[]},{"name":"name","type_":"DOMString","required":false,"extended_attributes":[]}]}

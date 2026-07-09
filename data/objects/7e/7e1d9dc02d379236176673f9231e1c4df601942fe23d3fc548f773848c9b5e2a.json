@@ -1,0 +1,1 @@
+{"kind":"interface","name":"StereoPannerNode","inherits":"AudioNode","extended_attributes":["Constructor(BaseAudioContext context, optional StereoPannerOptions options)","Pref=\"dom.webaudio.enabled\""],"members":[{"kind":"attribute","name":"pan","type_":"AudioParam","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

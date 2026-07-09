@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ReadableWritablePair","extended_attributes":[],"fields":[{"name":"readable","type_":"ReadableStream","required":true,"extended_attributes":[]},{"name":"writable","type_":"WritableStream","required":true,"extended_attributes":[]}]}

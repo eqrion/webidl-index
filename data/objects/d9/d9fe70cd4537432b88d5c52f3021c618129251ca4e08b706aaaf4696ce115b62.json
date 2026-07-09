@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUComputePipelineDescriptor","inherits":"GPUPipelineDescriptorBase","extended_attributes":["EnabledBySetting=WebGPU"],"fields":[{"name":"compute","type_":"GPUProgrammableStage","required":true,"extended_attributes":[]}]}

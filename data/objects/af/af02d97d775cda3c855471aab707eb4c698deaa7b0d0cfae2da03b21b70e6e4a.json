@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RequestMediaKeySystemAccessNotification","extended_attributes":["GenerateToJSON"],"fields":[{"name":"keySystem","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"status","type_":"MediaKeySystemStatus","required":true,"extended_attributes":[]}]}

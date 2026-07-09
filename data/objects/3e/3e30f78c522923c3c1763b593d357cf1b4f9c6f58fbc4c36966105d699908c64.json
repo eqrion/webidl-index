@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GlobalPerformance","extended_attributes":["Exposed=(Window, Worker)","NoInterfaceObject"],"members":[{"kind":"attribute","name":"performance","type_":"Performance","arguments":[],"modifiers":["readonly"],"extended_attributes":["Conditional=WEB_TIMING","Replaceable"]}]}

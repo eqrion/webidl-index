@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRHitTestOptionsInit","extended_attributes":[],"fields":[{"name":"offsetRay","type_":"XRRay","required":false,"extended_attributes":[]},{"name":"space","type_":"XRSpace","required":true,"extended_attributes":[]}]}

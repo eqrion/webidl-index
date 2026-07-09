@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaKeyEncryptionScheme","extended_attributes":["Conditional=ENCRYPTED_MEDIA","ExportMacro=WEBCORE_EXPORT","ImplementedAs=MediaKeyEncryptionScheme"],"values":["cbcs","cenc"]}

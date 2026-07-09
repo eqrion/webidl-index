@@ -1,0 +1,1 @@
+{"kind":"callback_interface","name":"FlyWebDiscoveryCallback","extended_attributes":[],"members":[{"kind":"operation","name":"onDiscoveredServicesChanged","type_":"void","arguments":[{"name":"serviceList","type_":"sequence<FlyWebDiscoveredService>","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

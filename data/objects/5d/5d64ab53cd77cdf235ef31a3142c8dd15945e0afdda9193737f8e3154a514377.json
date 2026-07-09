@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPUVisibilityResultMode","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"values":["boolean","counting","disabled"]}

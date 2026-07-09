@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CreateFileOptions","extended_attributes":[],"fields":[{"name":"data","type_":"(DOMString or Blob or ArrayBuffer or ArrayBufferView)","required":false,"extended_attributes":[]},{"name":"ifExists","type_":"CreateIfExistsMode","required":false,"default":"\"fail\"","extended_attributes":[]}]}

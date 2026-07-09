@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRSessionCreationOptions","extended_attributes":["SecureContext"],"fields":[{"name":"exclusive","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"outputContext","type_":"XRPresentationContext","required":false,"extended_attributes":[]}]}

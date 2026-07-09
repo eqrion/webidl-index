@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ElementBehavior","extended_attributes":["Exposed=Window","RuntimeEnabled=ElementInternalsBehaviors"],"members":[]}

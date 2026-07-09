@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CommonDirectory","extended_attributes":[],"values":["desktop","documents","downloads","home","music","pictures","videos"]}

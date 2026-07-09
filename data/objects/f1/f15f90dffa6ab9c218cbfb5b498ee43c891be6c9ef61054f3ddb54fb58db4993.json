@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PasswordCredential","inherits":"BasicCredential","extended_attributes":["Constructor(HTMLFormElement form)","Constructor(PasswordCredentialData data)","EnabledAtRuntime=CredentialManagement","Exposed=Window"],"members":[{"kind":"attribute","name":"password","type_":"USVString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRStageBoundsPoint","extended_attributes":["OriginTrialEnabled=WebXR","SecureContext"],"members":[{"kind":"attribute","name":"x","type_":"double","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"z","type_":"double","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

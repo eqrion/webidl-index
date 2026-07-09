@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PageSwapEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"activation","type_":"NavigationActivation?","required":false,"default":"null","extended_attributes":[]},{"name":"viewTransition","type_":"ViewTransition?","required":false,"default":"null","extended_attributes":[]}]}

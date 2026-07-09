@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPULoadAction","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"values":["clear","dontcare","load"]}

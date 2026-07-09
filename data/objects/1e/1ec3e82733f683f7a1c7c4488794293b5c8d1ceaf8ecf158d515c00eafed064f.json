@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLOrSVGOrXULElementMixin","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"operation","name":"focus","type_":"void","arguments":[{"name":"options","type_":"FocusOptions","optional":true,"variadic":false,"default":"{}","extended_attributes":[]}],"modifiers":[],"extended_attributes":["Throws"]}]}

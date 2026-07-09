@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLLinearOptions","extended_attributes":[],"fields":[{"name":"alpha","type_":"float","required":false,"default":"1.0","extended_attributes":[]},{"name":"beta","type_":"float","required":false,"default":"0","extended_attributes":[]}]}

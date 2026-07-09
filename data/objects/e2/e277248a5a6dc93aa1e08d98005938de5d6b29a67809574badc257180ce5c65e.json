@@ -1,0 +1,1 @@
+{"kind":"enum","name":"OpusSignal","extended_attributes":[],"values":["auto","music","voice"]}

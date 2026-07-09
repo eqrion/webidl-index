@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GamepadButtonEvent","inherits":"GamepadEvent","extended_attributes":["Constructor(DOMString type, optional GamepadButtonEventInit eventInitDict = {})","Pref=\"dom.gamepad.non_standard_events.enabled\""],"members":[{"kind":"attribute","name":"button","type_":"unsigned long","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

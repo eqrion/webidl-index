@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaStreamTrackAudioSourceOptions","extended_attributes":[],"fields":[{"name":"mediaStreamTrack","type_":"MediaStreamTrack","required":true,"extended_attributes":[]}]}

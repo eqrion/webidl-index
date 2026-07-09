@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WorkletGroupEffect","extended_attributes":["Exposed=AnimationWorklet","RuntimeEnabled=GroupEffect"],"members":[{"kind":"operation","name":"getChildren","type_":"sequence<WorkletAnimationEffect>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

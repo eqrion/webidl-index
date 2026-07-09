@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSContainerRule","inherits":"CSSConditionRule","extended_attributes":["Exposed=Window","Pref=\"layout.css.container-queries.enabled\""],"members":[]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ApplePayPaymentMethodUpdate","extended_attributes":["Conditional=APPLE_PAY_SESSION_V3"],"fields":[{"name":"newLineItems","type_":"sequence<ApplePayLineItem>","required":false,"extended_attributes":[]},{"name":"newTotal","type_":"ApplePayLineItem","required":true,"extended_attributes":[]}]}

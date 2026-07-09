@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AnimationTriggerBehavior","extended_attributes":[],"values":["none","pause","play","play-backwards","play-forwards","play-once","replay","reset"]}

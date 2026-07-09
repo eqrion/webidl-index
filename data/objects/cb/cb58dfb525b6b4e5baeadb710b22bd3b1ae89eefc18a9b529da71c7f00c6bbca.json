@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaStreamTrackProcessorInit","extended_attributes":["Conditional=MEDIA_STREAM_WEB_CODECS"],"fields":[{"name":"maxBufferSize","type_":"unsigned short","required":false,"extended_attributes":["EnforceRange"]},{"name":"track","type_":"MediaStreamTrack","required":true,"extended_attributes":[]}]}

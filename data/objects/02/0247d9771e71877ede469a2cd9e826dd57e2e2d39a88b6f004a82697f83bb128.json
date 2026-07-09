@@ -1,0 +1,1 @@
+{"kind":"interface","name":"IccChangeEvent","inherits":"Event","extended_attributes":["ChromeOnly","Constructor(DOMString type, optional IccChangeEventInit eventInitDict)","Pref=\"dom.icc.enabled\""],"members":[{"kind":"attribute","name":"iccId","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

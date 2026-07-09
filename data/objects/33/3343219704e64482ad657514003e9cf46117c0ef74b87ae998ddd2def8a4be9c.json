@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaKeySessionType","extended_attributes":[],"values":["persistent-license","temporary"]}

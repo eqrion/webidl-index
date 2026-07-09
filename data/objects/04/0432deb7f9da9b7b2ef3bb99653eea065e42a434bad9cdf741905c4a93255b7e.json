@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayShippingContactEditingMode","extended_attributes":["Conditional=APPLE_PAY_SHIPPING_CONTACT_EDITING_MODE","ExportMacro=WEBCORE_EXPORT"],"values":["available","enabled","storePickup"]}

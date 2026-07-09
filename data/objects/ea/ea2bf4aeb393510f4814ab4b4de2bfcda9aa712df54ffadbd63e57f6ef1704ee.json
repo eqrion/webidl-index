@@ -1,0 +1,1 @@
+{"kind":"interface","name":"KeyframeEffect","inherits":"AnimationEffect","extended_attributes":["Conditional=WEB_ANIMATIONS","Constructor(Element? target)","EnabledAtRuntime=WebAnimations"],"members":[]}

@@ -1,0 +1,1 @@
+{"kind":"callback","name":"ViewTransitionCallback","extended_attributes":["RuntimeEnabled=ViewTransition","SupportsTaskAttribution"],"return_type":"Promise<void>","arguments":[]}

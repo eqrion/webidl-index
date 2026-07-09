@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSNestedDeclarations","inherits":"CSSRule","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"style","type_":"CSSStyleProperties","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject","PutForwards=cssText"]}]}

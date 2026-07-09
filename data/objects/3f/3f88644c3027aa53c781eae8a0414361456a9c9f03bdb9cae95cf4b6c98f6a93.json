@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUMipmapFilterMode","extended_attributes":[],"values":["linear","nearest"]}

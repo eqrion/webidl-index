@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRJointSpace","inherits":"XRSpace","extended_attributes":["Exposed=Window","RuntimeEnabled=WebXRHandInput","SecureContext"],"members":[{"kind":"attribute","name":"jointName","type_":"XRHandJoint","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

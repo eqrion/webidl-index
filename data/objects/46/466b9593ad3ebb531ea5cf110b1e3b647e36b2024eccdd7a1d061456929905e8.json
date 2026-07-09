@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DisplayLockOptions","extended_attributes":[],"fields":[{"name":"activatable","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"size","type_":"sequence<double>","required":false,"extended_attributes":[]},{"name":"timeout","type_":"unrestricted double","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MozCellBroadcastEvent","inherits":"Event","extended_attributes":["ChromeOnly","Constructor(DOMString type, optional MozCellBroadcastEventInit eventInitDict)","Pref=\"dom.cellbroadcast.enabled\""],"members":[{"kind":"attribute","name":"message","type_":"MozCellBroadcastMessage?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

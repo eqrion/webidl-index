@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AIAssistantInitialPromptRole","extended_attributes":[],"values":["assistant","system","user"]}

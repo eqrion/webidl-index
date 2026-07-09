@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MojoReadDataOptions","extended_attributes":[],"fields":[{"name":"allOrNone","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"peek","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

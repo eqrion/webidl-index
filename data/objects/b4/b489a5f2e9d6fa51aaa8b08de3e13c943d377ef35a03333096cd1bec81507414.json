@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGStopElement","inherits":"SVGElement","extended_attributes":[],"members":[{"kind":"attribute","name":"offset","type_":"SVGAnimatedNumber","arguments":[],"modifiers":["readonly"],"extended_attributes":["MeasureAs=SVG1DOMPaintServer"]}]}

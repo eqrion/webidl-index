@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IterableKeyAndValueResult","extended_attributes":["GenerateConversionToJS"],"fields":[{"name":"done","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"value","type_":"sequence<any>","required":false,"default":"[]","extended_attributes":[]}]}

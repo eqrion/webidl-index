@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FederatedCredentialRequestOptions","extended_attributes":[],"fields":[{"name":"protocols","type_":"sequence<DOMString>","required":false,"extended_attributes":[]},{"name":"providers","type_":"sequence<USVString>","required":false,"extended_attributes":[]}]}

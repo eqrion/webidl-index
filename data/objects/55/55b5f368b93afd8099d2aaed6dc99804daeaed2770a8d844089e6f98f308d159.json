@@ -1,0 +1,1 @@
+{"kind":"callback","name":"CustomElementRestoreValueCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"value","type_":"FormDataEntryValue","optional":false,"variadic":false,"extended_attributes":[]},{"name":"mode","type_":"RestoreValueMode","optional":false,"variadic":false,"extended_attributes":[]}]}

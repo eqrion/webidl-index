@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUVertexFormat","extended_attributes":["ImplementedAs=GPUVertexFormat"],"values":["float","float2","float3","float4"]}

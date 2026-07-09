@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaTrackFrameStats","extended_attributes":[],"fields":[{"name":"deliveredFrames","type_":"unsigned long long","required":false,"extended_attributes":[]},{"name":"discardedFrames","type_":"unsigned long long","required":false,"extended_attributes":[]},{"name":"totalFrames","type_":"unsigned long long","required":false,"extended_attributes":[]}]}

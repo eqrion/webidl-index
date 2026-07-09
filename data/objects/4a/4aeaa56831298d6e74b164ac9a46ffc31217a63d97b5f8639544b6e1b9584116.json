@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ScrollOptions","extended_attributes":[],"fields":[{"name":"behavior","type_":"ScrollBehavior","required":false,"default":"\"auto\"","extended_attributes":[]}]}

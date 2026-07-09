@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PasswordCredential","inherits":"Credential","extended_attributes":["Constructor(HTMLFormElement form)","Constructor(PasswordCredentialData data)","Exposed=Window","RaisesException=Constructor","SecureContext"],"members":[{"kind":"attribute","name":"password","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

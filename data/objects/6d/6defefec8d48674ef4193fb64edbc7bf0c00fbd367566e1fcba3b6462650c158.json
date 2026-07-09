@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebSocketCloseInfo","extended_attributes":[],"fields":[{"name":"code","type_":"unsigned short","required":false,"extended_attributes":["Clamp"]},{"name":"reason","type_":"USVString","required":false,"default":"\"\"","extended_attributes":[]}]}

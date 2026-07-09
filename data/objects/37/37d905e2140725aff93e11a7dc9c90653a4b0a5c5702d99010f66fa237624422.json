@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCIdentityAssertionResult","extended_attributes":[],"fields":[{"name":"assertion","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"idp","type_":"RTCIdentityProviderDetails","required":true,"extended_attributes":[]}]}

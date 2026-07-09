@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SpeechRecognitionErrorInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"error","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"message","type_":"DOMString","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HIDDeviceRequestOptions","extended_attributes":[],"fields":[{"name":"exclusionFilters","type_":"sequence<HIDDeviceFilter>","required":false,"extended_attributes":[]},{"name":"filters","type_":"sequence<HIDDeviceFilter>","required":true,"extended_attributes":[]}]}

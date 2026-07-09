@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"LanguageModelMessageContent","extended_attributes":[],"fields":[{"name":"type","type_":"LanguageModelMessageType","required":true,"extended_attributes":[]},{"name":"value","type_":"LanguageModelMessageValue","required":true,"extended_attributes":[]}]}

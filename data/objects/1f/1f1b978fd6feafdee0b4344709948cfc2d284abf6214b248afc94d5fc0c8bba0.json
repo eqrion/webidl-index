@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PermissionName","extended_attributes":[],"values":["geolocation","midi","notifications","persistent-storage","push"]}

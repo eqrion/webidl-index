@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MediaStreamAudioDestinationNode","inherits":"AudioNode","extended_attributes":["Constructor(AudioContext context, optional AudioNodeOptions options)","Measure","RaisesException=Constructor"],"members":[{"kind":"attribute","name":"stream","type_":"MediaStream","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

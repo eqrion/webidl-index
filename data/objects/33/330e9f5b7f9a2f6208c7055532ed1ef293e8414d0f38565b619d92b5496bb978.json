@@ -1,0 +1,1 @@
+{"kind":"interface","name":"InputDeviceCapabilities","extended_attributes":["Constructor(optional InputDeviceCapabilitiesInit deviceInitDict)"],"members":[{"kind":"attribute","name":"firesTouchEvents","type_":"boolean","arguments":[],"modifiers":["readonly"],"extended_attributes":["Measure"]}]}

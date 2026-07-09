@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuthenticationExtensionsPRFInputs","extended_attributes":["Conditional=WEB_AUTHN"],"fields":[{"name":"eval","type_":"AuthenticationExtensionsPRFValues","required":false,"extended_attributes":[]},{"name":"evalByCredential","type_":"record<USVString, AuthenticationExtensionsPRFValues>","required":false,"extended_attributes":[]}]}

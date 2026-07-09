@@ -1,0 +1,1 @@
+{"kind":"callback","name":"DecodeSuccessCallback","extended_attributes":[],"return_type":"undefined","arguments":[{"name":"decodedData","type_":"AudioBuffer","optional":false,"variadic":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TVCurrentSourceChangedEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"source","type_":"TVSource?","required":false,"default":"null","extended_attributes":[]}]}

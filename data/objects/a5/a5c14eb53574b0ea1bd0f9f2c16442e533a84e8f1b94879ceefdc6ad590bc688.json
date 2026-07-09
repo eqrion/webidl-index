@@ -1,0 +1,1 @@
+{"kind":"interface","name":"VideoStreamTrack","inherits":"MediaStreamTrack","extended_attributes":["Conditional=MEDIA_STREAM","Constructor(optional Dictionary videoConstraints)","ConstructorCallWith=ScriptExecutionContext"],"members":[]}

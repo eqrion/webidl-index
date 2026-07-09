@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BluetoothObexAuthEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"handle","type_":"BluetoothObexAuthHandle?","required":false,"default":"null","extended_attributes":[]},{"name":"userId","type_":"DOMString?","required":false,"default":"\"\"","extended_attributes":[]}]}

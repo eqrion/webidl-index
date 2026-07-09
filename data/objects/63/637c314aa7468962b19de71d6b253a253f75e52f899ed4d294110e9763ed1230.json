@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NavigationTimingType","extended_attributes":[],"values":["back_forward","navigate","prerender","reload"]}

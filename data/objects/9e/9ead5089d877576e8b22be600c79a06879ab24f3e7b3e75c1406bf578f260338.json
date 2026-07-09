@@ -1,0 +1,1 @@
+{"kind":"interface","name":"FuzzingFunctions","extended_attributes":["Pref=\"fuzzing.enabled\""],"members":[{"kind":"operation","name":"cycleCollect","type_":"void","arguments":[],"modifiers":["static"],"extended_attributes":[]},{"kind":"operation","name":"garbageCollect","type_":"void","arguments":[],"modifiers":["static"],"extended_attributes":[]}]}

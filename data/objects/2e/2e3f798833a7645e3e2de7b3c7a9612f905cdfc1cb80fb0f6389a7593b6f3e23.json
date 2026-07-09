@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FedCmTitleAndSubtitle","extended_attributes":[],"fields":[{"name":"subtitle","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"title","type_":"DOMString","required":true,"extended_attributes":[]}]}

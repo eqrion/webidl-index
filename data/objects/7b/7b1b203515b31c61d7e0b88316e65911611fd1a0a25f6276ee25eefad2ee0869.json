@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGPathSegClosePath","inherits":"SVGPathSeg","extended_attributes":["Conditional=SVG"],"members":[]}

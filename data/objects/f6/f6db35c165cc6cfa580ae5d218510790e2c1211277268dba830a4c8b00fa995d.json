@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCLocalSessionDescriptionInit","extended_attributes":["Conditional=WEB_RTC"],"fields":[{"name":"sdp","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"type","type_":"RTCSdpType","required":false,"extended_attributes":[]}]}

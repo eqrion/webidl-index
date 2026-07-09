@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CustomLayoutConstraintsOptions","extended_attributes":[],"fields":[{"name":"fixedBlockSize","type_":"double","required":false,"extended_attributes":[]},{"name":"fixedInlineSize","type_":"double","required":false,"extended_attributes":[]}]}

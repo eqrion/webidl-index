@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLTimeElement","inherits":"HTMLElement","extended_attributes":[],"members":[{"kind":"attribute","name":"dateTime","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":["Reflect"]}]}

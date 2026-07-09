@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HitRegionOptions","extended_attributes":[],"fields":[{"name":"control","type_":"Element?","required":false,"default":"null","extended_attributes":[]},{"name":"id","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"path","type_":"Path2D?","required":false,"default":"null","extended_attributes":[]}]}

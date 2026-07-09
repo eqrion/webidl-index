@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUCommandBuffer","extended_attributes":["Exposed=(Window, DedicatedWorker)","SecureContext"],"members":[{"kind":"attribute","name":"label","type_":"USVString","arguments":[],"modifiers":[],"extended_attributes":[]}]}

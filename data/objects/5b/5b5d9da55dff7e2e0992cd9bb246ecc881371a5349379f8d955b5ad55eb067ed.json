@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRSessionEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, XRSessionEventInit eventInitDict)","Exposed=Window","OriginTrialEnabled=WebXR","SecureContext"],"members":[{"kind":"attribute","name":"session","type_":"XRSession","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

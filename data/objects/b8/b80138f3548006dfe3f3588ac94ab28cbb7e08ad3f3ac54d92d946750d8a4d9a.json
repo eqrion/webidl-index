@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPURequestAdapterOptions","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"fields":[{"name":"powerPreference","type_":"GPUPowerPreference?","required":false,"extended_attributes":[]}]}

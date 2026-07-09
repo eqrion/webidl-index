@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Int16Array","inherits":"ArrayBufferView","extended_attributes":["ImplementedAs=DOMInt16Array","LegacyNoInterfaceObject"],"members":[]}

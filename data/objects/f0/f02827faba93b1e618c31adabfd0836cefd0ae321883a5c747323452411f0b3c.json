@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CSSNumericBaseType","extended_attributes":["Exposed=(Window, LayoutWorklet, PaintWorklet)"],"values":["angle","flex","frequency","length","percent","resolution","time"]}

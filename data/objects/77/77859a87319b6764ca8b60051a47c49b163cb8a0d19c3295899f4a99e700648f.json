@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WakeLockEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, WakeLockEventInit init)","Exposed=(DedicatedWorker, Window)","RuntimeEnabled=WakeLock","SecureContext"],"members":[{"kind":"attribute","name":"lock","type_":"WakeLockSentinel","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

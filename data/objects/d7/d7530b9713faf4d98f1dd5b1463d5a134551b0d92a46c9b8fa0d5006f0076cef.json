@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SnapEvent","inherits":"Event","extended_attributes":["Exposed=Window","RuntimeEnabled=CSSScrollSnapEvents"],"members":[{"kind":"attribute","name":"snapTargets","type_":"NodeList","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

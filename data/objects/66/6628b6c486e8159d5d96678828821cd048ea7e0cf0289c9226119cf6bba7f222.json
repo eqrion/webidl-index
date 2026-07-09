@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozRequestMatchOptions","extended_attributes":[],"fields":[{"name":"isProxy","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

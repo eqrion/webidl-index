@@ -1,0 +1,1 @@
+{"kind":"callback","name":"ErrorCallback","extended_attributes":[],"return_type":"undefined","arguments":[{"name":"err","type_":"DOMException","optional":false,"variadic":false,"extended_attributes":[]}]}

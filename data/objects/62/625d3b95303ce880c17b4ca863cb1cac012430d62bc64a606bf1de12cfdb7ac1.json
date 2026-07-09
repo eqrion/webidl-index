@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPURenderPassColorAttachmentDescriptor","inherits":"WebGPURenderPassAttachmentDescriptor","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"members":[{"kind":"attribute","name":"clearColor","type_":"sequence<float>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

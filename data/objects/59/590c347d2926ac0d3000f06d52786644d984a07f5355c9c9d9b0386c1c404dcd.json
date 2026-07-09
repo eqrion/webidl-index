@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCIceTransportState","extended_attributes":["Conditional=WEB_RTC","EnabledBySetting=PeerConnection"],"values":["checking","closed","completed","connected","disconnected","failed","new"]}

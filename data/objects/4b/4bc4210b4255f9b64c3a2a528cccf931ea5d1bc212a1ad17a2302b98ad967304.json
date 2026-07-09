@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRReferenceSpaceOptions","extended_attributes":[],"fields":[{"name":"subtype","type_":"XRStationaryReferenceSpaceSubtype","required":false,"extended_attributes":[]},{"name":"type","type_":"XRReferenceSpaceType","required":true,"extended_attributes":[]}]}

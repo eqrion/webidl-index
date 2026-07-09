@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AISummarizerLength","extended_attributes":[],"values":["long","medium","short"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebPrintingMediaSize","extended_attributes":[],"fields":[{"name":"xDimension","type_":"WebPrintingMediaSizeDimension","required":false,"extended_attributes":[]},{"name":"yDimension","type_":"WebPrintingMediaSizeDimension","required":false,"extended_attributes":[]}]}

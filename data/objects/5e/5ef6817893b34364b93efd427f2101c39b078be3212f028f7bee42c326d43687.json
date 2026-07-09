@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AnimationTriggerBehavior","extended_attributes":[],"values":["alternate","once","repeat","state"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozStkIconContainer","extended_attributes":[],"fields":[{"name":"iconSelfExplanatory","type_":"boolean","required":false,"extended_attributes":[]},{"name":"icons","type_":"sequence<MozStkIcon>","required":false,"extended_attributes":[]}]}

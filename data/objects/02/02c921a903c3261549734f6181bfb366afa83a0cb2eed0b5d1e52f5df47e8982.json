@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPU","extended_attributes":["RuntimeEnabled=WebGPU"],"members":[{"kind":"operation","name":"getAdapter","type_":"WebGPUAdapter","arguments":[{"name":"descriptor","type_":"WebGPUAdapterDescriptor","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

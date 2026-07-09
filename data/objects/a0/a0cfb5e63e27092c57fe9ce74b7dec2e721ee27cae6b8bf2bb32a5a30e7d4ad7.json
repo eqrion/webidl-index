@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ColorInterpolationMethod","extended_attributes":[],"values":["a98-rgb","display-p3","display-p3-linear","hsl","hwb","lab","lch","oklab","oklch","prophoto-rgb","rec2020","srgb","srgb-linear","xyz","xyz-d50","xyz-d65"]}

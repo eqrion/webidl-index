@@ -1,0 +1,47 @@
+# Per-engine source locations and version discovery rules.
+#
+# idl_paths are sparse-checkout targets (also the subtree we walk for source
+# files) and extensions are the file suffixes within them that hold WebIDL.
+
+[gecko]
+repo = "https://github.com/mozilla-firefox/firefox.git"
+idl_paths = ["dom/webidl"]
+extensions = ["webidl"]
+
+[gecko.version_discovery]
+method = "git-tags"
+# One tag per major: FIREFOX_<major>_0_RELEASE is the first stable build of
+# that major (point releases are FIREFOX_<major>_0_<patch>_RELEASE and are
+# excluded by anchoring on "0_RELEASE" at the end).
+tag_pattern = '^FIREFOX_(\d+)_0_RELEASE$'
+
+[blink]
+repo = "https://github.com/chromium/chromium.git"
+idl_paths = [
+  "third_party/blink/renderer/core",
+  "third_party/blink/renderer/modules",
+]
+extensions = ["idl"]
+
+[blink.version_discovery]
+# Chromium tags every build; the tag names are opaque version strings with no
+# separate "major" field. ChromiumDash already maps milestone -> version, so
+# we use its API instead of reverse-engineering ~40k tags.
+method = "chromiumdash"
+
+[webkit]
+repo = "https://github.com/WebKit/WebKit.git"
+idl_paths = ["Source/WebCore"]
+extensions = ["idl"]
+# Synthetic fixtures for WebKit's own IDL-to-C++ generator, not real Web
+# Platform API surface (and a source of deliberately exotic grammar the
+# generator's tests exercise but browsers never actually ship).
+exclude_paths = ["Source/WebCore/bindings/scripts/test/"]
+
+[webkit.version_discovery]
+method = "git-tags"
+# WebKit tags real Apple Safari releases as
+# releases/Apple/Safari-<version>-<platform>-<os version>. Anchoring on
+# "-macOS" picks the desktop release for each major (mobile-only majors, if
+# any, will simply be missing -- acceptable for a browser IDL index).
+tag_pattern = '^releases/Apple/Safari-(\d+)(?:\.\d+)*-macOS'

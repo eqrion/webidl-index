@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebrtcGlobalStatisticsReport","extended_attributes":[],"fields":[{"name":"reports","type_":"sequence<RTCStatsReportInternal>","required":false,"default":"[]","extended_attributes":[]}]}

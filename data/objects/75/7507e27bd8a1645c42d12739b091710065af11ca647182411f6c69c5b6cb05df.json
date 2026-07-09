@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WorkletGlobalScope","inherits":"EventTarget","extended_attributes":["Exposed=Worklet","Global=Worklet","IsImmutablePrototypeExoticObject","IsImmutablePrototypeExoticObjectOnPrototype","JSLegacyParent=JSWorkletGlobalScopeBase"],"members":[]}

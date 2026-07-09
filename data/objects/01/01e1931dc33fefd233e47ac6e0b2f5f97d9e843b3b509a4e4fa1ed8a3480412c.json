@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TVEITBroadcastedEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"programs","type_":"sequence<TVProgram>","required":false,"default":"[]","extended_attributes":[]}]}

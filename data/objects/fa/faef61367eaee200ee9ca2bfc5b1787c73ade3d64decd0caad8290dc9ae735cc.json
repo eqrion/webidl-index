@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WorkerType","extended_attributes":[],"values":["classic","module"]}

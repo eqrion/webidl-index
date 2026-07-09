@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AccessibleSetValueEvent","inherits":"Event","extended_attributes":["EnabledAtRuntime=AccessibilityObjectModel","NoInterfaceObject"],"members":[{"kind":"attribute","name":"value","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

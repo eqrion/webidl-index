@@ -1,0 +1,1 @@
+{"kind":"callback","name":"SQLStatementCallback","extended_attributes":["GenerateIsReachable=ImplScriptExecutionContext"],"return_type":"undefined","arguments":[{"name":"transaction","type_":"SQLTransaction","optional":false,"variadic":false,"extended_attributes":[]},{"name":"resultSet","type_":"SQLResultSet","optional":false,"variadic":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Directive","extended_attributes":["Exposed=Window","RuntimeEnabled=TextFragmentAPI"],"members":[{"kind":"attribute","name":"type","type_":"DirectiveType","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"operation","name":"toString","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":[]}]}

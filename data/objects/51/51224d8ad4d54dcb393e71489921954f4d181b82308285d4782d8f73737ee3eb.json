@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"EnterPictureInPictureEventInit","inherits":"EventInit","extended_attributes":["Conditional=PICTURE_IN_PICTURE_API","EnabledBySetting=PictureInPictureAPI"],"fields":[{"name":"pictureInPictureWindow","type_":"PictureInPictureWindow","required":true,"extended_attributes":[]}]}

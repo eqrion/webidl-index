@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PresentationReceiver","extended_attributes":["Exposed=Window","RuntimeEnabled=Presentation","SecureContext"],"members":[{"kind":"attribute","name":"connectionList","type_":"Promise<PresentationConnectionList>","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject","CallWith=ScriptState"]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCIceCandidatePair","extended_attributes":[],"fields":[{"name":"local","type_":"RTCIceCandidate","required":false,"extended_attributes":[]},{"name":"remote","type_":"RTCIceCandidate","required":false,"extended_attributes":[]}]}

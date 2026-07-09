@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TestFunctions","extended_attributes":["Pref=\"dom.expose_test_interfaces\""],"members":[{"kind":"operation","name":"throwUncatchableException","type_":"void","arguments":[],"modifiers":["static"],"extended_attributes":["Throws"]}]}

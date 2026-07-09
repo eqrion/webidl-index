@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NavigationNavigationType","extended_attributes":["EnabledBySetting=NavigationAPIEnabled"],"values":["push","reload","replace","traverse"]}

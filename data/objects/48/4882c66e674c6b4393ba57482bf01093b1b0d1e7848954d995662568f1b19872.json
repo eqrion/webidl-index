@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ApplePayCouponCodeChangedEvent","inherits":"Event","extended_attributes":["Conditional=APPLE_PAY_COUPON_CODE","LegacyNoInterfaceObject"],"members":[{"kind":"attribute","name":"couponCode","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

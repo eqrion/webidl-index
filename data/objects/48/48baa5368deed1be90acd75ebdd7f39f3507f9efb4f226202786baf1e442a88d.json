@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCDataChannelType","extended_attributes":[],"values":["arraybuffer","blob"]}

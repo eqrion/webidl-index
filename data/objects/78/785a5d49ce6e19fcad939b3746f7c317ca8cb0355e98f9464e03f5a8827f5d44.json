@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"USBDeviceRequestOptions","extended_attributes":[],"fields":[{"name":"exclusionFilters","type_":"sequence<USBDeviceFilter>","required":false,"default":"[]","extended_attributes":[]},{"name":"filters","type_":"sequence<USBDeviceFilter>","required":true,"extended_attributes":[]}]}

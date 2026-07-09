@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AudioTimestamp","extended_attributes":["Conditional=WEB_AUDIO","JSGenerateToJSObject"],"fields":[{"name":"contextTime","type_":"double","required":false,"extended_attributes":[]},{"name":"performanceTime","type_":"DOMHighResTimeStamp","required":false,"extended_attributes":[]}]}

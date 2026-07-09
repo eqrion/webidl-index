@@ -1,0 +1,1 @@
+{"kind":"enum","name":"LanguageModelMessageType","extended_attributes":[],"values":["audio","image","text","tool-call","tool-response"]}

@@ -1,0 +1,1 @@
+{"kind":"callback","name":"RunFunctionForSharedStorageSelectURLOperation","extended_attributes":[],"return_type":"Promise<any>","arguments":[{"name":"urls","type_":"sequence<DOMString>","optional":false,"variadic":false,"extended_attributes":[]},{"name":"data","type_":"any","optional":true,"variadic":false,"extended_attributes":[]}]}

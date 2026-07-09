@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CreateVirtualSensorOptions","extended_attributes":[],"fields":[{"name":"connected","type_":"boolean","required":false,"default":"true","extended_attributes":[]},{"name":"maxSamplingFrequency","type_":"double?","required":false,"extended_attributes":[]},{"name":"minSamplingFrequency","type_":"double?","required":false,"extended_attributes":[]}]}

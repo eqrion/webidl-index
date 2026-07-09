@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GamepadLightColor","extended_attributes":[],"fields":[{"name":"blue","type_":"octet","required":true,"extended_attributes":[]},{"name":"green","type_":"octet","required":true,"extended_attributes":[]},{"name":"red","type_":"octet","required":true,"extended_attributes":[]}]}

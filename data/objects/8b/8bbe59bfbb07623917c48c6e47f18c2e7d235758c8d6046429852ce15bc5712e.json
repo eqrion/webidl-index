@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SignRequestData","extended_attributes":[],"values":["headers-only","include","omit"]}

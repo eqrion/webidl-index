@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGLShader","inherits":"WebGLObject","extended_attributes":["Exposed=(Window, Worker)"],"members":[]}

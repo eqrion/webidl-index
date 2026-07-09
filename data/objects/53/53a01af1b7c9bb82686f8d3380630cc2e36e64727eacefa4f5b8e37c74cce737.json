@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebCodecsAudioEncoderInit","extended_attributes":["Conditional=WEB_CODECS"],"fields":[{"name":"error","type_":"WebCodecsErrorCallback","required":true,"extended_attributes":[]},{"name":"output","type_":"WebCodecsEncodedAudioChunkOutputCallback","required":true,"extended_attributes":[]}]}

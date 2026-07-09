@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AppHistoryResult","extended_attributes":[],"fields":[{"name":"committed","type_":"Promise<AppHistoryEntry>","required":false,"extended_attributes":[]},{"name":"finished","type_":"Promise<AppHistoryEntry>","required":false,"extended_attributes":[]}]}

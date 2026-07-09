@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FaceDetectorOptions","extended_attributes":[],"fields":[{"name":"fastMode","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"maxDetectedFaces","type_":"unsigned short","required":false,"default":"10","extended_attributes":[]}]}

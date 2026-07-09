@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MediaStreamTrackEvent","inherits":"Event","extended_attributes":["Conditional=MEDIA_STREAM","NoInterfaceObject"],"members":[{"kind":"attribute","name":"track","type_":"MediaStreamTrack","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BluetoothGattCharacteristicEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"characteristic","type_":"BluetoothGattCharacteristic?","required":false,"default":"null","extended_attributes":[]}]}

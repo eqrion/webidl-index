@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CanvasRenderingContext","extended_attributes":["CustomToJSObject","GenerateIsReachable","JSCustomMarkFunction","NoInterfaceObject"],"members":[{"kind":"attribute","name":"canvas","type_":"HTMLCanvasElement","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

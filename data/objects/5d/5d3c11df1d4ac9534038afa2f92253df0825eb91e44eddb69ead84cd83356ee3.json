@@ -1,0 +1,1 @@
+{"kind":"callback","name":"GenerateBundlesSync","extended_attributes":[],"return_type":"any","arguments":[{"name":"aResourceIds","type_":"sequence<DOMString>","optional":false,"variadic":false,"extended_attributes":[]}]}

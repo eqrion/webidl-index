@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RsaOaepParams","inherits":"CryptoAlgorithmParameters","extended_attributes":["ImplementedAs=CryptoAlgorithmRsaOaepParams"],"fields":[{"name":"label","type_":"BufferSource","required":false,"extended_attributes":[]}]}

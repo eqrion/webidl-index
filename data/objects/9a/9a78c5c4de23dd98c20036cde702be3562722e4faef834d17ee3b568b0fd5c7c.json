@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AuthenticatorAttestationResponse","inherits":"AuthenticatorResponse","extended_attributes":["Exposed=Window","Pref=\"security.webauth.webauthn\"","SecureContext"],"members":[{"kind":"attribute","name":"attestationObject","type_":"ArrayBuffer","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]}]}

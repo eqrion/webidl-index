@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGPathSegLinetoAbs","inherits":"SVGPathSeg","extended_attributes":["Conditional=SVG"],"members":[{"kind":"attribute","name":"x","type_":"float","arguments":[],"modifiers":[],"extended_attributes":["StrictTypeChecking"]},{"kind":"attribute","name":"y","type_":"float","arguments":[],"modifiers":[],"extended_attributes":["StrictTypeChecking"]}]}

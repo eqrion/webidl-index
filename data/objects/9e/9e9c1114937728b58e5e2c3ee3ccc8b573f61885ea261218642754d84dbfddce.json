@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GetNotificationOptions","extended_attributes":["Conditional=NOTIFICATION_EVENT"],"fields":[{"name":"tag","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

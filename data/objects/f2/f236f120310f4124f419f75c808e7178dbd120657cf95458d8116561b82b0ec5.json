@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DeviceStorageAreaListener","inherits":"EventTarget","extended_attributes":["Pref=\"device.storage.enabled\""],"members":[{"kind":"attribute","name":"onstorageareachanged","type_":"EventHandler","arguments":[],"modifiers":[],"extended_attributes":[]}]}

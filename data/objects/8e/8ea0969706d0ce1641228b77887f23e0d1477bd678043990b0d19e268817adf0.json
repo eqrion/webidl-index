@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ChooseFileSystemEntriesType","extended_attributes":[],"values":["open-directory","open-file","openDirectory","openFile","save-file","saveFile"]}

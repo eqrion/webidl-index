@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCIceGatheringState","extended_attributes":["Conditional=WEB_RTC","EnabledAtRuntime=PeerConnection"],"values":["complete","gathering","new"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SnapEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"snapTargetBlock","type_":"Node?","required":false,"default":"null","extended_attributes":[]},{"name":"snapTargetInline","type_":"Node?","required":false,"default":"null","extended_attributes":[]}]}

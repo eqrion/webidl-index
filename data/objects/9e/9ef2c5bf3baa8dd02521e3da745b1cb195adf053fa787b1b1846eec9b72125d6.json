@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ResizeObserverBoxOptions","extended_attributes":[],"values":["border-box","content-box"]}

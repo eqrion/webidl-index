@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SourceBufferAppendMode","extended_attributes":[],"values":["segments","sequence"]}

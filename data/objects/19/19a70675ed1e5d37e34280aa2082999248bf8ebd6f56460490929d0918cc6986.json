@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCMediaSourceStats","inherits":"RTCStats","extended_attributes":["JSGenerateToJSObject"],"fields":[{"name":"kind","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"trackIdentifier","type_":"DOMString","required":true,"extended_attributes":[]}]}

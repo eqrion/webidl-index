@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGAElement","inherits":"SVGGraphicsElement","extended_attributes":[],"members":[{"kind":"attribute","name":"download","type_":"DOMString","arguments":[],"modifiers":[],"extended_attributes":["SetterThrows"]},{"kind":"attribute","name":"target","type_":"SVGAnimatedString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

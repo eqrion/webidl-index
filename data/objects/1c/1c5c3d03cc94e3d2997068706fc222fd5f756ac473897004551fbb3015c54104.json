@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRPlaneDetectionState","extended_attributes":["Exposed=Window","RuntimeEnabled=WebXRPlaneDetection","SecureContext"],"members":[{"kind":"attribute","name":"enabled","type_":"boolean","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

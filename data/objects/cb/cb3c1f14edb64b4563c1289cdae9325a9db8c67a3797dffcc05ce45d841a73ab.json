@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NavigationPreloadState","extended_attributes":["JSGenerateToJSObject"],"fields":[{"name":"enabled","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"headerValue","type_":"ByteString","required":false,"extended_attributes":[]}]}

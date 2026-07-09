@@ -1,0 +1,1 @@
+{"kind":"callback","name":"XRFrameRequestCallback","extended_attributes":["Conditional=WEBXR"],"return_type":"undefined","arguments":[{"name":"time","type_":"DOMHighResTimeStamp","optional":false,"variadic":false,"extended_attributes":[]},{"name":"frame","type_":"WebXRFrame","optional":false,"variadic":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCRtpReceiver","extended_attributes":["Conditional=WEB_RTC"],"members":[{"kind":"attribute","name":"track","type_":"MediaStreamTrack","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

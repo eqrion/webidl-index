@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TCPServerSocketOpenInfo","extended_attributes":[],"fields":[{"name":"localAddress","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"localPort","type_":"unsigned short","required":false,"extended_attributes":[]},{"name":"readable","type_":"ReadableStream","required":true,"extended_attributes":[]}]}

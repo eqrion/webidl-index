@@ -1,0 +1,1 @@
+{"kind":"enum","name":"XRReferenceSpaceType","extended_attributes":[],"values":["bounded","identity","stationary","unbounded"]}

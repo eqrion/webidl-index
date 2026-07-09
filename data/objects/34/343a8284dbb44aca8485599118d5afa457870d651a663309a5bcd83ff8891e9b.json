@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUExtensionName","extended_attributes":[],"values":["shader-float16","texture-compression-bc","textureCompressionBC","timestamp-query"]}

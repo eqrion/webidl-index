@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"Acceleration","extended_attributes":["Conditional=DEVICE_ORIENTATION","JSGenerateToJSObject"],"fields":[{"name":"x","type_":"double?","required":false,"extended_attributes":[]},{"name":"y","type_":"double?","required":false,"extended_attributes":[]},{"name":"z","type_":"double?","required":false,"extended_attributes":[]}]}

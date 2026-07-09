@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TimelineRangeOffset","extended_attributes":[],"fields":[{"name":"offset","type_":"CSSNumericValue","required":false,"extended_attributes":[]},{"name":"rangeName","type_":"TimelineRange","required":false,"extended_attributes":[]}]}

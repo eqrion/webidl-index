@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ApplePayShippingMethodUpdate","extended_attributes":["Conditional=APPLE_PAY"],"fields":[{"name":"newLineItems","type_":"sequence<ApplePayLineItem>","required":false,"extended_attributes":[]},{"name":"newTotal","type_":"ApplePayLineItem","required":true,"extended_attributes":[]}]}

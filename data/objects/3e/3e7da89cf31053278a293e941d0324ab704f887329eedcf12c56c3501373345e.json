@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUAdapter","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU","ImplementationLacksVTable","InterfaceName=GPUAdapter"],"members":[{"kind":"operation","name":"requestDevice","type_":"Promise<WebGPUDevice>","arguments":[],"modifiers":[],"extended_attributes":["CallWith=Document"]}]}

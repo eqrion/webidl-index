@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRViewerPose","inherits":"XRPose","extended_attributes":["Exposed=Window","Pref=\"dom.vr.webxr.enabled\"","SecureContext"],"members":[{"kind":"attribute","name":"views","type_":"sequence<XRView>","arguments":[],"modifiers":["readonly"],"extended_attributes":["Constant","Cached","Frozen"]}]}

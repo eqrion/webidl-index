@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPUTextureUsage","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"values":["pixelformatview","rendertarget","shaderread","shaderwrite","unknown"]}

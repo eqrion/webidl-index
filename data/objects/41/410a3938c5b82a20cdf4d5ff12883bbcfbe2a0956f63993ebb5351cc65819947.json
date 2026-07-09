@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DelayNode","inherits":"AudioNode","extended_attributes":["Constructor(BaseAudioContext context, optional DelayOptions options = {})","Pref=\"dom.webaudio.enabled\""],"members":[{"kind":"attribute","name":"delayTime","type_":"AudioParam","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

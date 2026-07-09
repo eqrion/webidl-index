@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SubAppsListInfo","extended_attributes":[],"fields":[{"name":"app_name","type_":"DOMString","required":true,"extended_attributes":[]}]}

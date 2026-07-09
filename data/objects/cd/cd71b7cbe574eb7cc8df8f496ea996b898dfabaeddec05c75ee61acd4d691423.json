@@ -1,0 +1,1 @@
+{"kind":"enum","name":"XRDepthDataFormat","extended_attributes":[],"values":["float32","luminance-alpha","unsigned-short"]}

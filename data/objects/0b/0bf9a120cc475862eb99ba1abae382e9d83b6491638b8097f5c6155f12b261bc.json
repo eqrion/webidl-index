@@ -1,0 +1,1 @@
+{"kind":"enum","name":"XREnvironmentBlendMode","extended_attributes":["Conditional=WEBXR","EnabledBySetting=WebXR"],"values":["additive","alpha-blend","opaque"]}

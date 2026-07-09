@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPURenderPassDescriptor","extended_attributes":[],"fields":[{"name":"colorAttachments","type_":"sequence<WebGPURenderPassAttachmentDescriptor>","required":false,"extended_attributes":[]},{"name":"depthStencilAttachment","type_":"WebGPURenderPassAttachmentDescriptor","required":false,"extended_attributes":[]}]}

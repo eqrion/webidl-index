@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PushPermissionState","extended_attributes":["Conditional=SERVICE_WORKER"],"values":["denied","granted","prompt"]}

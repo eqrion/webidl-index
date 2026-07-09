@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WaveShaperNode","inherits":"AudioNode","extended_attributes":[],"members":[{"kind":"attribute","name":"curve","type_":"Float32Array?","arguments":[],"modifiers":[],"extended_attributes":["SetterThrows"]},{"kind":"attribute","name":"oversample","type_":"OverSampleType","arguments":[],"modifiers":[],"extended_attributes":[]}]}

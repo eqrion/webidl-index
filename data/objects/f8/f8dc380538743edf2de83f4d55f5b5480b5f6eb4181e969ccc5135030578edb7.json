@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGCursorElement","inherits":"SVGElement","extended_attributes":[],"members":[{"kind":"attribute","name":"x","type_":"SVGAnimatedLength","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"y","type_":"SVGAnimatedLength","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

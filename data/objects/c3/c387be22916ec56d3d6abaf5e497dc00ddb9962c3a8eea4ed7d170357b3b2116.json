@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SharedStorageWorkletNavigator","extended_attributes":["Exposed=SharedStorageWorklet","ImplementedAs=LockManager","ImplementedAs=SharedStorageWorkletNavigator","RuntimeEnabled=SharedStorageWebLocks","SecureContext"],"members":[{"kind":"attribute","name":"locks","type_":"LockManager","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

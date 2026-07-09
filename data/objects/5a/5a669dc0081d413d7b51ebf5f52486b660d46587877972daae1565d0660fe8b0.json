@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RewriterFormat","extended_attributes":[],"values":["as-is","markdown","plain-text"]}

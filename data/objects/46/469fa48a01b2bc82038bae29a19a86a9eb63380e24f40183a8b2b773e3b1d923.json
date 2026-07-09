@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"LanguageModelPromptOptions","extended_attributes":[],"fields":[{"name":"omitResponseConstraintInput","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"responseConstraint","type_":"object","required":false,"extended_attributes":[]},{"name":"signal","type_":"AbortSignal","required":false,"extended_attributes":[]}]}

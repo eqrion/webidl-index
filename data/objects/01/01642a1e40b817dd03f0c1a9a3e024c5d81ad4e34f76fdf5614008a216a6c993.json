@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AdAuctionCoordinator","extended_attributes":[],"values":["aws","gcp"]}

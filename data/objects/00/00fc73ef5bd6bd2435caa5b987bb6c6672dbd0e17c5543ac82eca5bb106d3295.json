@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DelayNode","inherits":"AudioNode","extended_attributes":["Conditional=WEB_AUDIO","JSGenerateToJSObject"],"members":[{"kind":"attribute","name":"delayTime","type_":"AudioParam","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

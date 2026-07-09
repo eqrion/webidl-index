@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebCodecsSvcOutputMetadata","extended_attributes":["Conditional=WEB_CODECS","JSGenerateToJSObject"],"fields":[{"name":"temporalLayerId","type_":"unsigned long","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCIceParameters","extended_attributes":[],"fields":[{"name":"password","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"usernameFragment","type_":"DOMString","required":false,"extended_attributes":[]}]}

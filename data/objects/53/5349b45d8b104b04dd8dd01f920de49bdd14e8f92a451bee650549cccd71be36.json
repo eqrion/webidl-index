@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FileSystemHandlePermissionDescriptor","extended_attributes":[],"fields":[{"name":"mode","type_":"FileSystemPermissionMode","required":false,"default":"\"read\"","extended_attributes":[]}]}

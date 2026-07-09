@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ApplePayDisbursementRequest","extended_attributes":["Conditional=APPLE_PAY_DISBURSEMENTS","ExportMacro=WEBCORE_EXPORT","JSGenerateToJSObject","JSGenerateToNativeObject"],"fields":[{"name":"requiredRecipientContactFields","type_":"sequence<ApplePayContactField>","required":false,"extended_attributes":[]}]}

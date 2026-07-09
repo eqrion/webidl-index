@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"MLNamedTensors","extended_attributes":[],"aliased_type":"record<USVString, MLTensor>"}

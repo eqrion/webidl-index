@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCSdpHistoryInternal","extended_attributes":[],"fields":[{"name":"pcid","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"sdpHistory","type_":"sequence<RTCSdpHistoryEntryInternal>","required":false,"default":"[]","extended_attributes":[]}]}

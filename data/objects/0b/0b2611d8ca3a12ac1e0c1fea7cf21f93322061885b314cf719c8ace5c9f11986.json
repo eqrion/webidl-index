@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RtcTransportConfig","extended_attributes":[],"fields":[{"name":"iceControlling","type_":"boolean","required":false,"extended_attributes":[]},{"name":"iceServers","type_":"sequence<RTCIceServer>","required":false,"extended_attributes":[]},{"name":"name","type_":"DOMString","required":false,"extended_attributes":[]}]}

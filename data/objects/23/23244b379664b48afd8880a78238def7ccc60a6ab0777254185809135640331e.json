@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUTextureFormat","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"values":["bgra8unorm","bgra8unorm-srgb","depth32float-stencil8","rgba16float","rgba8uint","rgba8unorm"]}

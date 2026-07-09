@@ -1,0 +1,1 @@
+{"kind":"interface","name":"OfflineAudioCompletionEvent","inherits":"Event","extended_attributes":["Conditional=WEB_AUDIO","JSGenerateToJSObject"],"members":[{"kind":"attribute","name":"renderedBuffer","type_":"AudioBuffer","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

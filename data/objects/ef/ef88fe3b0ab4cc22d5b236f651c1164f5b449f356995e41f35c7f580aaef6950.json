@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ApplePayDisbursementLineItemType","extended_attributes":["Conditional=APPLE_PAY_DISBURSEMENTS"],"values":["disbursement","instantFundsOutFee"]}

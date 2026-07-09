@@ -1,0 +1,1 @@
+{"kind":"callback","name":"PromiseReturner2","extended_attributes":[],"return_type":"Promise<any>","arguments":[{"name":"arg","type_":"any","optional":false,"variadic":false,"extended_attributes":[]},{"name":"arg2","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]}]}

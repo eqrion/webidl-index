@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuthenticationExtensionsPaymentBrowserBoundSignature","extended_attributes":[],"fields":[{"name":"signature_output","type_":"ArrayBuffer","required":false,"extended_attributes":[]}]}

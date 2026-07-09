@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebTransportCloseInfo","extended_attributes":["EnabledBySetting=WebTransportEnabled"],"fields":[{"name":"closeCode","type_":"unsigned long","required":false,"default":"0","extended_attributes":[]},{"name":"reason","type_":"USVString","required":false,"default":"\"\"","extended_attributes":[]}]}

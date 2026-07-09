@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUExternalTexture","extended_attributes":["EnabledBySetting=WebGPUEnabled","Exposed=(Window)","SecureContext"],"members":[{"kind":"attribute","name":"label","type_":"USVString?","arguments":[],"modifiers":[],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"LanguageModelToolResponse","extended_attributes":[],"aliased_type":"(LanguageModelToolSuccess or LanguageModelToolError)"}

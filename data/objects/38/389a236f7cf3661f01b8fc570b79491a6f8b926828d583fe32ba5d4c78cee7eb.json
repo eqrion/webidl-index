@@ -1,0 +1,1 @@
+{"kind":"interface","name":"BluetoothAttributeEvent","inherits":"Event","extended_attributes":["ChromeOnly","Constructor(DOMString type, optional BluetoothAttributeEventInit eventInitDict)"],"members":[{"kind":"attribute","name":"attrs","type_":"sequence<DOMString>","arguments":[],"modifiers":["readonly"],"extended_attributes":["Cached","Constant"]}]}

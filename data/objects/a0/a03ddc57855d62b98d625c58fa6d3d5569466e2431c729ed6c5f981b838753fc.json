@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUStoreOp","extended_attributes":["EnabledBySetting=WebGPU"],"values":["discard","store"]}

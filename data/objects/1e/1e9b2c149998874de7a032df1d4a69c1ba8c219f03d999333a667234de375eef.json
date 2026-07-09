@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRJointPose","inherits":"XRPose","extended_attributes":["Exposed=Window","RuntimeEnabled=WebXRHandInput","SecureContext"],"members":[{"kind":"attribute","name":"radius","type_":"float","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUBufferMapState","extended_attributes":[],"values":["mapped","pending","unmapped"]}

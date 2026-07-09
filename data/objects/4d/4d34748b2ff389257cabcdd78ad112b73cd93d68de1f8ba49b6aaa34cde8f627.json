@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLClampOptions","extended_attributes":[],"fields":[{"name":"maxValue","type_":"float","required":false,"extended_attributes":[]},{"name":"minValue","type_":"float","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"StorageBlockingPolicy","extended_attributes":[],"values":["AllowAll","BlockAll","BlockThirdParty"]}

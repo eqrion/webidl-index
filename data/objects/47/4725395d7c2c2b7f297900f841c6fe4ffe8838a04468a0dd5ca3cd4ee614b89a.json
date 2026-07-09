@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"EncodedVideoConfig","extended_attributes":[],"fields":[{"name":"codec","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"description","type_":"BufferSource","required":false,"extended_attributes":[]},{"name":"sampleAspect","type_":"double","required":false,"extended_attributes":[]}]}

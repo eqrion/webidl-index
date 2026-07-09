@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WindowProperties","inherits":"EventTarget","extended_attributes":["LegacyNoInterfaceObject"],"members":[{"kind":"operation","name":"","type_":"object","arguments":[{"name":"name","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":["getter"],"extended_attributes":["NotEnumerable","CrossOrigin"]}]}

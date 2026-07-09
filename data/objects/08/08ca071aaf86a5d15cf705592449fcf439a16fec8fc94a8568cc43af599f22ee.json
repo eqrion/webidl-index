@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GeolocationPosition","extended_attributes":["Exposed=Window","SecureContext"],"members":[{"kind":"attribute","name":"coords","type_":"GeolocationCoordinates","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"timestamp","type_":"DOMTimeStamp","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

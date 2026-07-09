@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AudioParamMap","extended_attributes":["Conditional=WEB_AUDIO","EnabledBySetting=WebAudioEnabled","Exposed=Window","SkipVTableValidation"],"members":[{"kind":"maplike","name":"","type_":"maplike<DOMString, AudioParam>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

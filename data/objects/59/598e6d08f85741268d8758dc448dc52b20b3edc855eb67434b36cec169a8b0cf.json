@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozSmsEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"message","type_":"SmsMessage?","required":false,"default":"null","extended_attributes":[]}]}

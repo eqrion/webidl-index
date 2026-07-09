@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MLOperand","extended_attributes":["Exposed=Window","RuntimeEnabled=MachineLearningNeuralNetwork"],"members":[]}

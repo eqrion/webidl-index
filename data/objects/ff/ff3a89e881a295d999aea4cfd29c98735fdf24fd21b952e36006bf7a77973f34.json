@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NowPlayingInfoArtwork","extended_attributes":["Conditional=VIDEO","ExportMacro=WEBCORE_TESTSUPPORT_EXPORT","JSGenerateToJSObject"],"fields":[{"name":"mimeType","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"src","type_":"DOMString","required":false,"extended_attributes":[]}]}

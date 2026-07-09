@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RtcDtlsParameters","extended_attributes":[],"fields":[{"name":"fingerprint","type_":"ArrayBuffer","required":true,"extended_attributes":[]},{"name":"fingerprintDigestAlgorithm","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"sslRole","type_":"RtcTransportSslRole","required":true,"extended_attributes":[]}]}

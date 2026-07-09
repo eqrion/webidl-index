@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CanvasPattern","extended_attributes":["Exposed=(Window, Worker)","ImplementationLacksVTable"],"members":[{"kind":"operation","name":"setTransform","type_":"undefined","arguments":[{"name":"transform","type_":"DOMMatrix2DInit","optional":true,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

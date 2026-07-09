@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCDTMFToneChangeEvent","inherits":"Event","extended_attributes":["Conditional=WEB_RTC_DTMF","Constructor(DOMString type, optional RTCDTMFToneChangeEventInit eventInitDict)","EnabledAtRuntime=PeerConnection"],"members":[{"kind":"attribute","name":"tone","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

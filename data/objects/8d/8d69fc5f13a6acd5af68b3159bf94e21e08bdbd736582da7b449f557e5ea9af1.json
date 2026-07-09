@@ -1,0 +1,1 @@
+{"kind":"callback","name":"WebCodecsErrorCallback","extended_attributes":["Conditional=WEB_CODECS"],"return_type":"undefined","arguments":[{"name":"error","type_":"DOMException","optional":false,"variadic":false,"extended_attributes":[]}]}

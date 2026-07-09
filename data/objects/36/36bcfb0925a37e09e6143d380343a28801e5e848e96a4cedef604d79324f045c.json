@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BarcodeDetectorOptions","extended_attributes":[],"fields":[{"name":"formats","type_":"sequence<BarcodeFormat>","required":false,"extended_attributes":[]}]}

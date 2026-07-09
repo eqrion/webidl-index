@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GamepadHapticsResult","extended_attributes":[],"values":["complete","invalid-parameter","not-supported","preempted"]}

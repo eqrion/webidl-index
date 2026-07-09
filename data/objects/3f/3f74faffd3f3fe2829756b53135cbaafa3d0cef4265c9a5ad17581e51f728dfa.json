@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GPUOutOfMemoryError","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU","ImplementationLacksVTable"],"members":[{"kind":"constructor","name":"","arguments":[],"modifiers":[],"extended_attributes":[]}]}

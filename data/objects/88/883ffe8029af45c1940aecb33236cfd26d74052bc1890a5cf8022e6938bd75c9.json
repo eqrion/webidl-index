@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ParameterMask","extended_attributes":[],"values":["attachment_size","datetime","priority","protected","read","reception_status","recipient_addressing","recipient_name","replyto_addressing","sender_addressing","sender_name","sent","size","subject","text","type"]}

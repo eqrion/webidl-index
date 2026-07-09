@@ -1,0 +1,1 @@
+{"kind":"enum","name":"EditContextInputMode","extended_attributes":[],"values":["decimal","email","none","numeric","password","search","tel","text","url"]}

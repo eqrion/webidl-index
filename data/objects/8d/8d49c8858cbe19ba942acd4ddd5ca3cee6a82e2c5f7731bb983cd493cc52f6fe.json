@@ -1,0 +1,1 @@
+{"kind":"interface","name":"UndoItem","extended_attributes":["Constructor(UndoItemInit initDict)","CustomIsReachable","EnabledAtRuntime=UndoManagerAPI","ImplementationLacksVTable","JSCustomMarkFunction"],"members":[{"kind":"attribute","name":"label","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

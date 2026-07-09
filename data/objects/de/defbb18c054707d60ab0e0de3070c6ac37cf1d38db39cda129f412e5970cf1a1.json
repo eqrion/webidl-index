@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGPolylineElement","inherits":"SVGGeometryElement","extended_attributes":[],"members":[{"kind":"attribute","name":"animatedPoints","type_":"SVGPointList","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"points","type_":"SVGPointList","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NavigationInterceptOptions","inherits":"NavigationInterceptOrTransitionWhileOptions","extended_attributes":[],"fields":[{"name":"handler","type_":"NavigationInterceptHandler","required":false,"extended_attributes":[]},{"name":"scroll","type_":"NavigationScrollBehavior","required":false,"extended_attributes":[]}]}

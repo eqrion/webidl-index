@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DocumentPartRoot","inherits":"PartRoot","extended_attributes":["Exposed=Window","RuntimeEnabled=DOMPartsAPI"],"members":[]}

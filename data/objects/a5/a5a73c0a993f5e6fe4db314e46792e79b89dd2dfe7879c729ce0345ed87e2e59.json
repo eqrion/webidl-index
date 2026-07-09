@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CanvasRenderingContext2DSettings","extended_attributes":["JSGenerateToJSObject"],"fields":[{"name":"colorSpace","type_":"PredefinedColorSpace","required":false,"default":"\"srgb\"","extended_attributes":["EnabledBySetting=CanvasColorSpace"]},{"name":"desynchronized","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

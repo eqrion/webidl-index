@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GleanImpl","extended_attributes":["Exposed=Window","Func=\"GleanWebidlEnabled\""],"members":[{"kind":"operation","name":"","type_":"GleanCategory","arguments":[{"name":"identifier","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":["getter"],"extended_attributes":[]}]}

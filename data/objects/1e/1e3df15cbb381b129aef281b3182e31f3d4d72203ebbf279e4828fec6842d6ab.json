@@ -1,0 +1,1 @@
+{"kind":"callback","name":"SetDeleteObjectCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"value","type_":"object","optional":false,"variadic":false,"extended_attributes":[]},{"name":"index","type_":"unsigned long","optional":false,"variadic":false,"extended_attributes":[]}]}

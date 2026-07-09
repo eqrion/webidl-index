@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebTransportErrorInit","extended_attributes":[],"fields":[{"name":"message","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"streamErrorCode","type_":"octet","required":false,"extended_attributes":["Clamp"]}]}

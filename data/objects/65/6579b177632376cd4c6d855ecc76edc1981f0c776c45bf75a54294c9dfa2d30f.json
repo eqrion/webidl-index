@@ -1,0 +1,1 @@
+{"kind":"callback","name":"L10nCallback","extended_attributes":[],"return_type":"Promise<sequence<L10nValue>>","arguments":[{"name":"l10nElements","type_":"sequence<L10nElement>","optional":false,"variadic":false,"extended_attributes":[]}]}

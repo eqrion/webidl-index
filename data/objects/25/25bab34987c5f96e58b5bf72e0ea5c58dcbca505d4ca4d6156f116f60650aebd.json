@@ -1,0 +1,1 @@
+{"kind":"callback","name":"PositionErrorCallback","extended_attributes":["Conditional=GEOLOCATION"],"return_type":"void","arguments":[{"name":"error","type_":"PositionError","optional":false,"variadic":false,"extended_attributes":[]}]}

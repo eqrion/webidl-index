@@ -1,0 +1,1 @@
+{"kind":"enum","name":"IntegrityViolationReason","extended_attributes":[],"values":["invalid_manifest","invalid_transparency_proof","manifest_unavailable","missing_from_manifest","no_manifest_match","untrusted_transparency_proof"]}

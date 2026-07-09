@@ -1,0 +1,1 @@
+{"kind":"callback","name":"LifecycleFormDisabledCallback","extended_attributes":["MOZ_CAN_RUN_SCRIPT_BOUNDARY"],"return_type":"void","arguments":[{"name":"disabled","type_":"boolean","optional":false,"variadic":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityBranding","extended_attributes":[],"fields":[{"name":"background_color","type_":"USVString","required":false,"extended_attributes":[]},{"name":"color","type_":"USVString","required":false,"extended_attributes":[]},{"name":"icons","type_":"sequence<IdentityIcon>","required":false,"extended_attributes":[]}]}

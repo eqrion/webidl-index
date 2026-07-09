@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ElementSetHTMLOptions","extended_attributes":["RuntimeEnabled=SanitizerAPI"],"fields":[{"name":"sanitizer","type_":"Sanitizer","required":false,"extended_attributes":[]}]}

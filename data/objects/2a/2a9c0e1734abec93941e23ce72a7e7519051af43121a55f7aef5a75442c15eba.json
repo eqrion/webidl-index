@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GamepadEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"gamepad","type_":"Gamepad?","required":false,"extended_attributes":[]}]}

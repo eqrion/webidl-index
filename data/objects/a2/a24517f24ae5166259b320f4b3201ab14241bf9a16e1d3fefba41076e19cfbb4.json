@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PerformanceMeasure","inherits":"PerformanceEntry","extended_attributes":["Conditional=WEB_TIMING","EnabledAtRuntime=UserTiming","Exposed=(Window, Worker)"],"members":[]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TestInterfaceIterableDoubleUnion","extended_attributes":["Constructor()","Pref=\"dom.expose_test_interfaces\""],"members":[{"kind":"iterable","name":"","type_":"iterable<DOMString, (DOMString or long)>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

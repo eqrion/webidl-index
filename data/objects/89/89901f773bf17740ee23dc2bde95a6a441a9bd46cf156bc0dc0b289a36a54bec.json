@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HighlightRegistry","extended_attributes":["Exposed=Window","RuntimeEnabled=HighlightAPI"],"members":[{"kind":"setlike","name":"","type_":"setlike<Highlight>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

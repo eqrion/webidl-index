@@ -1,0 +1,1 @@
+{"kind":"callback","name":"DatabaseCallback","extended_attributes":["GenerateIsReachable=ImplScriptExecutionContext"],"return_type":"undefined","arguments":[{"name":"database","type_":"Database","optional":false,"variadic":false,"extended_attributes":[]}]}

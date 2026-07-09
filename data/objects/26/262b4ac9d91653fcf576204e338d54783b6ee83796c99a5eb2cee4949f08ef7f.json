@@ -1,0 +1,1 @@
+{"kind":"enum","name":"VideoTransferCharacteristics","extended_attributes":[],"values":["bt709","iec61966-2-1","smpte170m"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AuthenticatorResponse","extended_attributes":["Exposed=Window","RuntimeEnabled=WebAuth","SecureContext"],"members":[{"kind":"attribute","name":"clientDataJSON","type_":"ArrayBuffer","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]}]}

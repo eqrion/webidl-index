@@ -1,0 +1,1 @@
+{"kind":"callback","name":"LifecycleGetCustomInterfaceCallback","extended_attributes":[],"return_type":"object?","arguments":[{"name":"iid","type_":"IID","optional":false,"variadic":false,"extended_attributes":[]}]}

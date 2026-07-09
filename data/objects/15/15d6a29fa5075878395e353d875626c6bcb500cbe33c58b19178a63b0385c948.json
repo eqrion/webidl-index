@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLAttachmentElement","inherits":"HTMLElement","extended_attributes":["Conditional=ATTACHMENT_ELEMENT"],"members":[{"kind":"attribute","name":"file","type_":"File?","arguments":[],"modifiers":[],"extended_attributes":[]}]}

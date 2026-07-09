@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUPipelineErrorInit","extended_attributes":[],"fields":[{"name":"reason","type_":"GPUPipelineErrorReason","required":true,"extended_attributes":[]}]}

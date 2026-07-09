@@ -1,0 +1,1 @@
+{"kind":"interface","name":"StylePropertyMap","inherits":"StylePropertyMapReadOnly","extended_attributes":["Conditional=CSS_TYPED_OM","EnabledAtRuntime=CSSTypedOM","Exposed=Window","JSGenerateToJSObject","SkipVTableValidation"],"members":[]}

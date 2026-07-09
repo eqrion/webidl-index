@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AvcEncoderConfig","extended_attributes":["Conditional=WEB_CODECS","JSGenerateToJSObject"],"fields":[{"name":"format","type_":"AvcBitstreamFormat","required":false,"default":"\"avc\"","extended_attributes":[]}]}

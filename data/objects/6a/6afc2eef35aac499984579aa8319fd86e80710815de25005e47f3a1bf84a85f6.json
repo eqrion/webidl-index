@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"FileSystemCloudIdentifier","extended_attributes":[],"fields":[{"name":"id","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"providerName","type_":"DOMString","required":false,"extended_attributes":[]}]}

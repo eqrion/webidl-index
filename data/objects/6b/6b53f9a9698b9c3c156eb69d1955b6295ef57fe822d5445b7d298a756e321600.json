@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLDataListElement","inherits":"HTMLElement","extended_attributes":["Conditional=DATALIST_ELEMENT","EnabledByDeprecatedGlobalSetting=DataListElementEnabled","Exposed=Window"],"members":[{"kind":"attribute","name":"options","type_":"HTMLCollection","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSMathProduct","inherits":"CSSMathValue","extended_attributes":["Constructor(CSSNumberish... args)","Exposed=(Window, LayoutWorklet, PaintWorklet)","RaisesException=Constructor","RuntimeEnabled=CSSTypedOM"],"members":[{"kind":"attribute","name":"values","type_":"CSSNumericArray","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCStatsType","extended_attributes":[],"values":["candidate-pair","csrc","inbound-rtp","local-candidate","outbound-rtp","remote-candidate","session","track","transport"]}

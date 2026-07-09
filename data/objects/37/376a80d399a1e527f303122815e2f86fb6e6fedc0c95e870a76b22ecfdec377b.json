@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PushPermissionDescriptor","inherits":"PermissionDescriptor","extended_attributes":[],"fields":[{"name":"userVisible","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

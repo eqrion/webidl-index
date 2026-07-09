@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ApplePayAMSUIRequest","extended_attributes":["Conditional=APPLE_PAY_AMS_UI_PAYMENT_REQUEST"],"fields":[{"name":"engagementRequest","type_":"JSON","required":true,"extended_attributes":[]}]}

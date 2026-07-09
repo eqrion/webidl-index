@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Animatable","extended_attributes":["Conditional=WEB_ANIMATIONS","EnabledAtRuntime=WebAnimations","NoInterfaceObject"],"members":[{"kind":"operation","name":"getAnimations","type_":"sequence<WebAnimation>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

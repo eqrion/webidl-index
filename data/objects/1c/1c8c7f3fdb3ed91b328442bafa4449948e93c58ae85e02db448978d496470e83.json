@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ScriptWindowAttribution","extended_attributes":[],"values":["ancestor","descendant","other","same-page","self"]}

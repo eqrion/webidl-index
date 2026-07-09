@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozVoicemailEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"status","type_":"MozVoicemailStatus?","required":false,"default":"null","extended_attributes":[]}]}

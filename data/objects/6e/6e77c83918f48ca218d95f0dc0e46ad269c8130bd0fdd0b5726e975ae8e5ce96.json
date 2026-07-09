@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IIRFilterOptions","inherits":"AudioNodeOptions","extended_attributes":["Conditional=WEB_AUDIO"],"fields":[{"name":"feedback","type_":"sequence<double>","required":true,"extended_attributes":[]},{"name":"feedforward","type_":"sequence<double>","required":true,"extended_attributes":[]}]}

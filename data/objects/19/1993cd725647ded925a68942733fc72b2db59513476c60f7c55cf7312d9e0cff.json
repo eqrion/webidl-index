@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCBundlePolicy","extended_attributes":["Conditional=WEB_RTC","EnabledBySetting=PeerConnectionEnabled","ImplementedAs=RTCBundlePolicy"],"values":["balanced","max-bundle","max-compat"]}

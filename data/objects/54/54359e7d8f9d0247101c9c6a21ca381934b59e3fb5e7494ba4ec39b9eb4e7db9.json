@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityAssertionResponse","extended_attributes":["GenerateInit"],"fields":[{"name":"continue_on","type_":"UTF8String","required":false,"extended_attributes":[]},{"name":"token","type_":"UTF8String","required":false,"extended_attributes":[]}]}

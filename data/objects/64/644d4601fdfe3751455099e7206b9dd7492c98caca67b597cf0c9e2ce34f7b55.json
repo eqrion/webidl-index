@@ -1,0 +1,1 @@
+{"kind":"enum","name":"NumberPlanIdentification","extended_attributes":[],"values":["data","isdn","national","private","telex","unknown"]}

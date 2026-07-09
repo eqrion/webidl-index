@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BasicCardRequest","extended_attributes":["GenerateInit"],"fields":[{"name":"requestSecurityCode","type_":"boolean","required":false,"default":"true","extended_attributes":[]},{"name":"supportedNetworks","type_":"sequence<DOMString>","required":false,"default":"[]","extended_attributes":[]}]}

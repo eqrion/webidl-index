@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"InstallTriggerData","extended_attributes":[],"fields":[{"name":"Hash","type_":"DOMString?","required":false,"extended_attributes":[]},{"name":"IconURL","type_":"DOMString?","required":false,"extended_attributes":[]},{"name":"URL","type_":"DOMString","required":false,"extended_attributes":[]}]}

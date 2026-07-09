@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSFontFaceRule","inherits":"CSSRule","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"style","type_":"CSSFontFaceDescriptors","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject","PutForwards=cssText"]}]}

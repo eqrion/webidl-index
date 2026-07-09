@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"VideoEncoderEncodeOptions","extended_attributes":[],"fields":[{"name":"avc","type_":"VideoEncoderEncodeOptionsForAvc","required":false,"extended_attributes":[]},{"name":"keyFrame","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"callback","name":"AudioFrameOutputCallback","extended_attributes":["RuntimeEnabled=WebCodecs"],"return_type":"void","arguments":[{"name":"output","type_":"AudioFrame","optional":false,"variadic":false,"extended_attributes":[]}]}

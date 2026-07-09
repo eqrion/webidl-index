@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGNumber","extended_attributes":["Constructor","Constructor(float value)"],"members":[{"kind":"attribute","name":"value","type_":"float","arguments":[],"modifiers":[],"extended_attributes":["SetterThrows"]}]}

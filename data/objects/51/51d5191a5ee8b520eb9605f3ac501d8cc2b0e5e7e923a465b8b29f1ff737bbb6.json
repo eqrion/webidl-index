@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCStatsIceCandidatePairState","extended_attributes":[],"values":["cancelled","failed","frozen","inprogress","succeeded","waiting"]}

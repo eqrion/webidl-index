@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MidiPermissionDescriptor","inherits":"PermissionDescriptor","extended_attributes":[],"fields":[{"name":"sysex","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

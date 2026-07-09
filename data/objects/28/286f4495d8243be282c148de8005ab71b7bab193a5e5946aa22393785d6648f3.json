@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCStatsReport","extended_attributes":["Exposed=Window","Pref=\"media.peerconnection.enabled\""],"members":[{"kind":"constructor","name":"","arguments":[],"modifiers":[],"extended_attributes":["ChromeOnly"]},{"kind":"maplike","name":"","type_":"maplike<DOMString, object>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MediaKeySessionType","extended_attributes":["Conditional=ENCRYPTED_MEDIA","ExportMacro=WEBCORE_TESTSUPPORT_EXPORT","ImplementedAs=MediaKeySessionType"],"values":["persistent-license","persistent-usage-record","temporary"]}

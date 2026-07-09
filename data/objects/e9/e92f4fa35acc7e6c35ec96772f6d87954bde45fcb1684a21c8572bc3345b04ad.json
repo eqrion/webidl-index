@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SanitizerProcessingInstruction","extended_attributes":[],"fields":[{"name":"target","type_":"DOMString","required":true,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AesCtrParams","inherits":"CryptoAlgorithmParameters","extended_attributes":["Conditional=SUBTLE_CRYPTO","ImplementedAs=CryptoAlgorithmAesCtrParams"],"fields":[{"name":"counter","type_":"BufferSource","required":true,"extended_attributes":[]},{"name":"length","type_":"octet","required":true,"extended_attributes":["EnforceRange"]}]}

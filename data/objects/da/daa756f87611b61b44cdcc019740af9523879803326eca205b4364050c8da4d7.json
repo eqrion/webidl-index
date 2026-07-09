@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"UndoItemInit","extended_attributes":["EnabledBySetting=UndoManagerAPI"],"fields":[{"name":"label","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"redo","type_":"VoidCallback","required":true,"extended_attributes":[]},{"name":"undo","type_":"VoidCallback","required":true,"extended_attributes":[]}]}

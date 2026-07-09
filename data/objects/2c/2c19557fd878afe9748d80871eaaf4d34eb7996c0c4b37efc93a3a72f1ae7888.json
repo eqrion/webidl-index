@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGLContextEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"statusMessage","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

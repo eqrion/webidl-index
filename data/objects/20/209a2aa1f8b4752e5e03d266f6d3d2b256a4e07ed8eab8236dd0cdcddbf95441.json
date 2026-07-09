@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUBindGroupDescriptor","inherits":"GPUObjectDescriptorBase","extended_attributes":["EnabledBySetting=WebGPU"],"fields":[{"name":"entries","type_":"sequence<GPUBindGroupEntry>","required":true,"extended_attributes":[]},{"name":"layout","type_":"GPUBindGroupLayout","required":true,"extended_attributes":[]}]}

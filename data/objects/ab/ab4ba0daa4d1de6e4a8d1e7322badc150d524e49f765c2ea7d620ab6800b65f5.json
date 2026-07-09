@@ -1,0 +1,1 @@
+{"kind":"callback_interface","name":"AudioBufferCallback","extended_attributes":["Conditional=WEB_AUDIO","JSGenerateToJSObject"],"members":[{"kind":"operation","name":"handleEvent","type_":"boolean","arguments":[{"name":"audioBuffer","type_":"AudioBuffer","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

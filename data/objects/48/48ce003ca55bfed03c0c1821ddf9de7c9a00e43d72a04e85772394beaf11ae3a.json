@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ReadyState","extended_attributes":[],"values":["closed","ended","open"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XPathNSResolver","extended_attributes":["NoInterfaceObject","SkipVTableValidation"],"members":[{"kind":"operation","name":"lookupNamespaceURI","type_":"DOMString?","arguments":[{"name":"prefix","type_":"DOMString?","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

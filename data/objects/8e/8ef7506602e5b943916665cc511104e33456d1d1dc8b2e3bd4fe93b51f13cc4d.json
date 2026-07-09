@@ -1,0 +1,1 @@
+{"kind":"enum","name":"XRHandedness","extended_attributes":["Conditional=WEBXR","EnabledBySetting=WebXREnabled","ExportMacro=WEBCORE_EXPORT"],"values":["left","none","right"]}

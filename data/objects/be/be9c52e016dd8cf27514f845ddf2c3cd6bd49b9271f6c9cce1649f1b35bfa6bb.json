@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUPipelineStageDescriptor","extended_attributes":[],"fields":[{"name":"entryPoint","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"module","type_":"GPUShaderModule","required":true,"extended_attributes":[]}]}

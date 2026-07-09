@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TCPServerSocketOptions","extended_attributes":[],"fields":[{"name":"backlog","type_":"unsigned long","required":false,"extended_attributes":["EnforceRange"]},{"name":"ipv6Only","type_":"boolean","required":false,"extended_attributes":[]},{"name":"localPort","type_":"unsigned short","required":false,"extended_attributes":["EnforceRange"]}]}

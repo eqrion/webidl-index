@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SettingChangeNotification","extended_attributes":[],"fields":[{"name":"isInternalChange","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"key","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"value","type_":"any","required":false,"extended_attributes":[]}]}

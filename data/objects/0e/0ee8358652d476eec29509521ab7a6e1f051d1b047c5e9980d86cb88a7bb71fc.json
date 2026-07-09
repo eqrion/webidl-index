@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPUPowerPreference","extended_attributes":[],"values":["default","high-performance","low-power"]}

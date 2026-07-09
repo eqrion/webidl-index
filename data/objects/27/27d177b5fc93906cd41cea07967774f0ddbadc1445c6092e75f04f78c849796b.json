@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPUResourceOptions","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"values":["cpucachemodedefaultcache","cpucachemodewritecombined","optioncpucachemodedefaultcache","optioncpucachemodewritecombined","storagemodemanaged","storagemodeprivate","storagemodeshared"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XMLStylesheetProcessingInstruction","inherits":"ProcessingInstruction","extended_attributes":[],"members":[{"kind":"attribute","name":"sheet","type_":"StyleSheet?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

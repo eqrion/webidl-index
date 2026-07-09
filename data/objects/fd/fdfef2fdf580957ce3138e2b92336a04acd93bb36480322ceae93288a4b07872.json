@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ChannelPixelLayoutDataType","extended_attributes":[],"values":["float32","float64","int16","int32","int8","uint16","uint32","uint8"]}

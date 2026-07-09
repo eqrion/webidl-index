@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SmartCardAccessMode","extended_attributes":[],"values":["direct","exclusive","shared"]}

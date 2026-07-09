@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PCImplIceGatheringState","extended_attributes":[],"values":["complete","gathering","new"]}

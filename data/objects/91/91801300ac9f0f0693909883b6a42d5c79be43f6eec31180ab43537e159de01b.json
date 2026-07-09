@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGPUSampler","extended_attributes":["Pref=\"dom.webgpu.enable\""],"members":[]}

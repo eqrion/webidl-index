@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRReferenceSpaceEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"referenceSpace","type_":"XRReferenceSpace","required":true,"extended_attributes":[]},{"name":"transform","type_":"XRRigidTransform?","required":false,"default":"null","extended_attributes":[]}]}

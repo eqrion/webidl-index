@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ClipboardEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional ClipboardEventInit eventInitDict)"],"members":[{"kind":"attribute","name":"clipboardData","type_":"DataTransfer?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

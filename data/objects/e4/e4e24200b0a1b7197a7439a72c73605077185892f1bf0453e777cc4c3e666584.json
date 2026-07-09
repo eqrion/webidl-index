@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUBlendOperation","extended_attributes":["ImplementedAs=GPUBlendOperation"],"values":["add","max","min","reverse-subtract","subtract"]}

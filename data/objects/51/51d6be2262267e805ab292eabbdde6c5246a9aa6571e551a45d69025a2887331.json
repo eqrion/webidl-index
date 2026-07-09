@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"EncryptionPattern","extended_attributes":[],"fields":[{"name":"cryptByteBlock","type_":"unsigned long","required":true,"extended_attributes":[]},{"name":"skipByteBlock","type_":"unsigned long","required":true,"extended_attributes":[]}]}

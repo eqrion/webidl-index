@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PaymentRequestUpdateEventInit","inherits":"EventInit","extended_attributes":["Conditional=PAYMENT_REQUEST"],"fields":[]}

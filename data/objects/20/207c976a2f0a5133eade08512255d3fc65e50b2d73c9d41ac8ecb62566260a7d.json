@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PayerErrorFields","extended_attributes":["Conditional=PAYMENT_REQUEST"],"fields":[{"name":"email","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"name","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"phone","type_":"DOMString","required":false,"extended_attributes":[]}]}

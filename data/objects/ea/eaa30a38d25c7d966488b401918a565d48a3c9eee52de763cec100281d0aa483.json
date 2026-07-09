@@ -1,0 +1,1 @@
+{"kind":"enum","name":"FetchRequestMode","extended_attributes":[],"values":["cors","navigate","no-cors","same-origin"]}

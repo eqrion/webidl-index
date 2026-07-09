@@ -1,0 +1,11 @@
+{
+  "engine": "webkit",
+  "version": "5",
+  "source": {
+    "repo": "https://github.com/WebKit/WebKit.git",
+    "tag": "releases/Apple/Safari-5-macOS-10.6.4",
+    "commit": "2f98a7aa1cdf65baf744fc0320962d5f06b03384"
+  },
+  "date": "2010-06-03T17:30:02Z",
+  "entries": {}
+}

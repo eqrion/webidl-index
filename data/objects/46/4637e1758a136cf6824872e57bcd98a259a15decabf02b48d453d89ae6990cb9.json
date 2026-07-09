@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ConstantSourceOptions","extended_attributes":["Conditional=WEB_AUDIO","EnabledBySetting=WebAudioEnabled"],"fields":[{"name":"offset","type_":"float","required":false,"default":"1","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DeviceStorageAreaChangedEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"operation","type_":"DeviceStorageAreaChangedEventOperation","required":false,"default":"\"unknown\"","extended_attributes":[]},{"name":"storageName","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}

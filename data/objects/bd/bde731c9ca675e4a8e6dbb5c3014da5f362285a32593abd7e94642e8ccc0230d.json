@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRLayerEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"layer","type_":"XRLayer","required":true,"extended_attributes":[]}]}

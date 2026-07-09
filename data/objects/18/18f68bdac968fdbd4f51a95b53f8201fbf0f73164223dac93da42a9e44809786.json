@@ -1,0 +1,1 @@
+{"kind":"interface","name":"TCPSocketEvent","inherits":"Event","extended_attributes":["Constructor(DOMString type, optional TCPSocketEventInit eventInitDict)","Exposed=Window","Func=\"mozilla::dom::TCPSocket::ShouldTCPSocketExist\""],"members":[{"kind":"attribute","name":"data","type_":"any","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GamepadHapticEffectType","extended_attributes":["Conditional=GAMEPAD"],"values":["dual-rumble","trigger-rumble"]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DirectoryPickerOptions","extended_attributes":[],"fields":[{"name":"startIn","type_":"CommonDirectory?","required":false,"extended_attributes":["RuntimeEnabled=FileSystemAccessAPIExperimental"]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLCumulativeSumOptions","inherits":"MLOperatorOptions","extended_attributes":[],"fields":[{"name":"exclusive","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"reversed","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

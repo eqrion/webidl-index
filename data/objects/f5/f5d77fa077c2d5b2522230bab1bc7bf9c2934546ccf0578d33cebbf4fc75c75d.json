@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLGatherSupportLimits","extended_attributes":[],"fields":[{"name":"indices","type_":"MLTensorLimits","required":false,"extended_attributes":[]},{"name":"input","type_":"MLTensorLimits","required":false,"extended_attributes":[]},{"name":"output","type_":"MLDataTypeLimits","required":false,"extended_attributes":[]}]}

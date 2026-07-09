@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WindowLocalStorage","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"localStorage","type_":"Storage?","arguments":[],"modifiers":["readonly"],"extended_attributes":["Throws"]}]}

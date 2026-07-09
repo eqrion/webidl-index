@@ -1,0 +1,1 @@
+{"kind":"enum","name":"DevicePostureType","extended_attributes":[],"values":["book","flat","laptop","no-fold","tablet","tent"]}

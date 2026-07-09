@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CSSContainerCondition","extended_attributes":[],"fields":[{"name":"name","type_":"UTF8String","required":true,"extended_attributes":[]},{"name":"query","type_":"UTF8String","required":true,"extended_attributes":[]}]}

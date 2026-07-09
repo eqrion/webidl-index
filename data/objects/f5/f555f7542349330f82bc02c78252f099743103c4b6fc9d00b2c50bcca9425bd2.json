@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRWorldInformation","extended_attributes":["Exposed=Window","RuntimeEnabled=WebXRPlaneDetection","SecureContext"],"members":[{"kind":"attribute","name":"detectedPlanes","type_":"XRPlaneSet?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"GlobalU2F","extended_attributes":["NoInterfaceObject"],"members":[{"kind":"attribute","name":"u2f","type_":"U2F","arguments":[],"modifiers":["readonly"],"extended_attributes":["SecureContext","Throws","Pref=\"security.webauth.u2f\""]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebGPUBindGroupBinding","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"fields":[{"name":"binding","type_":"u32","required":true,"extended_attributes":[]},{"name":"resource","type_":"WebGPUBindingResource","required":true,"extended_attributes":[]}]}

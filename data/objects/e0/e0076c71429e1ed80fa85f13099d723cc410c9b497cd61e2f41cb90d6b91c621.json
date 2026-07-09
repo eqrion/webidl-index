@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SharedStorageModifierMethodOptions","extended_attributes":[],"fields":[{"name":"withLock","type_":"DOMString","required":false,"extended_attributes":[]}]}

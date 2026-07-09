@@ -1,0 +1,1 @@
+{"kind":"callback","name":"RemotePlaybackAvailabilityCallback","extended_attributes":["Conditional=WIRELESS_PLAYBACK_TARGET","EnabledBySetting=RemotePlayback"],"return_type":"boolean","arguments":[{"name":"available","type_":"boolean","optional":false,"variadic":false,"extended_attributes":[]}]}

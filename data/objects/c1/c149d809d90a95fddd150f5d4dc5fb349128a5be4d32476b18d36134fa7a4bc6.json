@@ -1,0 +1,1 @@
+{"kind":"enum","name":"DistanceModelType","extended_attributes":["Conditional=WEB_AUDIO"],"values":["exponential","inverse","linear"]}

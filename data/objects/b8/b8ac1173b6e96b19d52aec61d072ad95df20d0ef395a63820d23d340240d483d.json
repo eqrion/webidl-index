@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BrowserElementExecuteScriptOptions","extended_attributes":[],"fields":[{"name":"origin","type_":"DOMString?","required":false,"extended_attributes":[]},{"name":"url","type_":"DOMString?","required":false,"extended_attributes":[]}]}

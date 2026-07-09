@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GPUStorageTextureAccess","extended_attributes":[],"values":["read-only","read-write","write-only"]}

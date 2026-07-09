@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRSessionInit","extended_attributes":[],"fields":[{"name":"optionalFeatures","type_":"sequence<DOMString>","required":false,"extended_attributes":[]},{"name":"requiredFeatures","type_":"sequence<DOMString>","required":false,"extended_attributes":[]}]}

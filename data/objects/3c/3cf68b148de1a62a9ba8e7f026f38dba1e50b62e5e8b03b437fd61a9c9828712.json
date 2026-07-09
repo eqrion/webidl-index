@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSRouteRule","inherits":"CSSConditionRule","extended_attributes":["Exposed=Window","RuntimeEnabled=RouteMatching"],"members":[]}

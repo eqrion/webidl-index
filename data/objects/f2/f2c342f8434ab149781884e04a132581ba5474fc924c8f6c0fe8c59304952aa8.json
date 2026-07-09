@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaStreamTrackGeneratorInit","extended_attributes":[],"fields":[{"name":"kind","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"maxSignalBufferSize","type_":"unsigned short","required":false,"extended_attributes":["EnforceRange"]},{"name":"signalTarget","type_":"MediaStreamTrack","required":false,"extended_attributes":[]}]}

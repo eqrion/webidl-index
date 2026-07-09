@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AudioSinkOptions","extended_attributes":["RuntimeEnabled=AudioContextSetSinkId"],"fields":[{"name":"type","type_":"AudioSinkType","required":true,"extended_attributes":[]}]}

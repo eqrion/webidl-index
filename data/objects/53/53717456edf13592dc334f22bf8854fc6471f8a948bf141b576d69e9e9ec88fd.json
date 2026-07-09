@@ -1,0 +1,1 @@
+{"kind":"callback","name":"WebCodecsAudioDataOutputCallback","extended_attributes":["Conditional=WEB_CODECS"],"return_type":"undefined","arguments":[{"name":"output","type_":"WebCodecsAudioData","optional":false,"variadic":false,"extended_attributes":[]}]}

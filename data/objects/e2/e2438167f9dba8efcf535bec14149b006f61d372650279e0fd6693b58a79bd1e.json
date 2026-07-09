@@ -1,0 +1,1 @@
+{"kind":"enum","name":"PushEncryptionKeyName","extended_attributes":["Conditional=SERVICE_WORKER"],"values":["auth","p256dh"]}

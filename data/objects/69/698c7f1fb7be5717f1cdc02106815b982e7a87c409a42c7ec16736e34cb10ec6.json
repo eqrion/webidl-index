@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"LanguageModelToolSuccess","extended_attributes":[],"fields":[{"name":"callID","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"name","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"result","type_":"sequence<LanguageModelToolResultContent>","required":true,"extended_attributes":[]}]}

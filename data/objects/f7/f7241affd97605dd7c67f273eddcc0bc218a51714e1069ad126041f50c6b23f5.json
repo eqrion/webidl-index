@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AncestorStatus","extended_attributes":[],"values":["ancestor","not ancestor","unknown"]}

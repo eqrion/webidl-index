@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AllAcceptedCredentialsOptions","extended_attributes":[],"fields":[{"name":"allAcceptedCredentialIds","type_":"sequence<Base64URLString>","required":true,"extended_attributes":[]},{"name":"rpId","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"userId","type_":"Base64URLString","required":true,"extended_attributes":[]}]}

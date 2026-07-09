@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPUColorWriteMask","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"values":["all","alpha","blue","green","none","red"]}

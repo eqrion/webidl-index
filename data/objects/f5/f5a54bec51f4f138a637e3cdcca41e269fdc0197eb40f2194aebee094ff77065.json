@@ -1,0 +1,1 @@
+{"kind":"enum","name":"IDBCursorDirection","extended_attributes":[],"values":["next","nextunique","prev","prevunique"]}

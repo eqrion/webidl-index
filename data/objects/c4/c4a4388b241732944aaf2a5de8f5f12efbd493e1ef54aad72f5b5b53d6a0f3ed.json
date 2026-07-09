@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"WebAuthnAlgorithmID","extended_attributes":[],"aliased_type":"(boolean or DOMString)"}

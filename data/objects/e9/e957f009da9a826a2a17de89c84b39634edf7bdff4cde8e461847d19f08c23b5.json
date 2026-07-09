@@ -1,0 +1,1 @@
+{"kind":"enum","name":"XMLHttpRequestResponseType","extended_attributes":[],"values":["","arraybuffer","blob","document","json","moz-chunked-arraybuffer","text"]}

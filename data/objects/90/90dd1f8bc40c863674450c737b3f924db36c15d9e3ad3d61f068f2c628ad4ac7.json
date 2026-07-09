@@ -1,0 +1,1 @@
+{"kind":"enum","name":"CryptoKeyUsage","extended_attributes":[],"values":["decrypt","deriveBits","deriveKey","encrypt","sign","unwrapKey","verify","wrapKey"]}

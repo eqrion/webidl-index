@@ -1,0 +1,1 @@
+{"kind":"enum","name":"BackgroundFetchState","extended_attributes":[],"values":["failed","pending","succeeded"]}

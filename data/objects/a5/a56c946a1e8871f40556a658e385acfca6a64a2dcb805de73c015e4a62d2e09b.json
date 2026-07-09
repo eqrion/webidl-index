@@ -1,0 +1,1 @@
+{"kind":"interface","name":"PageRevealEvent","inherits":"Event","extended_attributes":["Exposed=Window","RuntimeEnabled=PageRevealEvent"],"members":[{"kind":"attribute","name":"viewTransition","type_":"ViewTransition?","arguments":[],"modifiers":["readonly"],"extended_attributes":["RuntimeEnabled=ViewTransitionOnNavigation"]}]}

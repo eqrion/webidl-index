@@ -1,0 +1,1 @@
+{"kind":"interface","name":"AnimationEffectTiming","inherits":"AnimationEffectTimingReadOnly","extended_attributes":["Func=\"nsDocument::IsWebAnimationsEnabled\""],"members":[{"kind":"attribute","name":"duration","type_":"(unrestricted double or DOMString)","arguments":[],"modifiers":["inherit"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUVertexAttribute","extended_attributes":["EnabledBySetting=WebGPU"],"fields":[{"name":"format","type_":"GPUVertexFormat","required":true,"extended_attributes":[]},{"name":"offset","type_":"GPUSize64","required":true,"extended_attributes":[]},{"name":"shaderLocation","type_":"GPUIndex32","required":true,"extended_attributes":[]}]}

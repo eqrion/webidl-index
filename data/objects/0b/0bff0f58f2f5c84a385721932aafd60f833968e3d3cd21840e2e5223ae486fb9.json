@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WifiWPSMethod","extended_attributes":[],"values":["cancel","pbc","pin"]}

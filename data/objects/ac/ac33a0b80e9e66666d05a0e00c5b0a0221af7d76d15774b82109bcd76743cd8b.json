@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WEBGL_debug_shaders","extended_attributes":["Exposed=(Window, Worker)","LegacyNoInterfaceObject"],"members":[{"kind":"operation","name":"getTranslatedShaderSource","type_":"DOMString","arguments":[{"name":"shader","type_":"WebGLShader","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

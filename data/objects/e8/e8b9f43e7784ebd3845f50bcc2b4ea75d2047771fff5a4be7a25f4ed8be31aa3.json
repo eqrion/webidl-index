@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaCapabilitiesDecodingInfo","inherits":"MediaCapabilitiesInfo","extended_attributes":[],"fields":[{"name":"keySystemAccess","type_":"MediaKeySystemAccess?","required":false,"default":"null","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ResourceProgressEvent","inherits":"ProgressEvent","extended_attributes":["LegacyNoInterfaceObject"],"members":[{"kind":"attribute","name":"url","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CanvasHighDynamicRangeOptions","extended_attributes":[],"fields":[{"name":"mode","type_":"CanvasHighDynamicRangeMode","required":false,"default":"\"default\"","extended_attributes":[]},{"name":"smpteSt2086Metadata","type_":"CanvasSmpteSt2086Metadata","required":false,"extended_attributes":[]}]}

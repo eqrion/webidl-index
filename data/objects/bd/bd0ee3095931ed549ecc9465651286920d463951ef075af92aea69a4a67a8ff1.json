@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CanvasFilters","extended_attributes":["Exposed=(Window, Worker)","NoInterfaceObject"],"members":[]}

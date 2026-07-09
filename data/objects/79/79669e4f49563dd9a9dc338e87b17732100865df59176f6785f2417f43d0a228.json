@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGLVertexArrayObject","inherits":"WebGLObject","extended_attributes":["Exposed=(Window, Worker)"],"members":[]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WebGPUStorageMode","extended_attributes":["Conditional=WEBGPU","EnabledAtRuntime=WebGPU"],"values":["managed","private","shared"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"FormControlRange","inherits":"AbstractRange","extended_attributes":["Exposed=Window","RuntimeEnabled=FormControlRange"],"members":[{"kind":"constructor","name":"","arguments":[],"modifiers":[],"extended_attributes":["CallWith=Document"]}]}

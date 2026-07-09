@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WGSLLanguageFeatures","extended_attributes":["Exposed=(Window, DedicatedWorker)","SecureContext"],"members":[{"kind":"setlike","name":"","type_":"setlike<DOMString>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

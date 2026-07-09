@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"Resource","extended_attributes":["JSGenerateToJSObject"],"fields":[{"name":"id","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"mimeType","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"url","type_":"DOMString","required":false,"extended_attributes":[]}]}

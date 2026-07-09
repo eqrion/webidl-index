@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Grid","extended_attributes":["ChromeOnly"],"members":[{"kind":"attribute","name":"cols","type_":"GridDimension","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"rows","type_":"GridDimension","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

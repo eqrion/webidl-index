@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HTMLPictureElement","inherits":"HTMLElement","extended_attributes":["Pref=\"dom.image.picture.enabled\""],"members":[]}

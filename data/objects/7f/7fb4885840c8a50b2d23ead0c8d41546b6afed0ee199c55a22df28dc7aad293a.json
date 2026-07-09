@@ -1,0 +1,1 @@
+{"kind":"interface","name":"EXT_depth_clamp","extended_attributes":["Exposed=(Window, Worker)","LegacyNoInterfaceObject"],"members":[{"kind":"const","name":"DEPTH_CLAMP_EXT","type_":"GLenum","arguments":[],"modifiers":[],"value":"0x864F","extended_attributes":[]}]}

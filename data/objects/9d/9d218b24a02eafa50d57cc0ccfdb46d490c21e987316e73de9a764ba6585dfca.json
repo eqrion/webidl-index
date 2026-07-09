@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ConvertCoordinateOptions","extended_attributes":[],"fields":[{"name":"fromBox","type_":"CSSBoxType","required":false,"default":"\"border\"","extended_attributes":[]},{"name":"toBox","type_":"CSSBoxType","required":false,"default":"\"border\"","extended_attributes":[]}]}

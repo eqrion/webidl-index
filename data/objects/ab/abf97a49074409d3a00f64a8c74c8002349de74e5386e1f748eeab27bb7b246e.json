@@ -1,0 +1,1 @@
+{"kind":"callback","name":"LifecycleGetCustomInterfaceCallback","extended_attributes":["MOZ_CAN_RUN_SCRIPT_BOUNDARY"],"return_type":"object?","arguments":[{"name":"iid","type_":"any","optional":false,"variadic":false,"extended_attributes":[]}]}

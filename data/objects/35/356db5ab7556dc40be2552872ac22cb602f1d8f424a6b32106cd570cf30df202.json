@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CommandEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"command","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"source","type_":"Element?","required":false,"default":"null","extended_attributes":[]}]}

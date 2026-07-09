@@ -1,0 +1,1 @@
+{"kind":"interface","name":"HighlightRegister","extended_attributes":["EnabledAtRuntime=HighlightAPI","Exposed=Window","ImplementationLacksVTable"],"members":[{"kind":"constructor","name":"","arguments":[],"modifiers":[],"extended_attributes":[]},{"kind":"maplike","name":"","type_":"maplike<DOMString, Highlight>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

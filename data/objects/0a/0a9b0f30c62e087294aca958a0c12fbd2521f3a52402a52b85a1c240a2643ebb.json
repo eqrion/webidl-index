@@ -1,0 +1,1 @@
+{"kind":"callback","name":"InstallTriggerCallback","extended_attributes":[],"return_type":"void","arguments":[{"name":"url","type_":"DOMString","optional":false,"variadic":false,"extended_attributes":[]},{"name":"status","type_":"short","optional":false,"variadic":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AutoplayPolicy","extended_attributes":[],"values":["allowed","allowed-muted","disallowed"]}

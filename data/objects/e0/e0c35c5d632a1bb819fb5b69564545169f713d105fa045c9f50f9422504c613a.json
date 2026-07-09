@@ -1,0 +1,1 @@
+{"kind":"interface","name":"OES_texture_half_float","extended_attributes":["Exposed=Window","NoInterfaceObject"],"members":[{"kind":"const","name":"HALF_FLOAT_OES","type_":"GLenum","arguments":[],"modifiers":[],"value":"0x8D61","extended_attributes":[]}]}

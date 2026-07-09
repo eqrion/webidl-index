@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCIceServerInternal","extended_attributes":[],"fields":[{"name":"credentialProvided","type_":"boolean","required":true,"extended_attributes":[]},{"name":"urls","type_":"sequence<DOMString>","required":false,"default":"[]","extended_attributes":[]},{"name":"userNameProvided","type_":"boolean","required":true,"extended_attributes":[]}]}

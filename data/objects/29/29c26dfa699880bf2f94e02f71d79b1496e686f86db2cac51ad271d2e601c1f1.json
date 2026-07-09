@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaSessionSeekToActionDetails","inherits":"MediaSessionActionDetails","extended_attributes":[],"fields":[{"name":"fastSeek","type_":"boolean","required":false,"extended_attributes":[]},{"name":"seekTime","type_":"double","required":true,"extended_attributes":[]}]}

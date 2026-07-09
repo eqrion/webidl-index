@@ -1,0 +1,1 @@
+{"kind":"enum","name":"MockNfcError","extended_attributes":["Conditional=WEB_AUTHN"],"values":["malicious-payload","no-connections","no-tags","success","wrong-tag-type"]}

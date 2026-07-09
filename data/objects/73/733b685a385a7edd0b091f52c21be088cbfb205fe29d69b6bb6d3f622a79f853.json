@@ -1,0 +1,1 @@
+{"kind":"callback","name":"EncodedVideoChunkOutputCallback","extended_attributes":[],"return_type":"undefined","arguments":[{"name":"chunk","type_":"EncodedVideoChunk","optional":false,"variadic":false,"extended_attributes":[]},{"name":"metadata","type_":"EncodedVideoChunkMetadata","optional":true,"variadic":false,"default":"{}","extended_attributes":[]}]}

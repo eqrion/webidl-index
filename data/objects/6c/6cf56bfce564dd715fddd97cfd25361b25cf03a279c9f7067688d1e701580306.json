@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MozXMLHttpRequestParameters","extended_attributes":[],"fields":[{"name":"mozAnon","type_":"boolean","required":false,"extended_attributes":[]},{"name":"mozSystem","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}

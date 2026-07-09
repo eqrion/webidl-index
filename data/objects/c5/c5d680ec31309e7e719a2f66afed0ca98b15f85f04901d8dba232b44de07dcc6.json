@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ShadowRealmGlobalScope","extended_attributes":["Exposed=ShadowRealm","Global=ShadowRealm","JSLegacyParent=JSShadowRealmGlobalScopeBase","LegacyNoInterfaceObject"],"members":[{"kind":"attribute","name":"self","type_":"ShadowRealmGlobalScope","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ApplePayValidateMerchantEvent","inherits":"Event","extended_attributes":["Conditional=APPLE_PAY","NoInterfaceObject"],"members":[{"kind":"attribute","name":"validationURL","type_":"DOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PushSubscriptionKeys","extended_attributes":[],"fields":[{"name":"auth","type_":"ByteString","required":false,"extended_attributes":[]},{"name":"p256dh","type_":"ByteString","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NetworkInterface","extended_attributes":[],"fields":[{"name":"id","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"type","type_":"long","required":false,"extended_attributes":[]}]}

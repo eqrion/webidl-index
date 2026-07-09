@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGMPathElement","inherits":"SVGElement","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"href","type_":"SVGAnimatedString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

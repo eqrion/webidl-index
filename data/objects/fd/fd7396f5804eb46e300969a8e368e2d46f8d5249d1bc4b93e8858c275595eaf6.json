@@ -1,0 +1,1 @@
+{"kind":"enum","name":"WifiWpaMethod","extended_attributes":[],"values":["PEAP","SIM","TLS","TTLS"]}

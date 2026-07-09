@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGStopElement","inherits":"SVGStyledElement","extended_attributes":["Conditional=SVG"],"members":[{"kind":"attribute","name":"offset","type_":"SVGAnimatedNumber","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

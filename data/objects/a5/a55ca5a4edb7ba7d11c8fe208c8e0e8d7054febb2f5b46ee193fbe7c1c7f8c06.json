@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGFEMergeNodeElement","inherits":"SVGElement","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"in1","type_":"SVGAnimatedString","arguments":[],"modifiers":["readonly"],"extended_attributes":["Constant"]}]}

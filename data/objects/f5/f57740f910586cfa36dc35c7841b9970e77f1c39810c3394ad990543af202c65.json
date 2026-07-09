@@ -1,0 +1,1 @@
+{"kind":"callback","name":"EventHandlerNonNull","extended_attributes":["TreatNonObjectAsNull"],"return_type":"any","arguments":[{"name":"args","type_":"any","optional":false,"variadic":true,"extended_attributes":[]}]}

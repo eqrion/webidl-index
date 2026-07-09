@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ContactField","extended_attributes":[],"fields":[{"name":"pref","type_":"boolean?","required":false,"extended_attributes":[]},{"name":"type","type_":"sequence<DOMString>?","required":false,"extended_attributes":[]},{"name":"value","type_":"DOMString?","required":false,"extended_attributes":[]}]}
