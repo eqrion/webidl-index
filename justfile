@@ -21,6 +21,11 @@ verify:
 export *args:
     cd indexer && cargo run --release -- export {{args}}
 
+# Convert an exported JSON snapshot into a canonical WIT file. E.g.
+# `just canonwit /tmp/snap.json -o /tmp/web.wit`.
+canonwit *args:
+    cargo run -p canonwit --release -- {{args}}
+
 # Run the frontend dev server.
 web:
     cd web && npm run dev
