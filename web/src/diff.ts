@@ -1,20 +1,45 @@
 import { fieldLine, headerLine, memberLine, type TokenLine } from './format'
 import { tokensToText, type Token } from './tokens'
-import type { Definition } from './types'
+import type { Argument, Definition, Field, Member } from './types'
+import { isStandardExtendedAttribute } from './webidlAttributes'
+
+// Renders the normalized model into tokenized WebIDL-ish lines. This is a
+// display convenience only -- it doesn't need to be a byte-perfect WebIDL
+// grammar, just readable and close enough that a WebIDL reader recognizes it
+// immediately.
+
+/** Every rendered line belongs to one of these buckets, so a diff can be
+ * filtered/summarized finer than whole-entry added/removed/changed (e.g.
+ * "extra members" vs "extra enum values"). `structural` (the closing brace)
+ * is deliberately excluded from `CATEGORIES` -- it always duplicates the
+ * `declaration` line's added/removed status for a wholly-added/removed
+ * entry, and counting it too would double-count those entries. */
+export type LineCategory = 'declaration' | 'member' | 'field' | 'value' | 'structural'
+
+export const CATEGORIES: readonly LineCategory[] = ['declaration', 'member', 'field', 'value']
+
+export const CATEGORY_LABELS: Record<LineCategory, string> = {
+  declaration: 'declarations',
+  member: 'members',
+  field: 'fields',
+  value: 'enum values',
+  structural: 'structural',
+}
 
 export interface DefLine {
   tokens: Token[]
   indent: number
+  category: LineCategory
 }
 
-const CLOSE: DefLine = { tokens: [{ text: '};', kind: 'punct' }], indent: 0 }
+const CLOSE: DefLine = { tokens: [{ text: '};', kind: 'punct' }], indent: 0, category: 'structural' }
 
-/** Expands a declaration into its own extended-attributes line (if any),
- * followed by its body line, both at the given indent. */
-function expand(line: TokenLine, indent: number): DefLine[] {
+/** Extended attributes render as their own `[Foo, Bar]` line ahead of the
+ * declaration they annotate, so `null` here means "no attrs line needed". */
+function expand(line: TokenLine, indent: number, category: LineCategory): DefLine[] {
   const lines: DefLine[] = []
-  if (line.attrs) lines.push({ tokens: line.attrs, indent })
-  lines.push({ tokens: line.body, indent })
+  if (line.attrs) lines.push({ tokens: line.attrs, indent, category })
+  lines.push({ tokens: line.body, indent, category })
   return lines
 }
 
@@ -31,18 +56,26 @@ export function definitionLines(def: Definition): DefLine[] {
     case 'interface':
     case 'callback_interface':
     case 'namespace':
-      return [...expand(headerLine(def), 0), ...def.members.flatMap((m) => expand(memberLine(m), 1)), CLOSE]
+      return [
+        ...expand(headerLine(def), 0, 'declaration'),
+        ...def.members.flatMap((m) => expand(memberLine(m), 1, 'member')),
+        CLOSE,
+      ]
     case 'dictionary':
-      return [...expand(headerLine(def), 0), ...def.fields.flatMap((f) => expand(fieldLine(f), 1)), CLOSE]
+      return [...expand(headerLine(def), 0, 'declaration'), ...def.fields.flatMap((f) => expand(fieldLine(f), 1, 'field')), CLOSE]
     case 'enum':
       return [
-        ...expand(headerLine(def), 0),
-        ...def.values.map((v) => ({ tokens: [{ text: `"${v}"`, kind: 'string' as const }, { text: ';', kind: 'punct' as const }], indent: 1 })),
+        ...expand(headerLine(def), 0, 'declaration'),
+        ...def.values.map((v) => ({
+          tokens: [{ text: `"${v}"`, kind: 'string' as const }, { text: ';', kind: 'punct' as const }],
+          indent: 1,
+          category: 'value' as const,
+        })),
         CLOSE,
       ]
     case 'typedef':
     case 'callback':
-      return expand(headerLine(def), 0)
+      return expand(headerLine(def), 0, 'declaration')
   }
 }
 
@@ -50,22 +83,95 @@ export interface DiffLine {
   tokens: Token[]
   indent: number
   status: 'added' | 'removed' | 'unchanged'
+  category: LineCategory
 }
 
+/** Aligns the two line lists by their longest common subsequence (matching
+ * lines by rendered text), so the result reads in declaration order --
+ * header, then members/fields/values, then the closing brace -- instead of
+ * an arbitrary alphabetical shuffle of unrelated lines. */
 export function diffLines(aLines: DefLine[], bLines: DefLine[]): DiffLine[] {
-  const aByText = new Map(aLines.map((l) => [tokensToText(l.tokens), l]))
-  const bByText = new Map(bLines.map((l) => [tokensToText(l.tokens), l]))
-  const union = Array.from(new Set([...aByText.keys(), ...bByText.keys()])).sort()
-  return union.map((text) => {
-    const inA = aByText.has(text)
-    const inB = bByText.has(text)
-    const line = (inA ? aByText.get(text) : bByText.get(text))!
-    return { tokens: line.tokens, indent: line.indent, status: inA && inB ? 'unchanged' : inA ? 'removed' : 'added' }
-  })
+  const aText = aLines.map((l) => tokensToText(l.tokens))
+  const bText = bLines.map((l) => tokensToText(l.tokens))
+  const n = aLines.length
+  const m = bLines.length
+
+  const lcs: number[][] = Array.from({ length: n + 1 }, () => new Array<number>(m + 1).fill(0))
+  for (let i = n - 1; i >= 0; i--) {
+    for (let j = m - 1; j >= 0; j--) {
+      lcs[i][j] = aText[i] === bText[j] ? lcs[i + 1][j + 1] + 1 : Math.max(lcs[i + 1][j], lcs[i][j + 1])
+    }
+  }
+
+  const result: DiffLine[] = []
+  let i = 0
+  let j = 0
+  while (i < n && j < m) {
+    if (aText[i] === bText[j]) {
+      result.push({ ...aLines[i], status: 'unchanged' })
+      i++
+      j++
+    } else if (lcs[i + 1][j] >= lcs[i][j + 1]) {
+      result.push({ ...aLines[i], status: 'removed' })
+      i++
+    } else {
+      result.push({ ...bLines[j], status: 'added' })
+      j++
+    }
+  }
+  while (i < n) result.push({ ...aLines[i++], status: 'removed' })
+  while (j < m) result.push({ ...bLines[j++], status: 'added' })
+  return result
 }
 
-export function diffDefinitions(a: Definition, b: Definition): DiffLine[] {
-  return diffLines(definitionLines(a), definitionLines(b))
+function filterAttrs(attrs: string[]): string[] {
+  return attrs.filter(isStandardExtendedAttribute)
+}
+
+function stripArg(a: Argument): Argument {
+  return { ...a, extended_attributes: filterAttrs(a.extended_attributes) }
+}
+
+function stripMember(m: Member): Member {
+  return { ...m, extended_attributes: filterAttrs(m.extended_attributes), arguments: m.arguments.map(stripArg) }
+}
+
+function stripField(f: Field): Field {
+  return { ...f, extended_attributes: filterAttrs(f.extended_attributes) }
+}
+
+/** Drops engine-internal extended attributes (Gecko's `Pref`/`ChromeOnly`,
+ * Blink's `RuntimeEnabled`/`MeasureAs`, etc.) before diffing, so comparing
+ * an engine against webref -- or against another engine -- isn't dominated
+ * by annotations that aren't part of the actual API surface. Only used for
+ * diffing; the plain Browse/Intersect views still show every attribute. */
+function stripEngineAttributes(def: Definition): Definition {
+  const extended_attributes = filterAttrs(def.extended_attributes)
+  switch (def.kind) {
+    case 'interface':
+    case 'callback_interface':
+    case 'namespace':
+      return { ...def, extended_attributes, members: def.members.map(stripMember) }
+    case 'dictionary':
+      return { ...def, extended_attributes, fields: def.fields.map(stripField) }
+    case 'enum':
+    case 'typedef':
+      return { ...def, extended_attributes }
+    case 'callback':
+      return { ...def, extended_attributes, arguments: def.arguments.map(stripArg) }
+  }
+}
+
+function diffableLines(def: Definition | null): DefLine[] {
+  return def ? definitionLines(stripEngineAttributes(def)) : []
+}
+
+/** Diffs two definitions, tolerating either side being absent (the entry
+ * exists in only one snapshot). The absent side contributes no lines, so
+ * every line from the present side comes out wholly added/removed -- the
+ * same code path as a partial change, just total. */
+export function diffDefinitions(a: Definition | null, b: Definition | null): DiffLine[] {
+  return diffLines(diffableLines(a), diffableLines(b))
 }
 
 export interface EntryDiff {
@@ -85,4 +191,53 @@ export function diffEntries(a: Record<string, string>, b: Record<string, string>
     else if (ha !== hb) result.push({ name, status: 'changed' })
   }
   return result.sort((x, y) => x.name.localeCompare(y.name))
+}
+
+export interface CategoryCounts {
+  added: number
+  removed: number
+}
+
+export type CategoryStats = Record<LineCategory, CategoryCounts>
+
+function emptyCategoryStats(): CategoryStats {
+  return {
+    declaration: { added: 0, removed: 0 },
+    member: { added: 0, removed: 0 },
+    field: { added: 0, removed: 0 },
+    value: { added: 0, removed: 0 },
+    structural: { added: 0, removed: 0 },
+  }
+}
+
+/** Line-level category breakdown of one entry's diff (independent of its
+ * whole-entry added/removed/changed status), so the compare view can filter
+ * and summarize finer than "this whole interface is extra". Counting doesn't
+ * need declaration order, so this is a plain set difference rather than
+ * `diffLines`' O(n*m) alignment -- it runs once per differing entry across
+ * an entire compare, which can be thousands of definitions. */
+export function categorizeDefinitions(a: Definition | null, b: Definition | null): CategoryStats {
+  const aLines = diffableLines(a)
+  const bLines = diffableLines(b)
+  const aByText = new Map(aLines.map((l) => [tokensToText(l.tokens), l]))
+  const bByText = new Map(bLines.map((l) => [tokensToText(l.tokens), l]))
+  const stats = emptyCategoryStats()
+  for (const [text, line] of aByText) {
+    if (!bByText.has(text)) stats[line.category].removed++
+  }
+  for (const [text, line] of bByText) {
+    if (!aByText.has(text)) stats[line.category].added++
+  }
+  return stats
+}
+
+export function mergeCategoryStats(list: CategoryStats[]): CategoryStats {
+  const total = emptyCategoryStats()
+  for (const s of list) {
+    for (const cat of CATEGORIES) {
+      total[cat].added += s[cat].added
+      total[cat].removed += s[cat].removed
+    }
+  }
+  return total
 }

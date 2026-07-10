@@ -42,7 +42,7 @@ export function App() {
             class={view.mode === 'diff' ? 'active' : ''}
             onClick={() => navigate({ mode: 'diff', engineA: '', versionA: '', engineB: '', versionB: '' })}
           >
-            Diff
+            Compare
           </button>
         </nav>
       </header>

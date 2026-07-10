@@ -143,6 +143,23 @@ main {
   align-items: center;
   gap: 12px;
   flex-shrink: 0;
+  flex-wrap: wrap;
+}
+
+.quick-compare {
+  font: inherit;
+  font-size: 12px;
+  padding: 4px 6px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--text-h);
+}
+
+.toolbar-divider {
+  width: 1px;
+  height: 20px;
+  background: var(--border);
 }
 
 .toolbar .vs {
@@ -248,11 +265,110 @@ main {
 }
 
 .definition-list .summary {
-  padding: 6px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 8px 10px;
   font-size: 12px;
   color: var(--text);
   background: var(--bg-alt);
   border-bottom: 1px solid var(--border);
+}
+
+.summary-counts {
+  opacity: 0.8;
+}
+
+.summary-hint {
+  cursor: help;
+  text-decoration: underline dotted;
+  text-decoration-color: currentColor;
+}
+
+.stats-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 11px;
+}
+
+.stats-table th,
+.stats-table td {
+  padding: 1px 0;
+  text-align: right;
+}
+
+.stats-table th:first-child,
+.stats-table td:first-child {
+  text-align: left;
+}
+
+.stats-table thead th {
+  padding-bottom: 4px;
+  font-weight: 400;
+}
+
+.stats-table thead button,
+.stats-row-label button {
+  font: inherit;
+  font-size: 11px;
+  border: none;
+  background: none;
+  color: var(--text);
+  opacity: 0.7;
+  cursor: pointer;
+  padding: 0;
+  text-align: inherit;
+}
+
+.stats-table thead button:hover,
+.stats-row-label button:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.stats-row-label button {
+  color: var(--text-h);
+}
+
+.stats-reset {
+  font: inherit;
+  font-size: 11px;
+  border: none;
+  background: none;
+  color: var(--accent);
+  cursor: pointer;
+  padding: 0;
+}
+
+.stats-reset:disabled {
+  color: var(--text);
+  opacity: 0.4;
+  cursor: default;
+}
+
+.stat-toggle {
+  font: inherit;
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 12px;
+  min-width: 42px;
+  padding: 1px 8px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background: none;
+  color: var(--text);
+  opacity: 0.4;
+  cursor: pointer;
+}
+
+.stat-toggle.active {
+  opacity: 1;
+  color: var(--text-h);
+  border-color: var(--border);
+  background: var(--bg);
+}
+
+.stat-toggle:disabled {
+  cursor: default;
 }
 
 .definition-list ul {
