@@ -126,6 +126,16 @@ main {
 .toolbar .vs {
   color: var(--text);
   opacity: 0.6;
+  font-size: 16px;
+}
+
+.diff-side-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--text);
+  opacity: 0.6;
 }
 
 .picker select {

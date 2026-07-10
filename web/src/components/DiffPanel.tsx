@@ -17,6 +17,13 @@ function marker(status: EntryDiff['status']): string {
   return status === 'added' ? '+' : status === 'removed' ? '-' : '~'
 }
 
+// diffEntries/diffDefinitions are computed as (A, B): `added` means present
+// only in B, `removed` means present only in A. These describe that
+// direction in the UI so +/- don't read as an unqualified "good"/"bad".
+function statusLabel(status: EntryDiff['status']): string {
+  return status === 'added' ? 'Only in B' : status === 'removed' ? 'Only in A' : 'Changed'
+}
+
 export function DiffPanel({ manifest, view, navigate }: Props) {
   const [snapA, setSnapA] = useState<Snapshot | null>(null)
   const [snapB, setSnapB] = useState<Snapshot | null>(null)
@@ -59,13 +66,21 @@ export function DiffPanel({ manifest, view, navigate }: Props) {
   return (
     <div class="diff-panel">
       <div class="toolbar">
+        <span class="diff-side-label" title="The diff's base: markers show changes relative to this side">
+          A
+        </span>
         <VersionPicker
           manifest={manifest}
           engine={view.engineA}
           version={view.versionA}
           onChange={(engineA, versionA) => navigate({ ...view, engineA, versionA })}
         />
-        <span class="vs">vs</span>
+        <span class="vs" title="Diff direction: A is the base, B is compared against it">
+          →
+        </span>
+        <span class="diff-side-label" title="Compared against A">
+          B
+        </span>
         <VersionPicker
           manifest={manifest}
           engine={view.engineB}
@@ -78,8 +93,8 @@ export function DiffPanel({ manifest, view, navigate }: Props) {
         <div class="definition-list">
           {entryDiff.length > 0 && (
             <div class="summary">
-              {entryDiff.filter((e) => e.status === 'added').length} added ·{' '}
-              {entryDiff.filter((e) => e.status === 'removed').length} removed ·{' '}
+              {entryDiff.filter((e) => e.status === 'added').length} only in B ·{' '}
+              {entryDiff.filter((e) => e.status === 'removed').length} only in A ·{' '}
               {entryDiff.filter((e) => e.status === 'changed').length} changed
             </div>
           )}
@@ -89,6 +104,7 @@ export function DiffPanel({ manifest, view, navigate }: Props) {
                 key={e.name}
                 class={`diff-entry diff-${e.status} ${e.name === view.name ? 'selected' : ''}`}
                 onClick={() => navigate({ ...view, name: e.name })}
+                title={statusLabel(e.status)}
               >
                 <span class="diff-marker">{marker(e.status)}</span>
                 {e.name}
