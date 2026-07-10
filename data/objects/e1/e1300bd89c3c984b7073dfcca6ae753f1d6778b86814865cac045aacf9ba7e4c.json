@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PointerTimelineOptions","extended_attributes":[],"fields":[{"name":"axis","type_":"PointerAxis","required":false,"default":"\"block\"","extended_attributes":[]},{"name":"source","type_":"Element?","required":false,"extended_attributes":[]}]}

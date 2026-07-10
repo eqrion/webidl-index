@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MockCaptureDeviceConfiguration","extended_attributes":[],"fields":[{"name":"deviceId","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"groupId","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"label","type_":"DOMString","required":false,"extended_attributes":[]}]}

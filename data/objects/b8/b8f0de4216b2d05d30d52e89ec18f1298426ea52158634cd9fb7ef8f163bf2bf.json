@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"IdentityProviderWellKnown","extended_attributes":[],"fields":[{"name":"accounts_endpoint","type_":"USVString","required":false,"extended_attributes":[]},{"name":"login_url","type_":"USVString","required":false,"extended_attributes":[]},{"name":"provider_urls","type_":"sequence<USVString>","required":false,"extended_attributes":[]}]}

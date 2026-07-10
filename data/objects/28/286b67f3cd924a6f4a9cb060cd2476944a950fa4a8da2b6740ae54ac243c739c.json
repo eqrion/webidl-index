@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"URLPatternComponentResult","extended_attributes":[],"fields":[{"name":"groups","type_":"record<USVString, (USVString or undefined)>","required":false,"extended_attributes":[]},{"name":"input","type_":"USVString","required":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"CryptoKeyID","extended_attributes":[],"aliased_type":"(SmallCryptoKeyID or bigint)"}

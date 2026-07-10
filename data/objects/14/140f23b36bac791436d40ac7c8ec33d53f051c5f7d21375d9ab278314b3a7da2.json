@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RunningStatus","extended_attributes":[],"values":["not-running","running"]}

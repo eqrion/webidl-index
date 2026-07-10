@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"TagType","extended_attributes":[],"fields":[{"name":"parameters","type_":"sequence<ValueType>","required":true,"extended_attributes":[]}]}

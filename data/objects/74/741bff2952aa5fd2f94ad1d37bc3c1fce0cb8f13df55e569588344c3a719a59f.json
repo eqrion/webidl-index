@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCRtpSFrameEncryptorOptions","inherits":"SFrameTransformOptions","extended_attributes":[],"fields":[{"name":"type","type_":"SFrameType","required":false,"default":"\"per-frame\"","extended_attributes":[]}]}

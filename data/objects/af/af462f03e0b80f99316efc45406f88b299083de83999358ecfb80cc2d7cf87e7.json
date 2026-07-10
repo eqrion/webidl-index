@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RsaHashedKeyAlgorithm","inherits":"RsaKeyAlgorithm","extended_attributes":[],"fields":[{"name":"hash","type_":"KeyAlgorithm","required":true,"extended_attributes":[]}]}

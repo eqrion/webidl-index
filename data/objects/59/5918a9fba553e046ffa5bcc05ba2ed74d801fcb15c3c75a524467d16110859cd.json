@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MediaCapabilitiesEncodingInfo","inherits":"MediaCapabilitiesInfo","extended_attributes":[],"fields":[{"name":"configuration","type_":"MediaEncodingConfiguration","required":true,"extended_attributes":[]}]}

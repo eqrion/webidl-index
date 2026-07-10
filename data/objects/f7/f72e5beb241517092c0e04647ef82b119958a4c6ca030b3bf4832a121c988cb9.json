@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"KmacParams","inherits":"Algorithm","extended_attributes":[],"fields":[{"name":"customization","type_":"BufferSource","required":false,"extended_attributes":[]},{"name":"outputLength","type_":"unsigned long","required":true,"extended_attributes":["EnforceRange"]}]}

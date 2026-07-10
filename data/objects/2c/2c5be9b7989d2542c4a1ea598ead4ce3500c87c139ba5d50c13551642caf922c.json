@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ClipboardChangeEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"changeId","type_":"bigint","required":false,"default":"0","extended_attributes":[]},{"name":"types","type_":"sequence<DOMString>","required":false,"default":"[]","extended_attributes":[]}]}

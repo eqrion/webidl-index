@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AutofillEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"allowRefill","type_":"boolean","required":false,"default":"true","extended_attributes":[]},{"name":"autofillValues","type_":"sequence<AutofillValueEntry>","required":false,"default":"[]","extended_attributes":[]}]}

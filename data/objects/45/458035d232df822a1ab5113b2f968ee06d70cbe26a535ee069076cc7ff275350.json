@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"USBBlocklistEntry","extended_attributes":[],"fields":[{"name":"bcdDevice","type_":"unsigned short","required":true,"extended_attributes":[]},{"name":"idProduct","type_":"unsigned short","required":true,"extended_attributes":[]},{"name":"idVendor","type_":"unsigned short","required":true,"extended_attributes":[]}]}

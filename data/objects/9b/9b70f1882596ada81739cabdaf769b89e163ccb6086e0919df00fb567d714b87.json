@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"UALowEntropyJSON","extended_attributes":[],"fields":[{"name":"brands","type_":"sequence<NavigatorUABrandVersion>","required":false,"extended_attributes":[]},{"name":"mobile","type_":"boolean","required":false,"extended_attributes":[]},{"name":"platform","type_":"DOMString","required":false,"extended_attributes":[]}]}

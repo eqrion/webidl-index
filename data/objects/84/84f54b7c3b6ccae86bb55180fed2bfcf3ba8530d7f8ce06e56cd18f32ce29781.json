@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSFunctionDescriptors","inherits":"CSSStyleDeclaration","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"result","type_":"[LegacyNullToEmptyString] CSSOMString","arguments":[],"modifiers":[],"extended_attributes":[]}]}

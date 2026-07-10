@@ -1,0 +1,1 @@
+{"kind":"interface","name":"WebGLTimerQueryEXT","inherits":"WebGLObject","extended_attributes":["Exposed=(Window, Worker)","LegacyNoInterfaceObject"],"members":[]}

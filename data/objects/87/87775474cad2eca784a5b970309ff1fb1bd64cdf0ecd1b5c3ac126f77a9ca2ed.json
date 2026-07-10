@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"LayoutOptions","extended_attributes":[],"fields":[{"name":"childDisplay","type_":"ChildDisplayType","required":false,"default":"\"block\"","extended_attributes":[]},{"name":"sizing","type_":"LayoutSizingMode","required":false,"default":"\"block-like\"","extended_attributes":[]}]}

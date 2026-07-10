@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PresentationConnectionCloseEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"message","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]},{"name":"reason","type_":"PresentationConnectionCloseReason","required":true,"extended_attributes":[]}]}

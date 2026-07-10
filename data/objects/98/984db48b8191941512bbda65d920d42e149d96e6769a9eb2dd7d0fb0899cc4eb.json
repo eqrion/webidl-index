@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SFrameTransformOptions","extended_attributes":[],"fields":[{"name":"cipherSuite","type_":"SFrameCipherSuite","required":true,"extended_attributes":[]}]}

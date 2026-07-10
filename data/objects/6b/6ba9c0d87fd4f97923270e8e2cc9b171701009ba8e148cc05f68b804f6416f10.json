@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebTransportErrorOptions","extended_attributes":[],"fields":[{"name":"source","type_":"WebTransportErrorSource","required":false,"default":"\"stream\"","extended_attributes":[]},{"name":"streamErrorCode","type_":"unsigned long?","required":false,"default":"null","extended_attributes":["Clamp"]}]}

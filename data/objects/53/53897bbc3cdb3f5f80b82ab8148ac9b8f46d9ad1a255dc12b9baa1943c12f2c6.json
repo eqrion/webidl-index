@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PermissionSetParameters","extended_attributes":[],"fields":[{"name":"descriptor","type_":"object","required":true,"extended_attributes":[]},{"name":"state","type_":"PermissionState","required":true,"extended_attributes":[]}]}

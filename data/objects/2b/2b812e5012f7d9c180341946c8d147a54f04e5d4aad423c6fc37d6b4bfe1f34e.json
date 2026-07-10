@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ChildBreakToken","extended_attributes":["Exposed=LayoutWorklet"],"members":[{"kind":"attribute","name":"breakType","type_":"BreakType","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"child","type_":"LayoutChild","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

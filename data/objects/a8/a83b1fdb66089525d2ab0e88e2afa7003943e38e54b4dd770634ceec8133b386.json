@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSNamespaceRule","inherits":"CSSRule","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"namespaceURI","type_":"CSSOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"prefix","type_":"CSSOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

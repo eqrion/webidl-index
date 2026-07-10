@@ -1,0 +1,1 @@
+{"kind":"enum","name":"XRLayerQuality","extended_attributes":[],"values":["default","graphics-optimized","text-optimized"]}

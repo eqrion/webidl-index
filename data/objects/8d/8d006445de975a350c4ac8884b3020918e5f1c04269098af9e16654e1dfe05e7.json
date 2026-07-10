@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ConstrainULongRange","inherits":"ULongRange","extended_attributes":[],"fields":[{"name":"exact","type_":"unsigned long","required":false,"extended_attributes":["Clamp"]},{"name":"ideal","type_":"unsigned long","required":false,"extended_attributes":["Clamp"]}]}

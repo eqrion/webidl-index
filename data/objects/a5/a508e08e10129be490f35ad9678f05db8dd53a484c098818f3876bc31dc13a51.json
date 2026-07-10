@@ -1,0 +1,1 @@
+{"kind":"enum","name":"BreakType","extended_attributes":[],"values":["column","line","none","page","region"]}

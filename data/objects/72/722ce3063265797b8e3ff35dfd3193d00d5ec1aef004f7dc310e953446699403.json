@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"ArrayBufferView","extended_attributes":[],"aliased_type":"(Int8Array or Int16Array or Int32Array or Uint8Array or Uint16Array or Uint32Array or Uint8ClampedArray or BigInt64Array or BigUint64Array or Float16Array or Float32Array or Float64Array or DataView)"}

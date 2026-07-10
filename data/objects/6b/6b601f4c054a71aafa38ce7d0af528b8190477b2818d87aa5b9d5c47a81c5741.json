@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"EcdsaParams","inherits":"Algorithm","extended_attributes":[],"fields":[{"name":"hash","type_":"HashAlgorithmIdentifier","required":true,"extended_attributes":[]}]}

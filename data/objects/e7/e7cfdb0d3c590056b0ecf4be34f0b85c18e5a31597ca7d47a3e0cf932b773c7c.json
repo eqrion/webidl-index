@@ -1,0 +1,1 @@
+{"kind":"interface","name":"MediaStreamTrackHandle","extended_attributes":["Exposed=(Window, DedicatedWorker)","Transferable"],"members":[{"kind":"constructor","name":"","arguments":[{"name":"track","type_":"MediaStreamTrack","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

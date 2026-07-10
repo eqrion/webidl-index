@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRCamera","extended_attributes":["Exposed=Window","SecureContext"],"members":[{"kind":"attribute","name":"height","type_":"unsigned long","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"width","type_":"unsigned long","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

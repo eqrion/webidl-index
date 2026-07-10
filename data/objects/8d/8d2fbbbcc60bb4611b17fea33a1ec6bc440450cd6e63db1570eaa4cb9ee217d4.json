@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ClientCapability","extended_attributes":[],"values":["conditionalCreate","conditionalGet","hybridTransport","passkeyPlatformAuthenticator","relatedOrigins","signalAllAcceptedCredentials","signalCurrentUserDetails","signalUnknownCredential","userVerifyingPlatformAuthenticator"]}

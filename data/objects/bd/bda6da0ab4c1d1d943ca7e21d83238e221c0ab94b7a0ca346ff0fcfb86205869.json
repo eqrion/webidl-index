@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CreateMonitor","inherits":"EventTarget","extended_attributes":["Exposed=Window","SecureContext"],"members":[{"kind":"attribute","name":"ondownloadprogress","type_":"EventHandler","arguments":[],"modifiers":[],"extended_attributes":[]}]}

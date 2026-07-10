@@ -1,0 +1,1 @@
+{"kind":"callback","name":"Visitor","extended_attributes":[],"return_type":"undefined","arguments":[{"name":"value","type_":"any","optional":false,"variadic":false,"extended_attributes":[]},{"name":"index","type_":"unsigned long long","optional":false,"variadic":false,"extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"callback","name":"LanguageModelToolFunction","extended_attributes":[],"return_type":"Promise<DOMString>","arguments":[{"name":"arguments","type_":"any","optional":false,"variadic":true,"extended_attributes":[]}]}

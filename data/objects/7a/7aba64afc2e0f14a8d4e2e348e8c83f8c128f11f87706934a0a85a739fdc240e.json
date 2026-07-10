@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ValueType","extended_attributes":[],"values":["anyfunc","externref","f32","f64","i32","i64","v128"]}

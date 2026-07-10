@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CustomStateSet","extended_attributes":["Exposed=Window"],"members":[{"kind":"setlike","name":"","type_":"setlike<DOMString>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

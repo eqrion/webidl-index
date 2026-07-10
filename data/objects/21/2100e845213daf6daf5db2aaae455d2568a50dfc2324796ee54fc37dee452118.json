@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"ImageDataArray","extended_attributes":[],"aliased_type":"(Uint8ClampedArray or Float16Array)"}

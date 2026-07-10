@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"WebTransportSendStreamStats","extended_attributes":[],"fields":[{"name":"bytesAcknowledged","type_":"unsigned long long","required":false,"extended_attributes":[]},{"name":"bytesSent","type_":"unsigned long long","required":false,"extended_attributes":[]},{"name":"bytesWritten","type_":"unsigned long long","required":false,"extended_attributes":[]}]}

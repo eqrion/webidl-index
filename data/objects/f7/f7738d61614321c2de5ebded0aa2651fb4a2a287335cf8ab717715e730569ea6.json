@@ -1,0 +1,1 @@
+{"kind":"interface","name":"XRBoundedReferenceSpace","inherits":"XRReferenceSpace","extended_attributes":["Exposed=Window","SecureContext"],"members":[{"kind":"attribute","name":"boundsGeometry","type_":"FrozenArray<DOMPointReadOnly>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

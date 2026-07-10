@@ -1,0 +1,1 @@
+{"kind":"interface","name":"LaunchQueue","extended_attributes":["Exposed=Window"],"members":[{"kind":"operation","name":"setConsumer","type_":"undefined","arguments":[{"name":"consumer","type_":"LaunchConsumer","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

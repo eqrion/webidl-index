@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"USBPermissionStorage","extended_attributes":[],"fields":[{"name":"allowedDevices","type_":"sequence<AllowedUSBDevice>","required":false,"default":"[]","extended_attributes":[]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MemoryBreakdownEntry","extended_attributes":[],"fields":[{"name":"attribution","type_":"sequence<MemoryAttribution>","required":false,"extended_attributes":[]},{"name":"bytes","type_":"unsigned long long","required":false,"extended_attributes":[]},{"name":"types","type_":"sequence<DOMString>","required":false,"extended_attributes":[]}]}

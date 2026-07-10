@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MIDIOptions","extended_attributes":[],"fields":[{"name":"software","type_":"boolean","required":false,"extended_attributes":[]},{"name":"sysex","type_":"boolean","required":false,"extended_attributes":[]}]}

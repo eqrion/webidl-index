@@ -1,0 +1,1 @@
+{"kind":"interface","name":"KHR_parallel_shader_compile","extended_attributes":["Exposed=(Window, Worker)","LegacyNoInterfaceObject"],"members":[{"kind":"const","name":"COMPLETION_STATUS_KHR","type_":"GLenum","arguments":[],"modifiers":[],"value":"0x91B1","extended_attributes":[]}]}

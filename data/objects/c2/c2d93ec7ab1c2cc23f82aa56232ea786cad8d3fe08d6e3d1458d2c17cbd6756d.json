@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SpatialNavigationSearchOptions","extended_attributes":[],"fields":[{"name":"candidates","type_":"sequence<Node>?","required":false,"extended_attributes":[]},{"name":"container","type_":"Node?","required":false,"extended_attributes":[]}]}

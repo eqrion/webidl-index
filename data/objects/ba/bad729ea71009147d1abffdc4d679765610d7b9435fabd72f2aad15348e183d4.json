@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCIdentityProviderGlobalScope","inherits":"WorkerGlobalScope","extended_attributes":["Exposed=RTCIdentityProvider","Global=(Worker, RTCIdentityProvider)"],"members":[{"kind":"attribute","name":"rtcIdentityProvider","type_":"RTCIdentityProviderRegistrar","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

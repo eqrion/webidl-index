@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ScriptingPolicyViolationType","extended_attributes":[],"values":["eval","externalScript","inlineEventHandler","inlineScript"]}

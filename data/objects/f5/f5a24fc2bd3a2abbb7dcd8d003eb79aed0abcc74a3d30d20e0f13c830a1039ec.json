@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLHardSigmoidOptions","inherits":"MLOperatorOptions","extended_attributes":[],"fields":[{"name":"alpha","type_":"double","required":false,"default":"0.2","extended_attributes":[]},{"name":"beta","type_":"double","required":false,"default":"0.5","extended_attributes":[]}]}

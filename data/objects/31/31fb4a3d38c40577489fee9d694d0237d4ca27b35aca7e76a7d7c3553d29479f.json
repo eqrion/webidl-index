@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CollectedClientPaymentData","inherits":"CollectedClientData","extended_attributes":[],"fields":[{"name":"payment","type_":"(CollectedClientAdditionalPaymentData or CollectedClientAdditionalPaymentRegistrationData)","required":true,"extended_attributes":[]}]}

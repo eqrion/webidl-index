@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AeadParams","inherits":"Algorithm","extended_attributes":[],"fields":[{"name":"additionalData","type_":"BufferSource","required":false,"extended_attributes":[]},{"name":"iv","type_":"BufferSource","required":true,"extended_attributes":[]},{"name":"tagLength","type_":"octet","required":false,"extended_attributes":["EnforceRange"]}]}

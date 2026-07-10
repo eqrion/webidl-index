@@ -1,0 +1,1 @@
+{"kind":"interface","name":"BluetoothLEScanPermissionResult","inherits":"PermissionStatus","extended_attributes":["Exposed=Window","SecureContext"],"members":[{"kind":"attribute","name":"scans","type_":"FrozenArray<BluetoothLEScan>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

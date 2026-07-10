@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MemoryAttribution","extended_attributes":[],"fields":[{"name":"container","type_":"MemoryAttributionContainer","required":false,"extended_attributes":[]},{"name":"scope","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"url","type_":"USVString","required":false,"extended_attributes":[]}]}

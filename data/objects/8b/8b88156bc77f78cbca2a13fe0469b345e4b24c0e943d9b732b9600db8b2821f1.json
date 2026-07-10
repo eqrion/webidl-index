@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MemoryDescriptor","extended_attributes":[],"fields":[{"name":"address","type_":"AddressType","required":false,"extended_attributes":[]},{"name":"initial","type_":"AddressValue","required":true,"extended_attributes":[]},{"name":"maximum","type_":"AddressValue","required":false,"extended_attributes":[]}]}

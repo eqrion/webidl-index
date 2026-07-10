@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ExecutionWorld","extended_attributes":[],"values":["ISOLATED","MAIN"]}

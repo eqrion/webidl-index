@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NavigationEventInit","inherits":"UIEventInit","extended_attributes":[],"fields":[{"name":"dir","type_":"SpatialNavigationDirection","required":false,"extended_attributes":[]},{"name":"relatedTarget","type_":"EventTarget?","required":false,"default":"null","extended_attributes":[]}]}

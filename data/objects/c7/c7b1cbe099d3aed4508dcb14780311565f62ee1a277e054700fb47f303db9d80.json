@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"HMACGetSecretInput","extended_attributes":[],"fields":[{"name":"salt1","type_":"ArrayBuffer","required":true,"extended_attributes":[]},{"name":"salt2","type_":"ArrayBuffer","required":false,"extended_attributes":[]}]}

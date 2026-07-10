@@ -1,0 +1,1 @@
+{"kind":"interface","name":"BreakToken","extended_attributes":["Exposed=LayoutWorklet"],"members":[{"kind":"attribute","name":"childBreakTokens","type_":"FrozenArray<ChildBreakToken>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"data","type_":"any","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

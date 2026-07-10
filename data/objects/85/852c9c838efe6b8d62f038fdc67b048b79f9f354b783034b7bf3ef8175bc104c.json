@@ -1,0 +1,1 @@
+{"kind":"interface","name":"External","extended_attributes":["Exposed=Window"],"members":[{"kind":"operation","name":"AddSearchProvider","type_":"undefined","arguments":[],"modifiers":[],"extended_attributes":[]},{"kind":"operation","name":"IsSearchProviderInstalled","type_":"undefined","arguments":[],"modifiers":[],"extended_attributes":[]}]}

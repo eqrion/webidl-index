@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ImageDataSettings","extended_attributes":[],"fields":[{"name":"colorSpace","type_":"PredefinedColorSpace","required":false,"extended_attributes":[]},{"name":"pixelFormat","type_":"ImageDataPixelFormat","required":false,"default":"\"rgba-unorm8\"","extended_attributes":[]}]}

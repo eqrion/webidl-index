@@ -1,0 +1,1 @@
+{"kind":"interface","name":"NamedFlowMap","extended_attributes":["Exposed=Window"],"members":[{"kind":"maplike","name":"","type_":"maplike<CSSOMString, NamedFlow>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

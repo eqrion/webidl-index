@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"PushSubscriptionJSON","extended_attributes":[],"fields":[{"name":"endpoint","type_":"USVString","required":false,"extended_attributes":[]},{"name":"expirationTime","type_":"EpochTimeStamp?","required":false,"default":"null","extended_attributes":[]},{"name":"keys","type_":"record<DOMString, USVString>","required":false,"extended_attributes":[]}]}

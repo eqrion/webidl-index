@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ModuleExportDescriptor","extended_attributes":[],"fields":[{"name":"kind","type_":"ImportExportKind","required":true,"extended_attributes":[]},{"name":"name","type_":"USVString","required":true,"extended_attributes":[]}]}

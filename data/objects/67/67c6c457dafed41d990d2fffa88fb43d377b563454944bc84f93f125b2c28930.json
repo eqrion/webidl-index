@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSStyleProperties","inherits":"CSSStyleDeclaration","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"cssFloat","type_":"[LegacyNullToEmptyString] CSSOMString","arguments":[],"modifiers":[],"extended_attributes":["CEReactions"]}]}

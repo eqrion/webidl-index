@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLTensorLimits","extended_attributes":[],"fields":[{"name":"dataTypes","type_":"MLDataTypeList","required":false,"extended_attributes":[]},{"name":"rankRange","type_":"MLRankRange","required":false,"extended_attributes":[]}]}

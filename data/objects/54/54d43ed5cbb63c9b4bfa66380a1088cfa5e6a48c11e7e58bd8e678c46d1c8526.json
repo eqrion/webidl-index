@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSMathValue","inherits":"CSSNumericValue","extended_attributes":["Exposed=(Window, Worker, PaintWorklet, LayoutWorklet)"],"members":[{"kind":"attribute","name":"operator","type_":"CSSMathOperator","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

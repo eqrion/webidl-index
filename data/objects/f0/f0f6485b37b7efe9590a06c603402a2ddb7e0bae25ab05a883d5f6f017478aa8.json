@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MemoryMeasurement","extended_attributes":[],"fields":[{"name":"breakdown","type_":"sequence<MemoryBreakdownEntry>","required":false,"extended_attributes":[]},{"name":"bytes","type_":"unsigned long long","required":false,"extended_attributes":[]}]}

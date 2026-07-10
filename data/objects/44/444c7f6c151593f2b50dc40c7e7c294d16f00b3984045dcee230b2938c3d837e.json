@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MagnetometerSensorOptions","inherits":"SensorOptions","extended_attributes":[],"fields":[{"name":"referenceFrame","type_":"MagnetometerLocalCoordinateSystem","required":false,"default":"\"device\"","extended_attributes":[]}]}

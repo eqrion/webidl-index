@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SFrameTransformErrorEventType","extended_attributes":[],"values":["authentication","keyID","syntax"]}

@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ActivationBlockersMixinBlockerReason","extended_attributes":[],"values":["","illegal_subframe","intersection_changed","intersection_occluded_or_distorted","intersection_out_of_viewport_or_clipped","recently_attached","style_invalid","type_invalid","unsuccessful_registration"]}

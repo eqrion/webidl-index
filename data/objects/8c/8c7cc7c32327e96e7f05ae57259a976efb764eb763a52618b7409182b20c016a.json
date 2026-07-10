@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"BluetoothServiceDataFilterInit","inherits":"BluetoothDataFilterInit","extended_attributes":[],"fields":[{"name":"service","type_":"BluetoothServiceUUID","required":true,"extended_attributes":[]}]}

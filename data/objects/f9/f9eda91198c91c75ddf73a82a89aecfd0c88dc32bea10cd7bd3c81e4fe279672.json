@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"StorageBucketOptions","extended_attributes":[],"fields":[{"name":"expires","type_":"DOMHighResTimeStamp","required":false,"extended_attributes":[]},{"name":"persisted","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"quota","type_":"unsigned long long","required":false,"extended_attributes":[]}]}

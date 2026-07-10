@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"KmacImportParams","inherits":"Algorithm","extended_attributes":[],"fields":[{"name":"length","type_":"unsigned long","required":false,"extended_attributes":["EnforceRange"]}]}

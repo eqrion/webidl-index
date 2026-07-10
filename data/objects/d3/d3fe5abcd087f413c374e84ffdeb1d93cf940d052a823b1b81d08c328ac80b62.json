@@ -1,0 +1,1 @@
+{"kind":"enum","name":"DigitalCredentialPresentationProtocol","extended_attributes":[],"values":["openid4vp-v1-multisigned","openid4vp-v1-signed","openid4vp-v1-unsigned","org-iso-mdoc"]}

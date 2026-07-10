@@ -1,0 +1,1 @@
+{"kind":"enum","name":"JsonLdEmbed","extended_attributes":[],"values":["@always","@never","@once"]}

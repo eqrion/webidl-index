@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSCustomMediaRule","inherits":"CSSRule","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"name","type_":"CSSOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"query","type_":"CustomMediaQuery","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

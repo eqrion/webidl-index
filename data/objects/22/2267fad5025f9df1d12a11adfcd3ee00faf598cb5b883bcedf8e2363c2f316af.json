@@ -1,0 +1,1 @@
+{"kind":"enum","name":"AudioSessionType","extended_attributes":[],"values":["ambient","auto","play-and-record","playback","transient","transient-solo"]}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"StaticRange","inherits":"AbstractRange","extended_attributes":["Exposed=Window"],"members":[{"kind":"constructor","name":"","arguments":[{"name":"init","type_":"StaticRangeInit","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

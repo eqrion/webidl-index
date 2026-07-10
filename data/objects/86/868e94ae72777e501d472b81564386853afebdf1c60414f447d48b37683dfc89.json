@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"MLSliceOptions","inherits":"MLOperatorOptions","extended_attributes":[],"fields":[{"name":"strides","type_":"sequence<unsigned long>","required":false,"extended_attributes":[]}]}

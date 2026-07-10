@@ -1,0 +1,1 @@
+{"kind":"enum","name":"RTCErrorDetailTypeIdp","extended_attributes":[],"values":["idp-bad-script-failure","idp-execution-failure","idp-load-failure","idp-need-login","idp-timeout","idp-tls-failure","idp-token-expired","idp-token-invalid"]}

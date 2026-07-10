@@ -1,0 +1,1 @@
+{"kind":"callback","name":"TransformerCancelCallback","extended_attributes":[],"return_type":"Promise<undefined>","arguments":[{"name":"reason","type_":"any","optional":false,"variadic":false,"extended_attributes":[]}]}

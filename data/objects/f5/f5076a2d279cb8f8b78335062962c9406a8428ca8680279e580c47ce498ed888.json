@@ -1,0 +1,1 @@
+{"kind":"interface","name":"USBPermissionResult","inherits":"PermissionStatus","extended_attributes":["Exposed=(Worker, Window)"],"members":[{"kind":"attribute","name":"devices","type_":"FrozenArray<USBDevice>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

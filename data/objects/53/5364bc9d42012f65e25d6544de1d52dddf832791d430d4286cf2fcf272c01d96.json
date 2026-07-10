@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SubscriptionObserver","extended_attributes":[],"fields":[{"name":"complete","type_":"VoidFunction","required":false,"extended_attributes":[]},{"name":"error","type_":"ObservableSubscriptionCallback","required":false,"extended_attributes":[]},{"name":"next","type_":"ObservableSubscriptionCallback","required":false,"extended_attributes":[]}]}

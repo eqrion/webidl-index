@@ -1,0 +1,1 @@
+{"kind":"interface","name":"CSSApplyStatementRule","inherits":"CSSRule","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"name","type_":"CSSOMString","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"operation","name":"getArguments","type_":"sequence<CSSOMString>","arguments":[],"modifiers":[],"extended_attributes":[]}]}

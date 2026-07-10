@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCIdentityProviderRegistrar","extended_attributes":["Exposed=RTCIdentityProvider"],"members":[{"kind":"operation","name":"register","type_":"undefined","arguments":[{"name":"idp","type_":"RTCIdentityProvider","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

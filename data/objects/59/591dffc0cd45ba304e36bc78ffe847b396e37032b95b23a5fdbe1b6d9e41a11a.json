@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"DisconnectedAccount","extended_attributes":[],"fields":[{"name":"account_id","type_":"USVString","required":true,"extended_attributes":[]}]}

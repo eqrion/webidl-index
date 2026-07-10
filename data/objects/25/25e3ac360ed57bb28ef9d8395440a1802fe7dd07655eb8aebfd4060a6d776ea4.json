@@ -1,0 +1,1 @@
+{"kind":"callback","name":"QueuingStrategySize","extended_attributes":[],"return_type":"unrestricted double","arguments":[{"name":"chunk","type_":"any","optional":false,"variadic":false,"extended_attributes":[]}]}

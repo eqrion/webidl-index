@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SpeechRecognitionErrorCode","extended_attributes":[],"values":["aborted","audio-capture","language-not-supported","network","no-speech","not-allowed","phrases-not-supported","service-not-allowed"]}

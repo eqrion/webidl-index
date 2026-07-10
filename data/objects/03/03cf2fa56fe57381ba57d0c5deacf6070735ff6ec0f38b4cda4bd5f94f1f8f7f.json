@@ -1,0 +1,1 @@
+{"kind":"enum","name":"ImportExportKind","extended_attributes":[],"values":["function","global","memory","table","tag"]}

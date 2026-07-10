@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GlobalDescriptor","extended_attributes":[],"fields":[{"name":"mutable","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"value","type_":"ValueType","required":true,"extended_attributes":[]}]}

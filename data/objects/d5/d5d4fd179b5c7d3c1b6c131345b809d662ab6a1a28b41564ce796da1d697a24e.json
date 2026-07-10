@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCIceCandidatePair","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"local","type_":"RTCIceCandidate","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]},{"kind":"attribute","name":"remote","type_":"RTCIceCandidate","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]}]}

@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCLocalIceCandidateInit","inherits":"RTCIceCandidateInit","extended_attributes":[],"fields":[{"name":"relayProtocol","type_":"RTCIceServerTransportProtocol?","required":false,"default":"null","extended_attributes":[]},{"name":"url","type_":"USVString?","required":false,"default":"null","extended_attributes":[]}]}

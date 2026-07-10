@@ -1,0 +1,1 @@
+{"kind":"interface","name":"SVGStopElement","inherits":"SVGElement","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"offset","type_":"SVGAnimatedNumber","arguments":[],"modifiers":["readonly"],"extended_attributes":["SameObject"]}]}

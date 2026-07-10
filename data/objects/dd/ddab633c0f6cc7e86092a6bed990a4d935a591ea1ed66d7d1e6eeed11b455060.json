@@ -1,0 +1,1 @@
+{"kind":"enum","name":"DisplayCaptureSurfaceType","extended_attributes":[],"values":["browser","monitor","window"]}

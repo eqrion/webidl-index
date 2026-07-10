@@ -1,0 +1,1 @@
+{"kind":"interface","name":"LaunchParams","extended_attributes":["Exposed=Window"],"members":[{"kind":"attribute","name":"files","type_":"FrozenArray<FileSystemHandle>","arguments":[],"modifiers":["readonly"],"extended_attributes":[]},{"kind":"attribute","name":"targetURL","type_":"DOMString?","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}

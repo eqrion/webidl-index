@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"JsonLdInput","extended_attributes":[],"aliased_type":"(JsonLdRecord or sequence<JsonLdRecord> or USVString or RemoteDocument)"}

@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Tag","extended_attributes":["Exposed=(Window, Worker, Worklet)","LegacyNamespace=WebAssembly"],"members":[{"kind":"constructor","name":"","arguments":[{"name":"type","type_":"TagType","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

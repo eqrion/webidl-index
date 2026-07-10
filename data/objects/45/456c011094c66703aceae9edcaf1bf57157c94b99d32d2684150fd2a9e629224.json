@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCIceServer","extended_attributes":[],"fields":[{"name":"credential","type_":"DOMString","required":false,"extended_attributes":[]},{"name":"urls","type_":"(USVString or sequence<USVString>)","required":true,"extended_attributes":[]},{"name":"username","type_":"DOMString","required":false,"extended_attributes":[]}]}
