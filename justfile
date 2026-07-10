@@ -3,11 +3,12 @@
 index *args:
     cd indexer && cargo run --release -- index {{args}}
 
-# Index exactly one major version, e.g. `just index-one gecko 133`.
-index-one engine major:
-    cd indexer && cargo run --release -- index-one {{engine}} {{major}}
+# Index exactly one version, e.g. `just index-one gecko 133` or
+# `just index-one webref current`.
+index-one engine version:
+    cd indexer && cargo run --release -- index-one {{engine}} {{version}}
 
-# Print discovered majors and the source tag each maps to.
+# Print discovered versions and the source tag each maps to.
 list-versions engine:
     cd indexer && cargo run --release -- list-versions {{engine}}
 

@@ -1,4 +1,6 @@
-//! Discovers one representative tag per major version for each engine.
+//! Discovers what to index for each engine: one representative tag per major
+//! version for browsers, or a single always-fresh branch ref for evergreen
+//! sources like webref.
 //!
 //! Gecko and WebKit both tag every release in git, so we list remote tags and
 //! bucket them by the major version captured out of the tag name. Chromium
@@ -15,7 +17,9 @@ use regex::Regex;
 use serde::Deserialize;
 
 pub struct VersionTag {
-    pub major: u32,
+    /// The snapshot label, e.g. a browser major ("142") or "current" for an
+    /// evergreen source.
+    pub version: String,
     pub tag: String,
 }
 
@@ -58,8 +62,16 @@ pub fn git_tags_by_major(repo_url: &str, pattern: &str) -> Result<Vec<VersionTag
     }
     Ok(by_major
         .into_iter()
-        .map(|(major, tag)| VersionTag { major, tag })
+        .map(|(major, tag)| VersionTag { version: major.to_string(), tag })
         .collect())
+}
+
+/// A single always-fresh snapshot tracking the tip of `branch`. Unlike
+/// browser majors, an evergreen source has no stable version number to key
+/// on, so it gets one fixed label ("current") that's overwritten every run;
+/// the snapshot's commit and date still record exactly what was indexed.
+pub fn evergreen_branch(branch: &str) -> Vec<VersionTag> {
+    vec![VersionTag { version: "current".to_string(), tag: branch.to_string() }]
 }
 
 #[derive(Deserialize)]
@@ -101,6 +113,6 @@ pub fn chromium_stable_by_major() -> Result<Vec<VersionTag>> {
     }
     Ok(earliest
         .into_iter()
-        .map(|(major, (version, _))| VersionTag { major, tag: version })
+        .map(|(major, (tag, _))| VersionTag { version: major.to_string(), tag })
         .collect())
 }

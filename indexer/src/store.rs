@@ -141,8 +141,9 @@ pub fn upsert_manifest_version(manifest: &mut Manifest, engine: &str, entry: Man
 }
 
 /// Splits a version string into its numeric components so "9.0" sorts before
-/// "10.0" (plain string sort would put "10.0" first).
-fn version_sort_key(v: &str) -> Vec<u32> {
+/// "10.0" (plain string sort would put "10.0" first). Non-numeric labels
+/// (e.g. an evergreen source's "current") sort as an empty key, i.e. first.
+pub fn version_sort_key(v: &str) -> Vec<u32> {
     v.split(|c: char| !c.is_ascii_digit())
         .filter(|s| !s.is_empty())
         .filter_map(|s| s.parse().ok())

@@ -45,3 +45,17 @@ method = "git-tags"
 # "-macOS" picks the desktop release for each major (mobile-only majors, if
 # any, will simply be missing -- acceptable for a browser IDL index).
 tag_pattern = '^releases/Apple/Safari-(\d+)(?:\.\d+)*-macOS'
+
+# webref is the W3C's curated, guaranteed-parseable extract of spec WebIDL
+# (https://github.com/w3c/webref). It's evergreen -- continuously updated to
+# track editor's drafts, with no browser-style major version -- so it has no
+# tag-based version_discovery and is always re-indexed as a single "current"
+# snapshot (see versions::evergreen_branch).
+[webref]
+repo = "https://github.com/w3c/webref.git"
+idl_paths = ["ed/idl"]
+extensions = ["idl"]
+
+[webref.version_discovery]
+method = "branch"
+branch = "curated"

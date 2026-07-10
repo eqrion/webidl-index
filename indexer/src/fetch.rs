@@ -1,13 +1,13 @@
-//! Fetches the IDL subtree of a browser repo at one tag, without ever
+//! Fetches the IDL subtree of a repo at one ref (tag or branch), without ever
 //! cloning full history.
 //!
 //! A plain `--filter=blob:none --sparse` clone still walks the *entire*
 //! commit history to build the clone (verified against
 //! mozilla-firefox/firefox: this alone did not finish in two minutes). The
 //! trick is to skip history entirely: `init` + `remote add` + sparse-checkout
-//! the target paths + `fetch --depth 1 --filter=blob:none origin tag <tag>`.
+//! the target paths + `fetch --depth 1 --filter=blob:none origin <ref>`.
 //! That pulls exactly one commit and its trees, letting checkout lazily fetch
-//! blobs only for the sparse paths. Verified end-to-end: ~2-7s per tag.
+//! blobs only for the sparse paths. Verified end-to-end: ~2-7s per ref.
 
 use std::path::{Path, PathBuf};
 use std::process::Command;
@@ -45,12 +45,12 @@ pub fn ensure_repo(cache_dir: &Path, repo_url: &str, sparse_paths: &[String]) ->
     Ok(())
 }
 
-/// Fetches and checks out `tag`. `cache_dir` must already be set up via
-/// `ensure_repo`.
-pub fn checkout_tag(cache_dir: &Path, tag: &str) -> Result<Checkout> {
+/// Fetches and checks out `ref_`, which may be a tag or a branch name.
+/// `cache_dir` must already be set up via `ensure_repo`.
+pub fn checkout_ref(cache_dir: &Path, ref_: &str) -> Result<Checkout> {
     run_git(
         cache_dir,
-        &["fetch", "--depth", "1", "--filter=blob:none", "origin", "tag", tag],
+        &["fetch", "--depth", "1", "--filter=blob:none", "origin", ref_],
     )?;
     run_git(cache_dir, &["checkout", "--detach", "--force", "FETCH_HEAD"])?;
     let commit = run_git_capture(cache_dir, &["rev-parse", "HEAD"])?

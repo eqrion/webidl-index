@@ -39,7 +39,9 @@ struct Cli {
 
 #[derive(Subcommand)]
 enum Command {
-    /// Index every not-yet-indexed major version, for one engine or all.
+    /// Index every not-yet-indexed version, for one engine or all. Evergreen
+    /// sources (tracking a branch tip rather than a fixed release) are
+    /// always re-indexed rather than skipped.
     Index {
         #[arg(long)]
         engine: Option<String>,
@@ -47,9 +49,9 @@ enum Command {
         #[arg(long)]
         limit: Option<usize>,
     },
-    /// Index exactly one major version, regardless of whether it exists.
-    IndexOne { engine: String, major: u32 },
-    /// Print discovered majors and the source tag each maps to.
+    /// Index exactly one version, regardless of whether it exists.
+    IndexOne { engine: String, version: String },
+    /// Print discovered versions and the source tag each maps to.
     ListVersions { engine: String },
     /// Re-hash every object and confirm every snapshot entry resolves.
     Verify,
@@ -93,15 +95,15 @@ fn main() -> Result<()> {
                 }
             }
         }
-        Command::IndexOne { engine, major } => {
+        Command::IndexOne { engine, version } => {
             let econf = cfg
                 .engines
                 .get(&engine)
                 .with_context(|| format!("unknown engine {engine}"))?;
             let tag = discover(econf)?
                 .into_iter()
-                .find(|t| t.major == major)
-                .with_context(|| format!("no tag found for {engine} major {major}"))?;
+                .find(|t| t.version == version)
+                .with_context(|| format!("no tag found for {engine} version {version}"))?;
             index_version(&engine, econf, &tag, &cli.data_dir, &cli.cache_dir)?;
         }
         Command::ListVersions { engine } => {
@@ -110,7 +112,7 @@ fn main() -> Result<()> {
                 .get(&engine)
                 .with_context(|| format!("unknown engine {engine}"))?;
             for t in discover(econf)? {
-                println!("{}\t{}", t.major, t.tag);
+                println!("{}\t{}", t.version, t.tag);
             }
         }
         Command::Verify => verify(&cli.data_dir)?,
@@ -129,6 +131,7 @@ fn discover(econf: &config::EngineConfig) -> Result<Vec<versions::VersionTag>> {
             versions::git_tags_by_major(&econf.repo, tag_pattern)
         }
         config::VersionDiscovery::Chromiumdash => versions::chromium_stable_by_major(),
+        config::VersionDiscovery::Branch { branch } => Ok(versions::evergreen_branch(branch)),
     }
 }
 
@@ -142,11 +145,15 @@ fn run_index(
     let mut tags = discover(econf)?;
     // Newest first: if a run is limited or interrupted, the most relevant
     // (most recent) versions land first rather than the oldest.
-    tags.sort_by(|a, b| b.major.cmp(&a.major));
-    println!("{engine}: {} majors discovered", tags.len());
+    tags.sort_by(|a, b| store::version_sort_key(&b.version).cmp(&store::version_sort_key(&a.version)));
+    println!("{engine}: {} version(s) discovered", tags.len());
+    // Evergreen sources track a moving branch tip rather than a fixed
+    // release, so their single snapshot is always refreshed instead of
+    // being skipped once it exists.
+    let evergreen = econf.version_discovery.is_evergreen();
     let mut indexed = 0;
     for tag in &tags {
-        if store::snapshot_exists(data_dir, engine, &tag.major.to_string()) {
+        if !evergreen && store::snapshot_exists(data_dir, engine, &tag.version) {
             continue;
         }
         if let Some(limit) = limit
@@ -159,7 +166,7 @@ fn run_index(
         // quirk) shouldn't take down the rest of a long backfill run. It's
         // simply left un-indexed and picked up on the next run.
         if let Err(e) = index_version(engine, econf, tag, data_dir, cache_root) {
-            eprintln!("{engine} {}: skipped, failed: {e:?}", tag.major);
+            eprintln!("{engine} {}: skipped, failed: {e:?}", tag.version);
             continue;
         }
         indexed += 1;
@@ -175,12 +182,12 @@ fn index_version(
     data_dir: &Path,
     cache_root: &Path,
 ) -> Result<()> {
-    let version = tag.major.to_string();
+    let version = tag.version.clone();
     println!("{engine} {version}: fetching {}", tag.tag);
 
     let cache_dir = cache_root.join(engine);
     fetch::ensure_repo(&cache_dir, &econf.repo, &econf.idl_paths)?;
-    let checkout = fetch::checkout_tag(&cache_dir, &tag.tag)?;
+    let checkout = fetch::checkout_ref(&cache_dir, &tag.tag)?;
     let files = fetch::collect_files(&checkout.root, &econf.extensions, &econf.exclude_paths)?;
     println!("{engine} {version}: parsing {} files", files.len());
 

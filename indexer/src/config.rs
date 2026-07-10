@@ -25,6 +25,15 @@ pub struct EngineConfig {
 pub enum VersionDiscovery {
     GitTags { tag_pattern: String },
     Chromiumdash,
+    /// Always re-index the tip of one branch as a single "current" snapshot,
+    /// for evergreen sources with no browser-style major version.
+    Branch { branch: String },
+}
+
+impl VersionDiscovery {
+    pub fn is_evergreen(&self) -> bool {
+        matches!(self, VersionDiscovery::Branch { .. })
+    }
 }
 
 #[derive(Deserialize)]
