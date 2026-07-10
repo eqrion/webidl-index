@@ -1,0 +1,45 @@
+name: Refresh index
+
+on:
+  schedule:
+    # Mondays at 06:13 UTC.
+    - cron: "13 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-index
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: "."
+
+      - name: Index new versions
+        run: cargo run --release -- index
+        working-directory: indexer
+
+      - name: Verify snapshots
+        run: cargo run --release -- verify
+        working-directory: indexer
+
+      - name: Commit and push if data changed
+        run: |
+          if git status --porcelain data | grep -q .; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data
+            git commit -m "data: weekly index refresh"
+            git push
+          else
+            echo "no changes"
+          fi
