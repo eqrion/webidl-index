@@ -694,6 +694,7 @@
     "FileSystemCloudIdentifier": "6afc2eef35aac499984579aa8319fd86e80710815de25005e47f3a1bf84a85f6",
     "FileSystemCreateSyncAccessHandleOptions": "897c78eeb78cfac55e35c24719efa18a54eba7a42dba6da6fb089cfdf74a59d3",
     "FileSystemCreateWritableOptions": "a55bc98cce148f627be0754569f9fa0ef033d9424c81476ee3e70169c3d804f2",
+    "FileSystemDirectoryHandle": "74fe1fae43af576895a95d7556e32df6735675d55e17c26b4e3458769b3c47cd",
     "FileSystemFileHandle": "c9985406a747c0e14db95a66235d34ced3fcf2576c82b62df9996da953004f65",
     "FileSystemFlags": "2446bf05a6d11acd32c155cf18d1f8dc9f6fe22d019f4bf2a8a18ac90faa9976",
     "FileSystemGetDirectoryOptions": "bf66852def80f1df31d5a4d1150186319343da490e66f9edbe5aa7b6f1a6a908",
@@ -1937,6 +1938,7 @@
     "RadioNodeList": "e76af2f0bb6cb01000dcb235a9b647ccdd58506b9bd1ceb1200bcb684ae27b69",
     "Range": "d21dd3428ded328c1bbd63245ad5e464428d2368da3579a0d91094ca19f1c14a",
     "ReadableByteStreamController": "5925ba0c71c6205d1a9634602df7f3785915d78698dab7207c14a3dbd531838a",
+    "ReadableStream": "b08e418db29493350cc285d9620014eccd701e7aaa6d4250be8962cd43354845",
     "ReadableStreamBYOBReader": "226610c1481b4a72b58c6d873e4c46e0dd4a7bea0b87d75e8548c35e1dfc8387",
     "ReadableStreamBYOBReaderReadOptions": "095e6e6a2d1660c002f4e9a10da9343e371cf663e93a10f1a4ac93f6b4eba2c5",
     "ReadableStreamBYOBRequest": "6788ec13c0e5c0981fa23ecd28e2e60946674211ca691a01f877c23b9f2b4b2f",
@@ -2202,6 +2204,7 @@
     "ShadowRootInit": "efcd58822b5d6ab4badf777aba7214c08ad270b6627ebc96115d7fdb2e50b074",
     "ShadowRootMode": "8c70c89c98ea954ce9019765689dd4aa2f5d9fe3f4c7ef3559ba75ae88e2f2cf",
     "ShareData": "34821ac3918f9dd8963794d394c07d83cb7242f5e421be9086adcaa6242d78b3",
+    "SharedStorage": "c3d726a76383b326a14deb0971153cfdb5fde556a018e143e18931673bcba7ac",
     "SharedStorageAppendMethod": "f711f52de0a818594d4f9a8dd00f34e10742fd9b770c8abb8438bef41faebc75",
     "SharedStorageClearMethod": "f504de6e3377f5f6786ba3a1bf29e2f43ed8684e1fbf16987e021097164ebcd4",
     "SharedStorageDeleteMethod": "7dab1dedcf173e2b632434a71e2c0ee5a1f59a851dacc095455dc9967669e113",
@@ -2790,10 +2793,5 @@
     "XRWebGLRenderingContext": "086e0c27b7a014ec27426508ea560f1b88ccc594c89a0b837b36d7e6622497a3",
     "XRWebGLSubImage": "711ed49b8e581058ae8c69d05d6d42cd1df748329b8a0e968aa7144b7ff8c4fb",
     "XSLTProcessor": "3a1f4aa9dcccb1850ddfdfdd6ff00e7d59d72248035df0ff3236d5a565873704"
-  },
-  "parse_errors": [
-    "third_party/blink/renderer/core/streams/readable_stream.idl: stopped before end of file, near: \"[\\n    Exposed=*\\n] interface ReadableStream {\\n    [HasAsyncIteratorReturnAlgorithm] async_iterable<any>(optional Readable\"",
-    "third_party/blink/renderer/modules/file_system_access/file_system_directory_handle.idl: stopped before end of file, near: \"// Copyright 2018 The Chromium Authors\\n// Use of this source code is governed by a BSD-style license that can be\\n// foun\"",
-    "third_party/blink/renderer/modules/shared_storage/shared_storage.idl: stopped before end of file, near: \"// The Shared Storage API.\\n// https://github.com/pythagoraskitty/shared-storage/blob/main/README.md\\n\\n[\\n  RuntimeEnabled=\""
-  ]
+  }
 }

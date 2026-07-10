@@ -4,9 +4,9 @@
   "source": {
     "repo": "https://github.com/w3c/webref.git",
     "tag": "curated",
-    "commit": "193a651804c15a09af95446924dbabd0b8965f94"
+    "commit": "e7f22476582f71a8b55b11d01157bbcd4c99c1d5"
   },
-  "date": "2026-07-09T19:14:36Z",
+  "date": "2026-07-10T13:28:39Z",
   "entries": {
     "ANGLE_instanced_arrays": "a08f62ab11a3151a5a55e0a12b6163eb62d342977ee88609e6fc6a80c80078c8",
     "AacBitstreamFormat": "36da212991f62b2ac0b784144da88b66a655a7e57830f6cb22a5e3b2cb0114e0",
