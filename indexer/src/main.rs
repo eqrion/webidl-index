@@ -48,6 +48,11 @@ enum Command {
         /// Stop after indexing this many new versions (per engine).
         #[arg(long)]
         limit: Option<usize>,
+        /// Re-index every discovered version even if a snapshot already
+        /// exists, overwriting it in place. For backfilling a parser or
+        /// preprocessing fix across history.
+        #[arg(long)]
+        force: bool,
     },
     /// Index exactly one version, regardless of whether it exists.
     IndexOne { engine: String, version: String },
@@ -81,7 +86,7 @@ fn main() -> Result<()> {
     let cfg = config::load(&cli.config)?;
 
     match cli.command {
-        Command::Index { engine, limit } => {
+        Command::Index { engine, limit, force } => {
             for (name, econf) in &cfg.engines {
                 if let Some(want) = &engine
                     && want != name
@@ -90,7 +95,7 @@ fn main() -> Result<()> {
                 }
                 // One engine's failure (e.g. discovery hitting a rate limit)
                 // shouldn't stop the others from being attempted.
-                if let Err(e) = run_index(name, econf, &cli.data_dir, &cli.cache_dir, limit) {
+                if let Err(e) = run_index(name, econf, &cli.data_dir, &cli.cache_dir, limit, force) {
                     eprintln!("{name}: aborted: {e:?}");
                 }
             }
@@ -141,6 +146,7 @@ fn run_index(
     data_dir: &Path,
     cache_root: &Path,
     limit: Option<usize>,
+    force: bool,
 ) -> Result<()> {
     let mut tags = discover(econf)?;
     // Newest first: if a run is limited or interrupted, the most relevant
@@ -153,7 +159,7 @@ fn run_index(
     let evergreen = econf.version_discovery.is_evergreen();
     let mut indexed = 0;
     for tag in &tags {
-        if !evergreen && store::snapshot_exists(data_dir, engine, &tag.version) {
+        if !force && !evergreen && store::snapshot_exists(data_dir, engine, &tag.version) {
             continue;
         }
         if let Some(limit) = limit
