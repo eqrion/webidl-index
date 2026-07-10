@@ -87,7 +87,7 @@ export function MergeView({ manifest, view, navigate }: Props) {
       <div class="toolbar">
         <SnapshotPicker manifest={manifest} selected={refs} isBaseline={isBaseline} onChange={handleSnapshotsChange} />
         <span class="source">
-          {isBaseline ? 'Baseline · ' : 'Custom · '}
+          {isBaseline ? 'Intersect · ' : 'Custom · '}
           common subset of {refs.length} snapshot{refs.length === 1 ? '' : 's'} across {engineCount} engine{engineCount === 1 ? '' : 's'}
         </span>
       </div>

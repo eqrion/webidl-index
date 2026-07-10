@@ -6,10 +6,11 @@ export type View =
   | { mode: 'diff'; engineA: string; versionA: string; engineB: string; versionB: string; name?: string }
   | { mode: 'merge'; snapshots: SnapshotRef[]; name?: string }
 
-/** `snapshots: []` is the baseline sentinel -- MergeView resolves it to
- * `baselineSet(manifest)` once the manifest has loaded. This is also the
- * app's default landing view. */
-const EMPTY_MERGE: View = { mode: 'merge', snapshots: [] }
+/** The app's default landing view: Browse, defaulted to webref's one
+ * evergreen snapshot. `merge` mode's own sentinel (`snapshots: []`) is
+ * resolved to `baselineSet(manifest)` by MergeView once the manifest has
+ * loaded. */
+const DEFAULT_VIEW: View = { mode: 'browse', engine: 'webref', version: 'current' }
 
 /** Renders a merge set as one hash segment, e.g. `blink:139,gecko:140`.
  * Each engine/version is percent-encoded individually so a literal `:` or
@@ -42,7 +43,7 @@ export function parseHash(hash: string): View {
     const [, engine = '', version = '', name] = parts.map(decodeURIComponent)
     return { mode: 'browse', engine, version, name }
   }
-  return EMPTY_MERGE
+  return DEFAULT_VIEW
 }
 
 export function formatHash(view: View): string {

@@ -25,17 +25,17 @@ export function App() {
         <nav>
           <button
             type="button"
-            class={view.mode === 'merge' ? 'active' : ''}
-            onClick={() => navigate({ mode: 'merge', snapshots: [] })}
+            class={view.mode === 'browse' ? 'active' : ''}
+            onClick={() => navigate({ mode: 'browse', engine: 'webref', version: 'current' })}
           >
-            Baseline
+            Browse
           </button>
           <button
             type="button"
-            class={view.mode === 'browse' ? 'active' : ''}
-            onClick={() => navigate({ mode: 'browse', engine: '', version: '' })}
+            class={view.mode === 'merge' ? 'active' : ''}
+            onClick={() => navigate({ mode: 'merge', snapshots: [] })}
           >
-            Browse
+            Intersect
           </button>
           <button
             type="button"
@@ -49,8 +49,8 @@ export function App() {
       <main>
         {error && <div class="error">Failed to load manifest: {error}</div>}
         {!error && !manifest && <div class="hint">Loading…</div>}
-        {manifest && view.mode === 'merge' && <MergeView manifest={manifest} view={view} navigate={navigate} />}
         {manifest && view.mode === 'browse' && <BrowseView manifest={manifest} view={view} navigate={navigate} />}
+        {manifest && view.mode === 'merge' && <MergeView manifest={manifest} view={view} navigate={navigate} />}
         {manifest && view.mode === 'diff' && <DiffPanel manifest={manifest} view={view} navigate={navigate} />}
       </main>
     </div>
