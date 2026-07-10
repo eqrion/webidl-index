@@ -2,6 +2,7 @@ import { definitionLines } from '../diff'
 import { kindLabel } from '../format'
 import type { Definition } from '../types'
 import { CodeTokens } from './CodeTokens'
+import { ExternalLinks } from './ExternalLinks'
 
 interface Props {
   def: Definition
@@ -12,7 +13,10 @@ interface Props {
 export function DefinitionView({ def, knownNames, onNavigate }: Props) {
   return (
     <div>
-      <div class="def-kind">{kindLabel(def)}</div>
+      <div class="def-header">
+        <div class="def-kind">{kindLabel(def)}</div>
+        <ExternalLinks name={def.name} kind={def.kind} />
+      </div>
       <pre class="code">
         {definitionLines(def).map((line, i) => (
           <div key={i} class="code-line">

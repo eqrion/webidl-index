@@ -59,6 +59,20 @@ export function getSearchIndex(engine: string, version: string): Promise<SearchE
   return promise
 }
 
+let webrefNamesPromise: Promise<Set<string>> | null = null
+
+/** The webref snapshot's entry names double as an oracle for "does
+ * webidlpedia (which is generated from webref) have a page for this name",
+ * without any extra network call beyond the snapshot itself. */
+export function getWebrefNames(): Promise<Set<string>> {
+  webrefNamesPromise ??= getManifest().then((manifest) => {
+    const version = manifest.engines.webref?.[0]?.version
+    if (!version) return new Set<string>()
+    return getSnapshot('webref', version).then((snapshot) => new Set(Object.keys(snapshot.entries)))
+  })
+  return webrefNamesPromise
+}
+
 export function getDefinition(engine: string, version: string, name: string): Promise<Definition> {
   return getSnapshot(engine, version).then((snapshot) => {
     const hash = snapshot.entries[name]
