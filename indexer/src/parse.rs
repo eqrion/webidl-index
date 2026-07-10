@@ -92,6 +92,18 @@ pub struct MergeResult {
 ///   isn't a valid `Identifier` character, so weedle rejects the whole
 ///   value. We merge it into one identifier (`A_B`); we only need the value
 ///   to round-trip as an opaque string, not to evaluate the condition.
+/// - The WebIDL spec's async iterable declaration is `async_iterable<...>`
+///   (one token), but weedle 0.13.1 only implements the older two-token
+///   `async iterable<...>` spelling. We rewrite to the older spelling; the
+///   declaration shape (single- or double-typed, with or without arguments)
+///   is unaffected.
+/// - HTML spells validation hints on reflected attributes as
+///   `ReflectDefault=1`, `ReflectDefault=1.0`, or `ReflectRange=(0, 8)` -- an
+///   `Identifier` value is the only kind weedle's
+///   `ExtendedAttributeIdent`/`IdentList` accept, and numbers aren't
+///   identifiers. We drop these attributes entirely (plus one adjacent
+///   comma, to keep the surrounding list well-formed); they refine
+///   attribute-reflection behavior only, not the type identity we diff on.
 fn preprocess(content: &str) -> std::borrow::Cow<'_, str> {
     static FORWARD_DECL: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
     static PREPROCESSOR_DIRECTIVE: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
@@ -100,6 +112,8 @@ fn preprocess(content: &str) -> std::borrow::Cow<'_, str> {
     static QUOTED_IDENT_LIST: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
     static TRAILING_COMMA: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
     static IDENT_AMPERSAND: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
+    static ASYNC_ITERABLE_TOKEN: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
+    static NUMERIC_EXT_ATTR_VALUE: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
 
     let forward_decl = FORWARD_DECL.get_or_init(|| {
         regex::Regex::new(r"(?m)^[ \t]*interface[ \t]+[A-Za-z_][\w-]*[ \t]*;[ \t]*$").unwrap()
@@ -116,12 +130,22 @@ fn preprocess(content: &str) -> std::borrow::Cow<'_, str> {
     let trailing_comma = TRAILING_COMMA.get_or_init(|| regex::Regex::new(r",(\s*)\]").unwrap());
     let ident_ampersand =
         IDENT_AMPERSAND.get_or_init(|| regex::Regex::new(r"(\w)&(\w)").unwrap());
+    let async_iterable_token =
+        ASYNC_ITERABLE_TOKEN.get_or_init(|| regex::Regex::new(r"\basync_iterable\b").unwrap());
+    let numeric_ext_attr_value = NUMERIC_EXT_ATTR_VALUE.get_or_init(|| {
+        regex::Regex::new(
+            r"(,\s*)?\b[A-Za-z_][\w-]*=(\(-?\d+(?:\.\d+)?(?:,\s*-?\d+(?:\.\d+)?)*\)|-?\d+(?:\.\d+)?)",
+        )
+        .unwrap()
+    });
 
     let s = forward_decl.replace_all(content, "");
     let s = preprocessor_directive.replace_all(&s, "").into_owned();
     let s = generic_ext_attr.replace_all(&s, "<").into_owned();
     let s = callback_constructor.replace_all(&s, "$1").into_owned();
     let s = ident_ampersand.replace_all(&s, "${1}_$2").into_owned();
+    let s = async_iterable_token.replace_all(&s, "async iterable").into_owned();
+    let s = numeric_ext_attr_value.replace_all(&s, "").into_owned();
     let s = quoted_ident_list
         .replace_all(&s, |caps: &regex::Captures| {
             // Split, unquote, and drop empty items (e.g. `ReflectOnly=("",
