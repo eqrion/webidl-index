@@ -80,12 +80,34 @@ main {
   gap: 3px;
 }
 
+.snapshot-picker-label-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+}
+
 .snapshot-picker-label {
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 0.03em;
   color: var(--text);
   opacity: 0.6;
+}
+
+.snapshot-picker-clear {
+  font-size: 11px;
+  border: none;
+  background: none;
+  padding: 0;
+  color: var(--accent);
+  cursor: pointer;
+}
+
+.snapshot-picker-clear:disabled {
+  color: var(--text);
+  opacity: 0.4;
+  cursor: default;
 }
 
 .snapshot-picker-engine select {

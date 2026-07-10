@@ -27,7 +27,21 @@ export function SnapshotPicker({ manifest, selected, isBaseline, onChange }: Pro
     <div class="snapshot-picker">
       {engines.map((engine) => (
         <label key={engine} class="snapshot-picker-engine">
-          <span class="snapshot-picker-label">{engine}</span>
+          <span class="snapshot-picker-label-row">
+            <span class="snapshot-picker-label">{engine}</span>
+            {/* A native <select multiple> has no keyboard/mouse gesture to
+                clear every selected option at once -- ctrl/cmd-clicking each
+                one individually is the only way otherwise. */}
+            <button
+              type="button"
+              class="snapshot-picker-clear"
+              disabled={!selectedByEngine.get(engine)?.size}
+              onClick={() => setEngineSelection(engine, [])}
+              title={`Deselect all ${engine} versions`}
+            >
+              Clear
+            </button>
+          </span>
           <select
             multiple
             size={4}
@@ -45,7 +59,7 @@ export function SnapshotPicker({ manifest, selected, isBaseline, onChange }: Pro
         </label>
       ))}
       <button type="button" class={`baseline-reset ${isBaseline ? 'active' : ''}`} onClick={() => onChange(baselineSet(manifest))}>
-        Reset to baseline
+        Reset to default
       </button>
     </div>
   )
