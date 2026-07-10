@@ -104,6 +104,10 @@ pub struct MergeResult {
 ///   identifiers. We drop these attributes entirely (plus one adjacent
 ///   comma, to keep the surrounding list well-formed); they refine
 ///   attribute-reflection behavior only, not the type identity we diff on.
+///   Scoped to `[...]` spans (nothing else in the grammar uses `[...]`, per
+///   the trailing-comma rewrite below) so it can't also strip an
+///   incidentally-matching `ident=number` out of a comment, e.g. a
+///   `/* vim: set ts=2 ... */` modeline.
 fn preprocess(content: &str) -> std::borrow::Cow<'_, str> {
     static FORWARD_DECL: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
     static PREPROCESSOR_DIRECTIVE: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
@@ -113,6 +117,7 @@ fn preprocess(content: &str) -> std::borrow::Cow<'_, str> {
     static TRAILING_COMMA: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
     static IDENT_AMPERSAND: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
     static ASYNC_ITERABLE_TOKEN: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
+    static EXT_ATTR_LIST: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
     static NUMERIC_EXT_ATTR_VALUE: std::sync::OnceLock<regex::Regex> = std::sync::OnceLock::new();
 
     let forward_decl = FORWARD_DECL.get_or_init(|| {
@@ -132,6 +137,7 @@ fn preprocess(content: &str) -> std::borrow::Cow<'_, str> {
         IDENT_AMPERSAND.get_or_init(|| regex::Regex::new(r"(\w)&(\w)").unwrap());
     let async_iterable_token =
         ASYNC_ITERABLE_TOKEN.get_or_init(|| regex::Regex::new(r"\basync_iterable\b").unwrap());
+    let ext_attr_list = EXT_ATTR_LIST.get_or_init(|| regex::Regex::new(r"\[[^\[\]]*\]").unwrap());
     let numeric_ext_attr_value = NUMERIC_EXT_ATTR_VALUE.get_or_init(|| {
         regex::Regex::new(
             r"(,\s*)?\b[A-Za-z_][\w-]*=(\(-?\d+(?:\.\d+)?(?:,\s*-?\d+(?:\.\d+)?)*\)|-?\d+(?:\.\d+)?)",
@@ -145,7 +151,9 @@ fn preprocess(content: &str) -> std::borrow::Cow<'_, str> {
     let s = callback_constructor.replace_all(&s, "$1").into_owned();
     let s = ident_ampersand.replace_all(&s, "${1}_$2").into_owned();
     let s = async_iterable_token.replace_all(&s, "async iterable").into_owned();
-    let s = numeric_ext_attr_value.replace_all(&s, "").into_owned();
+    let s = ext_attr_list
+        .replace_all(&s, |caps: &regex::Captures| numeric_ext_attr_value.replace_all(&caps[0], "").into_owned())
+        .into_owned();
     let s = quoted_ident_list
         .replace_all(&s, |caps: &regex::Captures| {
             // Split, unquote, and drop empty items (e.g. `ReflectOnly=("",
