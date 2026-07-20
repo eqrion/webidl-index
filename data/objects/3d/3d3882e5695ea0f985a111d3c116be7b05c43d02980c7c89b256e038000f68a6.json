@@ -1,0 +1,1 @@
+{"kind":"interface","name":"DecompressionStream","extended_attributes":["Exposed=*"],"members":[{"kind":"constructor","name":"","arguments":[{"name":"format","type_":"CompressionFormat","optional":false,"variadic":false,"extended_attributes":[]}],"modifiers":[],"extended_attributes":[]}]}

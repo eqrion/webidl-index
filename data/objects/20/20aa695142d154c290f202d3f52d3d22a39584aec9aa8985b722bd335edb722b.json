@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"CrossOriginStorageRequestFileHandleOptions","extended_attributes":[],"fields":[{"name":"create","type_":"boolean","required":false,"default":"false","extended_attributes":[]},{"name":"origins","type_":"(DOMString or sequence<DOMString>)","required":false,"extended_attributes":[]}]}
