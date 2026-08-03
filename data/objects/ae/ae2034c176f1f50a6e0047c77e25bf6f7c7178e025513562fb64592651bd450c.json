@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SubAppsAddResponse","extended_attributes":[],"fields":[{"name":"failedApps","type_":"record<USVString, DOMException>","required":false,"extended_attributes":[]},{"name":"installedApps","type_":"record<USVString, USVString>","required":false,"extended_attributes":[]}]}

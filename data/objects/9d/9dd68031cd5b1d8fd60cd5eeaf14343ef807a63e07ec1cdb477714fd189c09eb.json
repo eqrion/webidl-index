@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SubAppsRemoveResponse","extended_attributes":[],"fields":[{"name":"failedApps","type_":"record<USVString, DOMException>","required":false,"extended_attributes":[]},{"name":"removedApps","type_":"sequence<USVString>","required":false,"extended_attributes":[]}]}

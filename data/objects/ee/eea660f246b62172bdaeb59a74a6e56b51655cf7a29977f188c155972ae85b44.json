@@ -1,0 +1,1 @@
+{"kind":"enum","name":"SemanticEmbedderTaskType","extended_attributes":[],"values":["classification","clustering","retrieval-document","retrieval-query","semantic-similarity"]}

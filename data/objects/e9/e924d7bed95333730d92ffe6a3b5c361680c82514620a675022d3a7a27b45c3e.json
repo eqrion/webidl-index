@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"SVGPathSegment","extended_attributes":[],"fields":[{"name":"type","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"values","type_":"sequence<unrestricted float>","required":true,"extended_attributes":[]}]}
