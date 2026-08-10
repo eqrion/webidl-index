@@ -4,9 +4,9 @@
   "source": {
     "repo": "https://github.com/w3c/webref.git",
     "tag": "curated",
-    "commit": "d6220d0da61622739d99fc12f98f82239e68e4cb"
+    "commit": "43f6d41cddde11281713c6c13bdaca84254959f0"
   },
-  "date": "2026-08-03T07:51:28Z",
+  "date": "2026-08-04T13:18:50Z",
   "entries": {
     "ANGLE_instanced_arrays": "a08f62ab11a3151a5a55e0a12b6163eb62d342977ee88609e6fc6a80c80078c8",
     "AacBitstreamFormat": "36da212991f62b2ac0b784144da88b66a655a7e57830f6cb22a5e3b2cb0114e0",
@@ -621,7 +621,7 @@
     "EffectCallback": "87c009228f2d54a27d79bfc191d06fb6569d0412a13d0f7fa683b9646e68dea7",
     "EffectTiming": "b68bbf3673ef5add30a89a50295a7304798be005da47648b58eb3d0076bc9c0f",
     "EffectiveConnectionType": "fb9c34a6151db0b46985315866d4f3ced855292b6746ef094cd7f60005004617",
-    "Element": "72d9f40e08f2ef63ef8841052fbb14b44c065e17a39714e325c1bb1f9eaa25c5",
+    "Element": "f9d69f0bfa88286e0a0530e43ff137ffa11cb1ff09fd12b22165e556151999db",
     "ElementCreationOptions": "b22a0532255397e84b6acbb305f086a79ff30f87abce06106ec638d67c3f3aac",
     "ElementDefinitionOptions": "54f7e79087088afb22255dc64257b7ddce8dcc7e7ccf41253a71ff989af45742",
     "ElementInternals": "902403df6624e77993011af3ef7e3f946a8b1485afe8dd97f7efd3bd32681729",
@@ -991,7 +991,7 @@
     "HTMLDialogElement": "1b827d6b3647a40736314982bebbac84f4fb44a26b9ac4dc72929fedaacf4a1c",
     "HTMLDirectoryElement": "e1e1a1a49325550fd64748f9fa17470ff22d97078147b6846bec9897fe86ed55",
     "HTMLDivElement": "c28093cc58222fcb9092df2f39eab53376e10ea5cfd0b0e469d41e37edd793b3",
-    "HTMLElement": "b3254f6da57fb12c0d3bb7f2b6eff1349ae39f6f569f624a64c001c3208ec9eb",
+    "HTMLElement": "ef60eaabf0731db13fb8b28d5cdddc31123963e6ab9a0a57996f95b593697bad",
     "HTMLEmbedElement": "1003d034a1d98f7ac1c3f191d5dac297e92176ce04146cfa82e24b6d27e8dd0a",
     "HTMLFencedFrameElement": "8c1dc578668ae71583b674f7e2554ed53b3a9be88eee899dcc73e6202353b4d9",
     "HTMLFieldSetElement": "c7e4e1850ce726e1a8b3c0ef38767eaf0b01ad172813bf0f46d567a181112c86",
@@ -1639,7 +1639,7 @@
     "PaymentValidationErrors": "88889ca571d0cbc4cee8582dc51df064ecab8947c6376cce85af41e07e185e93",
     "Pbkdf2Params": "df4d27903547301ed2525eb6a63b13a5fa129e4dab8d01584f4f7efd22bfa6b7",
     "Performance": "684ce5ad044e6ab466a7a828948830c3c1487262e20be4a7d9bc2c2919f5c8c8",
-    "PerformanceContainerTiming": "d57f9d8ea5540769c8b1e14f991b964d230c637916d8ded3c5f4d5799f1949d4",
+    "PerformanceContainerTiming": "106c03354330e9a49a1dc241d5ab02fe3f6a4dd4b1b094d027b7597e8ad98b71",
     "PerformanceElementTiming": "1ba68047c992c4a994f98673c3cd12011ec2a3918ace8ec49cc502573e811b37",
     "PerformanceEntry": "dc97db2f8ce716e6f5ecb3ce8e7caa3e09d4af1d734bdfbee213c298c619388f",
     "PerformanceEntryList": "118bcedec4cc9c53d75cee309b56ccde876d777b1dca26cba8f68f0fc02c36e8",
