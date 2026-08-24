@@ -1,0 +1,1 @@
+{"kind":"callback","name":"ToolExecuteCallback","extended_attributes":[],"return_type":"Promise<any>","arguments":[{"name":"inputObject","type_":"object","optional":false,"variadic":false,"extended_attributes":[]},{"name":"options","type_":"ToolExecuteCallbackOptions","optional":false,"variadic":false,"extended_attributes":[]}]}

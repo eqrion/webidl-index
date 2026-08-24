@@ -1,0 +1,1 @@
+{"kind":"typedef","name":"KeyframeOffset","extended_attributes":[],"aliased_type":"(CSSNumberish or TimelineRangeOffset or UTF8String)"}

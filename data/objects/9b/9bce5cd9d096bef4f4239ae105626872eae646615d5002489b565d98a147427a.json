@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ToolExecuteCallbackOptions","extended_attributes":[],"fields":[{"name":"signal","type_":"AbortSignal","required":true,"extended_attributes":[]}]}
