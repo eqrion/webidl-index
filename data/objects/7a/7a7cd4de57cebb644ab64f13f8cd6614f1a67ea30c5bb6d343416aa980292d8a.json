@@ -1,0 +1,1 @@
+{"kind":"enum","name":"GamepadButtonType","extended_attributes":[],"values":["non-standard","standard","trackpad"]}

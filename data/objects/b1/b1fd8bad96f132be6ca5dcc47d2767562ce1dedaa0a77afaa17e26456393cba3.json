@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AuthenticationExtensionsCmtgKeyOutputsJSON","extended_attributes":[],"fields":[{"name":"cmtgKey","type_":"Base64URLString","required":true,"extended_attributes":[]},{"name":"signature","type_":"Base64URLString","required":true,"extended_attributes":[]}]}

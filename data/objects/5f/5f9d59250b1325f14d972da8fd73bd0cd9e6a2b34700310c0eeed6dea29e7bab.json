@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"InstallResultEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"result","type_":"InstallResult","required":false,"extended_attributes":[]}]}

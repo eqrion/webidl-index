@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"InstallParams","extended_attributes":[],"fields":[{"name":"manifest","type_":"USVString","required":true,"extended_attributes":[]},{"name":"manifestId","type_":"USVString?","required":false,"extended_attributes":[]}]}

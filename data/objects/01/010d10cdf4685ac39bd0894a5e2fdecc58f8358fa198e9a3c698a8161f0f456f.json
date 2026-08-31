@@ -1,0 +1,1 @@
+{"kind":"enum","name":"HumanFaceDetectionModeEnum","extended_attributes":[],"values":["bounding-box","bounding-box-with-landmark-center-point","none"]}
