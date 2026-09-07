@@ -4,9 +4,9 @@
   "source": {
     "repo": "https://github.com/w3c/webref.git",
     "tag": "curated",
-    "commit": "f3b81966c45f34f62df20e7f8d6f66d5b5ba9279"
+    "commit": "a327fec512d9622a9e8e911c31113ae3ca945598"
   },
-  "date": "2026-08-30T12:46:57Z",
+  "date": "2026-09-04T13:31:31Z",
   "entries": {
     "ANGLE_instanced_arrays": "a08f62ab11a3151a5a55e0a12b6163eb62d342977ee88609e6fc6a80c80078c8",
     "AacBitstreamFormat": "36da212991f62b2ac0b784144da88b66a655a7e57830f6cb22a5e3b2cb0114e0",
@@ -832,7 +832,7 @@
     "GPUExternalTexture": "f7a6e43fa8aa2ce609532ac5496e3b3c17ab4e62e4873137d893277b62bcdc0f",
     "GPUExternalTextureBindingLayout": "bb9c271d854effac1ea92ced5864465d98f555fba80e8e9b4436f01c0bea9b5e",
     "GPUExternalTextureDescriptor": "2b238cbad4aad41ef81149235c9bb2c104b3e8114430c45bab3ae8d579f8a51c",
-    "GPUFeatureName": "d91e531ad380af6394523cb7d26c0c649b12810cedfbab8b2aea7023aad83bb7",
+    "GPUFeatureName": "9cf28001ae938810ec8ff7989eb71863215b1a2c421c00dc7e3284b4156eb20b",
     "GPUFilterMode": "ed021928739df7187ab9ddcbd345f621e8afda57756a963461accb150272ce9e",
     "GPUFlagsConstant": "b2fa4331ee7909018b8897f1dc59377d6e93d7ae63eff0461330c00bb5658945",
     "GPUFragmentState": "8a049345ac5e7c8c8bdc9fdf0b6c88f5e75808b579a1ad7b88e8d9f5e2f8e757",
@@ -2310,7 +2310,7 @@
     "TokenBinding": "a374301e626bc8f8a7aba17e017ad9a03b3d2905071115c7d3dce984d14f4b12",
     "TokenBindingStatus": "bb9b8fa18970e5949bfc9ff868d7edf6e91d53c69a488c861d7349ad84a16ad2",
     "TokenVersion": "cb077079fcf10a8d38136313c90477059f7c136ce7736b4180d108fffda8ac6e",
-    "ToolAnnotations": "9c965ddfb8986b98479b37316701e061eae56ed9561b3c009c25286caa4a55af",
+    "ToolAnnotations": "27aefe4dad62eeb333b233d7acb8518f03a9242ea78c34db6a5b6010859e0fe6",
     "ToolExecuteCallback": "6c6583cabb6e0264343b21dbeddedc703414ae5ff943dfa8feab20608066f663",
     "ToolExecuteCallbackOptions": "9bce5cd9d096bef4f4239ae105626872eae646615d5002489b565d98a147427a",
     "Touch": "59eba763a121b6ef322c78082d759a02d9ae5112d93d5a7567fd2886a23db918",

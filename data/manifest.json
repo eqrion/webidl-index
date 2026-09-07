@@ -1277,6 +1277,11 @@
         "version": "154",
         "date": "2026-08-12T17:42:26Z",
         "commit": "032a9fc1ac0cc3209f7c142744ba2e40847c8086"
+      },
+      {
+        "version": "155",
+        "date": "2026-08-26T19:23:53Z",
+        "commit": "d065a04bc5610f496762935dee56604a78b91b51"
       }
     ],
     "webkit": [
@@ -1354,8 +1359,8 @@
     "webref": [
       {
         "version": "current",
-        "date": "2026-08-30T12:46:57Z",
-        "commit": "f3b81966c45f34f62df20e7f8d6f66d5b5ba9279"
+        "date": "2026-09-04T13:31:31Z",
+        "commit": "a327fec512d9622a9e8e911c31113ae3ca945598"
       }
     ]
   }
