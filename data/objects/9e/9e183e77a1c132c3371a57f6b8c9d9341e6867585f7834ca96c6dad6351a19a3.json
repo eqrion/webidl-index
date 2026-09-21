@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"EncoderDebugInfo","extended_attributes":[],"fields":[{"name":"encoderName","type_":"DOMString","required":false,"default":"\"\"","extended_attributes":[]}]}
