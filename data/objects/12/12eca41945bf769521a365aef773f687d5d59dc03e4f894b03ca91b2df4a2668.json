@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"UpdateElementGeometryOptions","extended_attributes":[],"fields":[{"name":"canvasTransform","type_":"DOMMatrixInit","required":false,"extended_attributes":[]},{"name":"preserveHitTestOrder","type_":"boolean","required":false,"default":"false","extended_attributes":[]}]}
