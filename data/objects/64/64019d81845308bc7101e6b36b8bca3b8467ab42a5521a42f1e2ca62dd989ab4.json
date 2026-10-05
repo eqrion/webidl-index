@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"NotificationAction","extended_attributes":[],"fields":[{"name":"action","type_":"DOMString","required":true,"extended_attributes":[]},{"name":"navigate","type_":"UTF8String","required":false,"extended_attributes":["Pref=\"dom.webnotifications.navigate.enabled\""]},{"name":"title","type_":"DOMString","required":true,"extended_attributes":[]}]}
