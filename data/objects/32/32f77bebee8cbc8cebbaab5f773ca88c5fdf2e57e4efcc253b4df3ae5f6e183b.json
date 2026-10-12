@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"GPUDrawElementImageDestination","inherits":"GPUImageCopyTextureTagged","extended_attributes":[],"fields":[{"name":"size","type_":"GPUExtent3D","required":false,"extended_attributes":[]}]}

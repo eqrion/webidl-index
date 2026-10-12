@@ -1,0 +1,1 @@
+{"kind":"interface","name":"RTCRtpSenderEncodedSourceEvent","inherits":"Event","extended_attributes":["Exposed=DedicatedWorker","RuntimeEnabled=RTCEncodedSource"],"members":[{"kind":"attribute","name":"encodedSource","type_":"RTCRtpSenderEncodedSource","arguments":[],"modifiers":["readonly"],"extended_attributes":[]}]}
