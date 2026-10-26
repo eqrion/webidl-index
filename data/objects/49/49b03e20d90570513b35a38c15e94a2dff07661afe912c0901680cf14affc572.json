@@ -1,0 +1,1 @@
+{"kind":"interface","name":"EXT_texture_mirror_clamp_to_edge","extended_attributes":["Exposed=(Window, Worker)","LegacyNoInterfaceObject"],"members":[{"kind":"const","name":"MIRROR_CLAMP_TO_EDGE_EXT","type_":"GLenum","arguments":[],"modifiers":[],"value":"0x8743","extended_attributes":[]}]}
