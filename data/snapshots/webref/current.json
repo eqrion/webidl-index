@@ -4,9 +4,9 @@
   "source": {
     "repo": "https://github.com/w3c/webref.git",
     "tag": "curated",
-    "commit": "4aa58827ee9f0d937060bff95f4fc7423133eb1e"
+    "commit": "6ac6259c96b11e0aea5c34a16822eb06add278c9"
   },
-  "date": "2026-10-26T07:13:07Z",
+  "date": "2026-10-26T19:01:33Z",
   "entries": {
     "ANGLE_instanced_arrays": "a08f62ab11a3151a5a55e0a12b6163eb62d342977ee88609e6fc6a80c80078c8",
     "AacBitstreamFormat": "36da212991f62b2ac0b784144da88b66a655a7e57830f6cb22a5e3b2cb0114e0",
@@ -1031,7 +1031,7 @@
     "HTMLMeterElement": "b1fa0bd2a57c4a7ccf4a4ee8a6a134ce28cb020602f58fc150e2ac9885923328",
     "HTMLMicrophoneElement": "bf20c6076c49d7eaa5518778d37c0caeeca0eb25db1a470734c4fd1413e543ef",
     "HTMLModElement": "10f3d7398fdd1022849e1e87048b673226dc1d328479d071d57d4ba4feebb614",
-    "HTMLModelElement": "296ee93b5309aa29fcf93eb06d5e56f0437065e96528720da608a73d961e3691",
+    "HTMLModelElement": "3594a6fe6f9a0e4d092dde16796d0d13971ef0198650cef46f5c67e5d187d85c",
     "HTMLOListElement": "f7599c00bdcd50abca2ba33df90ddb092cf757570a8c61158679624c91a4b7f4",
     "HTMLObjectElement": "9f966dacb30a15b9f70fd5f7cc95f53d5d20396092badd1d56c532a10ef54ef4",
     "HTMLOptGroupElement": "a298962ae4bd287cfecc611b6ba2bdb53bb1093306e61d6369b7ee59e71dfc65",
