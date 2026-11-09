@@ -755,6 +755,11 @@
         "version": "156",
         "date": "2026-10-19T13:07:21-07:00",
         "commit": "1d17a2e2ee147bb7d6ae2ab6abdb3a2510c17775"
+      },
+      {
+        "version": "157",
+        "date": "2026-11-02T15:22:33-08:00",
+        "commit": "a733b5afbb3ba618844ff8876b89ad1a774b2f18"
       }
     ],
     "gecko": [

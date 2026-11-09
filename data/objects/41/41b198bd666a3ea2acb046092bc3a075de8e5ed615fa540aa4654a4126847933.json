@@ -1,0 +1,1 @@
+{"kind":"enum","name":"DecisionModelQuestionType","extended_attributes":[],"values":["boolean","choice","score"]}
