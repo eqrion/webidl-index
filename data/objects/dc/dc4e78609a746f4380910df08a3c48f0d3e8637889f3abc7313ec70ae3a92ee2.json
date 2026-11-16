@@ -1,0 +1,1 @@
+{"kind":"interface","name":"Browser","extended_attributes":["Exposed=(Window, Worker)"],"members":[{"kind":"attribute","name":"alarms","type_":"Alarms","arguments":[],"modifiers":[],"extended_attributes":[]}]}

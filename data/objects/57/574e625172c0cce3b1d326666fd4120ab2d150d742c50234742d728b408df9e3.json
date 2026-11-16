@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"AutofillValueEntry","extended_attributes":[],"fields":[{"name":"field","type_":"HTMLElement","required":true,"extended_attributes":[]},{"name":"value","type_":"DOMString","required":true,"extended_attributes":[]}]}

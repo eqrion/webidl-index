@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"RTCIceCandidatePairEventInit","inherits":"EventInit","extended_attributes":[],"fields":[{"name":"candidatePair","type_":"RTCIceCandidatePair","required":true,"extended_attributes":[]}]}

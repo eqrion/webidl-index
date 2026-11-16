@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"XRHandTrackingStateInit","extended_attributes":[],"fields":[{"name":"frequencyHint","type_":"XRHandTrackingFrequencyHint","required":false,"default":"\"default\"","extended_attributes":[]}]}
