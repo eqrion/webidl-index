@@ -1,0 +1,1 @@
+{"kind":"dictionary","name":"ToolExecuteCallbackOptions","extended_attributes":[],"fields":[{"name":"invocation","type_":"ModelContextToolInvocation","required":false,"extended_attributes":["RuntimeEnabled=WebMCPContinuations"]},{"name":"signal","type_":"AbortSignal","required":true,"extended_attributes":[]}]}

@@ -760,6 +760,11 @@
         "version": "157",
         "date": "2026-11-02T15:22:33-08:00",
         "commit": "a733b5afbb3ba618844ff8876b89ad1a774b2f18"
+      },
+      {
+        "version": "158",
+        "date": "2026-11-11T13:01:38-08:00",
+        "commit": "14d6f648e8cd7ad750a4044200ce94d3321be260"
       }
     ],
     "gecko": [
@@ -1409,8 +1414,8 @@
     "webref": [
       {
         "version": "current",
-        "date": "2026-11-16T12:50:08Z",
-        "commit": "dd0f6d1735881ea896bc166fcae7925fe4e640a0"
+        "date": "2026-11-23T12:43:10Z",
+        "commit": "0ff03ac38e328076f02b277e1ab9f66cbc8e5df3"
       }
     ]
   }

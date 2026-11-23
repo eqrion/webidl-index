@@ -1,0 +1,1 @@
+{"kind":"interface","name":"ModelContextToolInvocation","extended_attributes":["Exposed=Window","RuntimeEnabled=WebMCPContinuations","SecureContext"],"members":[{"kind":"operation","name":"requestToken","type_":"Promise<DOMString>","arguments":[],"modifiers":[],"extended_attributes":["CallWith=ScriptState"]}]}
